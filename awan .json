@@ -1,9 +1,22 @@
 {
   "sessionId": "awan ",
   "createdAt": "2026-07-04T14:55:19.118Z",
-  "lastActivity": "2026-07-04T14:55:19.118Z",
-  "history": [],
+  "lastActivity": "2026-07-04T14:55:20.600Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "hallo gemini",
+      "image": null,
+      "timestamp": "2026-07-04T14:55:20.600Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Hallo! Wie kann ich Ihnen heute behilflich sein?",
+      "timestamp": "2026-07-04T14:55:20.600Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
