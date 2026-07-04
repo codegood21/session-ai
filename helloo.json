@@ -1,7 +1,7 @@
 {
   "sessionId": "helloo",
   "createdAt": "2026-07-04T14:31:38.276Z",
-  "lastActivity": "2026-07-04T14:32:30.289Z",
+  "lastActivity": "2026-07-04T14:33:26.629Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Tidak apa-apa! Presiden pertama Indonesia adalah **Ir. Soekarno**.",
       "timestamp": "2026-07-04T14:32:30.289Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "siapa jawabannya? maaf aku tadi telat baca",
+      "image": null,
+      "timestamp": "2026-07-04T14:33:26.629Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Jawabannya adalah **Ir. Soekarno**.",
+      "timestamp": "2026-07-04T14:33:26.629Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
