@@ -1,7 +1,7 @@
 {
   "sessionId": "hello",
   "createdAt": "2026-07-04T15:22:49.021Z",
-  "lastActivity": "2026-07-04T15:24:23.954Z",
+  "lastActivity": "2026-07-04T15:25:31.296Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Jawaban nomor 1 adalah **A. 30 cm**.",
       "timestamp": "2026-07-04T15:24:23.954Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "emang soal no 1 apa",
+      "image": null,
+      "timestamp": "2026-07-04T15:25:31.296Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Soal nomor 1 adalah tentang menghitung panjang sisi persegi panjang jika diketahui kelilingnya.",
+      "timestamp": "2026-07-04T15:25:31.296Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
