@@ -1,7 +1,7 @@
 {
   "sessionId": "hellooooooooooo",
   "createdAt": "2026-07-04T06:49:04.248Z",
-  "lastActivity": "2026-07-04T06:49:05.326Z",
+  "lastActivity": "2026-07-04T14:20:33.674Z",
   "history": [
     {
       "role": "user",
@@ -13,9 +13,21 @@
       "role": "assistant",
       "text": "⚠️ Please update Gemmy to the latest version from the Play Store to continue. Your current version is out of date and this feature no longer works on it.",
       "timestamp": "2026-07-04T06:49:05.326Z"
+    },
+    {
+      "role": "user",
+      "text": "hallo",
+      "image": null,
+      "timestamp": "2026-07-04T14:20:33.674Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Hallo! Wie kann ich dir helfen?",
+      "timestamp": "2026-07-04T14:20:33.674Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
