@@ -1,9 +1,22 @@
 {
   "sessionId": "awan-jembut",
   "createdAt": "2026-07-04T14:55:20.323Z",
-  "lastActivity": "2026-07-04T14:55:20.323Z",
-  "history": [],
+  "lastActivity": "2026-07-04T14:55:21.331Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "hallo gemini",
+      "image": null,
+      "timestamp": "2026-07-04T14:55:21.331Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Hallo! Wie kann ich dir heute helfen?",
+      "timestamp": "2026-07-04T14:55:21.331Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
