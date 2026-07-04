@@ -1,7 +1,7 @@
 {
   "sessionId": "22222222",
   "createdAt": "2026-07-04T18:15:50.984Z",
-  "lastActivity": "2026-07-04T18:17:43.135Z",
+  "lastActivity": "2026-07-04T18:18:11.395Z",
   "history": [
     {
       "role": "user",
@@ -74,9 +74,21 @@
       "text": "Di foto tersebut terdapat **22 soal** pilihan ganda. Soal-soal tersebut merupakan bagian dari \"Try Out Ujian Tengah Semester Ganjil Matematika Tahun Ajaran 2016/2017\".",
       "timestamp": "2026-07-04T18:17:43.135Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ada berapa soal di foto ini ",
+      "image": "https://raw.githubusercontent.com/uploader762/dat4/main/uploads/8a1586-1783175771962.jpg",
+      "timestamp": "2026-07-04T18:18:11.395Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Foto tersebut berisi **22 soal** pilihan ganda yang terbagi dalam dua kolom. Soal-soal ini merupakan bagian dari \"Try Out Ujian Tengah Semester Ganjil Matematika Tahun Ajaran 2016/2017\".",
+      "timestamp": "2026-07-04T18:18:11.395Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 12
+    "totalMessages": 14
   }
 }
