@@ -1,7 +1,7 @@
 {
   "sessionId": "28838383838",
   "createdAt": "2026-07-04T14:33:48.187Z",
-  "lastActivity": "2026-07-04T14:34:56.335Z",
+  "lastActivity": "2026-07-04T14:35:24.380Z",
   "history": [
     {
       "role": "user",
@@ -110,9 +110,21 @@
       "text": "Presiden Indonesia ke-6 adalah Susilo Bambang Yudhoyono.",
       "timestamp": "2026-07-04T14:34:56.335Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "siapa tadi jawabannya",
+      "image": null,
+      "timestamp": "2026-07-04T14:35:24.380Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tadi jawabannya adalah Susilo Bambang Yudhoyono.",
+      "timestamp": "2026-07-04T14:35:24.380Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 18
+    "totalMessages": 20
   }
 }
