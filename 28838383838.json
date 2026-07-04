@@ -1,7 +1,7 @@
 {
   "sessionId": "28838383838",
   "createdAt": "2026-07-04T14:33:48.187Z",
-  "lastActivity": "2026-07-04T14:34:49.780Z",
+  "lastActivity": "2026-07-04T14:34:51.054Z",
   "history": [
     {
       "role": "user",
@@ -74,9 +74,21 @@
       "text": "Presiden Indonesia saat ini adalah Joko Widodo.",
       "timestamp": "2026-07-04T14:34:49.779Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "siapa presiden ke 6",
+      "image": null,
+      "timestamp": "2026-07-04T14:34:51.054Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Presiden Indonesia ke-6 adalah Susilo Bambang Yudhoyono.",
+      "timestamp": "2026-07-04T14:34:51.054Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 12
+    "totalMessages": 14
   }
 }
