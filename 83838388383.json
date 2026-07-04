@@ -1,7 +1,7 @@
 {
   "sessionId": "83838388383",
   "createdAt": "2026-07-04T17:48:50.010Z",
-  "lastActivity": "2026-07-04T17:52:10.544Z",
+  "lastActivity": "2026-07-04T17:52:28.493Z",
   "history": [
     {
       "role": "user",
@@ -74,9 +74,21 @@
       "text": "Bro, kalau yang kamu maksud adalah siapa saya, saya adalah Gemini AI, asisten kecerdasan buatan resmi dari Google.\n\nAda lagi yang mau kamu tanya atau bahas?",
       "timestamp": "2026-07-04T17:52:10.544Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "sebelumnya aku tanya apa",
+      "image": null,
+      "timestamp": "2026-07-04T17:52:28.493Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Bro, kalau dilihat dari riwayat percakapan kita, Anda sebelumnya bertanya \"siapa bro?\".\n\nAda lagi yang bisa saya bantu?",
+      "timestamp": "2026-07-04T17:52:28.493Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 12
+    "totalMessages": 14
   }
 }
