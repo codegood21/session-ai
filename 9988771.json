@@ -1,7 +1,7 @@
 {
   "sessionId": "9988771",
   "createdAt": "2026-07-04T15:30:03.860Z",
-  "lastActivity": "2026-07-04T15:31:18.531Z",
+  "lastActivity": "2026-07-04T15:31:38.847Z",
   "history": [
     {
       "role": "user",
@@ -110,9 +110,21 @@
       "text": "Maaf, saya tidak memiliki akses ke riwayat percakapan sebelumnya. Bisakah Anda mengulang apa yang ingin Anda tanyakan atau diskusikan?",
       "timestamp": "2026-07-04T15:31:18.531Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "sebelumnya aku bilang apa",
+      "image": null,
+      "timestamp": "2026-07-04T15:31:38.847Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Maaf, saya tidak memiliki akses ke riwayat percakapan sebelumnya. Bisakah Anda mengulang apa yang ingin Anda tanyakan atau diskusikan?",
+      "timestamp": "2026-07-04T15:31:38.847Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 18
+    "totalMessages": 20
   }
 }
