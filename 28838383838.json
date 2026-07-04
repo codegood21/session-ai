@@ -1,7 +1,7 @@
 {
   "sessionId": "28838383838",
   "createdAt": "2026-07-04T14:33:48.187Z",
-  "lastActivity": "2026-07-04T14:34:07.381Z",
+  "lastActivity": "2026-07-04T14:34:30.858Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Hallo! Wie kann ich Ihnen heute behilflich sein?",
       "timestamp": "2026-07-04T14:34:07.380Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "gunakan bahasa indonesia",
+      "image": null,
+      "timestamp": "2026-07-04T14:34:30.857Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa menggunakan Bahasa Indonesia. Ada yang bisa saya bantu?",
+      "timestamp": "2026-07-04T14:34:30.857Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
