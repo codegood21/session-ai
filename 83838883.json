@@ -1,7 +1,7 @@
 {
   "sessionId": "83838883",
   "createdAt": "2026-07-04T17:58:01.561Z",
-  "lastActivity": "2026-07-04T17:58:02.620Z",
+  "lastActivity": "2026-07-04T17:58:09.547Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Halo juga! Ada yang bisa saya bantu hari ini?",
       "timestamp": "2026-07-04T17:58:02.620Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "sebelumnya aku tanya apa",
+      "image": null,
+      "timestamp": "2026-07-04T17:58:09.547Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Maaf, saya tidak memiliki akses ke riwayat percakapan sebelumnya. Saya adalah model bahasa besar, dan setiap interaksi dianggap baru.\n\nJadi, Anda bisa bertanya apa saja kepada saya sekarang. Ada yang ingin Anda tanyakan atau diskusikan?",
+      "timestamp": "2026-07-04T17:58:09.547Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
