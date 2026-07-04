@@ -1,7 +1,7 @@
 {
   "sessionId": "awan-jembut",
   "createdAt": "2026-07-04T14:55:20.323Z",
-  "lastActivity": "2026-07-04T14:55:30.184Z",
+  "lastActivity": "2026-07-04T14:55:39.194Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Hallo! Wie kann ich dir heute helfen?",
       "timestamp": "2026-07-04T14:55:30.184Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "tadi aku ",
+      "image": null,
+      "timestamp": "2026-07-04T14:55:39.194Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tadi kamu apa? Ceritakan lebih lanjut.",
+      "timestamp": "2026-07-04T14:55:39.194Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
