@@ -1,7 +1,7 @@
 {
   "sessionId": "helloo",
   "createdAt": "2026-07-04T14:31:38.276Z",
-  "lastActivity": "2026-07-04T14:31:40.342Z",
+  "lastActivity": "2026-07-04T14:31:56.453Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Hallo! Wie kann ich Ihnen heute behilflich sein?",
       "timestamp": "2026-07-04T14:31:40.342Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "tadi aku nyapa kamu gimana",
+      "image": null,
+      "timestamp": "2026-07-04T14:31:56.453Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tadi Anda menyapa saya dengan \"hallo gemini\".",
+      "timestamp": "2026-07-04T14:31:56.453Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
