@@ -1,7 +1,7 @@
 {
   "sessionId": "28838383838",
   "createdAt": "2026-07-04T14:33:48.187Z",
-  "lastActivity": "2026-07-04T14:37:46.159Z",
+  "lastActivity": "2026-07-04T14:37:58.825Z",
   "history": [
     {
       "role": "user",
@@ -182,9 +182,21 @@
       "text": "Ada 22 soal di foto tersebut.",
       "timestamp": "2026-07-04T14:37:46.159Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ada berapa soal di foto ini",
+      "image": null,
+      "timestamp": "2026-07-04T14:37:58.825Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Ada 22 soal di foto tersebut.",
+      "timestamp": "2026-07-04T14:37:58.825Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 30
+    "totalMessages": 32
   }
 }
