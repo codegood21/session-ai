@@ -1,7 +1,7 @@
 {
   "sessionId": "222",
   "createdAt": "2026-07-04T17:34:36.481Z",
-  "lastActivity": "2026-07-04T17:39:12.867Z",
+  "lastActivity": "2026-07-04T17:40:35.675Z",
   "history": [
     {
       "role": "user",
@@ -170,9 +170,21 @@
       "text": "Halo! Senang mendengar dari Anda lagi. Ada yang bisa saya bantu?",
       "timestamp": "2026-07-04T17:39:12.867Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "sebelumnya aku bilang apa",
+      "image": null,
+      "timestamp": "2026-07-04T17:40:35.675Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Maaf, saya tidak memiliki memori jangka panjang dari percakapan sebelumnya. Setiap sesi percakapan adalah baru bagi saya. Jadi, saya tidak bisa mengingat apa yang Anda katakan sebelumnya.\n\nApakah Anda bisa mengulanginya atau memberikan konteksnya lagi? Saya akan sangat senang membantu jika Anda memberitahukan kembali apa yang ingin Anda diskusikan.",
+      "timestamp": "2026-07-04T17:40:35.675Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 28
+    "totalMessages": 30
   }
 }
