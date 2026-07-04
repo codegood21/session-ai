@@ -1,7 +1,7 @@
 {
   "sessionId": "helloo",
   "createdAt": "2026-07-04T14:31:38.276Z",
-  "lastActivity": "2026-07-04T14:31:56.453Z",
+  "lastActivity": "2026-07-04T14:32:16.181Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Tadi Anda menyapa saya dengan \"hallo gemini\".",
       "timestamp": "2026-07-04T14:31:56.453Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "siapa presiden pertama Indonesia",
+      "image": null,
+      "timestamp": "2026-07-04T14:32:16.181Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Presiden pertama Indonesia adalah Ir. Soekarno.",
+      "timestamp": "2026-07-04T14:32:16.181Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
