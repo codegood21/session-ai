@@ -1,7 +1,7 @@
 {
   "sessionId": "helloo",
   "createdAt": "2026-07-04T14:31:38.276Z",
-  "lastActivity": "2026-07-04T14:33:26.629Z",
+  "lastActivity": "2026-07-04T14:33:39.561Z",
   "history": [
     {
       "role": "user",
@@ -62,9 +62,21 @@
       "text": "Jawabannya adalah **Ir. Soekarno**.",
       "timestamp": "2026-07-04T14:33:26.629Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "hallo",
+      "image": null,
+      "timestamp": "2026-07-04T14:33:39.560Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Ada yang bisa saya bantu?",
+      "timestamp": "2026-07-04T14:33:39.560Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 10
+    "totalMessages": 12
   }
 }
