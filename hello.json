@@ -1,7 +1,7 @@
 {
   "sessionId": "hello",
   "createdAt": "2026-07-04T15:22:49.021Z",
-  "lastActivity": "2026-07-04T15:23:54.678Z",
+  "lastActivity": "2026-07-04T15:24:23.954Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Ada 22 soal di foto ini.",
       "timestamp": "2026-07-04T15:23:54.678Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "berapa jawaban no 1",
+      "image": null,
+      "timestamp": "2026-07-04T15:24:23.954Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Jawaban nomor 1 adalah **A. 30 cm**.",
+      "timestamp": "2026-07-04T15:24:23.954Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
