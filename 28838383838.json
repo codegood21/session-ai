@@ -1,7 +1,7 @@
 {
   "sessionId": "28838383838",
   "createdAt": "2026-07-04T14:33:48.187Z",
-  "lastActivity": "2026-07-04T14:35:25.647Z",
+  "lastActivity": "2026-07-04T14:37:19.012Z",
   "history": [
     {
       "role": "user",
@@ -122,9 +122,21 @@
       "text": "Tadi jawabannya adalah **Susilo Bambang Yudhoyono**.",
       "timestamp": "2026-07-04T14:35:25.647Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Jelaskan",
+      "image": null,
+      "timestamp": "2026-07-04T14:37:19.012Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Susilo Bambang Yudhoyono (SBY) adalah Presiden Indonesia ke-6. Beliau menjabat selama dua periode, dari tahun 2004 hingga 2014.",
+      "timestamp": "2026-07-04T14:37:19.012Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 20
+    "totalMessages": 22
   }
 }
