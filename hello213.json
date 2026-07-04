@@ -1,7 +1,7 @@
 {
   "sessionId": "hello213",
   "createdAt": "2026-07-04T17:24:25.488Z",
-  "lastActivity": "2026-07-04T17:24:46.024Z",
+  "lastActivity": "2026-07-04T17:25:09.480Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Berdasarkan foto yang diberikan, terdapat total **22 soal**.",
       "timestamp": "2026-07-04T17:24:46.024Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "jawaban nomor 20 apa",
+      "image": null,
+      "timestamp": "2026-07-04T17:25:09.480Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Mari kita hitung jawaban untuk soal nomor 20:\n\n**Soal No. 20:**\nPak Rio berangkat ke kantor dengan mengendarai motor. Kecepatan motor Pak Rio adalah 60 km/jam. Pak Rio sampai ke kantor dalam waktu 30 menit. Jarak kantor Pak Rio adalah ....\n\n**Diketahui:**\n*   Kecepatan (v) = 60 km/jam\n*   Waktu (t) = 30 menit\n\n**Ditanya:**\n*   Jarak (s) = ?\n\n**Langkah-langkah:**\n\n1.  **Ubah satuan waktu ke jam:**\n    Karena kecepatan dalam km/jam, maka waktu juga harus dalam jam.\n    30 menit = 30/60 jam = 0,5 jam\n\n2.  **Gunakan rumus jarak:**\n    Rumus jarak adalah: Jarak = Kecepatan x Waktu (s = v x t)\n\n3.  **Hitung jarak:**\n    s = 60 km/jam * 0,5 jam\n    s = 30 km\n\n**Jawaban:**\nJadi, jarak kantor Pak Rio adalah **30 km**. Pilihan yang benar adalah **b**.",
+      "timestamp": "2026-07-04T17:25:09.480Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
