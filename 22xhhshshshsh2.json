@@ -1,7 +1,7 @@
 {
   "sessionId": "22xhhshshshsh2",
   "createdAt": "2026-07-04T18:11:57.936Z",
-  "lastActivity": "2026-07-04T18:12:49.728Z",
+  "lastActivity": "2026-07-04T18:14:11.231Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Sebelumnya, kamu menyapa saya dengan ucapan \"halo\".",
       "timestamp": "2026-07-04T18:12:49.728Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ada berapa soal di foto ini",
+      "image": "https://raw.githubusercontent.com/uploader762/dat4/main/uploads/8a1586-1783175771962.jpg",
+      "timestamp": "2026-07-04T18:14:11.231Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Dalam foto yang kamu berikan, terdapat 22 soal pilihan ganda. Soal-soal ini terbagi menjadi dua kolom, dengan nomor 1 sampai 13 di kolom sebelah kiri, dan nomor 14 sampai 22 di kolom sebelah kanan.",
+      "timestamp": "2026-07-04T18:14:11.231Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
