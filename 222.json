@@ -1,7 +1,7 @@
 {
   "sessionId": "222",
   "createdAt": "2026-07-04T17:34:36.481Z",
-  "lastActivity": "2026-07-04T17:41:04.428Z",
+  "lastActivity": "2026-07-04T17:41:37.285Z",
   "history": [
     {
       "role": "user",
@@ -230,9 +230,21 @@
       "text": "Maaf, saya tidak memiliki memori percakapan sebelumnya. Setiap interaksi kita dimulai dari awal.\n\nApakah Anda bisa mengulanginya atau memberi tahu saya apa yang ingin Anda tanyakan atau diskusikan sekarang? Saya siap membantu! 😊",
       "timestamp": "2026-07-04T17:41:04.428Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "siapakah presiden ke 2 Indonesia",
+      "image": null,
+      "timestamp": "2026-07-04T17:41:37.285Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Presiden kedua Indonesia adalah **Soeharto**.",
+      "timestamp": "2026-07-04T17:41:37.285Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 38
+    "totalMessages": 40
   }
 }
