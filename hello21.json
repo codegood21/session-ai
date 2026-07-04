@@ -1,7 +1,7 @@
 {
   "sessionId": "hello21",
   "createdAt": "2026-07-04T15:40:20.373Z",
-  "lastActivity": "2026-07-04T16:49:00.739Z",
+  "lastActivity": "2026-07-04T16:50:37.122Z",
   "history": [
     {
       "role": "user",
@@ -170,9 +170,21 @@
       "text": "Foto ini berisi total **22 soal**.",
       "timestamp": "2026-07-04T16:49:00.739Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ada berapa soal di foto ini",
+      "image": "https://raw.githubusercontent.com/uploader762/dat4/main/uploads/8a1586-1783175771962.jpg",
+      "timestamp": "2026-07-04T16:50:37.122Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Foto ini berisi total **22 soal**.",
+      "timestamp": "2026-07-04T16:50:37.122Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 28
+    "totalMessages": 30
   }
 }
