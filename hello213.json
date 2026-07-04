@@ -1,7 +1,7 @@
 {
   "sessionId": "hello213",
   "createdAt": "2026-07-04T17:24:25.488Z",
-  "lastActivity": "2026-07-04T17:26:21.777Z",
+  "lastActivity": "2026-07-04T17:27:19.971Z",
   "history": [
     {
       "role": "user",
@@ -62,9 +62,21 @@
       "text": "Saya adalah Gemini AI, sebuah kecerdasan buatan yang dikembangkan oleh Google.",
       "timestamp": "2026-07-04T17:26:21.777Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "kamu siapa",
+      "image": null,
+      "timestamp": "2026-07-04T17:27:19.971Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya adalah Gemini AI, sebuah kecerdasan buatan yang dikembangkan oleh Google.",
+      "timestamp": "2026-07-04T17:27:19.971Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 10
+    "totalMessages": 12
   }
 }
