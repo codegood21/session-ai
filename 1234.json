@@ -1,7 +1,7 @@
 {
   "sessionId": "1234",
   "createdAt": "2026-07-05T10:21:29.982Z",
-  "lastActivity": "2026-07-05T10:27:20.626Z",
+  "lastActivity": "2026-07-05T10:27:23.434Z",
   "history": [
     {
       "role": "user",
@@ -86,9 +86,21 @@
       "text": "Claro! Nossa conversa até agora foi bem curta. Eu perguntei como você estava e você respondeu que estava tudo ótimo, assim como eu. Depois, você me perguntou o que tinha na imagem, e eu descrevi o personagem de anime com cabelos brancos e olhos vermelhos, a roupa que ele usa e o cenário ao redor.",
       "timestamp": "2026-07-05T10:27:20.626Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Resuma nossa conversa",
+      "image": null,
+      "timestamp": "2026-07-05T10:27:23.434Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Claro! Nossa conversa até agora foi bem curta. Eu perguntei como você estava e você respondeu que estava tudo ótimo, assim como eu. Depois, você me perguntou o que tinha na imagem, e eu descrevi o personagem de anime com cabelos brancos e olhos vermelhos, a roupa que ele usa e o cenário ao redor.",
+      "timestamp": "2026-07-05T10:27:23.434Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 14
+    "totalMessages": 16
   }
 }
