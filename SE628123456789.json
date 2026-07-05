@@ -1,7 +1,7 @@
 {
   "sessionId": "SE628123456789",
   "createdAt": "2026-07-05T03:48:05.708Z",
-  "lastActivity": "2026-07-05T03:48:07.013Z",
+  "lastActivity": "2026-07-05T03:48:12.050Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Tentu, ini dia 3 warna dalam Bahasa Inggris:\n\n1.  **Red** (Merah)\n2.  **Blue** (Biru)\n3.  **Green** (Hijau)",
       "timestamp": "2026-07-05T03:48:07.013Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "sebutkan 3 warna dalam bahasa inggris",
+      "image": null,
+      "timestamp": "2026-07-05T03:48:12.050Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, ini dia 3 warna dalam Bahasa Inggris:\n\n1.  **Red** (Merah)\n2.  **Blue** (Biru)\n3.  **Green** (Hijau)",
+      "timestamp": "2026-07-05T03:48:12.050Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
