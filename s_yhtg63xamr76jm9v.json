@@ -1,7 +1,7 @@
 {
   "sessionId": "s_yhtg63xamr76jm9v",
   "createdAt": "2026-07-05T02:36:37.392Z",
-  "lastActivity": "2026-07-05T02:36:38.716Z",
+  "lastActivity": "2026-07-05T02:37:24.178Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Halo juga! Ada yang bisa saya bantu?",
       "timestamp": "2026-07-05T02:36:38.716Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ni apa",
+      "image": null,
+      "timestamp": "2026-07-05T02:37:24.178Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu jelaskan. Mohon unggah gambar yang ingin Anda tanyakan. Setelah itu, saya akan menganalisisnya dan memberikan penjelasan mengenai apa yang ada di dalamnya.",
+      "timestamp": "2026-07-05T02:37:24.178Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
