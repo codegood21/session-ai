@@ -1,9 +1,22 @@
 {
   "sessionId": "6",
   "createdAt": "2026-07-05T14:17:35.320Z",
-  "lastActivity": "2026-07-05T14:17:35.320Z",
-  "history": [],
+  "lastActivity": "2026-07-05T14:17:44.889Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ini apa?",
+      "image": "https://u.pone.rs/pflxzzpp.jpg",
+      "timestamp": "2026-07-05T14:17:44.889Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan detail pesanan pengiriman yang sedang diproses. Terlihat ada nomor pelacakan \"JY1067082853\" di bagian atas, dan di bawahnya ada beberapa opsi kategori pengiriman, yaitu \"Sedang Delivery(1)\" yang sedang aktif.\n\nDi bawah kategori pengiriman, ada pilihan untuk menyortir berdasarkan \"Kode ke-4\" atau \"Nama Lain\", dan \"Nama Lain\" yang dipilih, serta tombol \"Filter\". Terdapat juga opsi rentang waktu pengiriman \"3 hari terdekat\" dan \"7 hari terdekat\".\n\nDetail pesanan yang ditampilkan meliputi:\n*   **Nama Penerima**: Ary Febryantie\n*   **Metode Pembayaran**: COD (Cash on Delivery)\n*   **Waktu Delivery**: 2026-07-05 15:17:14\n*   **Nomor HP Penerima**: Nomor tersembunyi dengan empat digit terakhir 2353\n*   **Alamat Penerima**: Kampung Ceger Musholla SEPATAN TIMUR\n\nDi bagian bawah detail alamat, terdapat ikon lokasi, telepon, dan ikon lainnya yang kemungkinan berfungsi sebagai tombol aksi terkait pesanan tersebut, seperti melihat lokasi, menghubungi penerima, atau menandai pesanan. Terdapat juga ikon WhatsApp di pojok kanan bawah.\n\nSecara keseluruhan, ini adalah tampilan antarmuka aplikasi atau situs web yang menunjukkan status dan detail pengiriman barang.",
+      "timestamp": "2026-07-05T14:17:44.889Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
