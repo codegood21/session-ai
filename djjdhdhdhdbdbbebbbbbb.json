@@ -1,7 +1,7 @@
 {
   "sessionId": "djjdhdhdhdbdbbebbbbbb",
   "createdAt": "2026-07-05T02:42:05.529Z",
-  "lastActivity": "2026-07-05T02:48:45.851Z",
+  "lastActivity": "2026-07-05T02:48:48.345Z",
   "history": [
     {
       "role": "user",
@@ -194,9 +194,21 @@
       "text": "Maaf, saya kurang paham maksud Anda dengan \"beliauj\". Apakah ada kesalahan ketik atau Anda ingin menanyakan sesuatu yang lain?\n\nJika Anda masih merujuk pada pertanyaan sebelumnya tentang Joko Widodo, dan Anda ingin tahu tanggal spesifik terkait beliau, mohon sebutkan tanggal apa yang Anda maksud (misalnya: tanggal lahir, tanggal pelantikan, dll.).",
       "timestamp": "2026-07-05T02:48:45.851Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "tanggal berapakah beliau lahir",
+      "image": null,
+      "timestamp": "2026-07-05T02:48:48.345Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Joko Widodo lahir pada tanggal **21 Juni 1961**.",
+      "timestamp": "2026-07-05T02:48:48.345Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 32
+    "totalMessages": 34
   }
 }
