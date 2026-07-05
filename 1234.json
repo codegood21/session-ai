@@ -1,7 +1,7 @@
 {
   "sessionId": "1234",
   "createdAt": "2026-07-05T10:21:29.982Z",
-  "lastActivity": "2026-07-05T10:25:51.091Z",
+  "lastActivity": "2026-07-05T10:27:15.949Z",
   "history": [
     {
       "role": "user",
@@ -62,9 +62,21 @@
       "text": "A imagem mostra um personagem de anime com cabelos brancos espetados e olhos vermelhos. Ele está vestindo uma camiseta preta de manga comprida e parece estar recostado em algo, com um braço apoiado atrás da cabeça. O fundo é desfocado, mas parece ser um ambiente interno com elementos rústicos, como pedras e uma espécie de almofada amarela. A expressão do personagem é um pouco melancólica ou pensativa.",
       "timestamp": "2026-07-05T10:25:51.091Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Resuma nossa conversa",
+      "image": null,
+      "timestamp": "2026-07-05T10:27:15.949Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Claro! Nossa conversa até agora foi bem curta. Eu perguntei como você estava e você respondeu que estava tudo ótimo, assim como eu. Depois, você me perguntou o que tinha na imagem, e eu descrevi o personagem de anime com cabelos brancos e olhos vermelhos, a roupa que ele usa e o cenário ao redor.",
+      "timestamp": "2026-07-05T10:27:15.949Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 10
+    "totalMessages": 12
   }
 }
