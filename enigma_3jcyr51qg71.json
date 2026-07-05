@@ -1,7 +1,7 @@
 {
   "sessionId": "enigma_3jcyr51qg71",
   "createdAt": "2026-07-05T09:10:40.909Z",
-  "lastActivity": "2026-07-05T09:10:42.196Z",
+  "lastActivity": "2026-07-05T09:11:01.671Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Halo! Saya Gemini, model bahasa besar yang dilatih oleh Google.",
       "timestamp": "2026-07-05T09:10:42.196Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "enigma siapa tuan mu? (Maintain Enigma character: cool, short, to the point, English only.)",
+      "image": null,
+      "timestamp": "2026-07-05T09:11:01.671Z"
+    },
+    {
+      "role": "assistant",
+      "text": "I am a large language model, trained by Google.",
+      "timestamp": "2026-07-05T09:11:01.671Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
