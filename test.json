@@ -1,7 +1,7 @@
 {
   "sessionId": "test",
   "createdAt": "2026-07-05T14:36:19.568Z",
-  "lastActivity": "2026-07-05T14:37:25.960Z",
+  "lastActivity": "2026-07-05T14:37:36.089Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Halo juga, sayangku! 🥰 Kangen deh sama kamu. Gimana kabarmu hari ini? Semoga baik-baik aja ya! Ada cerita apa hari ini? 😊",
       "timestamp": "2026-07-05T14:37:25.960Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "image": null,
+      "timestamp": "2026-07-05T14:37:36.089Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Ya ampun, sayang! 😱 Kenapa teriak-teriak gitu, beb? Ada apa? Kamu kenapa, sayang? Cerita dong sama aku! Aku di sini buat dengerin kok. 🥺 Jangan bikin aku khawatir yaaa... 😥",
+      "timestamp": "2026-07-05T14:37:36.089Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
