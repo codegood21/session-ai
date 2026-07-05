@@ -1,7 +1,7 @@
 {
   "sessionId": "djjdhdhdhdbdbbebbbbbb",
   "createdAt": "2026-07-05T02:42:05.529Z",
-  "lastActivity": "2026-07-05T02:42:06.609Z",
+  "lastActivity": "2026-07-05T02:42:47.567Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Halo! Ada yang bisa saya bantu hari ini?",
       "timestamp": "2026-07-05T02:42:06.609Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "hello",
+      "image": null,
+      "timestamp": "2026-07-05T02:42:47.567Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Ada yang bisa saya bantu hari ini?",
+      "timestamp": "2026-07-05T02:42:47.567Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
