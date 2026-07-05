@@ -1,7 +1,7 @@
 {
   "sessionId": "8302651892",
   "createdAt": "2026-07-05T15:11:58.922Z",
-  "lastActivity": "2026-07-05T15:42:36.862Z",
+  "lastActivity": "2026-07-05T15:43:11.434Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Halo! Ada yang bisa saya bantu hari ini?",
       "timestamp": "2026-07-05T15:42:36.862Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "mobil bukan pesawat",
+      "image": null,
+      "timestamp": "2026-07-05T15:43:11.434Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja, mobil bukan pesawat. Mobil adalah kendaraan darat yang beroda empat, sedangkan pesawat adalah kendaraan udara yang memiliki sayap dan mesin untuk terbang. Keduanya memiliki fungsi dan cara kerja yang sangat berbeda.",
+      "timestamp": "2026-07-05T15:43:11.434Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
