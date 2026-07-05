@@ -1,7 +1,7 @@
 {
   "sessionId": "session-mr7npm7x",
   "createdAt": "2026-07-05T10:37:30.819Z",
-  "lastActivity": "2026-07-05T10:38:08.921Z",
+  "lastActivity": "2026-07-05T10:38:27.453Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Okay, I can speak English. What would you like to talk about?",
       "timestamp": "2026-07-05T10:38:08.921Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "You can tolk sinhala",
+      "image": null,
+      "timestamp": "2026-07-05T10:38:27.453Z"
+    },
+    {
+      "role": "assistant",
+      "text": "I'm sorry, but I cannot speak Sinhala. I can communicate in English and Indonesian.",
+      "timestamp": "2026-07-05T10:38:27.453Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
