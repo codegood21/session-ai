@@ -1,7 +1,7 @@
 {
   "sessionId": "120363426267721363gus",
   "createdAt": "2026-07-05T11:51:24.896Z",
-  "lastActivity": "2026-07-05T11:54:47.704Z",
+  "lastActivity": "2026-07-05T11:55:12.870Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Halo Hexa! Senang bisa ngobrol denganmu. Ada yang bisa saya bantu?",
       "timestamp": "2026-07-05T11:54:47.704Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "[Dari Hexa]: markdwons all\n(Note: Jangan bahas ingatan grup kecuali ditanya. Wajib gunakan format teks WhatsApp: *tebal*, _miring_, ~coret~, ```code```. JANGAN gunakan markdown standar seperti **tebal**. Jawab natural.)",
+      "image": null,
+      "timestamp": "2026-07-05T11:55:12.870Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Oke, Hexa! Jadi, kamu mau saya contohkan penggunaan format teks WhatsApp itu ya?\n\nIni dia:\n\n*Ini contoh teks tebal.*\n_Ini contoh teks miring._\n~Ini contoh teks dicoret.~\n```Ini contoh teks dalam format kode.```\n\nGimana, sudah cukup jelas?",
+      "timestamp": "2026-07-05T11:55:12.870Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
