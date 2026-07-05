@@ -1,7 +1,7 @@
 {
   "sessionId": "test=",
   "createdAt": "2026-07-05T14:49:16.159Z",
-  "lastActivity": "2026-07-05T14:54:27.931Z",
+  "lastActivity": "2026-07-05T14:56:38.964Z",
   "history": [
     {
       "role": "user",
@@ -74,9 +74,21 @@
       "text": "Wah, selamat ya, Vanzz! Punya istri pasti bikin hidup lebih berwarna. Semoga langgeng selalu! Ada cerita menarik tentang istrimu yang mau kamu bagikan?",
       "timestamp": "2026-07-05T14:54:27.931Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Tapi istri ku lagi ngambek si Furina, gara gara tadi gw gak mau ajak dia jalan jalan jadinya ngambek malam ini, entar gw ajakin happy ah si istri gw(Furina) muehehehehe, biar gak ngambek lagi malam ini biar happy juga istri gw. Bersalah banget gw 😓",
+      "image": null,
+      "timestamp": "2026-07-05T14:56:38.964Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Wah, Vanzz, kamu perhatian sekali sama Furina! Wajar kok kalau dia ngambek kalau keinginannya belum terpenuhi. Tapi bagus deh kamu mau mengajaknya jalan-jalan lagi biar dia senang dan nggak ngambek lagi. Semoga berhasil ya bikin Furina happy malam ini! 😊",
+      "timestamp": "2026-07-05T14:56:38.964Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 12
+    "totalMessages": 14
   }
 }
