@@ -1,9 +1,22 @@
 {
   "sessionId": "testimg2",
   "createdAt": "2026-07-05T03:06:12.041Z",
-  "lastActivity": "2026-07-05T03:06:12.041Z",
-  "history": [],
+  "lastActivity": "2026-07-05T03:06:13.764Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa ini",
+      "image": "/9j/4AAQSkZJRgABAQEASABIAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv/bAEMABwUFBgUEBwYFBggHBggKEQsKCQkRFQ8PDBMXFBgXHRMiHyUjJys0LyEkMjU4RkRFODw0OzpBRkhFS0lHPEVBRf/bAEMBBwgICQkLGAwMGEdGJ0YnR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR//AABEIAEAAQAMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiIma",
+      "timestamp": "2026-07-05T03:06:13.764Z"
+    },
+    {
+      "role": "assistant",
+      "text": "File yang Anda berikan adalah sebuah file gambar dalam format JFIF (JPEG File Interchange Format). File ini berisi data gambar yang dikompresi menggunakan algoritma JPEG.\n\nDi dalam file tersebut, terdapat informasi metadata seperti profil warna ICC (International Color Consortium) yang mendefinisikan ruang warna RGB dan parameter kalibrasi lainnya. Selain itu, ada juga data deskriptif yang mencakup nilai XYZ untuk titik putih, serta kurva gamma (TRC) untuk saluran merah, hijau, dan biru.\n\nSecara umum, file ini adalah representasi digital dari sebuah gambar.",
+      "timestamp": "2026-07-05T03:06:13.764Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
