@@ -1,7 +1,7 @@
 {
   "sessionId": "session-mr7npm7x",
   "createdAt": "2026-07-05T10:37:30.819Z",
-  "lastActivity": "2026-07-05T10:37:41.085Z",
+  "lastActivity": "2026-07-05T10:37:56.419Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Nama saya Gemini.",
       "timestamp": "2026-07-05T10:37:41.085Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "You can tolk english",
+      "image": null,
+      "timestamp": "2026-07-05T10:37:56.418Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, I can communicate in English. How can I help you today?",
+      "timestamp": "2026-07-05T10:37:56.418Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
