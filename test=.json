@@ -1,7 +1,7 @@
 {
   "sessionId": "test=",
   "createdAt": "2026-07-05T14:49:16.159Z",
-  "lastActivity": "2026-07-05T14:50:28.458Z",
+  "lastActivity": "2026-07-05T14:54:27.931Z",
   "history": [
     {
       "role": "user",
@@ -62,9 +62,21 @@
       "text": "Wah, ini tebak-tebakan ya? Hmm, kalau dilihat dari percakapan kita sebelumnya, kamu pernah bilang namamu Vanzz. Benar kan? 😊",
       "timestamp": "2026-07-05T14:50:28.458Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Oke btw gw juga punya istri loh🤭",
+      "image": null,
+      "timestamp": "2026-07-05T14:54:27.931Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Wah, selamat ya, Vanzz! Punya istri pasti bikin hidup lebih berwarna. Semoga langgeng selalu! Ada cerita menarik tentang istrimu yang mau kamu bagikan?",
+      "timestamp": "2026-07-05T14:54:27.931Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 10
+    "totalMessages": 12
   }
 }
