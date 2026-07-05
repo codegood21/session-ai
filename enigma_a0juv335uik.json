@@ -1,9 +1,22 @@
 {
   "sessionId": "enigma_a0juv335uik",
   "createdAt": "2026-07-05T06:46:49.592Z",
-  "lastActivity": "2026-07-05T06:46:49.592Z",
-  "history": [],
+  "lastActivity": "2026-07-05T06:47:19.777Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "can speak japanese? (Maintain Enigma character: cool, short, to the point, English only.)",
+      "image": null,
+      "timestamp": "2026-07-05T06:47:19.777Z"
+    },
+    {
+      "role": "assistant",
+      "text": "I can process and generate text in multiple languages, including Japanese.",
+      "timestamp": "2026-07-05T06:47:19.777Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
