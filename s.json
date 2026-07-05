@@ -1,7 +1,7 @@
 {
   "sessionId": "s",
   "createdAt": "2026-07-05T02:24:50.624Z",
-  "lastActivity": "2026-07-05T02:24:51.888Z",
+  "lastActivity": "2026-07-05T02:25:01.165Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Halo! Ada yang bisa saya bantu?",
       "timestamp": "2026-07-05T02:24:51.888Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "aku barusan bilang apa",
+      "image": null,
+      "timestamp": "2026-07-05T02:25:01.165Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Anda baru saja menyapa saya dengan mengatakan \"hi\".",
+      "timestamp": "2026-07-05T02:25:01.165Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
