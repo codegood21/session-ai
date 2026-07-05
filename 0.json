@@ -1,9 +1,22 @@
 {
   "sessionId": "0",
   "createdAt": "2026-07-05T14:17:35.714Z",
-  "lastActivity": "2026-07-05T14:17:35.714Z",
-  "history": [],
+  "lastActivity": "2026-07-05T14:17:39.745Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ini apa?",
+      "image": "https://u.pone.rs/pflxzzpp.jpg",
+      "timestamp": "2026-07-05T14:17:39.745Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menunjukkan tampilan antarmuka aplikasi pengiriman barang. Di bagian atas, terdapat informasi waktu, status koneksi, dan notifikasi. Terdapat juga bilah pencarian dengan nomor resi \"JY1067082853\".\n\nDi bawah bilah pencarian, terdapat beberapa kategori pengiriman, yaitu \"tunggu Delivery\", \"Sedang Delivery(1)\", dan \"Sudah Bayar\". Kategori \"Sedang Delivery(1)\" sedang aktif, ditandai dengan garis merah di bawahnya dan angka \"(1)\" yang menunjukkan ada satu pesanan yang sedang dalam proses pengiriman.\n\nSelanjutnya, terdapat opsi penyortiran berdasarkan \"Kode ke-4\" dan \"Nama Lain\". Opsi \"Nama Lain\" dipilih dan ditandai dengan centang merah. Ada juga tombol \"Filter\".\n\nDi bawahnya, terdapat informasi detail pesanan yang sedang dikirim. Terdapat nomor urut pesanan \"1\" di sebelah kiri. Nama penerima adalah \"Ary Febryantie\". Terdapat ikon \"COD\" yang menandakan metode pembayaran Cash On Delivery. Ada juga opsi untuk menambah keterangan pelanggan.\n\nInformasi penting lainnya meliputi:\n*   **Waktu Delivery**: 2026-07-05 15:17:14\n*   **No. Hp Penerima**: Nomor telepon penerima disamarkan dengan tanda bintang, hanya terlihat empat digit terakhir \"2353\".\n*   **Alamat Penerima**: Kampung Ceger Musholla SEPATAN TIMUR.\n\nDi bagian bawah informasi pesanan, terdapat ikon-ikon yang kemungkinan berfungsi untuk melihat lokasi di peta, menghubungi penerima melalui telepon, atau mengirim pesan.\n\nSecara keseluruhan, ini adalah tampilan status pesanan yang sedang dalam proses pengiriman, lengkap dengan detail penerima dan perkiraan waktu pengiriman.",
+      "timestamp": "2026-07-05T14:17:39.745Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
