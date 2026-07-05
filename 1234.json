@@ -1,7 +1,7 @@
 {
   "sessionId": "1234",
   "createdAt": "2026-07-05T10:21:29.982Z",
-  "lastActivity": "2026-07-05T10:24:52.454Z",
+  "lastActivity": "2026-07-05T10:24:54.439Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Tudo ótimo por aqui! E com você? Em que posso ajudar hoje?",
       "timestamp": "2026-07-05T10:24:52.454Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Oi  tudo certo?",
+      "image": null,
+      "timestamp": "2026-07-05T10:24:54.439Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tudo ótimo por aqui! E com você? Em que posso ajudar hoje?",
+      "timestamp": "2026-07-05T10:24:54.439Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
