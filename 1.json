@@ -1,7 +1,7 @@
 {
   "sessionId": "1",
   "createdAt": "2026-07-05T05:37:56.966Z",
-  "lastActivity": "2026-07-05T14:10:23.894Z",
+  "lastActivity": "2026-07-05T14:10:31.787Z",
   "history": [
     {
       "role": "user",
@@ -122,9 +122,21 @@
       "text": "Sebelumnya, Anda bertanya \"que modelo de gemini eres\" (model Gemini mana Anda) dan saya menjawab bahwa saya adalah model bahasa besar yang dilatih oleh Google.",
       "timestamp": "2026-07-05T14:10:23.894Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "que te pregunte antes",
+      "image": null,
+      "timestamp": "2026-07-05T14:10:31.787Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Sebelumnya, Anda bertanya \"que modelo de gemini eres\" (model Gemini mana Anda) dan saya menjawab bahwa saya adalah model bahasa besar yang dilatih oleh Google.",
+      "timestamp": "2026-07-05T14:10:31.787Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 20
+    "totalMessages": 22
   }
 }
