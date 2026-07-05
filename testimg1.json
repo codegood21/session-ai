@@ -1,9 +1,22 @@
 {
   "sessionId": "testimg1",
   "createdAt": "2026-07-05T03:02:20.157Z",
-  "lastActivity": "2026-07-05T03:02:20.157Z",
-  "history": [],
+  "lastActivity": "2026-07-05T03:02:44.301Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa ini",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
+      "timestamp": "2026-07-05T03:02:44.301Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan sebuah foto close-up dari **sebuah naskah kuno yang ditulis tangan**.\n\nBeberapa elemen penting yang terlihat adalah:\n\n*   **Tinta dan Kertas:** Tinta yang digunakan tampak berwarna gelap, kemungkinan hitam atau coklat tua, dan kertasnya terlihat tua, mungkin sedikit menguning atau memiliki tekstur yang khas dari kertas zaman dahulu.\n*   **Tulisan Tangan:** Tulisannya sangat detail dan terukir rapi, menunjukkan gaya kaligrafi atau penulisan tangan yang khas dari masa lalu. Terlihat ada garis-garis halus dan lengkungan yang indah.\n*   **Konteks Sejarah:** Meskipun tidak ada teks yang dapat dibaca dengan jelas dari gambar, jenis tulisan dan bahan yang digunakan sangat mengindikasikan bahwa ini adalah sebuah dokumen bersejarah, bisa jadi manuskrip, surat kuno, atau catatan penting dari masa lalu.\n*   **Detail Tekstur:** Terlihat jelas tekstur dari serat kertas dan juga bagaimana tinta meresap ke dalamnya.\n\nSecara keseluruhan, foto ini menangkap keindahan dan detail dari sebuah artefak tulisan tangan yang memiliki nilai sejarah.",
+      "timestamp": "2026-07-05T03:02:44.301Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
