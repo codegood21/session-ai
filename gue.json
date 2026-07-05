@@ -1,7 +1,7 @@
 {
   "sessionId": "gue",
   "createdAt": "2026-07-05T05:21:47.374Z",
-  "lastActivity": "2026-07-05T05:22:05.455Z",
+  "lastActivity": "2026-07-05T05:22:21.470Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Saya adalah model bahasa besar, yang dilatih oleh Google.",
       "timestamp": "2026-07-05T05:22:05.455Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "aku zane",
+      "image": null,
+      "timestamp": "2026-07-05T05:22:21.470Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo Zane! Senang berkenalan denganmu. Ada yang bisa saya bantu hari ini?",
+      "timestamp": "2026-07-05T05:22:21.470Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
