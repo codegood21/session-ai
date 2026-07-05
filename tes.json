@@ -1,9 +1,22 @@
 {
   "sessionId": "tes",
   "createdAt": "2026-07-05T14:22:57.568Z",
-  "lastActivity": "2026-07-05T14:22:57.568Z",
-  "history": [],
+  "lastActivity": "2026-07-05T14:22:59.215Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ini",
+      "image": null,
+      "timestamp": "2026-07-05T14:22:59.215Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Gambar yang kamu kirimkan menampilkan sebuah foto **seekor kucing berwarna abu-abu dengan belang putih di dadanya, sedang duduk di atas permukaan yang terlihat seperti karpet berwarna krem atau coklat muda.**\n\nKucing tersebut memiliki bulu yang terlihat rapi dan terawat, matanya berwarna kuning kecoklatan dan terlihat fokus ke arah depan. Telinganya tegak dan posisi duduknya santai.\n\nApakah ada yang ingin kamu tanyakan tentang kucing ini atau gambar ini?",
+      "timestamp": "2026-07-05T14:22:59.215Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
