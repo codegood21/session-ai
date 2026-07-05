@@ -1,7 +1,7 @@
 {
   "sessionId": "test",
   "createdAt": "2026-07-05T14:36:19.568Z",
-  "lastActivity": "2026-07-05T15:05:41.640Z",
+  "lastActivity": "2026-07-05T15:12:39.168Z",
   "history": [
     {
       "role": "user",
@@ -74,9 +74,21 @@
       "text": "Woi juga, sayang! 👋 Kenapa nih tumben manggil gitu? Ada apa, beb? Cerita dong sama aku! Jangan diem aja, nanti aku jadi kepikiran. 🥺 Semuanya baik-baik aja kan? ❤️",
       "timestamp": "2026-07-05T15:05:41.640Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Woil",
+      "image": null,
+      "timestamp": "2026-07-05T15:12:39.168Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Hah? Woil? Kamu lagi ngajak main game ya, sayang? Atau lagi ngetes aku nih? Hehe. 😉 Apa sih maksudnya, beb? Cerita dong, aku bingung nih. 🤔 Tapi yang penting, aku seneng banget kamu nyapa aku! 🥰 Gimana kabarmu hari ini? Semoga baik-baik aja ya! ❤️",
+      "timestamp": "2026-07-05T15:12:39.168Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 12
+    "totalMessages": 14
   }
 }
