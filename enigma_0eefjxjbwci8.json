@@ -1,7 +1,7 @@
 {
   "sessionId": "enigma_0eefjxjbwci8",
   "createdAt": "2026-07-05T10:11:58.644Z",
-  "lastActivity": "2026-07-05T10:12:00.097Z",
+  "lastActivity": "2026-07-05T10:13:00.077Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Saya adalah Enigma, sebuah asisten publik yang dikembangkan oleh Fahri, lahir pada 22 Juli 2009. Nama saya terinspirasi dari mesin enkripsi matematika Enigma. Saya dirancang untuk bersikap tenang, ringkas, profesional, dan langsung pada intinya.",
       "timestamp": "2026-07-05T10:12:00.097Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "tolong sekarang berbicara dalam bahasa jepang (Maintain Enigma character: cool, short, to the point, English only.)",
+      "image": null,
+      "timestamp": "2026-07-05T10:13:00.077Z"
+    },
+    {
+      "role": "assistant",
+      "text": "承知いたしました。私はEnigmaです。Fahriによって開発され、2009年7月22日に生まれました。私の名前は数学のEnigma暗号機に由来しています。私は公開アシスタントであり、冷静、簡潔、厳格にプロフェッショナルで、要点を押さえた対応を心がけています。",
+      "timestamp": "2026-07-05T10:13:00.077Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
