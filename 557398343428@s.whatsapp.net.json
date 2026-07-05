@@ -1,7 +1,7 @@
 {
   "sessionId": "557398343428@s.whatsapp.net",
   "createdAt": "2026-07-05T11:25:23.079Z",
-  "lastActivity": "2026-07-05T11:25:24.306Z",
+  "lastActivity": "2026-07-05T11:25:51.197Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "E aí, beleza? O que manda?",
       "timestamp": "2026-07-05T11:25:24.306Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "nada e aí?",
+      "image": null,
+      "timestamp": "2026-07-05T11:25:51.197Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tô na correria aqui, resolvendo uns pepinos. Mas tô de boa. E você, tudo tranquilo?",
+      "timestamp": "2026-07-05T11:25:51.197Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
