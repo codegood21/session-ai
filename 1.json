@@ -1,7 +1,7 @@
 {
   "sessionId": "1",
   "createdAt": "2026-07-05T05:37:56.966Z",
-  "lastActivity": "2026-07-05T14:09:52.114Z",
+  "lastActivity": "2026-07-05T14:10:00.200Z",
   "history": [
     {
       "role": "user",
@@ -86,9 +86,21 @@
       "text": "Soy un modelo de lenguaje grande, entrenado por Google.",
       "timestamp": "2026-07-05T14:09:52.114Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "que modelo de gemini eres",
+      "image": null,
+      "timestamp": "2026-07-05T14:10:00.200Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Soy un modelo de lenguaje grande, entrenado por Google.",
+      "timestamp": "2026-07-05T14:10:00.200Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 14
+    "totalMessages": 16
   }
 }
