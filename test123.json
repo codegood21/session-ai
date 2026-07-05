@@ -1,9 +1,22 @@
 {
   "sessionId": "test123",
   "createdAt": "2026-07-05T02:59:23.666Z",
-  "lastActivity": "2026-07-05T02:59:23.666Z",
-  "history": [],
+  "lastActivity": "2026-07-05T02:59:25.131Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa ini",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAP//////////////////////////////////////////////////////////////////////////////////////wgALCAABAAEBAREA/8QAFBABAAAAAAAAAAAAAAAAAAAAAP/aAAgBAQAABwA0P//EABwQAAEFAQEAAAAAAAAAAAAAAAABAhEDEiExUf/aAAgBAQABBQKjGxZqpqf/xAAYEQACAwAAAAAAAAAAAAAAAAAAAREg/9oACAEDAQE/ASox/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEhMUH/2gAIAQIBAT8BNWn/xAAdEAABBAIDAAAAAAAAAAAAAAABAAIQIRIxQVFh/9oACAABAB8/AcKa6FfJ9Jf/2Q==",
+      "timestamp": "2026-07-05T02:59:25.131Z"
+    },
+    {
+      "role": "assistant",
+      "text": "File yang Anda berikan tampaknya merupakan data biner yang rusak atau tidak lengkap, kemungkinan besar berasal dari sebuah gambar berformat JPEG. Bagian-bagian yang dapat dikenali, seperti \"JFIF\" dan beberapa karakter yang menyerupai struktur data gambar, mengindikasikan hal tersebut. Namun, data ini tidak utuh sehingga tidak dapat ditampilkan atau dibaca sebagai gambar yang semestinya.",
+      "timestamp": "2026-07-05T02:59:25.131Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
