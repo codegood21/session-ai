@@ -1,7 +1,7 @@
 {
   "sessionId": "session-mr7npm7x",
   "createdAt": "2026-07-05T10:37:30.819Z",
-  "lastActivity": "2026-07-05T10:37:32.115Z",
+  "lastActivity": "2026-07-05T10:37:41.085Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Halo! Saya melihat Anda mengirimkan emoji wajah sedih. Apakah ada sesuatu yang ingin Anda bicarakan atau bagikan? Saya di sini untuk mendengarkan jika Anda mau.",
       "timestamp": "2026-07-05T10:37:32.115Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Your name",
+      "image": null,
+      "timestamp": "2026-07-05T10:37:41.085Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Nama saya Gemini.",
+      "timestamp": "2026-07-05T10:37:41.085Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
