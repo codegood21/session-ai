@@ -1,7 +1,7 @@
 {
   "sessionId": "djjdhdhdhdbdbbebbbbbb",
   "createdAt": "2026-07-05T02:42:05.529Z",
-  "lastActivity": "2026-07-05T02:48:48.345Z",
+  "lastActivity": "2026-07-05T02:49:25.849Z",
   "history": [
     {
       "role": "user",
@@ -206,9 +206,21 @@
       "text": "Joko Widodo lahir pada tanggal **21 Juni 1961**.",
       "timestamp": "2026-07-05T02:48:48.345Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "berarti berapa umur beliau sekarang ",
+      "image": null,
+      "timestamp": "2026-07-05T02:49:25.849Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Untuk menghitung umur beliau sekarang, kita perlu tahu tanggal hari ini. Hari ini adalah tanggal **23 Mei 2024**.\n\nMari kita hitung:\n*   Tahun lahir: 1961\n*   Tahun sekarang: 2024\n\n2024 - 1961 = 63 tahun.\n\nJadi, per tanggal 23 Mei 2024, usia beliau adalah **63 tahun**. Beliau akan berulang tahun ke-63 pada 21 Juni 2024.",
+      "timestamp": "2026-07-05T02:49:25.849Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 34
+    "totalMessages": 36
   }
 }
