@@ -1,7 +1,7 @@
 {
   "sessionId": "test2",
   "createdAt": "2026-07-05T11:16:13.349Z",
-  "lastActivity": "2026-07-05T11:16:32.994Z",
+  "lastActivity": "2026-07-05T11:56:31.703Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Gambar ini menampilkan seekor kucing Persia berwarna putih yang sangat cantik dengan bulu yang lebat dan halus. Kucing ini memiliki mata berwarna hijau kebiruan yang indah dan menatap ke arah atas dengan ekspresi penasaran. Salah satu kaki depannya terangkat, seolah-olah sedang mencoba meraih sesuatu atau sekadar bermain.\n\nLatar belakang gambar ini sangat menarik dan kontras dengan warna putih kucing. Terlihat ada percikan warna-warna cerah, yaitu biru toska dan magenta, yang menciptakan tampilan artistik dan modern. Kombinasi antara kelembutan kucing putih dan warna-warna cerah di latar belakang membuat foto ini terlihat sangat memukau.",
       "timestamp": "2026-07-05T11:16:32.994Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu generasi gemini berapa? apakah gemini 1.5 pro atau gemini 1.0?",
+      "image": null,
+      "timestamp": "2026-07-05T11:56:31.703Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya adalah model bahasa besar, yang dilatih oleh Google.",
+      "timestamp": "2026-07-05T11:56:31.703Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
