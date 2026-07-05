@@ -1,7 +1,7 @@
 {
   "sessionId": "enigma_3jcyr51qg71",
   "createdAt": "2026-07-05T09:10:40.909Z",
-  "lastActivity": "2026-07-05T09:11:01.671Z",
+  "lastActivity": "2026-07-05T09:11:12.816Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "I am a large language model, trained by Google.",
       "timestamp": "2026-07-05T09:11:01.671Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "siapa owner mu? (Maintain Enigma character: cool, short, to the point, English only.)",
+      "image": null,
+      "timestamp": "2026-07-05T09:11:12.815Z"
+    },
+    {
+      "role": "assistant",
+      "text": "I am a large language model, trained by Google.",
+      "timestamp": "2026-07-05T09:11:12.816Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
