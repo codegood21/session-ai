@@ -1,7 +1,7 @@
 {
   "sessionId": "default-session-mr7nc13e",
   "createdAt": "2026-07-05T10:26:36.581Z",
-  "lastActivity": "2026-07-05T10:27:10.282Z",
+  "lastActivity": "2026-07-05T10:27:20.283Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Saya adalah Gemini, model bahasa besar, yang dilatih oleh Google.",
       "timestamp": "2026-07-05T10:27:10.282Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "3*4",
+      "image": null,
+      "timestamp": "2026-07-05T10:27:20.283Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, 3 dikalikan dengan 4 adalah 12.",
+      "timestamp": "2026-07-05T10:27:20.283Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
