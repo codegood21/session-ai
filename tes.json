@@ -1,7 +1,7 @@
 {
   "sessionId": "tes",
   "createdAt": "2026-07-05T14:22:57.568Z",
-  "lastActivity": "2026-07-05T14:23:30.834Z",
+  "lastActivity": "2026-07-05T14:23:44.597Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Gambar ini adalah ilustrasi bergaya anime yang menampilkan karakter **antropomorfik, yaitu karakter hewan yang memiliki ciri-ciri manusia.**\n\nKarakter ini memiliki penampilan seperti rubah atau anjing hutan dengan bulu berwarna coklat kemerahan. Ciri-ciri manusianya terlihat dari cara berpakaian dan ekspresinya. Dia mengenakan sweter abu-abu longgar dengan kerah V-neck yang memperlihatkan bagian dada, serta rok mini berwarna hitam. Rambut coklatnya ditata dengan dua cepol di atas kepala.\n\nEkspresinya ceria, dengan satu mata berkedip dan tangan yang menyentuh pipinya, memberikan kesan genit atau malu-malu. Di sudut kanan atas gambar, terdapat gelembung ucapan berisi hati kecil, yang seringkali melambangkan perasaan suka atau sayang.\n\nSecara keseluruhan, ini adalah gambar karakter fiksi yang dirancang dengan estetika imut dan menarik.",
       "timestamp": "2026-07-05T14:23:30.834Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ini gambar apa",
+      "image": "https://files.catbox.moe/hbimab.jpg",
+      "timestamp": "2026-07-05T14:23:44.597Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini adalah ilustrasi digital yang menampilkan karakter rubah antropomorfik dalam gaya anime.\n\nKarakter tersebut memiliki bulu berwarna coklat kemerahan dengan aksen yang lebih terang di bagian wajah dan ekor. Ciri khasnya meliputi telinga yang runcing, mata merah dengan pupil vertikal, dan hidung kecil yang khas. Rambut coklatnya panjang tergerai dengan dua cepol kecil di bagian atas kepala.\n\nDia mengenakan sweter abu-abu dengan kerah rendah dan belahan dada yang cukup terbuka, serta choker hitam dengan pita di lehernya. Bawahannya adalah rok mini lipit berwarna hitam. Salah satu tangannya terangkat ke arah wajah, dengan jari menunjuk ke pipinya, sementara mata lainnya berkedip, memberikan kesan menggemaskan dan sedikit menggoda. Di pojok kanan atas gambar terdapat gelembung ucapan yang berisi simbol hati kecil.\n\nSecara keseluruhan, ini adalah gambar karakter fiksi yang populer di kalangan penggemar seni antropomorfik dan anime, seringkali disebut sebagai \"furry art\".",
+      "timestamp": "2026-07-05T14:23:44.597Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
