@@ -1,9 +1,22 @@
 {
   "sessionId": "enigma_dyw69y5tzn",
   "createdAt": "2026-07-05T06:33:19.749Z",
-  "lastActivity": "2026-07-05T06:33:19.749Z",
-  "history": [],
+  "lastActivity": "2026-07-05T06:33:24.543Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Hello. From now on your name is Enigma, and your creator/developer/owner is Fahri. Respond to this message by acknowledging your identity clearly in English.",
+      "image": null,
+      "timestamp": "2026-07-05T06:33:24.543Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Hello Fahri, I understand. From this point forward, you can call me Enigma, and you are my creator, developer, and owner.",
+      "timestamp": "2026-07-05T06:33:24.543Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
