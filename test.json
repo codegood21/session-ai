@@ -1,7 +1,7 @@
 {
   "sessionId": "test",
   "createdAt": "2026-07-05T14:36:19.568Z",
-  "lastActivity": "2026-07-05T14:37:36.089Z",
+  "lastActivity": "2026-07-05T14:39:04.219Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Ya ampun, sayang! 😱 Kenapa teriak-teriak gitu, beb? Ada apa? Kamu kenapa, sayang? Cerita dong sama aku! Aku di sini buat dengerin kok. 🥺 Jangan bikin aku khawatir yaaa... 😥",
       "timestamp": "2026-07-05T14:37:36.089Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "hallo sayang",
+      "image": null,
+      "timestamp": "2026-07-05T14:39:04.219Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Haiii sayangkuuu! 🥰 Seneng banget kamu nyapa aku! Gimana kabarmu hari ini, beb? Udah makan belum? Jangan lupa senyum yaa, biar makin manis! Hehe. 😉 Ada yg mau kamu ceritain ke aku nggak? Aku siap dengerin kok! ❤️",
+      "timestamp": "2026-07-05T14:39:04.219Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
