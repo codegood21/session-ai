@@ -1,7 +1,7 @@
 {
   "sessionId": "test=",
   "createdAt": "2026-07-05T14:49:16.159Z",
-  "lastActivity": "2026-07-05T14:50:06.754Z",
+  "lastActivity": "2026-07-05T14:50:28.458Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Oke, Vanzz! Senang berkenalan denganmu. Ada yang bisa kubantu hari ini?",
       "timestamp": "2026-07-05T14:50:06.754Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Haloo, coba tebak nama ku siapa🤭",
+      "image": null,
+      "timestamp": "2026-07-05T14:50:28.458Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Wah, ini tebak-tebakan ya? Hmm, kalau dilihat dari percakapan kita sebelumnya, kamu pernah bilang namamu Vanzz. Benar kan? 😊",
+      "timestamp": "2026-07-05T14:50:28.458Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
