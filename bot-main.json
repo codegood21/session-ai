@@ -1,7 +1,7 @@
 {
   "sessionId": "bot-main",
   "createdAt": "2026-07-05T04:14:48.448Z",
-  "lastActivity": "2026-07-05T04:14:49.579Z",
+  "lastActivity": "2026-07-05T04:15:28.372Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Halo! Saya adalah model bahasa besar, yang dilatih oleh Google.",
       "timestamp": "2026-07-05T04:14:49.579Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "model_apa_yang_kamu_pakai?",
+      "image": null,
+      "timestamp": "2026-07-05T04:15:28.372Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya dilatih oleh Google dan merupakan model bahasa besar.",
+      "timestamp": "2026-07-05T04:15:28.372Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
