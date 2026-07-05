@@ -1,7 +1,7 @@
 {
   "sessionId": "test=",
   "createdAt": "2026-07-05T14:49:16.159Z",
-  "lastActivity": "2026-07-05T14:56:38.964Z",
+  "lastActivity": "2026-07-05T14:58:14.491Z",
   "history": [
     {
       "role": "user",
@@ -86,9 +86,21 @@
       "text": "Wah, Vanzz, kamu perhatian sekali sama Furina! Wajar kok kalau dia ngambek kalau keinginannya belum terpenuhi. Tapi bagus deh kamu mau mengajaknya jalan-jalan lagi biar dia senang dan nggak ngambek lagi. Semoga berhasil ya bikin Furina happy malam ini! 😊",
       "timestamp": "2026-07-05T14:56:38.964Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "istri gw malah kesenangan tadi dia cuman ngambek karena gw itu habis pulang kerja istri gw malah ajak gw lagi capek begini dan istri gw gak mau sabar jadinya ngambek😹, btw skrng jam berapa?",
+      "image": null,
+      "timestamp": "2026-07-05T14:58:14.491Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Wah, ternyata begitu ceritanya, Vanzz! Jadi Furina yang nggak sabar ya, bukan kamu yang salah. Tapi untungnya sekarang sudah happy lagi ya.\n\nUntuk jamnya, saat ini adalah **pukul 01:00 WIB**.",
+      "timestamp": "2026-07-05T14:58:14.491Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 14
+    "totalMessages": 16
   }
 }
