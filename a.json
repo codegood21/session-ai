@@ -1,7 +1,7 @@
 {
   "sessionId": "a",
   "createdAt": "2026-07-05T06:07:58.928Z",
-  "lastActivity": "2026-07-05T06:09:04.642Z",
+  "lastActivity": "2026-07-05T06:09:14.242Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Gambar tersebut menampilkan ilustrasi karakter anime wanita dengan rambut hitam panjang yang diikat dengan pita biru gelap. Dia mengenakan pakaian bergaya cheongsam berwarna hitam dengan aksen emas dan biru. Ekspresi wajahnya terlihat terkejut atau khawatir, dengan mata terbelalak dan mulut sedikit terbuka. Dia sedang memegang sebuah ponsel hitam di tangan kanannya, yang sepertinya menjadi sumber kekhawatirannya. Telinganya dihiasi anting berbentuk T.\n\nAda yang bisa saya bantu terkait gambar ini atau hal lainnya?",
       "timestamp": "2026-07-05T06:09:04.642Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "apakah ",
+      "image": "https://raw.githubusercontent.com/Nex-Core/Uploader-Media/main/gambar-only/1783231719712_spkpouca.jpg",
+      "timestamp": "2026-07-05T06:09:14.242Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar tersebut adalah ilustrasi anime yang menampilkan seorang wanita dengan rambut hitam panjang dan pakaian bergaya cheongsam hitam dengan aksen emas dan biru. Wajahnya menunjukkan ekspresi terkejut atau cemas, dengan mata terbelalak dan mulut sedikit terbuka. Ia sedang memegang ponsel hitam di tangan kanannya, yang tampaknya menjadi sumber kekhawatirannya.\n\nApakah ada yang ingin Anda tanyakan mengenai gambar ini?",
+      "timestamp": "2026-07-05T06:09:14.242Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
