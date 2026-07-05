@@ -1,7 +1,7 @@
 {
   "sessionId": "28838hhhhhh383838",
   "createdAt": "2026-07-05T01:41:04.919Z",
-  "lastActivity": "2026-07-05T01:41:22.639Z",
+  "lastActivity": "2026-07-05T01:41:54.527Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Foto tersebut berisi soal ujian tengah semester ganjil mata pelajaran Matematika untuk Tahun Ajaran 2016/2017. Terdapat 22 soal pilihan ganda yang terbagi dalam dua kolom. Soal-soal tersebut mencakup berbagai topik matematika dasar, seperti operasi hitung, taksiran, faktorisasi prima, KPK, FPB, perbandingan, kecepatan, jarak, waktu, dan pengukuran sudut. Di bagian atas terdapat identitas siswa (Nama, Kelas) dan informasi ujian (Tanggal, Waktu). Di bagian bawah terdapat informasi mengenai sumber soal.",
       "timestamp": "2026-07-05T01:41:22.639Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ada berapa soal di foto ini",
+      "image": null,
+      "timestamp": "2026-07-05T01:41:54.527Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Di foto tersebut terdapat 22 soal pilihan ganda.",
+      "timestamp": "2026-07-05T01:41:54.527Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
