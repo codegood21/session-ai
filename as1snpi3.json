@@ -1,9 +1,22 @@
 {
   "sessionId": "as1snpi3",
   "createdAt": "2026-07-06T07:32:37.404Z",
-  "lastActivity": "2026-07-06T07:32:37.404Z",
-  "history": [],
+  "lastActivity": "2026-07-06T07:32:41.124Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://cdn.webpublish.biz.id/cdn/ykHe6.jpg",
+      "timestamp": "2026-07-06T07:32:41.124Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young woman with long, flowing, dark auburn hair, styled with soft layers and bangs, stands outdoors in front of a lush, vibrant green hedge. She is looking to her left with a gentle, serene expression. She is wearing a light blue, long-sleeved, cropped top with a subtle V-neckline that is fastened with small white strings. Underneath, she wears a white camisole. A delicate silver necklace with a small heart pendant rests on her collarbone. Her right arm is raised, with her hand gently touching her hair, creating a dynamic pose. The lighting is natural and bright, with sunlight casting soft shadows and highlights, particularly on her hair and face, suggesting a sunny day. The overall color palette is dominated by the rich greens of the foliage and the warm tones of her hair and skin. The mood is peaceful, natural, and subtly elegant. The image has a soft focus, with the background slightly blurred, drawing attention to the subject. The style is reminiscent of natural lifestyle photography or a candid portrait.",
+      "timestamp": "2026-07-06T07:32:41.124Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
