@@ -1,7 +1,7 @@
 {
   "sessionId": "persist-test",
   "createdAt": "2026-07-06T17:43:48.960Z",
-  "lastActivity": "2026-07-06T17:43:50.412Z",
+  "lastActivity": "2026-07-06T17:43:52.515Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Halo Budi! Senang berkenalan dengan Anda. Ada yang bisa saya bantu hari ini?",
       "timestamp": "2026-07-06T17:43:50.412Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "What is my name?",
+      "image": null,
+      "timestamp": "2026-07-06T17:43:52.515Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Nama Anda adalah Budi.",
+      "timestamp": "2026-07-06T17:43:52.515Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
