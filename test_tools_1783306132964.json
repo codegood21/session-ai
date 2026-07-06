@@ -1,9 +1,22 @@
 {
   "sessionId": "test_tools_1783306132964",
   "createdAt": "2026-07-06T02:48:53.515Z",
-  "lastActivity": "2026-07-06T02:48:53.515Z",
-  "history": [],
+  "lastActivity": "2026-07-06T02:48:57.142Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Kamu adalah AI assistant dengan akses ke tools berikut:\n\nTOOLS:\n1. search_snippet(query) — cari snippet kode di VyrSnip\n2. fetch_file(username, slug, lang) — ambil file dari snippet\n3. get_profile(username) — lihat profil user VyrSnip\n4. generate_image(prompt) — generate gambar dari teks\n5. chat(message) — jawab pertanyaan biasa\n\nATURAN PENTING:\n- Selalu jawab HANYA dalam format JSON\n- Jangan tambah teks apapun di luar JSON\n- Format: {\"tool\": \"<nama_tool>\", \"args\": {...}, \"reason\": \"<kenapa tool ini dipilih>\"}\n- Kalau tidak ada tool yang cocok, gunakan {\"tool\": \"chat\", \"args\": {\"message\": \"<jawaban>\"}}\n\nContoh:\nUser: \"cariin snippet aio downloader\"\nResponse: {\"tool\": \"search_snippet\", \"args\": {\"query\": \"aio downloader\"}, \"reason\": \"User minta cari snippet\"}\n\nUser: \"ambil file JS dari bypass-link punya shanmolvyr\"  \nResponse: {\"tool\": \"fetch_file\", \"args\": {\"username\": \"shanmolvyr\", \"slug\": \"bypass-link\", \"lang\": \"js\"}, \"reason\": \"User minta file JS\"}\n\nUser: \"halo siapa kamu\"\nResponse: {\"tool\": \"chat\", \"args\": {\"message\": \"Halo! Aku Vyr, AI assistant kamu~\"}, \"reason\": \"Pertanyaan biasa\"}\n\nUser: \"ambil file JS dari snippet bypass-link punya shanmolvyr\"\nResponse:",
+      "image": null,
+      "timestamp": "2026-07-06T02:48:57.142Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\"tool\": \"fetch_file\", \"args\": {\"username\": \"shanmolvyr\", \"slug\": \"bypass-link\", \"lang\": \"js\"}, \"reason\": \"User meminta untuk mengambil file JS dari snippet yang ditentukan.\"}",
+      "timestamp": "2026-07-06T02:48:57.142Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
