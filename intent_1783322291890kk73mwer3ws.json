@@ -1,7 +1,7 @@
 {
   "sessionId": "intent_1783322291890kk73mwer3ws",
   "createdAt": "2026-07-06T07:18:13.326Z",
-  "lastActivity": "2026-07-06T07:32:38.466Z",
+  "lastActivity": "2026-07-06T07:32:59.724Z",
   "history": [
     {
       "role": "user",
@@ -194,9 +194,21 @@
       "text": "{\"tool\":\"rate_web\",\"args\":{\"url\":\"https://aaaa.kyzzz.eu.cc\"}}",
       "timestamp": "2026-07-06T07:32:38.466Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah VyrAI dengan tools berikut:\n\nTOOLS:\n1. search_snippet(query)\n2. fetch_file(username, slug, lang) — lang: js/py/ts/auto\n3. get_profile(username)\n4. generate_image(prompt)\n5. read_image(question) — baca gambar dari user\n6. rate_web(url) — cek status/tech website\n7. read_page(url, question) — baca isi halaman web\n8. find_endpoints(url, deep) — cari API endpoint tersembunyi\n9. crawl_links(url) — kumpulkan link di halaman\n10. run_command(name, args) — jalankan command bot (name: nama plugin, args: string argumen)\n11. list_commands(category) — list command bot\n12. search_command(keyword) — cari command\n13. read_plugin(name) — baca source code plugin\n14. command_info(name) — detail info command\n15. chat(message) — percakapan bebas\n\nATURAN:\n- Jawab HANYA JSON tanpa teks lain\n- Format: {\"tool\":\"<nama>\",\"args\":{...}}\n- run_command: gunakan jika user minta bot jalankan sesuatu yang bisa dilakukan plugin lain\n- Contoh run_command: user minta screenshot web → {\"tool\":\"run_command\",\"args\":{\"name\":\"ssweb\",\"args\":\"https://google.com\"}}\n- Untuk fetch_file tanpa username eksplisit, set username ke \"\"\n\nUser: \"rating website https://aaaa.kyzzz.eu.cc\"\nRespond with JSON only:",
+      "image": null,
+      "timestamp": "2026-07-06T07:32:59.724Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\"tool\":\"rate_web\",\"args\":{\"url\":\"https://aaaa.kyzzz.eu.cc\"}}",
+      "timestamp": "2026-07-06T07:32:59.724Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 32
+    "totalMessages": 34
   }
 }
