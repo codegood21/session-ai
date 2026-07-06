@@ -1,9 +1,22 @@
 {
   "sessionId": "json-test",
   "createdAt": "2026-07-06T17:45:17.876Z",
-  "lastActivity": "2026-07-06T17:45:17.876Z",
-  "history": [],
+  "lastActivity": "2026-07-06T17:45:19.071Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "hello from json",
+      "image": null,
+      "timestamp": "2026-07-06T17:45:19.071Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo juga! Ada yang bisa saya bantu dari JSON?",
+      "timestamp": "2026-07-06T17:45:19.071Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
