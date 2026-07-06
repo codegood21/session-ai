@@ -1,9 +1,22 @@
 {
   "sessionId": "p2t6hp03",
   "createdAt": "2026-07-06T11:29:06.648Z",
-  "lastActivity": "2026-07-06T11:29:06.648Z",
-  "history": [],
+  "lastActivity": "2026-07-06T11:29:16.169Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INFORMASI KONTEKS VISUAL GAMBAR]:\n- Deskripsi Visual: A child is smiling and seated at a table while a caption appears over the image.\n\nThe main subject is a young child with short hair and a broad smile, looking toward the camera, seated with their arms resting on either side of the frame. They wear a dark blue short-sleeved top with a lighter trim around the neckline and sleeve edges, and a strap or accessory is visible on the right side of their shoulder.\n\nThe setting appears to be indoors, with a blurred background showing a brownish wall or panel behind the child and an indistinct object near the right edge.\n\nThe image is a low-resolution, front-facing view with soft, even lighting. The child’s face is clear and bright compared to the darker clothing. Overlaid text is centered near the bottom of the image on two lines, in white letters with a dark outline.\n\nVisible Text:\nMaat gwej gak\nPeduli\n\nPractical Summary:\nThe photo shows a smiling child seated indoors, facing the camera. Two lines of overlaid caption text appear at the bottom of the image.\n\nPertanyaan asli user: Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mr950dpv.jpg",
+      "timestamp": "2026-07-06T11:29:16.169Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\"nsfw\": false, \"confidence\": 0, \"label\": \"safe\"}",
+      "timestamp": "2026-07-06T11:29:16.169Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
