@@ -1,9 +1,22 @@
 {
   "sessionId": "aadadada",
   "createdAt": "2026-07-06T04:48:55.646Z",
-  "lastActivity": "2026-07-06T04:48:55.646Z",
-  "history": [],
+  "lastActivity": "2026-07-06T04:48:58.260Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatgambarkudayangsayakirimkanarmemilikipenumpang",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEdA2qgSQv8UxKI9xTzrZh1JrcAwiP3dA_97T4E1Tdw",
+      "timestamp": "2026-07-06T04:48:58.260Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar yang Anda kirimkan menampilkan seekor kuda berwarna putih yang sedang berdiri dengan kaki depannya terangkat. Kuda tersebut memiliki surai dan ekor berwarna pirang muda, serta mata berwarna biru muda. Latar belakang gambar adalah padang rumput hijau yang subur dengan pepohonan rindang di kejauhan, di bawah langit yang mendung. Di sudut kiri atas gambar terdapat tulisan tangan yang terlihat seperti tanda air.\n\nMengenai pertanyaan Anda, gambar ini hanya menampilkan seekor kuda yang sedang berdiri dengan kaki depan terangkat, dan tidak ada penumpang yang terlihat pada kuda tersebut.",
+      "timestamp": "2026-07-06T04:48:58.260Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
