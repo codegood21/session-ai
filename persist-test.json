@@ -1,9 +1,22 @@
 {
   "sessionId": "persist-test",
   "createdAt": "2026-07-06T17:43:48.960Z",
-  "lastActivity": "2026-07-06T17:43:48.960Z",
-  "history": [],
+  "lastActivity": "2026-07-06T17:43:50.412Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "My name is Budi",
+      "image": null,
+      "timestamp": "2026-07-06T17:43:50.412Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo Budi! Senang berkenalan dengan Anda. Ada yang bisa saya bantu hari ini?",
+      "timestamp": "2026-07-06T17:43:50.412Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
