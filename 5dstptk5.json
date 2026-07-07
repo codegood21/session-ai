@@ -1,9 +1,22 @@
 {
   "sessionId": "5dstptk5",
   "createdAt": "2026-07-07T10:28:47.307Z",
-  "lastActivity": "2026-07-07T10:28:47.307Z",
-  "history": [],
+  "lastActivity": "2026-07-07T10:28:52.049Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9164/747266227_nsfw-1783420126231.png",
+      "timestamp": "2026-07-07T10:28:52.049Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar tersebut menampilkan meme yang diedit. Di bagian atas gambar, terdapat topi tradisional Jawa yang disebut blangkon, yang memiliki motif batik berwarna coklat dan hitam. Di bawah blangkon, terlihat bagian kepala seekor anjing berwarna putih dengan ekspresi wajah yang agak kabur. Di bagian bawah gambar, terdapat teks besar berwarna putih dengan bingkai hitam yang bertuliskan \"GELAK JAWA\". Secara keseluruhan, gambar ini adalah sebuah meme yang menggabungkan elemen budaya Jawa dengan gambar anjing yang lucu, dan tidak mengandung konten NSFW.",
+      "timestamp": "2026-07-07T10:28:52.049Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
