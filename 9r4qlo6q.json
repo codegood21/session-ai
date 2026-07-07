@@ -1,9 +1,22 @@
 {
   "sessionId": "9r4qlo6q",
   "createdAt": "2026-07-07T10:24:38.114Z",
-  "lastActivity": "2026-07-07T10:24:38.114Z",
-  "history": [],
+  "lastActivity": "2026-07-07T10:24:41.177Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9164/747265373_nsfw-1783419876771.jpg",
+      "timestamp": "2026-07-07T10:24:41.177Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\n  \"nsfw\": true,\n  \"confidence\": 75,\n  \"label\": \"suggestive\"\n}",
+      "timestamp": "2026-07-07T10:24:41.177Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
