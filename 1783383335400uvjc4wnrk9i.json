@@ -1,9 +1,22 @@
 {
   "sessionId": "1783383335400uvjc4wnrk9i",
   "createdAt": "2026-07-07T00:16:51.129Z",
-  "lastActivity": "2026-07-07T00:16:51.129Z",
-  "history": [],
+  "lastActivity": "2026-07-07T00:17:00.556Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ini apa",
+      "image": "https://tmpfiles.org/dl/wRwgvlbbgHen/vyr_1783383409743.jpg",
+      "timestamp": "2026-07-07T00:17:00.556Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari saya jelaskan apa yang ada di dalam gambar yang Anda berikan.\n\nGambar tersebut menampilkan halaman web dari situs bernama `/tmp/files`. Situs ini tampaknya merupakan layanan hosting file sementara.\n\nElemen-elemen penting yang terlihat di halaman tersebut antara lain:\n\n*   **Judul:** `/tmp/files - Temporary File Hosting` yang menunjukkan nama situs dan fungsinya.\n*   **Nama File:** `vyr_1783383409743.jpg` adalah nama file yang diunggah.\n*   **Pratinjau Gambar:** Ada pratinjau gambar dengan ID `img_preview` yang menampilkan isi dari file `vyr_1783383409743.jpg`.\n*   **Tombol Unduh:** Terdapat tautan unduh dengan tulisan \"Download (62.40 KB)\" yang memungkinkan pengguna untuk mengunduh file tersebut. Ukuran filenya adalah 62.40 KB.\n*   **Informasi Kedaluwarsa:** Tertera tulisan \"File expires in 59 minutes\", yang berarti file ini akan dihapus dari server setelah 59 menit dari waktu tampilan halaman.\n*   **Navigasi Situs:** Di bagian footer, terdapat tautan navigasi seperti \"Upload\", \"API\", \"About\", dan \"ToS\".\n*   **Tautan Telegram Bot:** Ada juga tautan untuk mengakses bot Telegram mereka.\n\nSecara keseluruhan, halaman ini adalah tampilan dari sebuah file gambar yang diunggah ke layanan hosting file sementara, dan memberikan opsi untuk mengunduh file tersebut serta informasi tentang masa berlaku file.",
+      "timestamp": "2026-07-07T00:17:00.556Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
