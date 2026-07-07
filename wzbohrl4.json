@@ -1,9 +1,22 @@
 {
   "sessionId": "wzbohrl4",
   "createdAt": "2026-07-07T10:52:06.882Z",
-  "lastActivity": "2026-07-07T10:52:06.882Z",
-  "history": [],
+  "lastActivity": "2026-07-07T10:52:20.294Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INFORMASI KONTEKS VISUAL GAMBAR]:\n- Deskripsi Visual: Two people are posed closely together for a selfie indoors, both facing the camera with slight smiles.\n\nSetting: The photo is taken inside a covered outdoor area or veranda with a light-colored ceiling and supporting beams above. Through the opening behind them, green trees and daylight are visible, suggesting it is daytime. A paved or tiled surface appears under them.\n\nMain Subject: The main focus is two seated or standing people shown from about the upper torso up, centered in the frame, filling most of the image.\n\nVisual Details: The person on the left has dark hair parted near the center, worn loose around the face, and is looking directly at the camera. They wear a black outfit with gold embroidered patterns and a layered necklace with a small pendant. Their expression is calm with a slight smile and relaxed posture, with shoulders angled slightly toward the right. The person on the right has dark hair with a side part, also worn loose, and is looking toward the camera with a gentle smile. They wear a light tan or gold top with intricate embroidery and blue bead-like embellishments around the neckline and upper chest, with long sleeves featuring detailed texture. Both subjects’ heads are close together, and the camera angle is slightly elevated, creating a close-up portrait composition.\n\nVisible Text: No important visible text detected.\n\nPractical Summary: The image shows two people in matching formal embroidered outfits posing closely together and looking at the camera. The background includes a bright outdoor view with trees visible through the open space behind them.\n\nPertanyaan asli user: Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9164/747270952_nsfw-1783421525667.jpg",
+      "timestamp": "2026-07-07T10:52:20.294Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}",
+      "timestamp": "2026-07-07T10:52:20.294Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
