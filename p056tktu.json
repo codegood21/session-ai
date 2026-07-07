@@ -1,9 +1,22 @@
 {
   "sessionId": "p056tktu",
   "createdAt": "2026-07-07T18:25:46.147Z",
-  "lastActivity": "2026-07-07T18:25:46.147Z",
-  "history": [],
+  "lastActivity": "2026-07-07T18:25:59.439Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INFORMASI KONTEKS VISUAL GAMBAR]:\n- Deskripsi Visual: A person wearing an orange sleeveless top and a black cap faces the camera while large outlined text overlays the lower portion of the image.\n\nMain Subject:\nA single person is centered in the frame, shown from about the chest up. They wear a black baseball cap with a white emblem on the front and an orange sleeveless garment. The person has short facial hair and a neutral expression, with their head slightly tilted. Small circular earrings are visible.\n\nSetting:\nThe background is a plain light-colored indoor wall. Behind the person to the right, there is a wall-mounted object that appears like a clock with a dark face and light hands.\n\nVisual Details:\nLighting is soft and even, with a slight warm tone. The cap is dark, and the emblem is white. The orange sleeveless top stands out strongly against the light wall. A round clock-like face is visible on the right side of the background. The text overlay is large, bold, and white with a black outline, arranged in two lines across the lower left and center: “AYO KITA” on the first line and “MABAR” on the second line.\n\nVisible Text:\nAYO KITA\nMABAR\n\nPractical Summary:\nThe image shows a person in an orange sleeveless top and a black cap standing in front of a light wall with a clock-like object in the background. Large bold text overlays the lower part of the image.\n\nPertanyaan asli user: Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9172/747356166_nsfw-1783448744919.png",
+      "timestamp": "2026-07-07T18:25:59.439Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}",
+      "timestamp": "2026-07-07T18:25:59.439Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
