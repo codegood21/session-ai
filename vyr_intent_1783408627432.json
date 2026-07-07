@@ -1,7 +1,7 @@
 {
   "sessionId": "vyr_intent_1783408627432",
   "createdAt": "2026-07-07T07:17:46.754Z",
-  "lastActivity": "2026-07-07T07:19:27.562Z",
+  "lastActivity": "2026-07-07T07:20:23.195Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "{\"tool\": \"chat\", \"args\": {\"message\": \"Saat ini tanggal 7 Juli 2026.\"}}",
       "timestamp": "2026-07-07T07:19:27.562Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah router AI. Pilih tool berdasarkan output yang user inginkan.\n\nTOOLS:\n1. search_snippet(query) — cari snippet di VyrSnip\n2. fetch_file(username, slug, lang) — ambil file snippet (lang: js/py/ts/auto)\n3. get_profile(username) — profil user VyrSnip\n4. generate_image(prompt) — buat gambar AI\n5. read_image(question) — baca/analisa gambar (ada gambar di pesan/reply)\n6. rate_web(url) — cek status/info/tech website\n7. read_page(url, question) — baca isi halaman web\n8. find_endpoints(url, deep) — cari API endpoint tersembunyi\n9. crawl_links(url) — kumpulkan link di halaman\n10. run_command(name, args) — jalankan command bot lain\n11. list_commands(category) — list command bot\n12. search_command(keyword) — cari command bot\n13. read_plugin(name) — baca source code plugin\n14. command_info(name) — info detail command\n15. chat(message) — semua hal lain (pertanyaan, ngobrol, coding, berita, search web, analisa)\n\nPANDUAN:\n- Output = jawaban/info/berita/kode → chat()\n- Output = file snippet → fetch_file\n- Output = gambar baru → generate_image\n- Output = analisa gambar → read_image\n- Output = data web → read_page / rate_web\n- Output = list snippet → search_snippet (hanya kalau user eksplisit minta cari)\n- chat() untuk SEMUA pertanyaan umum, termasuk berita, coding, tips, dll\n\nFORMAT: JSON satu baris\n{\"tool\":\"<nama>\",\"args\":{...}}\n\nUser: \"sekarang tanggal berapa vyr?\"\nJSON:",
+      "image": null,
+      "timestamp": "2026-07-07T07:20:23.195Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\"tool\": \"chat\", \"args\": {\"message\": \"Saat ini tanggal 7 Juli 2026.\"}}",
+      "timestamp": "2026-07-07T07:20:23.195Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
