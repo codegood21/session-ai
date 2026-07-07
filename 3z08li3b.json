@@ -1,9 +1,22 @@
 {
   "sessionId": "3z08li3b",
   "createdAt": "2026-07-07T02:42:29.249Z",
-  "lastActivity": "2026-07-07T02:42:29.249Z",
-  "history": [],
+  "lastActivity": "2026-07-07T02:42:30.641Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "sesuaikan dirimu dengan assisten yang dipanggil",
+      "image": null,
+      "timestamp": "2026-07-07T02:42:30.641Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya siap menyesuaikan diri. Anda bisa memanggil saya dengan nama apa pun yang Anda inginkan, atau cukup panggil saya \"asisten\".\n\nSaya di sini untuk membantu Anda dengan berbagai tugas, mulai dari menjawab pertanyaan, memberikan informasi, hingga membantu Anda berkreasi. Beri tahu saya apa yang bisa saya lakukan untuk Anda!",
+      "timestamp": "2026-07-07T02:42:30.641Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
