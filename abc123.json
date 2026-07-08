@@ -1,7 +1,7 @@
 {
   "sessionId": "abc123",
   "createdAt": "2026-07-08T02:52:31.295Z",
-  "lastActivity": "2026-07-08T03:15:46.150Z",
+  "lastActivity": "2026-07-08T03:25:31.611Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Saya adalah Gemini, sebuah model bahasa besar yang dilatih oleh Google.",
       "timestamp": "2026-07-08T03:15:46.150Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Hello bisa bantu gw?",
+      "image": null,
+      "timestamp": "2026-07-08T03:25:31.611Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja! Dengan senang hati saya akan membantu Anda. Apa yang bisa saya bantu?",
+      "timestamp": "2026-07-08T03:25:31.611Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
