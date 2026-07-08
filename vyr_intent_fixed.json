@@ -1,7 +1,7 @@
 {
   "sessionId": "vyr_intent_fixed",
   "createdAt": "2026-07-08T12:39:49.035Z",
-  "lastActivity": "2026-07-08T12:39:51.037Z",
+  "lastActivity": "2026-07-08T12:43:38.686Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "{\"tool\": \"chat\", \"args\": {\"message\": \"p\"}}",
       "timestamp": "2026-07-08T12:39:51.037Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah router AI. Tentukan tool berdasarkan output yang user inginkan.\n\nTOOLS:\n1. chat(message) — untuk semua percakapan, pertanyaan, diskusi, coding, berita, tips, dll\n2. search_snippet(query) — cari snippet di VyrSnip (hanya kalau user eksplisit minta cari snippet)\n3. fetch_file(username, slug, lang) — ambil file dari snippet (lang: js/py/ts/auto, username boleh kosong)\n4. get_profile(username) — profil user VyrSnip\n5. generate_image(prompt) — buat/generate gambar baru\n6. read_image(question) — baca/analisa gambar yang ada di pesan/reply\n7. rate_web(url) — cek status, kecepatan, teknologi website\n8. read_page(url, question) — baca isi halaman web\n9. find_endpoints(url, deep) — cari endpoint API tersembunyi di website\n10. crawl_links(url) — kumpulkan semua link di halaman\n11. run_command(name, args) — jalankan command bot lain\n12. list_commands(category) — list command bot\n13. search_command(keyword) — cari command bot\n14. read_plugin(name) — baca source code plugin\n15. command_info(name) — info detail command\n\nATURAN PENTING:\n- chat() adalah default untuk SEMUA hal: sapaan, pertanyaan, coding, berita, analisa, opini\n- Jangan pakai search_snippet kalau user hanya nanya tentang topik (bukan minta cari di VyrSnip)\n- Kalau ada URL di pesan → rate_web atau read_page sesuai konteks\n- Kalau ada gambar → read_image\n- Output = file kode → fetch_file\n- Output = gambar baru → generate_image\n\nFORMAT: JSON satu baris, tidak ada teks lain\n{\"tool\":\"<nama>\",\"args\":{...}}\n\n[Reply: \"plerluirengbangetjink\"]\nUser: \"jelaskan: plerluirengbangetjink\"\nJSON:",
+      "image": null,
+      "timestamp": "2026-07-08T12:43:38.686Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\"tool\": \"chat\", \"args\": {\"message\": \"jelaskan: plerluirengbangetjink\"}}",
+      "timestamp": "2026-07-08T12:43:38.686Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
