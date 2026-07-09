@@ -1,9 +1,22 @@
 {
   "sessionId": "u7d9hnko",
   "createdAt": "2026-07-09T12:54:12.517Z",
-  "lastActivity": "2026-07-09T12:54:12.517Z",
-  "history": [],
+  "lastActivity": "2026-07-09T12:54:23.495Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9214/747820620_nsfw-1783601651430.png",
+      "timestamp": "2026-07-09T12:54:23.495Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan sebuah layar notifikasi \"LEVEL UP!\". Di bagian atas, terdapat tulisan \"LEVEL UP!\" dengan hiasan di kedua sisinya. Di bawahnya, ada profil pengguna bernama \"espada\" dengan avatar bergambar karakter bergaya kartun yang memakai kacamata.\n\nDi sebelah kanan avatar, tertera informasi level pengguna. Pengguna berada di \"LEVEL 2\" dan memiliki \"EXPERIENCE 12 / 150\". Terdapat juga progress bar yang menunjukkan bahwa level progress saat ini adalah 8%.\n\nDi bagian bawah, terdapat detail lain seperti \"MESSAGES 33\", \"XP NEEDED 138\", dan \"NEXT LVL 3\". Terakhir, ada tulisan \"Congratulations on leveling up!\" di bagian paling bawah. Secara keseluruhan, gambar ini adalah tampilan antarmuka pengguna yang menunjukkan pencapaian naik level dalam sebuah game atau platform.\n\n```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```",
+      "timestamp": "2026-07-09T12:54:23.495Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
