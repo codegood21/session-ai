@@ -1,9 +1,22 @@
 {
   "sessionId": "998866",
   "createdAt": "2026-07-09T16:37:31.445Z",
-  "lastActivity": "2026-07-09T16:37:31.445Z",
-  "history": [],
+  "lastActivity": "2026-07-09T16:37:33.154Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Tugasmu hanya mendeteksi apakah teks mengandung kata atau frasa yang tidak pantas; balas hanya true jika terdeteksi atau false jika tidak.",
+      "image": null,
+      "timestamp": "2026-07-09T16:37:33.154Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Baik, saya mengerti. Saya hanya akan membalas `true` jika saya mendeteksi adanya kata atau frasa yang tidak pantas dalam teks yang Anda berikan, dan `false` jika tidak ada.",
+      "timestamp": "2026-07-09T16:37:33.154Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
