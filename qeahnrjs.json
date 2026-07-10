@@ -1,9 +1,22 @@
 {
   "sessionId": "qeahnrjs",
   "createdAt": "2026-07-10T14:46:46.320Z",
-  "lastActivity": "2026-07-10T14:46:46.320Z",
-  "history": [],
+  "lastActivity": "2026-07-10T14:46:57.683Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INFORMASI KONTEKS VISUAL GAMBAR]:\n- Hasil Ekstraksi Teks Gambar (OCR):\n# Extracted Text\n\nPATRICK NGENTOT\n\nBERAPA KALI HARUS  \nGUA BILANG TIDAK ADA VERSI KENLANG\n\n# Structured Version\n\n- **PATRICK NGENTOT**\n- **BERAPA KALI HARUS**  \n  **GUA BILANG TIDAK ADA VERSI KENLANG**  \n\n# Notes\n\n- “KENLANG” appears as shown, but it’s unclear what the intended word is (could be a misspelling or stylized text).\n\nPertanyaan asli user: Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9240/748106436_nsfw-1783694805284.jpg",
+      "timestamp": "2026-07-10T14:46:57.683Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\n  \"nsfw\": true,\n  \"confidence\": 95,\n  \"label\": \"nsfw\"\n}",
+      "timestamp": "2026-07-10T14:46:57.683Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
