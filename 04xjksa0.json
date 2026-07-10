@@ -1,9 +1,22 @@
 {
   "sessionId": "04xjksa0",
   "createdAt": "2026-07-10T06:06:12.457Z",
-  "lastActivity": "2026-07-10T06:06:12.457Z",
-  "history": [],
+  "lastActivity": "2026-07-10T06:06:23.303Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INFORMASI KONTEKS VISUAL GAMBAR]:\n- Hasil Ekstraksi Teks Gambar (OCR):\n# Extracted Text\n\nGK boleh gitu\n\n# Structured Version\n\n- **GK boleh gitu**\n\n# Notes\n\n- The text appears stylized/possibly missing diacritics; extracted as shown: **“GK boleh gitu”**.\n\nPertanyaan asli user: Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9232/747971585_nsfw-1783663570421.png",
+      "timestamp": "2026-07-10T06:06:23.303Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\n  \"nsfw\": true,\n  \"confidence\": 95,\n  \"label\": \"suggestive\"\n}",
+      "timestamp": "2026-07-10T06:06:23.303Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
