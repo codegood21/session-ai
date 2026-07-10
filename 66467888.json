@@ -1,9 +1,22 @@
 {
   "sessionId": "66467888",
   "createdAt": "2026-07-10T04:02:17.589Z",
-  "lastActivity": "2026-07-10T04:02:17.589Z",
-  "history": [],
+  "lastActivity": "2026-07-10T04:02:21.261Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "gambar apa ini",
+      "image": "https://d.uguu.se/VSaTPdzW.jpg",
+      "timestamp": "2026-07-10T04:02:21.261Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini adalah tangkapan layar dari sebuah halaman web yang tampaknya merupakan panel kontrol untuk mengelola server. Halaman ini menampilkan berbagai bagian konfigurasi, termasuk:\n\n*   **Startup Command**: Di sini Anda dapat mengedit perintah startup untuk server.\n*   **Default Service Start Command**: Menampilkan perintah startup default yang digunakan.\n*   **Service Configuration**: Bagian ini memungkinkan Anda untuk mengonfigurasi \"Nest\" dan \"Egg\" server, serta opsi untuk melewati skrip instalasi Egg. Ada juga peringatan bahwa mengubah pengaturan di bagian ini dapat menginstal ulang server.\n*   **Docker Image Configuration**: Memungkinkan Anda memilih citra Docker yang akan digunakan untuk server. Ada dua pilihan yang terlihat: `ghcr.io/parkervcp/yolks:nodejs_24` dan `ghcr.io/ptero-eggs/yolks:nodejs_20`.\n*   **Git Repo Address**: Kolom untuk memasukkan alamat repositori Git yang akan dikloning.\n*   **Install Branch**: Kolom untuk menentukan cabang Git yang akan diinstal, dengan \"master\" sebagai nilai default.\n*   **Git Username**: Kolom untuk memasukkan nama pengguna untuk otentikasi Git.\n\nSecara keseluruhan, gambar ini menunjukkan antarmuka pengguna untuk mengonfigurasi dan menyiapkan server, kemungkinan besar dalam konteks hosting game atau aplikasi.",
+      "timestamp": "2026-07-10T04:02:21.261Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
