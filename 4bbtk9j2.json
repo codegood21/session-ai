@@ -1,9 +1,22 @@
 {
   "sessionId": "4bbtk9j2",
   "createdAt": "2026-07-10T05:33:45.733Z",
-  "lastActivity": "2026-07-10T05:33:45.733Z",
-  "history": [],
+  "lastActivity": "2026-07-10T05:33:53.662Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INFORMASI KONTEKS VISUAL GAMBAR]:\n- Deskripsi Visual: A close-up shows a person wearing over-ear headphones and a dark hoodie indoors with a window-like view behind them.\n\nThe main subject is a person facing the camera in a tight head-and-shoulders frame, eyes closed, mouth slightly open, and head tilted slightly downward. They wear large black over-ear headphones and a dark hooded sweatshirt. The lighting is even and soft, creating mild highlights on the forehead and cheeks. Behind the person on the left is a bright orange fabric, and on the right there is a dark vertical panel with a small rectangular orange label near the middle.\n\nThe setting appears to be indoors, with a background that includes a window or light outdoor area to the left and a dark screen or panel to the right. The time of day is unclear, and weather is not visible.\n\nVisible Text:\n130\n\nPractical Summary:\nThe image shows a person wearing headphones and a dark hoodie with their eyes closed and mouth slightly open. Behind them are an orange fabric element and a dark panel with a small orange label reading “130.”\n\nPertanyaan asli user: Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9231/747963523_nsfw-1783661623967.png",
+      "timestamp": "2026-07-10T05:33:53.662Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}",
+      "timestamp": "2026-07-10T05:33:53.662Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
