@@ -1,9 +1,22 @@
 {
   "sessionId": "fjwv854w",
   "createdAt": "2026-07-10T07:37:35.297Z",
-  "lastActivity": "2026-07-10T07:37:35.297Z",
-  "history": [],
+  "lastActivity": "2026-07-10T07:37:39.034Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9233/747988947_nsfw-1783669053894.png",
+      "timestamp": "2026-07-10T07:37:39.034Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar tersebut menampilkan ilustrasi gaya anime yang sangat sederhana dari bagian wajah seorang karakter perempuan dengan rambut merah muda. Karakter ini memiliki mata besar berwarna biru dengan pupil hitam dan sorotan putih. Ada hiasan rambut berbentuk seperti bunga atau pita di sisi kiri kepalanya, terdiri dari bentuk persegi berwarna biru muda dan kuning. Garis-garis tipis berwarna merah muda terlihat di bawah matanya, yang mungkin menggambarkan emosi sedih atau lelah. Pakaian yang terlihat di bagian bawah gambar juga berwarna merah muda dengan garis-garis vertikal yang lebih terang. Keseluruhan gambar memiliki gaya kartun yang imut dan tidak mengandung elemen NSFW.",
+      "timestamp": "2026-07-10T07:37:39.034Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
