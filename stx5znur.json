@@ -1,9 +1,22 @@
 {
   "sessionId": "stx5znur",
   "createdAt": "2026-07-11T22:04:24.820Z",
-  "lastActivity": "2026-07-11T22:04:24.820Z",
-  "history": [],
+  "lastActivity": "2026-07-11T22:04:29.148Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ini gambar apa? tulisan apa disitu",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrgwwk7n.jpg",
+      "timestamp": "2026-07-11T22:04:29.148Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini adalah sebuah desain grafis yang menampilkan logo atau nama produk dengan latar belakang yang gelap dan futuristik. Terdapat tulisan besar \"YNA CPANEL\" di bagian tengah, dengan huruf \"YNA\" berwarna oranye terang yang terlihat bersinar, dan \"CPANEL\" berwarna putih dengan efek kilauan.\n\nDi bagian atas gambar, terdapat tulisan \"YNA STORE\" di sisi kiri, dan di sisi kanan ada tulisan \"FAST • STABLE • SECURE\" yang menunjukkan keunggulan produk ini.\n\nDi bagian bawah, terdapat ikon server dan tulisan \"POWERED BY YNA DEVELOPER\". Latar belakangnya dihiasi dengan garis-garis melengkung berwarna oranye yang memberikan kesan dinamis dan modern. Keseluruhan desain ini menciptakan kesan profesional dan canggih.",
+      "timestamp": "2026-07-11T22:04:29.148Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
