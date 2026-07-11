@@ -1,9 +1,22 @@
 {
   "sessionId": "rubm49o5",
   "createdAt": "2026-07-11T16:55:48.964Z",
-  "lastActivity": "2026-07-11T16:55:48.964Z",
-  "history": [],
+  "lastActivity": "2026-07-11T16:55:50.110Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "bot tadi aku ngomong apa?",
+      "image": null,
+      "timestamp": "2026-07-11T16:55:50.110Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tadi kamu bertanya, \"bot tadi aku ngomong apa?\".",
+      "timestamp": "2026-07-11T16:55:50.110Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
