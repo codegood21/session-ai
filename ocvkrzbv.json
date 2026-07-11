@@ -1,9 +1,22 @@
 {
   "sessionId": "ocvkrzbv",
   "createdAt": "2026-07-11T18:52:18.612Z",
-  "lastActivity": "2026-07-11T18:52:18.612Z",
-  "history": [],
+  "lastActivity": "2026-07-11T18:52:20.287Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa artinya nete bhs jepang",
+      "image": null,
+      "timestamp": "2026-07-11T18:52:20.287Z"
+    },
+    {
+      "role": "assistant",
+      "text": "\"Nete\" (寝て) dalam bahasa Jepang adalah bentuk lampau dari kata kerja \"neru\" (寝る), yang berarti \"tidur\".\n\nJadi, \"nete\" berarti **\"telah tidur\"** atau **\"sedang tidur\"** dalam konteks tertentu, tergantung pada kalimat lengkapnya.\n\nMisalnya:\n*   **寝ていました (nete imashita)**: Saya sedang tidur.\n*   **寝てしまった (nete shimatta)**: Saya tertidur (menunjukkan kejadian yang sudah selesai).",
+      "timestamp": "2026-07-11T18:52:20.287Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
