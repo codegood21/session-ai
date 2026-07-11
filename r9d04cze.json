@@ -1,9 +1,22 @@
 {
   "sessionId": "r9d04cze",
   "createdAt": "2026-07-11T16:31:05.364Z",
-  "lastActivity": "2026-07-11T16:31:05.364Z",
-  "history": [],
+  "lastActivity": "2026-07-11T16:31:08.640Z",
+  "history": [
+    {
+      "role": "user",
+      "text": ".ai ini gambar apa",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrgkzyp2.jpg",
+      "timestamp": "2026-07-11T16:31:08.640Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan karakter kartun Doraemon yang sedang berjalan di sebuah koridor. Doraemon terlihat tersenyum lebar, matanya tertutup dengan gembira, dan ia sedang membawa sebuah wadah berwarna merah yang berisi beberapa makanan, kemungkinan besar dorayaki. Latar belakangnya adalah koridor dengan pintu-pintu di kedua sisinya dan jendela. Ada juga tulisan \"OHAY, TV\" di pojok kiri atas gambar.",
+      "timestamp": "2026-07-11T16:31:08.640Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
