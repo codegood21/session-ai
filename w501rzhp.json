@@ -1,9 +1,22 @@
 {
   "sessionId": "w501rzhp",
   "createdAt": "2026-07-11T15:27:30.667Z",
-  "lastActivity": "2026-07-11T15:27:30.667Z",
-  "history": [],
+  "lastActivity": "2026-07-11T15:27:37.838Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INFORMASI KONTEKS VISUAL GAMBAR]:\n- Deskripsi Visual: A young person is shown in a covered outdoor gathering area, with bright colored chairs and a yellow object in the foreground.\n\nMain Subject:\nA young person with short dark hair and medium-light skin is positioned on the left side of the image, facing the camera with a neutral, slightly serious expression. They wear a dark, long-sleeved shirt with light-colored text across the chest, and their posture is mostly still as they look toward the camera. In the right foreground, part of a bright yellow chair or object is visible, and a pale green object is partially visible beneath it.\n\nSetting:\nThe scene takes place in an open-sided, tent-like structure or pavilion with a light gray ceiling and white roof supports. Behind the main person, there are rows of green plastic chairs and some people sitting or standing under the canopy. The lighting appears bright and even, suggesting daytime.\n\nVisual Details:\nThe camera angle is slightly low and close, focusing on the person’s face and upper torso. The person’s shirt has a dark base with light lettering. The background includes teal-green curtains or fabric panels on the left and a white wall or tent section on the right, with people gathered further back. The ground appears to be a smooth paved surface.\n\nVisible Text:\n“MAZE MON NOU PTAR” is visible on the person’s shirt, though parts are unclear.\n\nPractical Summary:\nThe image shows a young person posing for the camera at a busy gathering under a tented structure. Green seating and multiple people are visible in the background, while a bright yellow chair or object appears in the foreground.\n\nPertanyaan asli user: Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrgiq3xs.jpg",
+      "timestamp": "2026-07-11T15:27:37.838Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}",
+      "timestamp": "2026-07-11T15:27:37.838Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
