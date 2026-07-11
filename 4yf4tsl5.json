@@ -1,9 +1,22 @@
 {
   "sessionId": "4yf4tsl5",
   "createdAt": "2026-07-11T23:47:54.647Z",
-  "lastActivity": "2026-07-11T23:47:54.647Z",
-  "history": [],
+  "lastActivity": "2026-07-11T23:47:55.751Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan saya gambar kucing lucu",
+      "image": null,
+      "timestamp": "2026-07-11T23:47:55.751Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, ini dia gambar kucing lucu untukmu!\n\n",
+      "timestamp": "2026-07-11T23:47:55.751Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
