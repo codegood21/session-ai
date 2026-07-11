@@ -1,9 +1,22 @@
 {
   "sessionId": "5fucqw0l",
   "createdAt": "2026-07-11T15:59:30.272Z",
-  "lastActivity": "2026-07-11T15:59:30.272Z",
-  "history": [],
+  "lastActivity": "2026-07-11T15:59:33.992Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9265/748318641_nsfw-1783785569174.png",
+      "timestamp": "2026-07-11T15:59:33.992Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan sebuah karakter anime dengan rambut berwarna ungu pucat yang dikuncir dua, mata biru besar, dan rona merah di pipinya. Karakter tersebut mengenakan pakaian putih dengan kerah biru dan memegang sebuah cangkir berwarna putih. Latar belakangnya tampak buram dan berwarna coklat, menunjukkan suasana di dalam ruangan. Tidak ada konten NSFW, pornografi, atau ketelanjangan dalam gambar ini.",
+      "timestamp": "2026-07-11T15:59:33.992Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
