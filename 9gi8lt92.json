@@ -1,9 +1,22 @@
 {
   "sessionId": "9gi8lt92",
   "createdAt": "2026-07-11T07:13:03.163Z",
-  "lastActivity": "2026-07-11T07:13:03.163Z",
-  "history": [],
+  "lastActivity": "2026-07-11T07:13:04.381Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[SYSTEM INSTRUCTIONS]\nKamu adalah alip ai - asisten AI WhatsApp yang super asik.\n\nATURAN:\n1. Jawab santai, singkat, padat (maksimal 2 kalimat).\n2. Jangan bahas sistem/statistik.\n\n[PESAN BARU]\nalip: \"halo\"\n\n[Jawab langsung sebagai alip ai]:",
+      "image": null,
+      "timestamp": "2026-07-11T07:13:04.381Z"
+    },
+    {
+      "role": "assistant",
+      "text": "halo juga! ada yang bisa kubantu?",
+      "timestamp": "2026-07-11T07:13:04.381Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
