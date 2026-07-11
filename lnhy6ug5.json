@@ -1,9 +1,22 @@
 {
   "sessionId": "lnhy6ug5",
   "createdAt": "2026-07-11T16:31:43.667Z",
-  "lastActivity": "2026-07-11T16:31:43.667Z",
-  "history": [],
+  "lastActivity": "2026-07-11T16:31:48.046Z",
+  "history": [
+    {
+      "role": "user",
+      "text": ".ai ini gambar apa?",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrgl0s30.jpg",
+      "timestamp": "2026-07-11T16:31:48.046Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan makanan yang disajikan dalam wadah aluminium foil, yang kemudian diletakkan di dalam kotak kardus. Makanan tersebut terlihat seperti takoyaki atau sejenisnya, dengan saus berwarna oranye kemerahan di atasnya dan taburan daun cincang berwarna hijau, kemungkinan parsley atau nori. Ada sepasang sumpit putih yang diletakkan di atas makanan tersebut. Sebagian makanan sudah terlihat habis, menyisakan saus dan remah-remah di wadah.",
+      "timestamp": "2026-07-11T16:31:48.046Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
