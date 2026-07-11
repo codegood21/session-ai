@@ -1,9 +1,22 @@
 {
   "sessionId": "ykjnu3o2",
   "createdAt": "2026-07-11T16:55:01.770Z",
-  "lastActivity": "2026-07-11T16:55:01.770Z",
-  "history": [],
+  "lastActivity": "2026-07-11T16:55:03.228Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "bot aku sedih",
+      "image": null,
+      "timestamp": "2026-07-11T16:55:03.228Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Aku turut prihatin mendengar kamu sedang merasa sedih. Ada sesuatu yang ingin kamu ceritakan? Terkadang, berbagi cerita bisa membantu meringankan beban.\n\nAku di sini untuk mendengarkan, tanpa menghakimi. Jika kamu tidak ingin bercerita, tidak apa-apa juga. Kadang-kadang, hanya tahu ada yang mendengarkan sudah cukup.\n\nApapun yang membuatmu sedih, semoga kamu segera merasa lebih baik ya.",
+      "timestamp": "2026-07-11T16:55:03.228Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
