@@ -1,9 +1,22 @@
 {
   "sessionId": "yz9hzz0v",
   "createdAt": "2026-07-12T07:21:21.447Z",
-  "lastActivity": "2026-07-12T07:21:21.447Z",
-  "history": [],
+  "lastActivity": "2026-07-12T07:21:22.726Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "+97 ?",
+      "image": null,
+      "timestamp": "2026-07-12T07:21:22.726Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Pertanyaan Anda adalah \"+97 ?\".\n\nAngka 97 adalah bilangan bulat positif.\n\nApakah Anda ingin saya melakukan operasi matematika dengan angka ini, atau ada konteks lain yang ingin Anda tanyakan terkait angka 97?",
+      "timestamp": "2026-07-12T07:21:22.726Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
