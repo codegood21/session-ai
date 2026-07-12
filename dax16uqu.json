@@ -1,9 +1,22 @@
 {
   "sessionId": "dax16uqu",
   "createdAt": "2026-07-12T12:43:14.541Z",
-  "lastActivity": "2026-07-12T12:43:14.541Z",
-  "history": [],
+  "lastActivity": "2026-07-12T12:43:19.432Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrhsas27.jpg",
+      "timestamp": "2026-07-12T12:43:19.432Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar tersebut menampilkan dua buah atasan pakaian. Atasan yang atas berwarna abu-abu dengan tulisan yang berkilauan dan dihiasi manik-manik. Atasan yang bawah berwarna biru dengan lengan raglan berwarna abu-abu, dihiasi motif bintang dan tulisan \"Star\" serta \"HUGO BOS EST 1989\". Terdapat juga label harga di sisi kanan bawah masing-masing atasan, yaitu \"26k\" untuk atasan atas dan \"25k\" untuk atasan bawah. Kedua pakaian tersebut terlihat dalam kondisi baik dan tidak ada unsur NSFW atau konten yang tidak pantas.",
+      "timestamp": "2026-07-12T12:43:19.432Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
