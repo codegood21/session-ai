@@ -1,9 +1,22 @@
 {
   "sessionId": "r0kq2l0g",
   "createdAt": "2026-07-12T13:56:42.388Z",
-  "lastActivity": "2026-07-12T13:56:42.388Z",
-  "history": [],
+  "lastActivity": "2026-07-12T13:56:43.740Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "lambang kimia air",
+      "image": null,
+      "timestamp": "2026-07-12T13:56:43.740Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, lambang kimia untuk air adalah **H₂O**.\n\nIni berarti bahwa setiap molekul air terdiri dari dua atom hidrogen (H) yang terikat pada satu atom oksigen (O).",
+      "timestamp": "2026-07-12T13:56:43.740Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
