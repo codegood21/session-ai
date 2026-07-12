@@ -1,9 +1,22 @@
 {
   "sessionId": "0q89x6yh",
   "createdAt": "2026-07-12T06:37:00.353Z",
-  "lastActivity": "2026-07-12T06:37:00.353Z",
-  "history": [],
+  "lastActivity": "2026-07-12T06:37:07.179Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INFORMASI KONTEKS VISUAL GAMBAR]:\n- Deskripsi Visual: A close-up portrait shows a man in a formal military-style uniform facing the camera against a blurred background.\n\nMain Subject:\nThe main focus is a single person shown from the chest up, with short dark hair, a clean-shaven face, and a neutral expression while looking straight ahead.\n\nSetting:\nThe background is an out-of-focus indoor or stadium-like setting with soft gray and muted red tones, and no distinct objects are clearly identifiable.\n\nVisual Details:\nThe person wears an olive-green uniform with structured shoulders and visible rank-style patches on the collar. The collar has red fabric panels with gold trim and small emblem-like details. A set of medals and ribbon bars is pinned on the chest, including several circular medals arranged in a row and a striped ribbon bar above them. On the left side of the uniform, a leather strap crosses the chest area with a dark buckle near the center. Multiple small metallic pins and medal hardware are visible on the chest. Lighting is even and frontal, highlighting the face and uniform, while the background remains blurred. The camera angle is straight-on, framing the person’s head and shoulders.\n\nVisible Text:\nNo important visible text detected.\n\nPractical Summary:\nThe image shows a close-up of a man in an olive-green, medal-adorned military-style uniform. He is photographed facing forward with a neutral expression, with the background blurred behind him.\n\nPertanyaan asli user: Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9280/748466329_nsfw-1783838219117.jpg",
+      "timestamp": "2026-07-12T06:37:07.179Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}",
+      "timestamp": "2026-07-12T06:37:07.179Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
