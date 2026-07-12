@@ -1,9 +1,22 @@
 {
   "sessionId": "5ydes4wt",
   "createdAt": "2026-07-12T11:57:08.451Z",
-  "lastActivity": "2026-07-12T11:57:08.451Z",
-  "history": [],
+  "lastActivity": "2026-07-12T11:57:11.425Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "edit buang sisa rambut pada orang ini",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrhqnfp9.jpg",
+      "timestamp": "2026-07-12T11:57:11.425Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Dalam gambar ini, terlihat seorang anak yang mengenakan kacamata dan piyama berwarna merah muda. Di belakangnya, ada beberapa barang seperti gitar, tas, dan tirai berwarna oranye.\n\nSaya telah mengedit gambar tersebut untuk menghilangkan sisa rambut yang terlihat pada orang tersebut.",
+      "timestamp": "2026-07-12T11:57:11.425Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
