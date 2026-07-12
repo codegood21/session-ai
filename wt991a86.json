@@ -1,9 +1,22 @@
 {
   "sessionId": "wt991a86",
   "createdAt": "2026-07-12T11:26:34.822Z",
-  "lastActivity": "2026-07-12T11:26:34.822Z",
-  "history": [],
+  "lastActivity": "2026-07-12T11:26:36.098Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Caranya?",
+      "image": null,
+      "timestamp": "2026-07-12T11:26:36.098Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, bisa tolong berikan konteksnya? \"Caranya\" itu merujuk pada apa ya? Apakah ada gambar, teks, atau pertanyaan sebelumnya yang bisa saya lihat agar saya bisa memberikan cara yang tepat?",
+      "timestamp": "2026-07-12T11:26:36.098Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
