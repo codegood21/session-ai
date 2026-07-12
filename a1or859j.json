@@ -1,9 +1,22 @@
 {
   "sessionId": "a1or859j",
   "createdAt": "2026-07-12T14:20:57.289Z",
-  "lastActivity": "2026-07-12T14:20:57.289Z",
-  "history": [],
+  "lastActivity": "2026-07-12T14:20:58.679Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "cari yang lain",
+      "image": null,
+      "timestamp": "2026-07-12T14:20:58.679Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, tapi saya perlu tahu \"yang lain\" itu merujuk pada apa. Apakah Anda mencari informasi lain, gambar lain, atau sesuatu yang spesifik? Mohon berikan saya detail lebih lanjut agar saya bisa membantu Anda dengan lebih baik.",
+      "timestamp": "2026-07-12T14:20:58.679Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
