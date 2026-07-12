@@ -1,9 +1,22 @@
 {
   "sessionId": "10djgjm5",
   "createdAt": "2026-07-12T14:36:56.423Z",
-  "lastActivity": "2026-07-12T14:36:56.423Z",
-  "history": [],
+  "lastActivity": "2026-07-12T14:37:04.715Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INFORMASI KONTEKS VISUAL GAMBAR]:\n- Deskripsi Visual: A stylized illustration shows a young woman with dark hair and red-orange eyes in a kitchen-like room, looking downward with a small smile.\n\nMain Subject:\nThe main focus is a single person with shoulder-length dark brown hair and a red-orange eye color, shown from the chest up, leaning slightly forward and looking down and to the side. She wears a white collared shirt under a dark apron with a decorative gold emblem at the center.\n\nSetting:\nThe background appears to be an indoor kitchen or room with light-colored brick-style walls and shelves. There is a window or bright opening behind her, and warm interior lighting from above. Kitchen appliances and containers are visible along the left side.\n\nVisual Details:\nThe person has straight, layered hair with a slight curl at the ends, with bangs framing her face. Her eyes are highlighted with a stylized bright red-orange tone, and she has a small, closed-mouth smile and relaxed, downcast eyelids. Her clothing includes a white button-up shirt with a visible collar and dark buttons, paired with a dark apron that has metal-like studs near the straps and a gold decorative symbol in the center. A dark bow-like tie is visible at her waist area. The camera angle is close and slightly above her face, with soft, warm lighting creating gentle highlights on her hair and clothing. On the left background, there are shelves holding jars with dark lids, and two coffee makers or small machines sit on a countertop near the lower left.\n\nVisible Text:\nNo important visible text detected.\n\nPractical Summary:\nThe image is a digital illustration of a person in a white shirt and dark apron standing indoors in a kitchen-like setting. She looks downward with a small smile while shelves, jars, and countertop appliances appear behind her.\n\nPertanyaan asli user: Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9288/748555103_nsfw-1783867014705.jpg",
+      "timestamp": "2026-07-12T14:37:04.715Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}",
+      "timestamp": "2026-07-12T14:37:04.715Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
