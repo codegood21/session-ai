@@ -1,9 +1,22 @@
 {
   "sessionId": "taxhoeig",
   "createdAt": "2026-07-12T14:22:40.773Z",
-  "lastActivity": "2026-07-12T14:22:40.773Z",
-  "history": [],
+  "lastActivity": "2026-07-12T14:22:47.781Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INFORMASI KONTEKS VISUAL GAMBAR]:\n- Deskripsi Visual: The image shows a close-up, slightly blurry selfie of a person indoors with large overlaid text across the bottom.\n\nMain Subject:\nA person is shown from the shoulders up, facing the camera with a neutral expression. They have short dark hair and a dark, rectangular item or shadow on the top of their head. The face appears partially shadowed and indistinct due to low clarity.\n\nSetting:\nThe background appears to be an indoor room with a pale, light-colored ceiling and wall. A slanted or angled section of the background is visible on the left side, and a bright light source is present behind or near the person on the right side.\n\nVisual Details:\nThe color palette is muted, with light grays and whites in the background. The lighting is soft but uneven, creating darker areas around the face and upper head. The camera angle is at about face level, and the framing is tight on the head and upper shoulders. Large bold text is centered near the bottom of the image, reading in white letters with a black outline.\n\nVisible Text:\nASELI\n\nPractical Summary:\nA blurry indoor selfie shows a person facing the camera with dark hair and a neutral look. Bold text reading “ASELI” is overlaid near the bottom of the image.\n\nPertanyaan asli user: Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9288/748552874_nsfw-1783866159539.jpg",
+      "timestamp": "2026-07-12T14:22:47.781Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}",
+      "timestamp": "2026-07-12T14:22:47.781Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
