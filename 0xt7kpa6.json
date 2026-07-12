@@ -1,9 +1,22 @@
 {
   "sessionId": "0xt7kpa6",
   "createdAt": "2026-07-12T14:36:46.366Z",
-  "lastActivity": "2026-07-12T14:36:46.366Z",
-  "history": [],
+  "lastActivity": "2026-07-12T14:36:53.579Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INFORMASI KONTEKS VISUAL GAMBAR]:\n- Deskripsi Visual: A close-up shows a large, cartoon-like character face wearing a pink and white striped knit hat against a textured outdoor-looking ground.\n\nThe main subject is a childlike, animated-looking face with large light-colored eyes with dark pupils, rounded cheeks, and a wide smile showing small teeth. The character wears a pink and white striped beanie-style hat that covers the top of the head, with matching pink fabric framing the sides and lower areas near the cheeks. The character’s hands are raised on both sides of the face, with fingers curled as if adjusting or holding the hat.\n\nThe setting appears outdoors with a ground surface that looks sandy or grassy and a few indistinct objects in the background, including a brown area at the top right and partial elements at the bottom left.\n\nThe lighting is bright and even, with the character’s face filling most of the frame. The camera angle is very close and slightly off-center, creating a tight portrait composition focused on the face and hat.\n\nNo important visible text detected.\n\nThe image shows a close-up of a cartoon character wearing a striped pink and white hat and holding it with both hands. The character smiles with large eyes, set against a rough outdoor ground background.\n\nPertanyaan asli user: Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrhwcpw6.jpg",
+      "timestamp": "2026-07-12T14:36:53.579Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}",
+      "timestamp": "2026-07-12T14:36:53.579Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
