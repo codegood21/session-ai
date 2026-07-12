@@ -1,9 +1,22 @@
 {
   "sessionId": "ui0dpyse",
   "createdAt": "2026-07-12T14:21:19.090Z",
-  "lastActivity": "2026-07-12T14:21:19.090Z",
-  "history": [],
+  "lastActivity": "2026-07-12T14:21:25.056Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "10000 jam berapa taun",
+      "image": null,
+      "timestamp": "2026-07-12T14:21:25.056Z"
+    },
+    {
+      "role": "assistant",
+      "text": "10.000 jam setara dengan sekitar 1,14 tahun.\n\nUntuk menghitungnya, kita membagi jumlah jam dengan jumlah jam dalam setahun. Satu tahun memiliki 365 hari (atau 366 hari di tahun kabisat), dan setiap hari memiliki 24 jam. Jadi, satu tahun memiliki sekitar 365 x 24 = 8.760 jam.\n\nDengan demikian, 10.000 jam dibagi 8.760 jam/tahun = sekitar 1,14 tahun.",
+      "timestamp": "2026-07-12T14:21:25.056Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
