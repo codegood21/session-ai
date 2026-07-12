@@ -1,9 +1,22 @@
 {
   "sessionId": "258868679581@s.whatsapp.net",
   "createdAt": "2026-07-12T17:24:32.857Z",
-  "lastActivity": "2026-07-12T17:24:32.857Z",
-  "history": [],
+  "lastActivity": "2026-07-12T17:24:34.243Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa arti gws",
+      "image": null,
+      "timestamp": "2026-07-12T17:24:34.243Z"
+    },
+    {
+      "role": "assistant",
+      "text": "\"GWS\" adalah singkatan dari **\"Get Well Soon\"**.\n\nDalam bahasa Indonesia, artinya adalah **\"Semoga lekas sembuh\"**.\n\nUngkapan ini biasanya digunakan untuk mendoakan seseorang yang sedang sakit agar segera pulih kembali.",
+      "timestamp": "2026-07-12T17:24:34.243Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
