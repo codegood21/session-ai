@@ -1,7 +1,7 @@
 {
   "sessionId": "120363046845085592@g.us_5351524614@s.whatsapp.net_2",
   "createdAt": "2026-07-05T17:59:37.416Z",
-  "lastActivity": "2026-07-12T15:15:42.677Z",
+  "lastActivity": "2026-07-13T00:21:21.223Z",
   "history": [
     {
       "role": "user",
@@ -86,9 +86,21 @@
       "text": "La traducción de la pregunta \"Hola, todavía nada?\" al inglés es: **\"Hello, still nothing?\"**",
       "timestamp": "2026-07-12T15:15:42.677Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "traduce esto: I'm not going to wake up\n\nResponde en español",
+      "image": null,
+      "timestamp": "2026-07-13T00:21:21.223Z"
+    },
+    {
+      "role": "assistant",
+      "text": "La frase \"I'm not going to wake up\" se traduce al español como **\"No voy a despertar\"**.",
+      "timestamp": "2026-07-13T00:21:21.223Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 14
+    "totalMessages": 16
   }
 }
