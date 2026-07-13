@@ -1,9 +1,22 @@
 {
   "sessionId": "120363404559559388@g.us_5215643778440@s.whatsapp.net_1",
   "createdAt": "2026-07-13T17:23:19.919Z",
-  "lastActivity": "2026-07-13T17:23:19.919Z",
-  "history": [],
+  "lastActivity": "2026-07-13T17:23:21.261Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "hola\n\nResponde en español",
+      "image": null,
+      "timestamp": "2026-07-13T17:23:21.261Z"
+    },
+    {
+      "role": "assistant",
+      "text": "¡Hola! ¿En qué puedo ayudarte hoy?",
+      "timestamp": "2026-07-13T17:23:21.261Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
