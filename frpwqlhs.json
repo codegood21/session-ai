@@ -1,9 +1,22 @@
 {
   "sessionId": "frpwqlhs",
   "createdAt": "2026-07-13T13:21:03.684Z",
-  "lastActivity": "2026-07-13T13:21:03.684Z",
-  "history": [],
+  "lastActivity": "2026-07-13T13:21:05.972Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ikan hiu makan tomat?",
+      "image": null,
+      "timestamp": "2026-07-13T13:21:05.972Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja tidak, ikan hiu tidak makan tomat.\n\nGambar yang Anda berikan menunjukkan ilustrasi ikan hiu. Hiu adalah karnivora, yang berarti mereka memakan daging. Makanan utama mereka adalah ikan lain, anjing laut, singa laut, dan terkadang mamalia laut lainnya. Tomat adalah buah (seringkali dianggap sayuran dalam kuliner) dan tidak termasuk dalam pola makan alami hiu sama sekali.",
+      "timestamp": "2026-07-13T13:21:05.972Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
