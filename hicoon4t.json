@@ -1,9 +1,22 @@
 {
   "sessionId": "hicoon4t",
   "createdAt": "2026-07-13T13:35:29.963Z",
-  "lastActivity": "2026-07-13T13:35:29.963Z",
-  "history": [],
+  "lastActivity": "2026-07-13T13:35:31.797Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "bro coli adalah sayuran",
+      "image": null,
+      "timestamp": "2026-07-13T13:35:31.797Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Brokoli adalah sayuran, tepatnya termasuk dalam keluarga kubis-kubisan (Brassicaceae). Sayuran ini terkenal dengan kandungan nutrisinya yang sangat baik, seperti vitamin C, vitamin K, serat, dan berbagai antioksidan. Bentuknya yang menyerupai pohon kecil dengan kuntum-kuntum hijau padat membuatnya mudah dikenali.",
+      "timestamp": "2026-07-13T13:35:31.797Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
