@@ -1,9 +1,22 @@
 {
   "sessionId": "4860fz98",
   "createdAt": "2026-07-13T02:37:48.966Z",
-  "lastActivity": "2026-07-13T02:37:48.966Z",
-  "history": [],
+  "lastActivity": "2026-07-13T02:37:52.216Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu source",
+      "image": null,
+      "timestamp": "2026-07-13T02:37:52.216Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Dalam konteks pemrograman komputer, \"source\" atau \"source code\" merujuk pada kumpulan instruksi atau perintah yang ditulis oleh programmer dalam bahasa pemrograman tertentu. Kode sumber ini adalah cetak biru yang memberi tahu komputer apa yang harus dilakukan.\n\nBayangkan Anda sedang membaca resep masakan. Resep itu adalah \"source code\" dari hidangan tersebut. Anda, sebagai \"komputer\" atau \"eksekutor\", membaca instruksi dalam resep dan kemudian melakukan langkah-langkahnya untuk menghasilkan hidangan (program yang berjalan).\n\nBerikut beberapa poin penting mengenai source code:\n\n*   **Bahasa Pemrograman:** Ditulis menggunakan bahasa seperti Python, Java, C++, JavaScript, dan lain-lain. Setiap bahasa memiliki sintaksis dan aturan penulisannya sendiri.\n*   **Dapat Dibaca Manusia:** Source code dirancang agar dapat dibaca dan dipahami oleh manusia (programmer). Ini berbeda dengan kode mesin yang hanya dapat dipahami oleh komputer.\n*   **Perlu Kompilasi/Interpretasi:** Agar komputer dapat menjalankan source code, biasanya perlu diubah terlebih dahulu menjadi kode mesin. Proses ini dilakukan oleh program lain yang disebut *compiler* (untuk bahasa seperti C++ atau Java) atau *interpreter* (untuk bahasa seperti Python atau JavaScript).\n*   **Modifikasi dan Perbaikan:** Programmer dapat membaca, memodifikasi, dan memperbaiki source code untuk menambahkan fitur baru, memperbaiki bug (kesalahan), atau mengoptimalkan kinerja program.\n*   **Distribusi:** Terkadang, source code juga dibagikan kepada orang lain, terutama dalam proyek *open source*, agar mereka dapat melihat cara kerja program, berkontribusi, atau memodifikasinya.\n\nJadi, secara sederhana, \"source\" adalah instruksi dasar yang membentuk sebuah program komputer.",
+      "timestamp": "2026-07-13T02:37:52.216Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
