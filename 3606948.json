@@ -1,9 +1,22 @@
 {
   "sessionId": "3606948",
   "createdAt": "2026-07-13T08:56:07.974Z",
-  "lastActivity": "2026-07-13T08:56:07.974Z",
-  "history": [],
+  "lastActivity": "2026-07-13T08:56:11.685Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "gambar ini apa",
+      "image": "https://u.pone.rs/bfwnszbj.jpg",
+      "timestamp": "2026-07-13T08:56:11.685Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini adalah foto selfie seorang wanita muda yang berambut hitam panjang. Dia terlihat berbaring miring, dengan satu tangan menopang wajahnya. Matanya terlihat gelap dan berbinar, dan bibirnya sedikit tersenyum. Di latar belakang, terlihat sebuah pintu berwarna coklat.",
+      "timestamp": "2026-07-13T08:56:11.685Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
