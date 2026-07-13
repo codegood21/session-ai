@@ -1,9 +1,22 @@
 {
   "sessionId": "rj0sgad3",
   "createdAt": "2026-07-13T18:15:44.471Z",
-  "lastActivity": "2026-07-13T18:15:44.471Z",
-  "history": [],
+  "lastActivity": "2026-07-13T18:15:46.046Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Beethoven tuh nama orang kan ya?",
+      "image": null,
+      "timestamp": "2026-07-13T18:15:46.046Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Betul sekali! Beethoven adalah nama seorang komponis musik klasik yang sangat terkenal. Nama lengkapnya adalah Ludwig van Beethoven. Beliau adalah salah satu tokoh paling penting dalam sejarah musik Barat, dan karyanya masih sering dimainkan dan dinikmati sampai sekarang.",
+      "timestamp": "2026-07-13T18:15:46.046Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
