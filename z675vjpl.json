@@ -1,9 +1,22 @@
 {
   "sessionId": "z675vjpl",
   "createdAt": "2026-07-13T12:52:13.630Z",
-  "lastActivity": "2026-07-13T12:52:13.630Z",
-  "history": [],
+  "lastActivity": "2026-07-13T12:52:17.101Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "translate an kata\" di atas ini ke bahasa indo",
+      "image": null,
+      "timestamp": "2026-07-13T12:52:17.101Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan menerjemahkan teks yang Anda berikan ke dalam Bahasa Indonesia. Namun, sepertinya Anda lupa menyertakan teks yang ingin diterjemahkan.\n\nMohon berikan teksnya, dan saya akan bantu menerjemahkannya untuk Anda.",
+      "timestamp": "2026-07-13T12:52:17.101Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
