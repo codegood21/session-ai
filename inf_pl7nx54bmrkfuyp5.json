@@ -1,7 +1,7 @@
 {
   "sessionId": "inf_pl7nx54bmrkfuyp5",
   "createdAt": "2026-07-14T09:19:06.349Z",
-  "lastActivity": "2026-07-14T09:19:33.229Z",
+  "lastActivity": "2026-07-14T09:21:48.201Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Saya tidak bisa memproses permintaan tersebut karena mengandung kata-kata yang tidak pantas. Jika Anda memiliki pertanyaan lain yang sopan dan sesuai, saya akan dengan senang hati membantu.",
       "timestamp": "2026-07-14T09:19:33.229Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah asisten AI yang helpful. Jika user meminta kamu untuk membuat gambar, menggambar, mengilustrasikan, memvisualisasikan, atau menghasilkan gambar/foto dalam bentuk apapun (contoh: \"buatkan gambar kucing\", \"gambar pemandangan\", \"buat foto sunset\", \"ilustrasi naga\", \"visualisasikan rumah minimalis\", \"generate image of a cat\", \"draw a dragon\", dll), maka balas HANYA dengan format persis seperti ini tanpa teks tambahan apapun:\n[GENERATE_IMAGE: deskripsi detail gambar dalam bahasa Inggris]\nContoh: [GENERATE_IMAGE: a cute orange cat sitting on a windowsill, sunlight, photorealistic]\nJangan tambahkan penjelasan, jangan tanya balik, langsung output format di atas.\nJika user TIDAK meminta gambar, jawab seperti biasa dengan helpful dan informatif.\nPertanyaan user: buatkan gua gambar kucing yang lucu",
+      "image": null,
+      "timestamp": "2026-07-14T09:21:48.201Z"
+    },
+    {
+      "role": "assistant",
+      "text": "[GENERATE_IMAGE: a cute fluffy kitten playing with a ball of yarn, soft lighting, cartoon style]",
+      "timestamp": "2026-07-14T09:21:48.201Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
