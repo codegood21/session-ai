@@ -1,9 +1,22 @@
 {
   "sessionId": "32fo21uw",
   "createdAt": "2026-07-14T12:21:06.381Z",
-  "lastActivity": "2026-07-14T12:21:06.381Z",
-  "history": [],
+  "lastActivity": "2026-07-14T12:21:08.347Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "recommended nada apa",
+      "image": null,
+      "timestamp": "2026-07-14T12:21:08.347Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa bantu memberikan rekomendasi nada. Namun, agar rekomendasinya tepat, saya butuh sedikit informasi lebih lanjut dari Anda.\n\nBoleh tahu, nada apa yang Anda maksud?\n\n*   **Nada untuk menyanyi?** (Misalnya, nada dasar untuk menyanyikan lagu tertentu, atau nada yang cocok untuk suara Anda?)\n*   **Nada dalam musik?** (Misalnya, nada mayor, minor, atau nada-nada tertentu yang ingin Anda pelajari?)\n*   **Nada dalam konteks lain?** (Mungkin nada bicara, nada warna, atau yang lainnya?)\n\nSetelah saya tahu konteksnya, saya akan bisa memberikan rekomendasi yang lebih spesifik dan bermanfaat.",
+      "timestamp": "2026-07-14T12:21:08.347Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
