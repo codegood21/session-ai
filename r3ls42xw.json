@@ -1,9 +1,22 @@
 {
   "sessionId": "r3ls42xw",
   "createdAt": "2026-07-14T09:17:53.887Z",
-  "lastActivity": "2026-07-14T09:17:53.887Z",
-  "history": [],
+  "lastActivity": "2026-07-14T09:17:55.533Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apakah umur 17 udah bisa bikin ktp?",
+      "image": null,
+      "timestamp": "2026-07-14T09:17:55.533Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Ya, umur 17 tahun sudah bisa membuat KTP (Kartu Tanda Penduduk) elektronik. Di Indonesia, usia 17 tahun merupakan usia yang dianggap cukup secara hukum untuk memiliki KTP.",
+      "timestamp": "2026-07-14T09:17:55.533Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
