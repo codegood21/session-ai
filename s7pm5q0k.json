@@ -1,9 +1,22 @@
 {
   "sessionId": "s7pm5q0k",
   "createdAt": "2026-07-14T23:27:31.909Z",
-  "lastActivity": "2026-07-14T23:27:31.909Z",
-  "history": [],
+  "lastActivity": "2026-07-14T23:27:33.774Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "jika 6:30 ke 09:00 itu butuh brp menit lgi",
+      "image": null,
+      "timestamp": "2026-07-14T23:27:33.773Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Untuk menghitung selisih waktu antara pukul 06:30 dan 09:00, kita bisa memecahnya menjadi dua bagian:\n\n1.  **Dari 06:30 ke 07:00:** Ini adalah 30 menit.\n2.  **Dari 07:00 ke 09:00:** Ini adalah 2 jam.\n\nKarena 1 jam = 60 menit, maka 2 jam = 2 \\* 60 = 120 menit.\n\nJadi, total waktu yang dibutuhkan adalah 30 menit + 120 menit = 150 menit.\n\nAtau, kita bisa menghitung total jamnya terlebih dahulu:\nDari 06:30 ke 09:00 adalah 2 jam dan 30 menit.\nMengubahnya ke menit: (2 jam \\* 60 menit/jam) + 30 menit = 120 menit + 30 menit = 150 menit.",
+      "timestamp": "2026-07-14T23:27:33.774Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
