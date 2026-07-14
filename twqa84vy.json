@@ -1,9 +1,22 @@
 {
   "sessionId": "twqa84vy",
   "createdAt": "2026-07-14T07:59:49.716Z",
-  "lastActivity": "2026-07-14T07:59:49.716Z",
-  "history": [],
+  "lastActivity": "2026-07-14T07:59:51.462Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "999999989 hari itu berapa tahun",
+      "image": null,
+      "timestamp": "2026-07-14T07:59:51.462Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita hitung berapa tahun 999.999.989 hari itu.\n\nUntuk mengonversinya, kita perlu tahu berapa hari dalam satu tahun. Rata-rata, ada 365,25 hari dalam satu tahun (mempertimbangkan tahun kabisat).\n\nJadi, perhitungannya adalah:\n\n999.999.989 hari / 365,25 hari/tahun ≈ 2.737.885,7 tahun\n\nJadi, 999.999.989 hari itu kira-kira setara dengan **2.737.885,7 tahun**.",
+      "timestamp": "2026-07-14T07:59:51.462Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
