@@ -1,9 +1,22 @@
 {
   "sessionId": "ub5o9c0b",
   "createdAt": "2026-07-15T12:47:26.927Z",
-  "lastActivity": "2026-07-15T12:47:26.927Z",
-  "history": [],
+  "lastActivity": "2026-07-15T12:47:29.156Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "nama lagu dgn lirik timur kebarat selatan ke utara berjajar",
+      "image": null,
+      "timestamp": "2026-07-15T12:47:29.156Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Berdasarkan lirik \"timur ke barat, selatan ke utara berjajar\", lagu yang Anda cari kemungkinan besar adalah **\"Indonesia Pusaka\"**.\n\nLagu ini diciptakan oleh Ismail Marzuki dan merupakan salah satu lagu nasional Indonesia yang sangat populer. Liriknya menggambarkan keindahan dan kekayaan alam Indonesia dari Sabang sampai Merauke.",
+      "timestamp": "2026-07-15T12:47:29.156Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
