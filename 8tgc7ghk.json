@@ -1,9 +1,22 @@
 {
   "sessionId": "8tgc7ghk",
   "createdAt": "2026-07-15T08:18:33.027Z",
-  "lastActivity": "2026-07-15T08:18:33.027Z",
-  "history": [],
+  "lastActivity": "2026-07-15T08:18:35.533Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "berapa resolusi sw whatsapp, dri 1080p ke kompres ke resolusi berapa",
+      "image": null,
+      "timestamp": "2026-07-15T08:18:35.533Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Dalam WhatsApp, saat Anda mengirim foto atau video, ada proses kompresi yang terjadi untuk menghemat data dan mempercepat pengiriman.\n\nJika Anda mengirimkan foto dengan resolusi 1080p, WhatsApp akan mengompresnya. Resolusi pastinya bisa bervariasi tergantung pada beberapa faktor, termasuk ukuran file asli, kualitas gambar, dan pengaturan kompresi WhatsApp pada saat itu. Namun, sebagai gambaran umum, foto 1080p yang dikompres oleh WhatsApp biasanya akan memiliki resolusi yang lebih rendah dari 1080p, seringkali sekitar 720p atau bahkan lebih rendah lagi untuk menjaga ukuran file tetap kecil.\n\nPerlu diingat juga bahwa WhatsApp memiliki opsi untuk mengirim media dalam kualitas \"HD\" atau \"Standar\". Jika Anda memilih kualitas \"Standar\", kompresi akan lebih agresif. Jika Anda memilih kualitas \"HD\", kompresi akan lebih minimal, sehingga resolusi yang dihasilkan akan lebih mendekati resolusi aslinya, meskipun tetap ada sedikit kompresi.",
+      "timestamp": "2026-07-15T08:18:35.533Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
