@@ -1,7 +1,7 @@
 {
   "sessionId": "rohan",
   "createdAt": "2026-07-15T17:10:20.791Z",
-  "lastActivity": "2026-07-15T17:35:54.069Z",
+  "lastActivity": "2026-07-15T17:42:48.407Z",
   "history": [
     {
       "role": "user",
@@ -62,9 +62,21 @@
       "text": "Tentu, ini teksnya:\n\n\"request disini\nitu yang minta endpoint eai sup imaje sama sessions kasih ini amja\n\nhttps://www.00cc.eu.cc/gemini?sessions=&message=\nwith image : https://www.00cc.eu.cc/gemini?sessions=&message=&image=\ngenerate image : https://www.00cc.eu.cc/gemini?action=generate_image\"",
       "timestamp": "2026-07-15T17:35:54.069Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "hai",
+      "image": null,
+      "timestamp": "2026-07-15T17:42:48.407Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Hai! Ada yang bisa saya bantu hari ini?",
+      "timestamp": "2026-07-15T17:42:48.407Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 10
+    "totalMessages": 12
   }
 }
