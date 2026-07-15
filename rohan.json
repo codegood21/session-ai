@@ -1,7 +1,7 @@
 {
   "sessionId": "rohan",
   "createdAt": "2026-07-15T17:10:20.791Z",
-  "lastActivity": "2026-07-15T17:43:52.383Z",
+  "lastActivity": "2026-07-15T17:44:19.931Z",
   "history": [
     {
       "role": "user",
@@ -122,9 +122,21 @@
       "text": "Mohon maaf, saya tidak melihat gambar hewan yang Anda maksud. Bisakah Anda mengunggah gambarnya agar saya bisa membantu mengidentifikasi hewan tersebut?",
       "timestamp": "2026-07-15T17:43:52.383Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ini foto apa",
+      "image": null,
+      "timestamp": "2026-07-15T17:44:19.931Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Mohon maaf, saya tidak melihat gambar yang Anda maksud. Bisakah Anda mengunggah fotonya agar saya bisa membantu mengidentifikasinya?",
+      "timestamp": "2026-07-15T17:44:19.931Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 20
+    "totalMessages": 22
   }
 }
