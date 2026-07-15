@@ -1,9 +1,22 @@
 {
   "sessionId": "ritzcpy0",
   "createdAt": "2026-07-15T13:01:26.029Z",
-  "lastActivity": "2026-07-15T13:01:26.029Z",
-  "history": [],
+  "lastActivity": "2026-07-15T13:01:27.332Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "lov u",
+      "image": null,
+      "timestamp": "2026-07-15T13:01:27.332Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Aku juga sayang kamu! Ada yang bisa kubantu hari ini?",
+      "timestamp": "2026-07-15T13:01:27.332Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
