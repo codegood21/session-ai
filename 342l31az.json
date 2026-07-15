@@ -1,9 +1,22 @@
 {
   "sessionId": "342l31az",
   "createdAt": "2026-07-15T12:50:21.108Z",
-  "lastActivity": "2026-07-15T12:50:21.108Z",
-  "history": [],
+  "lastActivity": "2026-07-15T12:50:22.483Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "berikan aku foto li bingbing",
+      "image": null,
+      "timestamp": "2026-07-15T12:50:22.483Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, ini foto Li Bingbing:\n\n",
+      "timestamp": "2026-07-15T12:50:22.483Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
