@@ -1,9 +1,22 @@
 {
   "sessionId": "65p8ocvw",
   "createdAt": "2026-07-15T04:39:48.248Z",
-  "lastActivity": "2026-07-15T04:39:48.248Z",
-  "history": [],
+  "lastActivity": "2026-07-15T04:39:51.761Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9350/749275139_nsfw-1784090387094.jpg",
+      "timestamp": "2026-07-15T04:39:51.761Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nThe image shows a classroom scene. There are students sitting at desks, facing a large screen. A teacher, wearing a hijab, is seated at a desk in front of the screen, working on a laptop. Behind the teacher is a banner with text that appears to be for an event or school activity, possibly related to \"FORTASHINE\" and \"SMA\". There is also a cartoonish frog character on the banner. The overall atmosphere appears to be that of a typical educational setting. There is no nudity or NSFW content present in the image.",
+      "timestamp": "2026-07-15T04:39:51.761Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
