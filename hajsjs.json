@@ -1,7 +1,7 @@
 {
   "sessionId": "hajsjs",
   "createdAt": "2026-07-15T17:07:49.863Z",
-  "lastActivity": "2026-07-15T17:08:44.096Z",
+  "lastActivity": "2026-07-15T17:08:51.397Z",
   "history": [
     {
       "role": "user",
@@ -122,9 +122,21 @@
       "text": "Halo! Ada yang bisa saya bantu?",
       "timestamp": "2026-07-15T17:08:44.096Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "nama saya",
+      "image": null,
+      "timestamp": "2026-07-15T17:08:51.397Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Ada yang bisa saya bantu?",
+      "timestamp": "2026-07-15T17:08:51.397Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 20
+    "totalMessages": 22
   }
 }
