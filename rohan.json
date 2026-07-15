@@ -1,7 +1,7 @@
 {
   "sessionId": "rohan",
   "createdAt": "2026-07-15T17:10:20.791Z",
-  "lastActivity": "2026-07-15T17:43:00.131Z",
+  "lastActivity": "2026-07-15T17:43:11.379Z",
   "history": [
     {
       "role": "user",
@@ -86,9 +86,21 @@
       "text": "Halo Rizky! Senang berkenalan denganmu. Ada yang bisa saya bantu untukmu hari ini?",
       "timestamp": "2026-07-15T17:43:00.131Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "coba panggil saya",
+      "image": null,
+      "timestamp": "2026-07-15T17:43:11.379Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, Rizky! Ada yang bisa saya bantu untukmu hari ini?",
+      "timestamp": "2026-07-15T17:43:11.379Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 14
+    "totalMessages": 16
   }
 }
