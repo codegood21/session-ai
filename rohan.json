@@ -1,7 +1,7 @@
 {
   "sessionId": "rohan",
   "createdAt": "2026-07-15T17:10:20.791Z",
-  "lastActivity": "2026-07-15T17:10:55.474Z",
+  "lastActivity": "2026-07-15T17:31:17.939Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Gambar ini menampilkan tangkapan layar dari sebuah percakapan chat, kemungkinan besar dari aplikasi pesan instan seperti WhatsApp. Teks yang ditampilkan dalam gambar tersebut ditulis dalam bahasa Indonesia dan tampaknya berisi instruksi atau informasi mengenai cara mengakses atau menggunakan sebuah layanan, yang kemungkinan besar terkait dengan AI Gemini.\n\nBerikut adalah rincian elemen yang terlihat:\n\n*   **Judul/Instruksi Awal:** Ada baris teks yang diawali dengan ikon tanda tanya dan tulisan \"request disini\". Di bawahnya, terdapat kalimat \"itu yang minta endpoint eai sup imaje sama sessions kasih ini amja\". Kalimat ini sepertinya merupakan instruksi untuk memberikan tautan (endpoint) bagi yang membutuhkan fitur \"image\" dan \"sessions\".\n*   **Tautan-tautan:** Terdapat tiga tautan yang berbeda, semuanya dimulai dengan `https://www.00cc.eu.cc/gemini`.\n    *   Tautan pertama adalah `https://www.00cc.eu.cc/gemini?sessions=&message=`. Tautan ini sepertinya digunakan untuk sesi percakapan atau interaksi dengan Gemini.\n    *   Tautan kedua diawali dengan tulisan \"with image :\", diikuti oleh `https://www.00cc.eu.cc/gemini?sessions=&message=&image=`. Tautan ini secara spesifik mengindikasikan kemampuan untuk menyertakan gambar dalam interaksi.\n    *   Tautan ketiga diawali dengan tulisan \"generate image :\", diikuti oleh `https://www.00cc.eu.cc/gemini?action=generate_image`. Tautan ini tampaknya ditujukan untuk fungsi pembuatan gambar menggunakan Gemini.\n\nSecara keseluruhan, gambar ini memberikan informasi tentang cara berinteraksi dengan layanan AI Gemini, dengan menyediakan tautan spesifik untuk berbagai jenis permintaan, termasuk percakapan dasar, percakapan dengan gambar, dan pembuatan gambar.",
       "timestamp": "2026-07-15T17:10:55.474Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ini apa",
+      "image": "https://raw.githubusercontent.com/whatsapp-media/whatsapp-media/main/uploads/KyzoCDN_1784135436422_undefined.jpg",
+      "timestamp": "2026-07-15T17:31:17.939Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan cuplikan layar dari sebuah aplikasi pesan, kemungkinan besar WhatsApp, yang berisi teks dalam bahasa Indonesia. Teks tersebut berfungsi sebagai panduan atau instruksi mengenai penggunaan sebuah layanan yang terhubung dengan \"Gemini\".\n\nBerikut adalah rincian dari apa yang terlihat dalam gambar:\n\n*   **Instruksi Awal:** Terdapat baris \"request disini\" yang diawali dengan ikon tanda tanya. Di bawahnya, ada kalimat \"itu yang minta endpoint eai sup imaje sama sessions kasih ini amja\". Kalimat ini sepertinya merupakan instruksi kepada seseorang untuk memberikan tautan (endpoint) bagi mereka yang membutuhkan fungsionalitas terkait \"image\" (gambar) dan \"sessions\" (sesi).\n*   **Tautan-tautan:** Terdapat tiga URL yang berbeda, semuanya mengarah ke domain `www.00cc.eu.cc/gemini`.\n    1.  URL pertama adalah `https://www.00cc.eu.cc/gemini?sessions=&message=`. Ini tampaknya merupakan tautan dasar untuk berinteraksi dengan Gemini, yang memungkinkan pengaturan sesi dan pengiriman pesan.\n    2.  URL kedua didahului oleh teks \"with image :\", dan URL-nya adalah `https://www.00cc.eu.cc/gemini?sessions=&message=&image=`. Tautan ini spesifik untuk interaksi yang melibatkan pengiriman gambar, selain sesi dan pesan.\n    3.  URL ketiga didahului oleh teks \"generate image :\", dan URL-nya adalah `https://www.00cc.eu.cc/gemini?action=generate_image`. Tautan ini tampaknya diperuntukkan bagi pengguna yang ingin menggunakan Gemini untuk menghasilkan gambar.\n\nSingkatnya, gambar ini adalah pesan yang memberikan informasi tentang cara mengakses berbagai fitur dari layanan Gemini melalui tautan web yang disediakan, termasuk fitur untuk percakapan, interaksi dengan gambar, dan pembuatan gambar.",
+      "timestamp": "2026-07-15T17:31:17.939Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
