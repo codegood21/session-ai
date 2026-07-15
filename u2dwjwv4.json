@@ -1,9 +1,22 @@
 {
   "sessionId": "u2dwjwv4",
   "createdAt": "2026-07-15T08:42:47.195Z",
-  "lastActivity": "2026-07-15T08:42:47.195Z",
-  "history": [],
+  "lastActivity": "2026-07-15T08:42:48.777Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "jam berapa selesai solat soalnya saya mau immo",
+      "image": null,
+      "timestamp": "2026-07-15T08:42:48.777Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu mengeceknya. Namun, untuk bisa menjawab jam berapa sholat selesai, saya perlu tahu terlebih dahulu sholat apa yang Anda maksud (Subuh, Dzuhur, Ashar, Maghrib, atau Isya) dan di mana Anda berada. Waktu sholat bisa berbeda-beda tergantung lokasi.\n\nJika Anda bisa memberikan informasi tersebut, saya akan berusaha mencarikan jadwal sholatnya untuk Anda.",
+      "timestamp": "2026-07-15T08:42:48.777Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
