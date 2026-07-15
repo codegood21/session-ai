@@ -1,9 +1,22 @@
 {
   "sessionId": "2b1nwkqv",
   "createdAt": "2026-07-15T12:42:10.092Z",
-  "lastActivity": "2026-07-15T12:42:10.092Z",
-  "history": [],
+  "lastActivity": "2026-07-15T12:42:12.830Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu prompt",
+      "image": null,
+      "timestamp": "2026-07-15T12:42:12.830Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Prompt adalah instruksi atau pertanyaan yang diberikan kepada model AI, seperti saya, untuk menghasilkan respons. Ini bisa berupa teks, pertanyaan, atau bahkan deskripsi tentang apa yang Anda ingin saya lakukan.\n\nBayangkan saja seperti ini: ketika Anda berbicara dengan seseorang, Anda memberikan mereka sesuatu untuk direspons, kan? Nah, prompt itu adalah \"sesuatu\" yang Anda berikan kepada AI. Semakin jelas dan spesifik prompt Anda, semakin baik dan relevan respons yang bisa saya berikan.\n\nContoh prompt sederhana: \"Ceritakan tentang kucing.\"\nContoh prompt yang lebih spesifik: \"Tuliskan sebuah puisi pendek tentang seekor kucing oranye yang sedang tidur di bawah sinar matahari.\"",
+      "timestamp": "2026-07-15T12:42:12.830Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
