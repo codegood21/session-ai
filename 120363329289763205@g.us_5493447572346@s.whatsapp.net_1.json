@@ -1,9 +1,22 @@
 {
   "sessionId": "120363329289763205@g.us_5493447572346@s.whatsapp.net_1",
   "createdAt": "2026-07-15T19:49:21.563Z",
-  "lastActivity": "2026-07-15T19:49:21.563Z",
-  "history": [],
+  "lastActivity": "2026-07-15T19:49:23.013Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "manzana\n\nResponde en español",
+      "image": null,
+      "timestamp": "2026-07-15T19:49:23.013Z"
+    },
+    {
+      "role": "assistant",
+      "text": "¡Claro! La palabra \"manzana\" en español se refiere a la fruta que conocemos comúnmente. Es una fruta redonda, generalmente de color rojo, verde o amarillo, con una carne dulce y crujiente.\n\n¿Te gustaría saber algo más sobre las manzanas? Por ejemplo, ¿sobre sus variedades, sus beneficios o cómo se cultivan?",
+      "timestamp": "2026-07-15T19:49:23.013Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
