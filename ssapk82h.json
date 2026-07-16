@@ -1,9 +1,22 @@
 {
   "sessionId": "ssapk82h",
   "createdAt": "2026-07-16T08:04:58.212Z",
-  "lastActivity": "2026-07-16T08:04:58.212Z",
-  "history": [],
+  "lastActivity": "2026-07-16T08:05:02.245Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrn84c70.jpg",
+      "timestamp": "2026-07-16T08:05:02.245Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan antarmuka game Mobile Legends: Bang Bang, khususnya bagian \"Festival\". Di sisi kiri terdapat menu navigasi dengan opsi seperti \"Sorotan Kalender\", \"Skin Baru Gratis\", \"Skin Special Baru Joy Gratis\", \"ObraL Karnaval Promo\", \"Bonus Gratis\", \"Crazy Monday\", dan \"Hadiah Sign-In\". Di bagian tengah, terdapat gambar besar berlian berwarna kuning cerah yang dikelilingi oleh elemen-elemen dekoratif bertema alam dan bunga. Di sisi kanan, terdapat bagian \"Quest Harian\" yang berisi daftar misi harian yang bisa diselesaikan pemain untuk mendapatkan hadiah. Misi-misi tersebut antara lain menyelesaikan pertandingan, melakukan top up diamond, dan login ke dalam game. Terdapat juga indikator waktu yang menunjukkan bahwa \"Karnaval Promo\" akan berakhir dalam 5 jam 23 menit, serta informasi mengenai klaim paket promo gratis dan hadiah hingga 1.111 Promo Diamond. Secara keseluruhan, gambar ini bertema promosi dalam game dan tidak mengandung konten NSFW.",
+      "timestamp": "2026-07-16T08:05:02.245Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
