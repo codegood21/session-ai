@@ -1,9 +1,22 @@
 {
   "sessionId": "kq2n6poo",
   "createdAt": "2026-07-16T12:10:12.632Z",
-  "lastActivity": "2026-07-16T12:10:12.632Z",
-  "history": [],
+  "lastActivity": "2026-07-16T12:10:15.737Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "arti tempek",
+      "image": null,
+      "timestamp": "2026-07-16T12:10:15.737Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tempek adalah makanan tradisional Indonesia yang terbuat dari kedelai yang difermentasi. Proses fermentasi ini biasanya menggunakan ragi khusus, yang disebut ragi tempe. Hasil fermentasi ini adalah bongkahan kedelai yang padat dan menyatu, dengan tekstur yang khas dan rasa yang gurih.\n\nTempe memiliki berbagai manfaat kesehatan karena merupakan sumber protein nabati yang baik, serat, vitamin, dan mineral. Selain itu, proses fermentasinya juga membuat nutrisi dalam kedelai lebih mudah dicerna dan diserap oleh tubuh. Tempe bisa diolah menjadi berbagai macam masakan, mulai dari digoreng, dibacem, dijadikan orek, hingga dicampur dalam sayur lodeh.",
+      "timestamp": "2026-07-16T12:10:15.737Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
