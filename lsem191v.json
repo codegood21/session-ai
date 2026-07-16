@@ -1,9 +1,22 @@
 {
   "sessionId": "lsem191v",
   "createdAt": "2026-07-16T02:57:06.647Z",
-  "lastActivity": "2026-07-16T02:57:06.647Z",
-  "history": [],
+  "lastActivity": "2026-07-16T02:57:09.931Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu okta",
+      "image": null,
+      "timestamp": "2026-07-16T02:57:09.931Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita bahas apa itu Okta.\n\nOkta adalah sebuah platform identitas dan akses yang berbasis cloud. Secara sederhana, Okta membantu perusahaan untuk mengelola siapa saja yang berhak mengakses aplikasi dan data mereka, serta bagaimana cara mereka mengaksesnya.\n\nBayangkan Anda memiliki banyak sekali kunci untuk membuka pintu yang berbeda-beda. Okta bertindak seperti petugas keamanan yang cerdas yang tahu kunci mana yang harus diberikan kepada siapa, dan memastikan hanya orang yang tepat yang bisa masuk ke ruangan yang tepat.\n\nBeberapa fungsi utama Okta meliputi:\n\n*   **Single Sign-On (SSO)**: Ini adalah fitur yang paling dikenal dari Okta. Dengan SSO, pengguna hanya perlu masuk (login) sekali dengan satu set kredensial (username dan password) untuk mengakses berbagai aplikasi yang terhubung dengan Okta. Ini sangat memudahkan pengguna karena tidak perlu mengingat banyak password dan juga meningkatkan keamanan.\n*   **Manajemen Identitas dan Akses (IAM)**: Okta memungkinkan perusahaan untuk mengontrol siklus hidup identitas pengguna, mulai dari saat mereka bergabung hingga saat mereka meninggalkan perusahaan. Ini termasuk provisioning (pemberian akses) dan deprovisioning (pencabutan akses) secara otomatis ke berbagai aplikasi.\n*   **Autentikasi Multi-Faktor (MFA)**: Untuk meningkatkan keamanan, Okta mendukung berbagai metode autentikasi tambahan selain password, seperti kode dari aplikasi authenticator, SMS, atau sidik jari.\n*   **Manajemen API**: Okta juga membantu mengamankan dan mengelola akses ke API (Application Programming Interface), yang merupakan cara aplikasi berkomunikasi satu sama lain.\n\nJadi, Okta sangat penting bagi perusahaan modern untuk menjaga keamanan data mereka, meningkatkan efisiensi operasional, dan memberikan pengalaman pengguna yang lebih baik saat mengakses berbagai layanan digital.",
+      "timestamp": "2026-07-16T02:57:09.931Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
