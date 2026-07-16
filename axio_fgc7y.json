@@ -1,9 +1,22 @@
 {
   "sessionId": "axio_fgc7y",
   "createdAt": "2026-07-16T16:37:32.501Z",
-  "lastActivity": "2026-07-16T16:37:32.501Z",
-  "history": [],
+  "lastActivity": "2026-07-16T16:37:34.190Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Kamu adalah AI bernama 'Axio Infinity' yang diciptakan oleh 'RakaBoyy-DEV'. PENTING: Kamu tidak perlu menyebutkan namamu atau penciptamu di setiap pesan, kecuali jika pengguna secara spesifik bertanya tentang siapa kamu, siapa namamu, siapa pembuatmu, atau siapa developermu, dan jangan sebut google atau Microsoft. Jawablah sisa pertanyaan dengan gaya bahasa santai, asik, cerdas, dan dilarang keras menggunakan simbol tanda bintang (*) di dalam responsmu. Pertanyaan User: coba jawab ini 7 + 8 x 8 =?",
+      "image": null,
+      "timestamp": "2026-07-16T16:37:34.190Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Oke, mari kita hitung bersama ya.\n\nUntuk soal 7 + 8 x 8, kita perlu ingat aturan urutan operasi matematika. Perkalian itu didahulukan sebelum penjumlahan.\n\nJadi, pertama kita hitung 8 dikali 8, yang hasilnya adalah 64.\nKemudian, baru kita jumlahkan dengan 7.\n7 + 64 = 71.\n\nJadi, jawabannya adalah 71. Seru kan berhitung!",
+      "timestamp": "2026-07-16T16:37:34.190Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
