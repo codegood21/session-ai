@@ -1,9 +1,22 @@
 {
   "sessionId": "608uhlep",
   "createdAt": "2026-07-16T07:09:18.691Z",
-  "lastActivity": "2026-07-16T07:09:18.691Z",
-  "history": [],
+  "lastActivity": "2026-07-16T07:09:20.247Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ryo dari anime mana?",
+      "image": null,
+      "timestamp": "2026-07-16T07:09:20.247Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Ryo adalah karakter dari anime **\"Devilman Crybaby\"**.\n\nDalam anime ini, Ryo Asuka adalah sahabat masa kecil Akira Fudo dan merupakan sosok misterius yang memainkan peran sentral dalam cerita.",
+      "timestamp": "2026-07-16T07:09:20.247Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
