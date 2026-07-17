@@ -1,9 +1,22 @@
 {
   "sessionId": "jsp7h8ub",
   "createdAt": "2026-07-17T13:10:29.809Z",
-  "lastActivity": "2026-07-17T13:10:29.809Z",
-  "history": [],
+  "lastActivity": "2026-07-17T13:10:33.734Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://raw.githubusercontent.com/bringingdown/santana-uploader/main/uploads4/1784293804107.jpg",
+      "timestamp": "2026-07-17T13:10:33.734Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young woman with light brown hair styled in a messy bun, with some strands framing her face, is taking a selfie. She has fair skin, light brown eyes with noticeable eyeliner and false eyelashes, and a gentle smile. She's wearing a maroon, ribbed, short-sleeved t-shirt and a delicate gold necklace with a small pendant. Her left hand is resting on her visible pregnant belly. The background is a dark wooden wall with a vertical grain pattern. The lighting is soft and diffused, highlighting her face and upper body. The color palette is dominated by warm tones from her hair and skin, contrasted with the deep maroon of her shirt and the dark wood background. The mood is serene and intimate.",
+      "timestamp": "2026-07-17T13:10:33.734Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
