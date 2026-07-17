@@ -1,9 +1,22 @@
 {
   "sessionId": "ncbbogc9",
   "createdAt": "2026-07-17T06:03:04.598Z",
-  "lastActivity": "2026-07-17T06:03:04.598Z",
-  "history": [],
+  "lastActivity": "2026-07-17T06:03:06.250Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "1500 kali 10 di bagi 70 kali 10000",
+      "image": null,
+      "timestamp": "2026-07-17T06:03:06.250Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita hitung bersama:\n\nPertama, 1500 dikalikan 10:\n1500 * 10 = 15000\n\nKemudian, hasil tersebut dibagi dengan 70:\n15000 / 70 = 214.2857... (kita bisa bulatkan menjadi sekitar 214.29)\n\nTerakhir, hasil pembagian tersebut dikalikan dengan 10000:\n214.2857... * 10000 = 2142857.14...\n\nJadi, hasil dari 1500 kali 10 dibagi 70 kali 10000 adalah sekitar **2.142.857,14**.",
+      "timestamp": "2026-07-17T06:03:06.250Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
