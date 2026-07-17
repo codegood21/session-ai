@@ -1,9 +1,22 @@
 {
   "sessionId": "h9u5ggsu",
   "createdAt": "2026-07-17T12:11:43.249Z",
-  "lastActivity": "2026-07-17T12:11:43.249Z",
-  "history": [],
+  "lastActivity": "2026-07-17T12:11:45.943Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "indihome tu apa",
+      "image": null,
+      "timestamp": "2026-07-17T12:11:45.943Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa jelaskan apa itu IndiHome.\n\nIndiHome adalah layanan **Triple Play** yang ditawarkan oleh PT Telkom Indonesia (Persero) Tbk. Layanan ini menggabungkan tiga layanan utama dalam satu paket, yaitu:\n\n1.  **Internet Cepat (High Speed Internet):** Ini adalah layanan utama yang menyediakan akses internet berkecepatan tinggi melalui jaringan *fiber optic*. Kecepatan internetnya bervariasi tergantung paket yang dipilih pelanggan.\n2.  **Telepon Rumah (Phone):** Layanan ini memungkinkan pelanggan untuk melakukan panggilan telepon rumah dengan kualitas suara yang jernih. Biasanya, paket IndiHome sudah termasuk kuota telepon gratis ke sesama pengguna telepon rumah Telkom.\n3.  **TV Interaktif (UseeTV):** Ini adalah layanan televisi berlangganan yang menyajikan berbagai saluran TV lokal dan internasional, film, *catch-up TV* (menonton ulang tayangan yang sudah terlewat), dan fitur interaktif lainnya melalui *set-top box*.\n\nJadi, singkatnya, IndiHome adalah paket layanan terintegrasi dari Telkom yang memberikan akses internet, telepon rumah, dan TV berbayar dalam satu langganan.",
+      "timestamp": "2026-07-17T12:11:45.943Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
