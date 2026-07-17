@@ -1,9 +1,22 @@
 {
   "sessionId": "4brn36y6",
   "createdAt": "2026-07-17T05:56:04.072Z",
-  "lastActivity": "2026-07-17T05:56:04.072Z",
-  "history": [],
+  "lastActivity": "2026-07-17T05:56:05.264Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "1500 kali 5",
+      "image": null,
+      "timestamp": "2026-07-17T05:56:05.264Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita hitung.\n\n1500 dikalikan dengan 5 sama dengan **7500**.",
+      "timestamp": "2026-07-17T05:56:05.264Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
