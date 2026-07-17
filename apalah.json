@@ -1,7 +1,7 @@
 {
   "sessionId": "apalah",
   "createdAt": "2026-07-17T14:37:16.086Z",
-  "lastActivity": "2026-07-17T14:37:19.872Z",
+  "lastActivity": "2026-07-17T14:37:21.627Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Maaf, saya tidak yakin apa yang Anda maksud dengan \"fo\". Bisakah Anda menjelaskan lebih lanjut atau memberikan konteks tambahan?",
       "timestamp": "2026-07-17T14:37:19.872Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ini foto",
+      "image": null,
+      "timestamp": "2026-07-17T14:37:21.627Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya siap menganalisis foto yang Anda unggah. Silakan kirimkan fotonya, dan saya akan berusaha sebaik mungkin untuk mendeskripsikannya dan menjawab pertanyaan Anda.",
+      "timestamp": "2026-07-17T14:37:21.627Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
