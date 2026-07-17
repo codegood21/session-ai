@@ -1,7 +1,7 @@
 {
   "sessionId": "nahinini",
   "createdAt": "2026-07-17T14:46:34.874Z",
-  "lastActivity": "2026-07-17T14:46:36.063Z",
+  "lastActivity": "2026-07-17T14:46:50.213Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Hai juga! Ada yang bisa saya bantu?",
       "timestamp": "2026-07-17T14:46:36.063Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "apa ni",
+      "image": "https://raw.githubusercontent.com/whatsapp-media/whatsapp-media/main/uploads/KyzoCDN_1784299605449_ai2_1784299605446.jpg",
+      "timestamp": "2026-07-17T14:46:50.213Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan tangkapan layar dari aplikasi perpesanan, kemungkinan Telegram, dengan latar belakang gelap yang dihiasi ilustrasi kartun.\n\nDi bagian atas, terlihat nama kontak \"Unknown\" dengan foto profil seorang wanita berambut pirang. Di bawah nama tersebut tertulis \"last seen at 10:34\". Ada juga ikon panah kembali di kiri atas, ikon telepon dan tiga titik vertikal di kanan atas.\n\nDi bagian percakapan, terdapat pesan tanggal \"July 17\" sebagai pembatas waktu. Ada pesan dari \"bot\" yang berisi emoji kucing tertawa dan waktu \"10:34\". Di sisi kanan, ada pesan balasan dari \"Unknown\" yang berisi teks \"bot\" diikuti emoji tertawa, dan kemudian teks \"bacot. 10:34\" dengan centang biru yang menandakan pesan terkirim.\n\nDi bagian bawah, terdapat bilah input pesan bertuliskan \"Message\", ikon klip kertas, dan ikon mikrofon. Di bawahnya adalah keyboard QWERTY virtual dengan beberapa tombol emoji dan tombol \"Bahasa Indonesia\".\n\nSecara keseluruhan, ini adalah tampilan percakapan di aplikasi perpesanan yang menunjukkan interaksi antara pengguna dan bot.",
+      "timestamp": "2026-07-17T14:46:50.213Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
