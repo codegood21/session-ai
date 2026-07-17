@@ -1,9 +1,22 @@
 {
   "sessionId": "mkhmfegw",
   "createdAt": "2026-07-17T06:53:21.195Z",
-  "lastActivity": "2026-07-17T06:53:21.195Z",
-  "history": [],
+  "lastActivity": "2026-07-17T06:53:25.083Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9400/749830887_nsfw-1784271199884.png",
+      "timestamp": "2026-07-17T06:53:25.083Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan dua karakter anime yang berdiri di sebuah ruangan. Keduanya memiliki kepala berbentuk kap lampu. Karakter di sebelah kiri mengenakan pakaian olahraga berwarna merah muda, sementara karakter di sebelah kanan mengenakan seragam merah dengan aksen emas. Di latar belakang terlihat sofa biru, meja makan, dan tirai. Teks dalam bahasa Indonesia, \"PURA-PURA GAK LIAT\", tertulis di bagian atas dan bawah gambar. Tidak ada konten NSFW atau telanjang dalam gambar ini.",
+      "timestamp": "2026-07-17T06:53:25.083Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
