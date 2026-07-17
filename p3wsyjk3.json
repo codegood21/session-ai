@@ -1,9 +1,22 @@
 {
   "sessionId": "p3wsyjk3",
   "createdAt": "2026-07-17T08:50:51.428Z",
-  "lastActivity": "2026-07-17T08:50:51.428Z",
-  "history": [],
+  "lastActivity": "2026-07-17T08:50:55.649Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrop76t8.jpg",
+      "timestamp": "2026-07-17T08:50:55.649Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan antarmuka dari sebuah game, kemungkinan besar game mobile. Di bagian atas terdapat tulisan \"Isi Peti\". Di tengah layar, ada dua pilihan peti yang bisa dipilih. Peti pertama adalah \"Random Special Skin Chest\" dan peti kedua adalah \"Peti Skin Badlands Scrapper\". Masing-masing peti memiliki jumlah \"1\" yang menunjukkan bahwa ada satu item di dalamnya. Di bawah setiap peti, terdapat tombol minus (-) dan plus (+) untuk mengatur jumlah, dengan angka \"0\" yang terpilih saat ini. Di bagian bawah layar, ada tombol \"Batal\" di sebelah kiri dan tombol \"Konfirmasi\" di sebelah kanan. Teks di bawah pilihan peti bertuliskan \"Terpilih: 0/1\". Latar belakang gambar berwarna biru gelap dengan taburan titik-titik cahaya yang menyerupai bintang atau kilauan.\n\nTidak ada konten NSFW, pornografi, atau ketelanjangan dalam gambar ini.",
+      "timestamp": "2026-07-17T08:50:55.649Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
