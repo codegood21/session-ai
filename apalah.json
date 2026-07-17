@@ -1,9 +1,22 @@
 {
   "sessionId": "apalah",
   "createdAt": "2026-07-17T14:37:16.086Z",
-  "lastActivity": "2026-07-17T14:37:16.086Z",
-  "history": [],
+  "lastActivity": "2026-07-17T14:37:17.258Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "in",
+      "image": null,
+      "timestamp": "2026-07-17T14:37:17.258Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya siap membantu Anda. Ada yang bisa saya bantu?",
+      "timestamp": "2026-07-17T14:37:17.258Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
