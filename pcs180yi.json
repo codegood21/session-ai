@@ -1,9 +1,22 @@
 {
   "sessionId": "pcs180yi",
   "createdAt": "2026-07-17T12:10:43.528Z",
-  "lastActivity": "2026-07-17T12:10:43.528Z",
-  "history": [],
+  "lastActivity": "2026-07-17T12:10:45.061Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "mbut itu apa",
+      "image": null,
+      "timestamp": "2026-07-17T12:10:45.061Z"
+    },
+    {
+      "role": "assistant",
+      "text": "\"Mbut\" adalah singkatan dari \"ngemut\" dalam bahasa Jawa. Ngemut artinya adalah mengulum atau mengisap sesuatu di dalam mulut, biasanya permen atau benda kecil lainnya.\n\nJadi, kalau ada yang bilang \"mbut\", itu artinya sedang mengulum sesuatu di mulutnya.",
+      "timestamp": "2026-07-17T12:10:45.061Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
