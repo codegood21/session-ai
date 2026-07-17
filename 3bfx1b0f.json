@@ -1,9 +1,22 @@
 {
   "sessionId": "3bfx1b0f",
   "createdAt": "2026-07-17T13:03:02.229Z",
-  "lastActivity": "2026-07-17T13:03:02.229Z",
-  "history": [],
+  "lastActivity": "2026-07-17T13:03:03.938Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan saya ronaldo dan messi sedang makan indomie",
+      "image": null,
+      "timestamp": "2026-07-17T13:03:03.938Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, ini dia gambar Cristiano Ronaldo dan Lionel Messi sedang menikmati seporsi Indomie:\n\n",
+      "timestamp": "2026-07-17T13:03:03.938Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
