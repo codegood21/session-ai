@@ -1,9 +1,22 @@
 {
   "sessionId": "2hzwh5jq",
   "createdAt": "2026-07-17T14:50:59.232Z",
-  "lastActivity": "2026-07-17T14:50:59.232Z",
-  "history": [],
+  "lastActivity": "2026-07-17T14:51:00.678Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "27 dikali 10",
+      "image": null,
+      "timestamp": "2026-07-17T14:51:00.678Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu menghitungnya.\n\nGambar ini berisi pertanyaan matematika sederhana: \"27 dikali 10\".\n\nHasil dari 27 dikali 10 adalah **270**.",
+      "timestamp": "2026-07-17T14:51:00.678Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
