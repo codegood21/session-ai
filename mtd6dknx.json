@@ -1,9 +1,22 @@
 {
   "sessionId": "mtd6dknx",
   "createdAt": "2026-07-18T16:13:11.128Z",
-  "lastActivity": "2026-07-18T16:13:11.128Z",
-  "history": [],
+  "lastActivity": "2026-07-18T16:13:12.180Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "pilih angka random dari 1-120",
+      "image": null,
+      "timestamp": "2026-07-18T16:13:12.180Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan memilih angka acak dari 1 hingga 120 untuk Anda.\n\nAngka yang saya pilih adalah: **73**",
+      "timestamp": "2026-07-18T16:13:12.180Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
