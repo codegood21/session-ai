@@ -1,9 +1,22 @@
 {
   "sessionId": "6281585991996@s.whatsapp.net",
   "createdAt": "2026-07-18T11:33:10.670Z",
-  "lastActivity": "2026-07-18T11:33:10.670Z",
-  "history": [],
+  "lastActivity": "2026-07-18T11:33:13.543Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Apa itu javascript",
+      "image": null,
+      "timestamp": "2026-07-18T11:33:13.543Z"
+    },
+    {
+      "role": "assistant",
+      "text": "JavaScript adalah bahasa pemrograman yang sangat populer dan serbaguna, yang utamanya digunakan untuk membuat halaman web menjadi interaktif dan dinamis. Bayangkan sebuah situs web statis seperti brosur, sedangkan dengan JavaScript, Anda bisa mengubahnya menjadi sesuatu yang lebih hidup, seperti aplikasi yang bisa Anda gunakan.\n\nBeberapa hal utama yang bisa Anda lakukan dengan JavaScript antara lain:\n\n*   **Membuat elemen di halaman web bereaksi terhadap tindakan pengguna:** Misalnya, saat Anda mengklik tombol, menampilkan pesan, mengubah gambar, atau membuka menu dropdown.\n*   **Mengubah konten halaman web secara dinamis:** Ini berarti Anda bisa memperbarui informasi di halaman tanpa perlu memuat ulang seluruh halaman, seperti pembaruan skor pertandingan atau feed berita.\n*   **Membuat animasi:** JavaScript memungkinkan Anda menambahkan efek visual yang menarik pada halaman web.\n*   **Validasi formulir:** Sebelum data dikirim ke server, JavaScript bisa memeriksa apakah pengguna telah mengisi semua kolom yang diperlukan dengan benar.\n*   **Pengembangan aplikasi web yang kompleks:** Dengan kerangka kerja (framework) seperti React, Angular, atau Vue.js, JavaScript dapat digunakan untuk membangun aplikasi web yang canggih, bahkan setara dengan aplikasi desktop.\n*   **Pengembangan sisi server (backend):** Melalui Node.js, JavaScript juga bisa digunakan untuk membangun server, API, dan aplikasi sisi server lainnya.\n*   **Pengembangan aplikasi mobile:** Dengan React Native atau NativeScript, Anda bahkan bisa membuat aplikasi untuk perangkat iOS dan Android menggunakan JavaScript.\n\nSingkatnya, JavaScript adalah \"otak\" di balik interaktivitas sebagian besar situs web yang Anda kunjungi setiap hari.",
+      "timestamp": "2026-07-18T11:33:13.543Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
