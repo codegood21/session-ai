@@ -1,9 +1,22 @@
 {
   "sessionId": "3133049",
   "createdAt": "2026-07-18T06:29:37.948Z",
-  "lastActivity": "2026-07-18T06:29:37.948Z",
-  "history": [],
+  "lastActivity": "2026-07-18T06:29:40.511Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan gambar nya",
+      "image": null,
+      "timestamp": "2026-07-18T06:29:40.511Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, gambar seperti apa yang Anda inginkan? Tolong beri saya deskripsi yang lebih detail agar saya bisa membuatkannya untuk Anda.\n\nMisalnya, Anda bisa memberi tahu saya:\n\n*   **Objek utama:** Apa saja yang ingin Anda lihat dalam gambar? (misalnya, hewan, pemandangan, orang, benda, dll.)\n*   **Gaya:** Apakah Anda ingin gambar yang realistis, kartun, abstrak, atau gaya lainnya?\n*   **Suasana/Emosi:** Apakah Anda ingin gambar yang ceria, sedih, misterius, tenang, atau bersemangat?\n*   **Warna:** Apakah ada warna tertentu yang Anda inginkan?\n*   **Detail tambahan:** Apakah ada elemen spesifik lain yang penting? (misalnya, latar belakang, waktu, aktivitas yang sedang dilakukan, dll.)\n\nSemakin detail deskripsi Anda, semakin baik saya bisa mewujudkan imajinasi Anda ke dalam sebuah gambar.",
+      "timestamp": "2026-07-18T06:29:40.511Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
