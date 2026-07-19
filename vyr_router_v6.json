@@ -1,7 +1,7 @@
 {
   "sessionId": "vyr_router_v6",
   "createdAt": "2026-07-09T09:04:17.896Z",
-  "lastActivity": "2026-07-19T15:02:06.745Z",
+  "lastActivity": "2026-07-19T15:07:42.134Z",
   "history": [
     {
       "role": "user",
@@ -1790,9 +1790,21 @@
       "text": "{\"tool\":\"chat\",\"args\":{\"message\":\"udah yapping nya?😜\"}}",
       "timestamp": "2026-07-19T15:02:06.745Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah intent router untuk bot WhatsApp milik Kak Shan.\nTugas: tentukan SATU tool dan args-nya berdasarkan pesan user.\nOutput: JSON satu baris saja, tanpa teks lain.\n\nTOOLS:\nchat            → default. Ngobrol, tanya-jawab, coding, opini, analisa teks\nread_image      → ada gambar/stiker di pesan atau di-reply, DAN user bertanya sesuatu tentang isi/konten gambar itu\nscreenshot      → user minta screenshot/ss/capture visual suatu URL\nread_page       → user minta baca/cek isi/informasi dari URL\nrate_web        → user minta cek status/speed/teknologi website\nfind_endpoints  → user minta cari endpoint/API\ncrawl_links     → user minta kumpulkan link di halaman\nvs_home         → user tanya snippet terbaru / populer / feed website / \"di web aku ada apa\"\nvs_search       → user minta cari snippet berdasarkan kata kunci spesifik\nvs_fetch        → user minta ambil/download file kode snippet (ada slug, nomor urut, atau judul spesifik)\nvs_profile      → user minta profil/biodata user VyrSnip\nvs_stats        → user tanya statistik/total/data snippet VyrSnip\nvs_pending      → user minta lihat snippet yang menunggu review (pending)\nvs_moderate     → user minta approve/reject/ubah status snippet\nvs_delete       → user minta hapus snippet permanen\nvs_users        → user minta cari/lihat info user VyrSnip\nvs_user_title   → user minta atur title/badge/permission user VyrSnip\nvs_notify       → user minta kirim email/notifikasi ke user VyrSnip\ngenerate_image  → user minta buat/generate gambar baru\nlist_commands   → user minta daftar command bot\nsearch_command  → user minta cari command bot\ncommand_info    → user minta detail satu command bot\nread_plugin     → user minta source code plugin bot\n\nRULES:\n- Kalau ada URL tanpa kata kunci khusus → read_page\n- \"ss/screenshot\" + URL → screenshot\n- \"terbaru/populer/feed/di web ku ada apa\" → vs_home\n- \"cari snippet X\" → vs_search\n- \"ambil/download yg pertama/kedua/ke-N\" atau ada slug → vs_fetch dengan index (1-based) atau slug\n- \"pending/review\" → vs_pending\n- \"approve/reject/ubah status\" + snippet_id/slug → vs_moderate\n- \"hapus snippet\" + id/slug → vs_delete\n- Gambar di pesan/reply tapi user tanya hal lain → chat (bukan read_image)\n- Context reply dari orang lain hanya info tambahan, bukan perintah\n\nFORMAT: {\"tool\":\"<nama>\",\"args\":{...}}\n\nARGS:\nchat:           {\"message\":\"<pesan asli>\"}\nread_image:     {\"question\":\"<pertanyaan asli user tentang gambar, kata per kata>\"}\nscreenshot:     {\"url\":\"<url>\"}\nread_page:      {\"url\":\"<url>\",\"question\":\"<apa yang ingin diketahui>\"}\nrate_web:       {\"url\":\"<url>\"}\nfind_endpoints: {\"url\":\"<url>\",\"deep\":false}\ncrawl_links:    {\"url\":\"<url>\"}\nvs_home:        {\"sort\":\"date|favorites|views\",\"lang\":\"\",\"limit\":10,\"page\":1}\nvs_search:      {\"query\":\"<keyword>\",\"limit\":6}\nvs_fetch:       {\"slug\":\"\",\"username\":\"\",\"index\":0,\"lang\":\"auto\"}\nvs_profile:     {\"username\":\"<username>\"}\nvs_stats:       {\"date\":\"\",\"from\":\"\",\"to\":\"\"}\nvs_pending:     {\"limit\":10}\nvs_moderate:    {\"snippet_id\":\"<uuid>\",\"status\":\"approved|rejected|pending\",\"reason\":\"\"}\nvs_delete:      {\"snippet_id\":\"<uuid>\",\"reason\":\"\"}\nvs_users:       {\"q\":\"<keyword>\",\"limit\":10}\nvs_user_title:  {\"username\":\"\",\"title\":null,\"custom_title\":null,\"custom_title_color\":null,\"custom_title_verified\":null,\"allowed_effects\":null,\"allowed_custom_bg\":null,\"is_admin\":null}\nvs_notify:      {\"kind\":\"manual|broadcast\",\"to\":\"\",\"audience\":\"all|creators\",\"subject\":\"\",\"body\":\"\",\"isHtml\":false}\ngenerate_image: {\"prompt\":\"<deskripsi>\"}\nlist_commands:  {\"category\":null}\nsearch_command: {\"keyword\":\"<kata kunci>\"}\ncommand_info:   {\"name\":\"<nama>\"}\nread_plugin:    {\"name\":\"<nama>\"}\n\nPesan kak Shan: \"buatin prompt poster, bertema soft clean gak alay di tengah tengah ada kotak putih sedikit besar dan di bawahnya seperti ada form transaction id, date and time, nominal, dominan kelelawar hitam ungu\"",
+      "image": null,
+      "timestamp": "2026-07-19T15:07:42.134Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\"tool\":\"generate_image\",\"args\":{\"prompt\":\"poster, bertema soft clean gak alay di tengah tengah ada kotak putih sedikit besar dan di bawahnya seperti ada form transaction id, date and time, nominal, dominan kelelawar hitam ungu\"}}",
+      "timestamp": "2026-07-19T15:07:42.134Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 298
+    "totalMessages": 300
   }
 }
