@@ -1,9 +1,22 @@
 {
   "sessionId": "lr7flctf",
   "createdAt": "2026-07-19T12:44:29.100Z",
-  "lastActivity": "2026-07-19T12:44:29.100Z",
-  "history": [],
+  "lastActivity": "2026-07-19T12:44:33.298Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9454/750616218_nsfw-1784465068006.png",
+      "timestamp": "2026-07-19T12:44:33.298Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan ilustrasi karakter anime dengan rambut coklat panjang dan mata besar berwarna merah muda. Dia mengenakan seragam sekolah putih dengan dasi pita putih. Dia memakai kacamata dan memegang bingkainya dengan kedua tangan. Di latar belakang, terlihat papan tulis atau dinding sekolah dengan beberapa tulisan Jepang. Teks di bagian atas gambar bertuliskan \"BOWEMU SAYANG\". Konten gambar ini tidak mengandung unsur NSFW atau pornografi.",
+      "timestamp": "2026-07-19T12:44:33.298Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
