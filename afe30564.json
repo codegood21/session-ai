@@ -1,9 +1,22 @@
 {
   "sessionId": "afe30564",
   "createdAt": "2026-07-19T11:37:43.653Z",
-  "lastActivity": "2026-07-19T11:37:43.653Z",
-  "history": [],
+  "lastActivity": "2026-07-19T11:37:45.320Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu otodidak",
+      "image": null,
+      "timestamp": "2026-07-19T11:37:45.320Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Otodidak adalah seseorang yang belajar secara mandiri, tanpa guru atau pengajar formal. Mereka belajar dengan sendirinya melalui membaca buku, menonton video tutorial, bereksperimen, atau mencari informasi dari berbagai sumber.\n\nJadi, kalau ada yang bilang dia otodidak dalam bermain gitar misalnya, artinya dia belajar gitar sendiri tanpa les musik, tapi belajar dari pengalaman, buku, atau video.",
+      "timestamp": "2026-07-19T11:37:45.320Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
