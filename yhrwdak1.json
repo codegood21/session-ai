@@ -1,9 +1,22 @@
 {
   "sessionId": "yhrwdak1",
   "createdAt": "2026-07-19T10:27:46.280Z",
-  "lastActivity": "2026-07-19T10:27:46.280Z",
-  "history": [],
+  "lastActivity": "2026-07-19T10:27:47.524Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "kasih teka teki",
+      "image": null,
+      "timestamp": "2026-07-19T10:27:47.524Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Oke, siap! Ini dia teka-teki buat kamu:\n\nAku punya kota, tapi tidak punya rumah. Aku punya gunung, tapi tidak punya pohon. Aku punya air, tapi tidak punya ikan.\n\nApakah aku?\n\\\n... Peta",
+      "timestamp": "2026-07-19T10:27:47.524Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
