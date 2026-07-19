@@ -1,9 +1,22 @@
 {
   "sessionId": "el8zkeot",
   "createdAt": "2026-07-19T01:09:46.219Z",
-  "lastActivity": "2026-07-19T01:09:46.220Z",
-  "history": [],
+  "lastActivity": "2026-07-19T01:09:50.240Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9443/750313169_nsfw-1784423384536.png",
+      "timestamp": "2026-07-19T01:09:50.240Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan dua karakter Ultraman di luar ruangan, dikelilingi oleh pepohonan. Karakter di depan, yang tampaknya adalah Ultraman Zero, mengenakan kostum biru dan perak dan mengacungkan jempol. Karakter lain di belakang, yang terlihat seperti Ultraman Tiga, mengenakan kostum merah dan perak. Di atas gambar terdapat teks \"AGAK NYAWIT\" dan di bawahnya terdapat teks \"TAPI OKE\". Teks ini, bersama dengan gambar Ultraman, kemungkinan merupakan meme. Tidak ada konten yang tidak pantas atau eksplisit dalam gambar ini.",
+      "timestamp": "2026-07-19T01:09:50.240Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
