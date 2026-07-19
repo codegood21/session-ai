@@ -1,9 +1,22 @@
 {
   "sessionId": "g45zhtu9",
   "createdAt": "2026-07-19T10:13:18.423Z",
-  "lastActivity": "2026-07-19T10:13:18.423Z",
-  "history": [],
+  "lastActivity": "2026-07-19T10:13:21.401Z",
+  "history": [
+    {
+      "role": "user",
+      "text": ".ai ini apa(saya bertanya)",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrrn0y56.jpg",
+      "timestamp": "2026-07-19T10:13:21.400Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar tersebut menunjukkan seseorang yang sedang mengambil foto selfie di depan cermin. Orang tersebut mengenakan bikini berwarna hitam dan memegang ponsel di tangan kanannya. Di latar belakang, terlihat tirai, tempat tidur, dan dinding.",
+      "timestamp": "2026-07-19T10:13:21.400Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
