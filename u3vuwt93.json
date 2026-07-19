@@ -1,9 +1,22 @@
 {
   "sessionId": "u3vuwt93",
   "createdAt": "2026-07-19T09:22:13.854Z",
-  "lastActivity": "2026-07-19T09:22:13.854Z",
-  "history": [],
+  "lastActivity": "2026-07-19T09:22:20.282Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ini apa judul lagu nya",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrrl79ld.mp3",
+      "timestamp": "2026-07-19T09:22:20.282Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu menganalisis file tersebut.\n\nFile yang Anda berikan tampaknya merupakan file audio, kemungkinan besar dalam format MP3 atau format audio digital lainnya. Namun, isinya terlihat rusak atau terenkripsi, karena sebagian besar data yang ditampilkan adalah karakter yang tidak dapat dibaca (seperti \"���\", \"P�\", \"��\") dan kode-kode teknis (seperti \"ID3\", \"TSSE\", \"Lavf58.76.100\", \"Lavf\").\n\nInformasi yang paling jelas terlihat adalah tag ID3, yang biasanya berisi metadata tentang lagu seperti judul, artis, album, dan informasi lainnya. Namun, dalam kasus ini, informasi tersebut tidak dapat diuraikan dengan baik karena kerusakan file.\n\nKarena isinya tidak dapat dibaca, saya tidak dapat mengidentifikasi judul lagu dari file ini.",
+      "timestamp": "2026-07-19T09:22:20.282Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
