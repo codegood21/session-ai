@@ -1,9 +1,22 @@
 {
   "sessionId": "raduf0i0",
   "createdAt": "2026-07-19T09:23:08.429Z",
-  "lastActivity": "2026-07-19T09:23:08.429Z",
-  "history": [],
+  "lastActivity": "2026-07-19T09:23:14.234Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "judul lagu",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrrl8fez.mp3",
+      "timestamp": "2026-07-19T09:23:14.234Z"
+    },
+    {
+      "role": "assistant",
+      "text": "File yang Anda berikan tampaknya berisi metadata dari sebuah file audio, kemungkinan besar berformat MP3. Metadata ini biasanya mencakup informasi seperti ID3 tag yang berisi judul lagu, artis, album, dan detail lainnya.\n\nNamun, isi dari file tersebut sebagian besar adalah karakter yang tidak dapat dibaca atau kode biner, yang menunjukkan bahwa saya tidak dapat mengekstrak informasi teks yang jelas seperti judul lagu dari konten yang Anda berikan.\n\nJika Anda memiliki file audio tersebut dan ingin mengetahui judulnya, Anda bisa mencoba memutar file tersebut di pemutar musik Anda, atau menggunakan perangkat lunak yang dapat membaca metadata file audio.",
+      "timestamp": "2026-07-19T09:23:14.234Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
