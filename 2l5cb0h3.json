@@ -1,9 +1,22 @@
 {
   "sessionId": "2l5cb0h3",
   "createdAt": "2026-07-19T02:12:51.631Z",
-  "lastActivity": "2026-07-19T02:12:51.631Z",
-  "history": [],
+  "lastActivity": "2026-07-19T02:12:55.651Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrr5v3f8.jpg",
+      "timestamp": "2026-07-19T02:12:55.651Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nThe image displays a user interface from a mobile game, likely Mobile Legends: Bang Bang, focusing on the \"Collection\" section. It shows various hero skins, player profile information like \"Kolektor Senior I\" with progress points, and options to manage collected items. The lower part of the screen shows in-game effects and a selection of items such as \"Recall,\" \"Eliminasi,\" \"Trail,\" and \"Emote.\" There are also icons representing currency and player statistics. The overall context is a game inventory and customization screen.",
+      "timestamp": "2026-07-19T02:12:55.651Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
