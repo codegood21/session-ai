@@ -1,7 +1,7 @@
 {
   "sessionId": "syc_eiou08nw",
   "createdAt": "2026-07-19T15:31:36.543Z",
-  "lastActivity": "2026-07-19T15:31:37.647Z",
+  "lastActivity": "2026-07-20T07:15:49.614Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Saya adalah model bahasa besar, yang dilatih oleh Google.",
       "timestamp": "2026-07-19T15:31:37.647Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Hallo",
+      "image": null,
+      "timestamp": "2026-07-20T07:15:49.614Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo juga! Ada yang bisa saya bantu?",
+      "timestamp": "2026-07-20T07:15:49.614Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
