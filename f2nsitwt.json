@@ -1,9 +1,22 @@
 {
   "sessionId": "f2nsitwt",
   "createdAt": "2026-07-20T11:07:24.778Z",
-  "lastActivity": "2026-07-20T11:07:24.778Z",
-  "history": [],
+  "lastActivity": "2026-07-20T11:07:28.644Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Jelaskan gambar ini secara singkat, padat, dan jelas.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrt4ecgw.jpg",
+      "timestamp": "2026-07-20T11:07:28.644Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan bagian bawah tubuh seseorang, yaitu kedua kaki dari paha hingga lutut. Kaki tersebut berada di atas tempat tidur yang beralaskan seprai bergaris biru muda dan putih. Terlihat juga sebagian selimut berwarna krem dengan motif bunga di sisi kanan atas gambar.",
+      "timestamp": "2026-07-20T11:07:28.644Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
