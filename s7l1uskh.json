@@ -1,9 +1,22 @@
 {
   "sessionId": "s7l1uskh",
   "createdAt": "2026-07-20T19:48:06.699Z",
-  "lastActivity": "2026-07-20T19:48:06.699Z",
-  "history": [],
+  "lastActivity": "2026-07-20T19:48:11.516Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrtmzzyu.jpg",
+      "timestamp": "2026-07-20T19:48:11.516Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini adalah sebuah poster promosi untuk layanan penyewaan room Garena Free Fire oleh \"Vitania Project\". Poster tersebut menampilkan berbagai paket layanan dengan detail harga dan fitur yang ditawarkan, seperti \"Room Clash Squad\", \"Paket B03 Sultan\", \"Paket B03 Pro\", dan \"Paket B03 Original\". Terdapat juga opsi tambahan seperti \"Mode 55/66\", \"Req Kata-Kata\", dan \"Req Record HD Pas Konten\", yang semuanya memiliki harga tambahan. Di bagian bawah poster, tertera informasi kontak melalui WhatsApp dan nama channel YouTube \"Vitania Project\". Secara visual, poster ini didominasi oleh warna hijau dan biru dengan gambar karakter Free Fire di sisi kanan. Tidak ada konten yang bersifat NSFW atau pornografi dalam gambar ini.",
+      "timestamp": "2026-07-20T19:48:11.516Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
