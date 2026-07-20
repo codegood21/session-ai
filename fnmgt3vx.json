@@ -1,9 +1,22 @@
 {
   "sessionId": "fnmgt3vx",
   "createdAt": "2026-07-20T10:18:01.831Z",
-  "lastActivity": "2026-07-20T10:18:01.831Z",
-  "history": [],
+  "lastActivity": "2026-07-20T10:18:03.364Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "aku siapa",
+      "image": null,
+      "timestamp": "2026-07-20T10:18:03.364Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya adalah model bahasa besar, yang dilatih oleh Google.",
+      "timestamp": "2026-07-20T10:18:03.364Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
