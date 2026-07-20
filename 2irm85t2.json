@@ -1,9 +1,22 @@
 {
   "sessionId": "2irm85t2",
   "createdAt": "2026-07-20T11:08:29.525Z",
-  "lastActivity": "2026-07-20T11:08:29.525Z",
-  "history": [],
+  "lastActivity": "2026-07-20T11:08:33.017Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Jelaskan gambar ini secara singkat, padat, dan jelas.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrt4frff.jpg",
+      "timestamp": "2026-07-20T11:08:33.017Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan sebagian kaki seseorang yang sedang berpose santai, dengan dua foto kucing lucu di kedua sisinya. Foto di sebelah kiri menampilkan seekor kucing hitam, sementara foto di sebelah kanan menampilkan seekor kucing abu-abu yang menggemaskan. Latar belakang gambar tampak gelap, dan terlihat ada beberapa objek yang tidak jelas di kejauhan. Tangan seseorang terlihat menyentuh bagian paha, menambah kesan personal pada foto.",
+      "timestamp": "2026-07-20T11:08:33.017Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
