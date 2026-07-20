@@ -1,9 +1,22 @@
 {
   "sessionId": "izvbn4qz",
   "createdAt": "2026-07-20T15:14:49.356Z",
-  "lastActivity": "2026-07-20T15:14:49.356Z",
-  "history": [],
+  "lastActivity": "2026-07-20T15:14:52.728Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu qris orkut",
+      "image": null,
+      "timestamp": "2026-07-20T15:14:52.728Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita bahas tentang QRIS.\n\nQRIS adalah singkatan dari **Quick Response Code Indonesian Standard**. Ini adalah sistem pembayaran digital yang menggunakan kode QR untuk memfasilitasi transaksi. Jadi, ketika Anda melihat kode QR di toko atau aplikasi pembayaran, itu kemungkinan besar adalah QRIS.\n\nBeberapa poin penting tentang QRIS:\n\n*   **Standar Nasional:** QRIS dikembangkan oleh Bank Indonesia dan AFTECH (Asosiasi FinTech Indonesia) agar semua penyedia jasa pembayaran (seperti dompet digital, mobile banking, dll.) bisa saling terhubung. Artinya, Anda bisa membayar dengan dompet digital A ke toko yang menerima QRIS dari penyedia B.\n*   **Satu Kode untuk Semua:** Dengan QRIS, pedagang hanya perlu memiliki satu kode QR yang bisa dipindai oleh berbagai aplikasi pembayaran. Ini menyederhanakan proses pembayaran bagi pedagang dan konsumen.\n*   **Transaksi Cepat dan Mudah:** Proses pembayaran menjadi lebih cepat karena hanya perlu memindai kode QR dan memasukkan jumlah pembayaran (jika diperlukan), lalu konfirmasi.\n*   **Keamanan:** QRIS dirancang untuk aman dan terjamin.\n*   **Mendukung UMKM:** QRIS sangat membantu Usaha Mikro, Kecil, dan Menengah (UMKM) untuk dapat menerima pembayaran digital dengan mudah dan terjangkau.\n\nMengenai \"orkut\", sepertinya ini adalah kesalahan pengetikan atau mungkin Anda merujuk pada sesuatu yang lain. Orkut sendiri adalah jejaring sosial yang sudah tidak beroperasi lagi. Jika Anda memiliki pertanyaan lain terkait QRIS atau ingin mengklarifikasi \"orkut\", silakan beri tahu saya.",
+      "timestamp": "2026-07-20T15:14:52.728Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
