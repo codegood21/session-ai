@@ -1,9 +1,22 @@
 {
   "sessionId": "0vsgp7xz",
   "createdAt": "2026-07-21T09:16:36.860Z",
-  "lastActivity": "2026-07-21T09:16:36.860Z",
-  "history": [],
+  "lastActivity": "2026-07-21T09:16:38.948Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "kenapa bot saya tidak aktif?",
+      "image": null,
+      "timestamp": "2026-07-21T09:16:38.948Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Untuk bisa membantu Anda mengetahui kenapa bot Anda tidak aktif, saya perlu beberapa informasi tambahan. Bisakah Anda ceritakan lebih lanjut tentang bot Anda? Misalnya:\n\n*   **Bot apa yang Anda maksud?** Apakah ini bot di platform tertentu (seperti Telegram, Discord, WhatsApp, atau platform lain)?\n*   **Bagaimana cara Anda membuat atau mengelola bot tersebut?** Apakah Anda menggunakan layanan *no-code*, *low-code*, atau *coding* sendiri?\n*   **Kapan terakhir kali bot Anda aktif?** Apakah ini masalah baru atau memang bot belum pernah aktif?\n*   **Apakah ada pesan error yang muncul?** Jika ada, apa pesannya?\n*   **Apakah ada pengaturan atau konfigurasi yang baru saja Anda ubah?**\n\nDengan informasi ini, saya akan bisa memberikan analisis yang lebih tepat dan saran perbaikan.",
+      "timestamp": "2026-07-21T09:16:38.948Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
