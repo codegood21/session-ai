@@ -1,9 +1,22 @@
 {
   "sessionId": "4z5b45ad",
   "createdAt": "2026-07-21T08:58:07.803Z",
-  "lastActivity": "2026-07-21T08:58:07.803Z",
-  "history": [],
+  "lastActivity": "2026-07-21T08:58:09.042Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "siapa wakil president sekarang",
+      "image": null,
+      "timestamp": "2026-07-21T08:58:09.042Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saat ini, Wakil Presiden Republik Indonesia adalah Bapak **Ma'ruf Amin**.",
+      "timestamp": "2026-07-21T08:58:09.042Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
