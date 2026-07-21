@@ -1,9 +1,22 @@
 {
   "sessionId": "120363424715143889",
   "createdAt": "2026-07-21T11:30:40.441Z",
-  "lastActivity": "2026-07-21T11:30:40.441Z",
-  "history": [],
+  "lastActivity": "2026-07-21T11:30:41.941Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Pas banget hari ini jadi 25 sertif😭\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-21T11:30:41.941Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Wah, selamat ya sudah berhasil mendapatkan 25 sertifikat! Pasti bangga banget ya dengan pencapaianmu itu. ✨",
+      "timestamp": "2026-07-21T11:30:41.941Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
