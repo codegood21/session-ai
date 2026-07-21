@@ -1,9 +1,22 @@
 {
   "sessionId": "yu59xz1y",
   "createdAt": "2026-07-21T11:40:27.008Z",
-  "lastActivity": "2026-07-21T11:40:27.008Z",
-  "history": [],
+  "lastActivity": "2026-07-21T11:40:29.752Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu 22/7",
+      "image": null,
+      "timestamp": "2026-07-21T11:40:29.752Z"
+    },
+    {
+      "role": "assistant",
+      "text": "22/7 adalah sebuah pecahan yang sering digunakan sebagai **aproksimasi atau perkiraan nilai konstanta matematika pi (π)**.\n\nSecara matematis, 22/7 merupakan hasil pembagian bilangan bulat 22 dengan bilangan bulat 7. Jika diubah ke dalam bentuk desimal, 22/7 menghasilkan nilai yang mendekati 3,142857...\n\nNilai pi (π) yang sebenarnya adalah bilangan irasional, yang berarti desimalnya tidak berakhir dan tidak berulang. Nilai pi yang lebih akurat adalah sekitar 3,1415926535...\n\nMeskipun 22/7 bukan nilai pi yang tepat, ia cukup akurat untuk banyak perhitungan praktis, terutama dalam konteks pendidikan dasar dan menengah karena kemudahannya untuk dihitung.",
+      "timestamp": "2026-07-21T11:40:29.752Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
