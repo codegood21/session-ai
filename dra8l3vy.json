@@ -1,9 +1,22 @@
 {
   "sessionId": "dra8l3vy",
   "createdAt": "2026-07-21T09:00:04.422Z",
-  "lastActivity": "2026-07-21T09:00:04.422Z",
-  "history": [],
+  "lastActivity": "2026-07-21T09:00:07.221Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "rumus lingkaran",
+      "image": null,
+      "timestamp": "2026-07-21T09:00:07.221Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa bantu dengan rumus-rumus lingkaran.\n\nLingkaran adalah bangun datar yang terdiri dari semua titik pada bidang datar yang memiliki jarak yang sama dari satu titik pusat. Jarak ini disebut **jari-jari (r)**.\n\nBerikut adalah rumus-rumus utama yang berkaitan dengan lingkaran:\n\n1.  **Keliling Lingkaran (K):**\n    Ini adalah panjang garis tepi lingkaran.\n    *   Rumus: **K = 2πr**\n    *   Atau jika diketahui diameter (d), di mana d = 2r: **K = πd**\n\n    Di sini, **π (pi)** adalah konstanta matematika yang nilainya kira-kira 3.14159 atau sering dibulatkan menjadi 22/7.\n\n2.  **Luas Lingkaran (L):**\n    Ini adalah area di dalam lingkaran.\n    *   Rumus: **L = πr²**\n\n    Sekali lagi, **r** adalah jari-jari lingkaran.\n\n**Penjelasan Singkat:**\n\n*   **Jari-jari (r):** Jarak dari titik pusat lingkaran ke tepi lingkaran.\n*   **Diameter (d):** Garis lurus yang melewati pusat lingkaran dan menghubungkan dua titik di tepi lingkaran. Diameter selalu dua kali panjang jari-jari (d = 2r).\n*   **Phi (π):** Konstanta yang menunjukkan perbandingan keliling lingkaran dengan diameternya.\n\nApakah ada hal spesifik tentang rumus lingkaran yang ingin kamu ketahui lebih lanjut, misalnya cara menghitung luas juring atau panjang busur?",
+      "timestamp": "2026-07-21T09:00:07.221Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
