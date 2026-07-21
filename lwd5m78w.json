@@ -1,9 +1,22 @@
 {
   "sessionId": "lwd5m78w",
   "createdAt": "2026-07-21T15:03:49.676Z",
-  "lastActivity": "2026-07-21T15:03:49.676Z",
-  "history": [],
+  "lastActivity": "2026-07-21T15:03:55.104Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "arti ini",
+      "image": null,
+      "timestamp": "2026-07-21T15:03:55.104Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu mengartikan. Mohon berikan teks atau gambar yang ingin Anda artikan.",
+      "timestamp": "2026-07-21T15:03:55.104Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
