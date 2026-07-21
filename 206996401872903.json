@@ -1,7 +1,7 @@
 {
   "sessionId": "206996401872903",
   "createdAt": "2026-07-21T09:45:26.029Z",
-  "lastActivity": "2026-07-21T12:26:55.112Z",
+  "lastActivity": "2026-07-21T12:36:17.675Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Hai! Aku Furina, asisten virtualmu yang siap sedia. Ada yang bisa kubantu untukmu hari ini?",
       "timestamp": "2026-07-21T12:26:55.112Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Analisis media ini\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-21T12:36:17.675Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja! Bisa tolong unggah media yang ingin kamu analisis? Setelah itu, aku akan memeriksanya dan memberikan deskripsi serta analisisnya kepadamu.",
+      "timestamp": "2026-07-21T12:36:17.675Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
