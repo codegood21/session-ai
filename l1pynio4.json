@@ -1,9 +1,22 @@
 {
   "sessionId": "l1pynio4",
   "createdAt": "2026-07-21T02:55:34.622Z",
-  "lastActivity": "2026-07-21T02:55:34.622Z",
-  "history": [],
+  "lastActivity": "2026-07-21T02:55:36.464Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Polinema cabang Kediri apa aja jurusanya",
+      "image": null,
+      "timestamp": "2026-07-21T02:55:36.464Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Politeknik Negeri Malang (Polinema) memiliki kampus cabang di Kediri. Jurusan yang tersedia di Polinema cabang Kediri adalah sebagai berikut:\n\n*   **Program Studi Sarjana Terapan (D4):**\n    *   Teknik Mesin Produksi dan Perawatan\n    *   Teknik Perancangan Manufaktur\n    *   Teknik Komputer Jaringan\n\n*   **Program Studi Diploma Tiga (D3):**\n    *   Teknik Mesin Produksi dan Perawatan\n    *   Teknik Listrik\n\nSemua program studi tersebut berada di bawah pengelolaan Jurusan Teknik Mesin, Jurusan Teknik Elektro, dan Jurusan Teknik Informatika dan Komputer.",
+      "timestamp": "2026-07-21T02:55:36.464Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
