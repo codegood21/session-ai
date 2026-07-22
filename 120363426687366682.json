@@ -1,9 +1,22 @@
 {
   "sessionId": "120363426687366682",
   "createdAt": "2026-07-22T04:47:29.634Z",
-  "lastActivity": "2026-07-22T04:47:29.634Z",
-  "history": [],
+  "lastActivity": "2026-07-22T04:47:31.396Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: api.ikyyxd.my.id\n\n*[ Add Endpoint ]*\n/canvas/fakecall?imgUrl=&name=&durasi=\n\nResponse: di ss\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-22T04:47:31.396Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Aku Furina, asisten virtualmu yang siap membantu.\n\nAku lihat kamu memberikan sebuah tautan `api.ikyyxd.my.id` dan kemudian ada sebuah *endpoint* `/canvas/fakecall?imgUrl=&name=&durasi=`. Sepertinya kamu ingin menambahkan sebuah *endpoint* untuk membuat panggilan palsu, ya?\n\nJika aku tidak salah, kamu ingin menambahkan *endpoint* tersebut dan kemudian memberikan respons \"di ss\". Apakah benar begitu?",
+      "timestamp": "2026-07-22T04:47:31.396Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
