@@ -1,7 +1,7 @@
 {
   "sessionId": "120363402922206865",
   "createdAt": "2026-07-21T22:19:56.214Z",
-  "lastActivity": "2026-07-22T11:09:22.274Z",
+  "lastActivity": "2026-07-22T12:14:09.140Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Halo! Aku perhatikan kamu membagikan tautan `https://sl.crysnovax.link/PANEL7` dan mengingatkan pengguna untuk mengklaim koin harian mereka. Sepertinya ini terkait dengan semacam panel atau layanan yang menawarkan insentif harian berupa koin.\n\nAda yang bisa kubantu terkait informasi ini, atau mungkin kamu ingin membicarakan hal lain?",
       "timestamp": "2026-07-22T11:09:22.274Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Default auto like emoji set to 💚\nBut you can change yours by running this command. \n.setvar STATUS_EMOJI=🍷 //or any emojis of your choice. You must choose one.\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-22T12:14:09.140Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Wah, aku lihat kamu sedang mengatur atau memberi tahu tentang pengaturan emoji otomatis untuk fitur \"like\". Sepertinya emoji defaultnya adalah 💚 (hati hijau), tapi pengguna bisa mengubahnya dengan perintah `.setvar STATUS_EMOJI=` diikuti dengan emoji pilihan mereka, misalnya 🍷 (gelas anggur). Penting untuk memilih salah satu emoji saja.\n\nAda yang bisa kubantu terkait pengaturan ini, atau mungkin ada hal lain yang ingin kamu diskusikan?",
+      "timestamp": "2026-07-22T12:14:09.140Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
