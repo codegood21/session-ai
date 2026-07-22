@@ -1,9 +1,22 @@
 {
   "sessionId": "qivx8xqt",
   "createdAt": "2026-07-22T08:46:06.729Z",
-  "lastActivity": "2026-07-22T08:46:06.729Z",
-  "history": [],
+  "lastActivity": "2026-07-22T08:46:08.331Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "nama panjang robert sanchez",
+      "image": null,
+      "timestamp": "2026-07-22T08:46:08.331Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Robert Sánchez memiliki nama lengkap **Robert Varela Sánchez**.",
+      "timestamp": "2026-07-22T08:46:08.331Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
