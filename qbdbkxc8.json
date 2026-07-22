@@ -1,9 +1,22 @@
 {
   "sessionId": "qbdbkxc8",
   "createdAt": "2026-07-22T13:14:22.927Z",
-  "lastActivity": "2026-07-22T13:14:22.927Z",
-  "history": [],
+  "lastActivity": "2026-07-22T13:14:25.174Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "20euro kalau dirupiahkan jadi berapa?",
+      "image": null,
+      "timestamp": "2026-07-22T13:14:25.174Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa bantu mengkonversikan 20 Euro ke Rupiah.\n\nNamun, nilai tukar mata uang selalu berfluktuasi. Untuk memberikan angka yang paling akurat, saya perlu mengetahui kurs terkini.\n\nJika Anda memberi tahu saya kurs Euro ke Rupiah saat ini, saya bisa langsung menghitungnya untuk Anda. Atau, Anda bisa memeriksanya melalui situs web perbankan terkemuka atau aplikasi konverter mata uang untuk mendapatkan nilai yang paling *real-time*.\n\nSebagai gambaran kasar, jika kita menggunakan kurs sekitar Rp 17.000 per Euro (ini hanya perkiraan, kurs bisa berbeda), maka 20 Euro akan menjadi sekitar **Rp 340.000**.",
+      "timestamp": "2026-07-22T13:14:25.174Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
