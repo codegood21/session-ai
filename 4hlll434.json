@@ -1,9 +1,22 @@
 {
   "sessionId": "4hlll434",
   "createdAt": "2026-07-22T12:23:15.980Z",
-  "lastActivity": "2026-07-22T12:23:15.980Z",
-  "history": [],
+  "lastActivity": "2026-07-22T12:23:19.958Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "contoh soal pembagian ratusan",
+      "image": null,
+      "timestamp": "2026-07-22T12:23:19.958Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan berikan beberapa contoh soal pembagian bilangan ratusan. Pembagian ratusan biasanya melibatkan pembagian bilangan tiga angka dengan bilangan satu atau dua angka.\n\nBerikut beberapa contohnya:\n\n**Contoh 1: Pembagian dengan Bilangan Satu Angka**\n\n*   **Soal:** Berapakah hasil dari 369 dibagi 3?\n*   **Cara Penyelesaian:**\n    *   Kita bisa menggunakan pembagian bersusun.\n    *   Bagi angka ratusan (3) dengan 3. Hasilnya 1.\n    *   Turunkan angka puluhan (6). Bagi 6 dengan 3. Hasilnya 2.\n    *   Turunkan angka satuan (9). Bagi 9 dengan 3. Hasilnya 3.\n*   **Jawaban:** 369 : 3 = 123\n\n**Contoh 2: Pembagian dengan Bilangan Dua Angka**\n\n*   **Soal:** Berapakah hasil dari 480 dibagi 12?\n*   **Cara Penyelesaian:**\n    *   Gunakan pembagian bersusun.\n    *   Lihat dua angka pertama dari bilangan yang dibagi (48).\n    *   Cari angka yang jika dikalikan dengan 12 hasilnya mendekati atau sama dengan 48. Angka tersebut adalah 4 (karena 4 x 12 = 48).\n    *   Tulis 4 di atas sebagai hasil sementara.\n    *   Kurangi 48 dengan hasil perkalian (48 - 48 = 0).\n    *   Turunkan angka nol berikutnya.\n    *   Bagi 0 dengan 12. Hasilnya 0.\n*   **Jawaban:** 480 : 12 = 40\n\n**Contoh 3: Pembagian dengan Sisa**\n\n*   **Soal:** Berapakah hasil dari 587 dibagi 5?\n*   **Cara Penyelesaian:**\n    *   Gunakan pembagian bersusun.\n    *   Bagi angka ratusan (5) dengan 5. Hasilnya 1.\n    *   Turunkan angka puluhan (8). Bagi 8 dengan 5. Hasilnya 1 dengan sisa 3 (karena 1 x 5 = 5, dan 8 - 5 = 3).\n    *   Tulis 1 di atas sebagai hasil sementara, dan simpan sisa 3.\n    *   Turunkan angka satuan (7) di sebelah sisa 3, menjadi 37.\n    *   Bagi 37 dengan 5. Hasilnya 7 dengan sisa 2 (karena 7 x 5 = 35, dan 37 - 35 = 2).\n    *   Tulis 7 di atas sebagai hasil akhir.\n*   **Jawaban:** 587 : 5 = 117 sisa 2\n\n**Tips:**\n\n*   Untuk mempermudah, Anda bisa menggunakan metode pembagian bersusun.\n*   Jika Anda kesulitan menghafal perkalian, siapkan tabel perkalian.\n*   Latihan soal secara rutin akan membuat Anda semakin mahir.\n\nSemoga contoh-contoh ini membantu Anda memahami cara melakukan pembagian bilangan ratusan!",
+      "timestamp": "2026-07-22T12:23:19.958Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
