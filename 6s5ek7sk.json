@@ -1,9 +1,22 @@
 {
   "sessionId": "6s5ek7sk",
   "createdAt": "2026-07-22T05:57:03.323Z",
-  "lastActivity": "2026-07-22T05:57:03.323Z",
-  "history": [],
+  "lastActivity": "2026-07-22T05:57:06.126Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Jelaskan gambar ini secara singkat, padat, dan jelas.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrvo6ypc.jpg",
+      "timestamp": "2026-07-22T05:57:06.126Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan ilustrasi karakter anime bergaya chibi dengan telinga kucing berwarna hitam dan merah muda, serta mata merah yang besar. Karakter ini mengenakan kaus putih dengan gambar kucing hitam dan tulisan \"RUSH!\". Rambutnya pendek berwarna hitam dengan beberapa helai berwarna merah muda di bagian samping. Ia juga memakai kalung choker dengan liontin kecil. Keseluruhan gambar memiliki gaya yang imut dan ceria.",
+      "timestamp": "2026-07-22T05:57:06.126Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
