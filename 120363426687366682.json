@@ -1,7 +1,7 @@
 {
   "sessionId": "120363426687366682",
   "createdAt": "2026-07-22T04:47:29.634Z",
-  "lastActivity": "2026-07-22T11:09:21.698Z",
+  "lastActivity": "2026-07-22T11:10:09.109Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Oh, kamu sedang merasa sedih ya? Aku Furina di sini untuk menemanimu.\n\nMendengar cintamu terhalang oleh dinding tebal seperti itu pasti terasa berat sekali. Dinding tebal itu bisa jadi banyak hal ya, mungkin kesalahpahaman, jarak, perbedaan, atau bahkan keraguan dari salah satu pihak.\n\nMeskipun terasa sulit, jangan menyerah begitu saja ya. Kadang, dinding yang tebal itu bisa diatasi dengan kesabaran, komunikasi yang terbuka, atau mencari cara lain untuk mendekat.\n\nKalau kamu mau cerita lebih lanjut tentang \"dinding tebal\" yang kamu maksud, aku siap mendengarkan. Siapa tahu dengan berbagi, bebanmu bisa sedikit lebih ringan. 🤗",
       "timestamp": "2026-07-22T11:09:21.698Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: `[ UPDATE ]`\n\n*_API base URL_*\n~ https://api-faa.my.id\n\n*_NPM2ZIP_*\n~/faa/npm2zip?package=\n\n*_ChatDay AI_*\n~/faa/chatdayai?prompt=&model=\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-22T11:10:09.109Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Aku Furina, siap membantumu.\n\nDari pesanmu, aku lihat ada pembaruan informasi mengenai beberapa API. Ini dia detailnya:\n\n*   **API base URL**: `https://api-faa.my.id`\n*   **NPM2ZIP**: `~/faa/npm2zip?package=` (Sepertinya ini untuk mengonversi paket NPM menjadi ZIP, dengan parameter `package` untuk nama paketnya.)\n*   **ChatDay AI**: `~/faa/chatdayai?prompt=&model=` (Ini sepertinya untuk fitur AI percakapan, di mana kamu bisa memberikan `prompt` dan memilih `model` yang ingin digunakan.)\n\nJadi, ini adalah informasi *endpoint* API yang baru atau diperbarui, terutama untuk konversi NPM2ZIP dan fitur AI percakapan. Apakah ada yang bisa kubantu terkait API ini?",
+      "timestamp": "2026-07-22T11:10:09.109Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
