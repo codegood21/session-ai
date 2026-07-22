@@ -1,9 +1,22 @@
 {
   "sessionId": "86655981625421",
   "createdAt": "2026-07-22T13:30:08.285Z",
-  "lastActivity": "2026-07-22T13:30:08.285Z",
-  "history": [],
+  "lastActivity": "2026-07-22T13:36:48.021Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Ohhh my furina 😍\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-22T13:36:48.021Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Senang sekali kamu senang! Ada yang bisa kubantu hari ini? 😊",
+      "timestamp": "2026-07-22T13:36:48.021Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
