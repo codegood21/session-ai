@@ -1,7 +1,7 @@
 {
   "sessionId": "120363380388430434",
   "createdAt": "2026-07-22T02:07:54.370Z",
-  "lastActivity": "2026-07-22T02:12:59.388Z",
+  "lastActivity": "2026-07-22T06:22:26.563Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Halo!\n\nTerima kasih sudah membagikan informasi tentang voucher baru! Saya lihat ada kode voucher \"BACKTOSCHOOL\" yang memberikan diskon 19% dengan kuota 50 pengguna. Voucher ini berlaku tanpa batas waktu kedaluwarsa.\n\nKamu bisa menggunakan kode ini di situs `https://zanspiwptero.shoppanel.my.id` sebelum kuotanya habis.\n\nApakah ada hal lain yang ingin kamu ketahui atau tanyakan terkait voucher ini?",
       "timestamp": "2026-07-22T02:12:59.388Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Ada yang mau ga? \nReact secepatnya ya [ 👍 ]\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-22T06:22:26.563Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo!\n\nSaya melihat kamu bertanya apakah ada yang berminat pada sesuatu, dan meminta reaksi cepat menggunakan emoji jempol [👍].\n\nSepertinya kamu sedang menunggu respons dari orang lain. Apakah ada yang bisa saya bantu selagi menunggu?",
+      "timestamp": "2026-07-22T06:22:26.563Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
