@@ -1,7 +1,7 @@
 {
   "sessionId": "120363423670814885",
   "createdAt": "2026-07-22T11:17:22.159Z",
-  "lastActivity": "2026-07-23T12:09:54.321Z",
+  "lastActivity": "2026-07-23T12:10:57.680Z",
   "history": [
     {
       "role": "user",
@@ -110,9 +110,21 @@
       "text": "Oke, aku paham! Jadi, setelah proses *pairing* selesai, pengguna bisa mengklik di suatu tempat (yang ditunjukkan pada gambar, meskipun aku tidak melihat gambar di sini) untuk melihat dan menyalin ID sesi mereka, atau langsung melanjutkan ke tahap *deploy*. Terima kasih atas penjelasannya! Ini pasti akan sangat memudahkan pengguna.",
       "timestamp": "2026-07-23T12:09:54.321Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: It will be live for 4 minutes\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-23T12:10:57.680Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Baiklah, aku mengerti! Jadi, ini akan aktif atau tersedia hanya selama 4 menit saja. Terima kasih sudah memberitahuku agar tidak ketinggalan. Aku akan siap!",
+      "timestamp": "2026-07-23T12:10:57.680Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 18
+    "totalMessages": 20
   }
 }
