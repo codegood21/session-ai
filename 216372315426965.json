@@ -1,7 +1,7 @@
 {
   "sessionId": "216372315426965",
   "createdAt": "2026-07-23T12:59:26.833Z",
-  "lastActivity": "2026-07-23T13:04:52.285Z",
+  "lastActivity": "2026-07-23T13:06:42.969Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Tentu saja, tidak perlu terburu-buru. Aku di sini siap menemanimu.\n\nApa pun yang ingin kamu bicarakan atau tanyakan, aku akan menunggu dengan sabar. Santai saja, ya!",
       "timestamp": "2026-07-23T13:04:52.285Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Boleh\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-23T13:06:42.969Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja boleh! Apa pun yang kamu inginkan, aku siap membantu.\n\nApakah ada sesuatu yang spesifik yang ingin kamu lakukan atau tanyakan? Jangan sungkan untuk mengatakannya, ya!",
+      "timestamp": "2026-07-23T13:06:42.969Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
