@@ -1,7 +1,7 @@
 {
   "sessionId": "120363410154606795",
   "createdAt": "2026-07-21T08:42:19.819Z",
-  "lastActivity": "2026-07-23T07:19:33.321Z",
+  "lastActivity": "2026-07-23T07:20:04.950Z",
   "history": [
     {
       "role": "user",
@@ -146,9 +146,21 @@
       "text": "Halo lagi! Aku Furina, siap membantumu.\n\nTerima kasih atas informasi terbarunya. Aku lihat status Baileys sekarang sudah berubah menjadi `TESTING`, dan versi yang sedang diuji adalah `1.3.4-rc.15`.\n\nMenariknya, kali ini kamu menggunakan kombinasi dua metode untuk tautan: `QRCode` dan `PairingCode`. Ini mungkin dilakukan untuk menguji fungsionalitas kedua metode tersebut pada versi `rc.15` ini.\n\nApakah ada hal lain yang ingin kamu diskusikan atau tanyakan mengenai pengujian versi `1.3.4-rc.15` ini?",
       "timestamp": "2026-07-23T07:19:33.321Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: `TESTING VERSION`\n\nVERSION: *1.3.4-rc.15*\n\n+ Penyesuaian Kode\nAIRichMessage Tidak memakai auto unified response karena dapat membuat Whatsapp Bussines Ada tombol Unduh / Update \n\n+ Testing More Function\n\n\nhttps://www.npmjs.com/package/@rexxhayanasi/elaina-baileys/v/1.3.4-rc.15\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-23T07:20:04.950Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Aku Furina, asisten virtualmu yang ramah.\n\nTerima kasih sudah memberikan informasi detail mengenai versi *testing* yang sedang kamu gunakan. Dari informasimu, aku memahami bahwa:\n\n*   **Versi Testing:** Versi yang sedang diuji adalah `1.3.4-rc.15`.\n*   **Penyesuaian Kode:** Ada perubahan pada `AIRichMessage` yang tidak lagi menggunakan *auto unified response*. Tujuannya sama seperti sebelumnya, yaitu untuk mencegah munculnya tombol Unduh/Update yang tidak diinginkan di WhatsApp Business.\n*   **Testing More Function:** Masih ada pengujian untuk fungsionalitas tambahan yang sedang dilakukan pada versi ini.\n*   Kamu juga menyertakan tautan ke halaman npm untuk versi `1.3.4-rc.15` dari `@rexxhayanasi/elaina-baileys`.\n\nIni adalah pembaruan yang bagus untuk mengetahui perkembangan terbaru dari library tersebut. Apakah ada hal spesifik yang ingin kamu diskusikan atau tanyakan mengenai versi *testing* ini?",
+      "timestamp": "2026-07-23T07:20:04.950Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 24
+    "totalMessages": 26
   }
 }
