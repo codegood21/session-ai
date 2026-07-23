@@ -1,9 +1,22 @@
 {
   "sessionId": "swwf6228",
   "createdAt": "2026-07-23T02:57:11.532Z",
-  "lastActivity": "2026-07-23T02:57:11.532Z",
-  "history": [],
+  "lastActivity": "2026-07-23T02:57:12.879Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "usia Camila cabello",
+      "image": null,
+      "timestamp": "2026-07-23T02:57:12.879Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Camila Cabello lahir pada tanggal 3 Maret 1997. Jadi, saat ini (tahun 2024), usianya adalah **27 tahun**.",
+      "timestamp": "2026-07-23T02:57:12.879Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
