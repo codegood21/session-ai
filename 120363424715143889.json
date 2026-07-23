@@ -1,7 +1,7 @@
 {
   "sessionId": "120363424715143889",
   "createdAt": "2026-07-21T11:30:40.441Z",
-  "lastActivity": "2026-07-22T12:54:59.759Z",
+  "lastActivity": "2026-07-23T03:37:07.958Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Kenapa tuh? Ada yang bisa aku bantu atau mau cerita apa hari ini? 😊",
       "timestamp": "2026-07-22T12:54:59.759Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: 🗿🗿\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-23T03:37:07.958Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Hmm, emoji batu itu biasanya dipakai kalau lagi bingung, nggak nyangka, atau lagi ngerasa nggak bisa ngomong apa-apa ya? Ada apa nih? Kamu lagi ngerasa gitu?",
+      "timestamp": "2026-07-23T03:37:07.958Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
