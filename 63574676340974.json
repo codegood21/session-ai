@@ -1,7 +1,7 @@
 {
   "sessionId": "63574676340974",
   "createdAt": "2026-07-21T11:56:47.807Z",
-  "lastActivity": "2026-07-22T11:12:28.319Z",
+  "lastActivity": "2026-07-23T11:53:33.673Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Halo! Wah, kok tertawa sampai meledak gitu? 😄 Ada sesuatu yang lucu banget ya? Cerita dong kalau mau! Aku penasaran nih.",
       "timestamp": "2026-07-22T11:12:28.319Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Cheese 🧀\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-23T11:53:33.673Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Wah, kamu lagi ngomongin keju ya? 🧀 Suka banget sama keju, atau lagi mau makan keju nih? Keju itu memang enak ya, ada banyak jenisnya lagi. Ada yang lembut, ada yang keras, ada yang rasanya kuat. Kamu paling suka keju yang mana?",
+      "timestamp": "2026-07-23T11:53:33.673Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
