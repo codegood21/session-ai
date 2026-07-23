@@ -1,9 +1,22 @@
 {
   "sessionId": "test_1784773692",
   "createdAt": "2026-07-23T02:28:14.749Z",
-  "lastActivity": "2026-07-23T02:28:14.749Z",
-  "history": [],
+  "lastActivity": "2026-07-23T02:28:16.403Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "a cat wearing sunglasses",
+      "image": null,
+      "timestamp": "2026-07-23T02:28:16.403Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu. Gambar yang Anda berikan menampilkan seekor kucing yang mengenakan kacamata hitam.\n\nKucing tersebut terlihat duduk dengan tenang, dan kacamata hitam yang dikenakannya berwarna gelap, menutupi matanya. Kucingnya sendiri memiliki bulu yang berwarna terang, mungkin putih atau krem, dan terlihat cukup santai. Suasana di sekitarnya tampak biasa saja, tidak ada latar belakang yang terlalu menonjol.\n\nApakah ada hal spesifik yang ingin Anda ketahui atau diskusikan mengenai kucing berkacamata ini?",
+      "timestamp": "2026-07-23T02:28:16.403Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
