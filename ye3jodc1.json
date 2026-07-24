@@ -1,9 +1,22 @@
 {
   "sessionId": "ye3jodc1",
   "createdAt": "2026-07-24T10:03:53.928Z",
-  "lastActivity": "2026-07-24T10:03:53.928Z",
-  "history": [],
+  "lastActivity": "2026-07-24T10:03:55.199Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "off",
+      "image": null,
+      "timestamp": "2026-07-24T10:03:55.198Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Mohon maaf, saya tidak mengerti maksud Anda dengan \"off\". Bisakah Anda memberikan penjelasan lebih lanjut atau mengajukan pertanyaan lain?",
+      "timestamp": "2026-07-24T10:03:55.199Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
