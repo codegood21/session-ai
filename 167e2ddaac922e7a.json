@@ -1,9 +1,22 @@
 {
   "sessionId": "167e2ddaac922e7a",
   "createdAt": "2026-07-24T04:53:04.782Z",
-  "lastActivity": "2026-07-24T04:53:04.782Z",
-  "history": [],
+  "lastActivity": "2026-07-24T04:53:06.082Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "puedes traducir esto? [Responde siempre en español]",
+      "image": null,
+      "timestamp": "2026-07-24T04:53:06.082Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa menerjemahkannya. Namun, sepertinya Anda belum menyertakan teks yang ingin diterjemahkan. Mohon berikan teksnya, dan saya akan bantu menerjemahkannya untuk Anda.",
+      "timestamp": "2026-07-24T04:53:06.082Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
