@@ -1,9 +1,22 @@
 {
   "sessionId": "fqg1m04s",
   "createdAt": "2026-07-24T05:31:43.725Z",
-  "lastActivity": "2026-07-24T05:31:43.725Z",
-  "history": [],
+  "lastActivity": "2026-07-24T05:31:47.175Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://rahmad-elaina.my.id/file/1bf1f2cd33.jpg",
+      "timestamp": "2026-07-24T05:31:47.175Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young couple, a woman and a man, are sitting at a table outdoors at night, likely at a casual eatery. They are both smiling and holding chopsticks, appearing to be about to eat. The woman is on the left, wearing a light blue t-shirt with a graphic that says \"COSMOS UNIVERSE\" featuring a sun and a crescent moon. She has her hair pulled back and is looking directly at the camera. The man is on the right, wearing a black t-shirt with the word \"ON\" in white letters. He also has dark, curly hair and is looking towards the camera with a slight smile.\n\nIn front of them on the table are plates of food, which appear to be fried chicken with some sort of sauce and a side of coleslaw or shredded vegetables. There are also two glasses of iced drinks with red straws, and a pink packet of tissues. The background is somewhat dim and appears to be an outdoor seating area with bamboo poles and tarps overhead, suggesting a rustic or makeshift shelter. The lighting is artificial and somewhat harsh, casting shadows and highlighting the subjects. The overall mood is cheerful and relaxed, capturing a moment of shared enjoyment. The color palette is dominated by the dark background, the food's brown and beige tones, and the bright blue of the woman's shirt and the pink tissue packet.",
+      "timestamp": "2026-07-24T05:31:47.175Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
