@@ -1,9 +1,22 @@
 {
   "sessionId": "g01ptti9",
   "createdAt": "2026-07-24T20:49:31.626Z",
-  "lastActivity": "2026-07-24T20:49:31.626Z",
-  "history": [],
+  "lastActivity": "2026-07-24T20:49:33.066Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "2+5",
+      "image": null,
+      "timestamp": "2026-07-24T20:49:33.066Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita hitung bersama.\n\nGambar ini berisi soal matematika sederhana: \"2+5\".\n\nJika kita menjumlahkan 2 dan 5, hasilnya adalah 7.\n\nJadi, 2 + 5 = 7.",
+      "timestamp": "2026-07-24T20:49:33.066Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
