@@ -1,9 +1,22 @@
 {
   "sessionId": "dslblwfh",
   "createdAt": "2026-07-24T05:16:53.226Z",
-  "lastActivity": "2026-07-24T05:16:53.226Z",
-  "history": [],
+  "lastActivity": "2026-07-24T05:16:54.874Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "jalan Kanan burger ,jalan kiri KFC ,lebih baik jalan yg mana",
+      "image": null,
+      "timestamp": "2026-07-24T05:16:54.874Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Dalam gambar ini terlihat ada dua pilihan jalan yang masing-masing mengarah ke tempat makan. Jalan di sebelah kanan mengarah ke \"Burger King\", sementara jalan di sebelah kiri mengarah ke \"KFC\".\n\nPilihan jalan mana yang lebih baik akan tergantung pada selera Anda. Jika Anda lebih suka burger, maka jalan ke kanan menuju Burger King adalah pilihan yang tepat. Namun, jika Anda lebih menyukai ayam goreng khas KFC, maka jalan ke kiri adalah pilihan yang lebih baik.\n\nJadi, tidak ada jalan yang secara objektif lebih baik, semuanya tergantung pada preferensi kuliner Anda.",
+      "timestamp": "2026-07-24T05:16:54.874Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
