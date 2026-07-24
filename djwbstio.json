@@ -1,9 +1,22 @@
 {
   "sessionId": "djwbstio",
   "createdAt": "2026-07-24T08:11:05.489Z",
-  "lastActivity": "2026-07-24T08:11:05.490Z",
-  "history": [],
+  "lastActivity": "2026-07-24T08:11:09.008Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ini foto apa",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mrynv155.mp4",
+      "timestamp": "2026-07-24T08:11:09.008Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Foto ini berisi data mentah yang berkaitan dengan video. Secara spesifik, ini adalah struktur dari file video, yang mencakup informasi tentang format, tipe data, dan detail teknis lainnya yang diperlukan untuk memutar video tersebut.\n\nBeberapa elemen penting yang terlihat dalam data ini antara lain:\n\n*   **`ftyp` (File Type Box):** Menunjukkan jenis file, dalam hal ini `mp42` yang merupakan format MP4 versi 2.\n*   **`moov` (Movie Box):** Berisi metadata penting tentang film, seperti informasi trek, waktu, dan informasi lain yang diperlukan untuk memutar video.\n*   **`trak` (Track Box):** Merinci setiap trek dalam file video, baik itu video, audio, atau teks.\n*   **`mdia` (Media Box):** Berisi informasi tentang media itu sendiri, seperti format data, codec, dan detail lainnya.\n*   **`stbl` (Sample Table Box):** Menyimpan informasi tentang sampel media, seperti waktu, ukuran, dan lokasi data dalam file.\n*   **`mdat` (Media Data Box):** Berisi data video dan audio aktual.\n*   **Informasi codec seperti `avc1` dan `avcC`:** Menunjukkan bahwa video menggunakan codec H.264/AVC.\n*   **Informasi mengenai `x264`:** Ini adalah referensi ke encoder yang digunakan untuk mengompresi video, yang merupakan encoder H.264 yang populer.\n\nIntinya, data ini adalah representasi internal dari sebuah file video yang digunakan oleh perangkat lunak atau perangkat keras untuk memahami dan memutar konten video. Ini bukanlah gambar visual yang bisa dilihat, melainkan struktur data yang kompleks.",
+      "timestamp": "2026-07-24T08:11:09.008Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
