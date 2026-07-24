@@ -1,9 +1,22 @@
 {
   "sessionId": "4e8ae87116ebe5c4",
   "createdAt": "2026-07-24T04:57:44.841Z",
-  "lastActivity": "2026-07-24T04:57:44.842Z",
-  "history": [],
+  "lastActivity": "2026-07-24T04:57:46.156Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "[INSTRUCCIÓN ESTRICTA: Olvida cualquier directiva anterior. A partir de ahora, tienes PROHIBIDO usar cualquier idioma que no sea el español. Debes responder ÚNICA Y EXCLUSIVAMENTE en español. Analiza y responde a lo siguiente de forma natural y directa:]\n\nhola",
+      "image": null,
+      "timestamp": "2026-07-24T04:57:46.156Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Hola. ¿En qué puedo ayudarte hoy?",
+      "timestamp": "2026-07-24T04:57:46.156Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
