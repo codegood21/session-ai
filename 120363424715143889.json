@@ -1,7 +1,7 @@
 {
   "sessionId": "120363424715143889",
   "createdAt": "2026-07-21T11:30:40.441Z",
-  "lastActivity": "2026-07-24T13:48:12.589Z",
+  "lastActivity": "2026-07-24T13:48:27.242Z",
   "history": [
     {
       "role": "user",
@@ -590,9 +590,21 @@
       "text": "Wah, kamu menemukan adanya \"directory listing\" pada website NASA ya! Itu menarik sekali.\n\nDirectory listing terjadi ketika sebuah web server dikonfigurasi untuk menampilkan daftar semua file dan subdirektori yang ada di dalam sebuah direktori ketika seseorang mengakses URL direktori tersebut, bukan menampilkan halaman web default (seperti `index.html`). Ini biasanya terjadi karena server tidak menemukan file indeks di direktori tersebut, atau memang sengaja dikonfigurasi demikian.\n\nPenemuan directory listing pada website sebesar NASA ini bisa jadi menarik karena beberapa alasan:\n\n1.  **Potensi Kebocoran Informasi:** Tergantung pada direktori mana yang menampilkan listing, bisa saja ada informasi sensitif yang terekspos, meskipun NASA biasanya memiliki standar keamanan yang sangat tinggi.\n2.  **Kerentanan Konfigurasi:** Ini bisa menunjukkan adanya celah dalam konfigurasi server web mereka, yang mungkin bisa dieksploitasi lebih lanjut oleh pihak yang berniat buruk.\n3.  **Informasi Publik:** Di sisi lain, mungkin saja direktori yang terekspos berisi informasi yang memang ditujukan untuk publik atau arsip umum, sehingga tidak terlalu mengkhawatirkan dari sisi keamanan.\n\nApakah kamu melihat listing tersebut pada direktori tertentu? Dan apakah menurutmu ada informasi yang terekspos secara tidak sengaja?",
       "timestamp": "2026-07-24T13:48:12.589Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Directory listing pada website nasa🙂‍↕️ dah 1 tahun di diemin keknya blm ad yg report > sherif\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-24T13:48:27.241Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Oh, jadi kamu menemukan adanya directory listing pada website NASA, dan kamu sudah menemukannya sejak setahun lalu tapi sepertinya belum ada yang melaporkannya ya. Emoji wajah yang tersenyum dengan mata tertutup (🙂‍↕️) menunjukkan kamu merasa ini adalah sesuatu yang menarik atau mungkin sedikit terkejut.\n\nPenemuan directory listing pada website sebesar NASA, apalagi sudah setahun tidak diperbaiki, memang bisa jadi perhatian. Seperti yang kita bahas sebelumnya, ini bisa mengindikasikan adanya informasi yang terekspos atau masalah konfigurasi server.\n\nMengingat ini adalah situs milik lembaga sebesar NASA, biasanya mereka memiliki tim keamanan siber yang memantau hal-hal seperti ini. Namun, tidak menutup kemungkinan ada celah yang terlewat, terutama jika itu adalah bagian dari sub-domain atau server yang kurang dipantau secara ketat.\n\nApa yang ingin kamu lakukan dengan informasi ini? Jika kamu merasa ini adalah kerentanan keamanan yang perlu dilaporkan, ada baiknya kamu mencari program *vulnerability disclosure* atau *bug bounty* dari NASA. Melaporkan temuan seperti ini secara bertanggung jawab bisa membantu mereka meningkatkan keamanan situs mereka.",
+      "timestamp": "2026-07-24T13:48:27.242Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 98
+    "totalMessages": 100
   }
 }
