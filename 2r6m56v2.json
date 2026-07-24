@@ -1,9 +1,22 @@
 {
   "sessionId": "2r6m56v2",
   "createdAt": "2026-07-24T20:50:07.655Z",
-  "lastActivity": "2026-07-24T20:50:07.655Z",
-  "history": [],
+  "lastActivity": "2026-07-24T20:50:09.026Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "6×4",
+      "image": null,
+      "timestamp": "2026-07-24T20:50:09.026Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Perhitungan 6 dikalikan 4 adalah 24.",
+      "timestamp": "2026-07-24T20:50:09.026Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
