@@ -1,9 +1,22 @@
 {
   "sessionId": "0lhsgjxe",
   "createdAt": "2026-07-24T07:47:52.042Z",
-  "lastActivity": "2026-07-24T07:47:52.042Z",
-  "history": [],
+  "lastActivity": "2026-07-24T07:47:55.975Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://rahmad-elaina.my.id/file/03c28311e0.jpg",
+      "timestamp": "2026-07-24T07:47:55.975Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A close-up portrait of a young person with messy black hair, wearing a grey hoodie. Their face is partially obscured by the hoodie, with only their eyes, part of their nose, and cheek visible. A distinct red lipstick kiss mark is imprinted on their right cheek. The person is wearing a black ring on their left hand, which is holding the hoodie up to their face. The lighting is soft and warm, creating a slightly intimate and playful mood. The color palette is dominated by the grey of the hoodie, the dark tones of the hair and eyes, and the vibrant red of the lipstick mark. The background is a plain, neutral color, out of focus. The style is candid and personal, like a selfie.",
+      "timestamp": "2026-07-24T07:47:55.975Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
