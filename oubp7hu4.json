@@ -1,9 +1,22 @@
 {
   "sessionId": "oubp7hu4",
   "createdAt": "2026-07-24T05:22:42.326Z",
-  "lastActivity": "2026-07-24T05:22:42.327Z",
-  "history": [],
+  "lastActivity": "2026-07-24T05:22:44.355Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "coba ketik aku cinta Ilham dalam bahasa biner",
+      "image": null,
+      "timestamp": "2026-07-24T05:22:44.355Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, ini dia \"aku cinta Ilham\" dalam bahasa biner:\n\n`01100001 01101011 01110101 00100000 01100011 01101001 01101110 01110100 01100001 00100000 01001001 01101100 01101000 01100001 01101101`\n\nSetiap kelompok delapan angka biner (disebut *byte*) mewakili satu karakter (huruf atau spasi) dalam kode ASCII.",
+      "timestamp": "2026-07-24T05:22:44.355Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
