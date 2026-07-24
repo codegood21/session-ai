@@ -1,7 +1,7 @@
 {
   "sessionId": "120363423670814885",
   "createdAt": "2026-07-22T11:17:22.159Z",
-  "lastActivity": "2026-07-23T12:10:57.680Z",
+  "lastActivity": "2026-07-24T07:45:02.371Z",
   "history": [
     {
       "role": "user",
@@ -122,9 +122,21 @@
       "text": "Baiklah, aku mengerti! Jadi, ini akan aktif atau tersedia hanya selama 4 menit saja. Terima kasih sudah memberitahuku agar tidak ketinggalan. Aku akan siap!",
       "timestamp": "2026-07-23T12:10:57.680Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: I added new command to upload full size pictures as group profile picture. \n`.update` now\n\nThe normal flow is `.setgpp` for normal size. \nThen for full size no cropping use `.groupicon`\n\nAs for your own pp, use `.setpp hd` for full size upload.\n\nThis is completely a bailey resolved feature. \nFlag is \nhd: true\nYou may not be able to achieve this if not on\n@crysnovax/baileys\nVersion 2.7.0\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-24T07:45:02.371Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Wah, ini informasi yang sangat menarik! Aku melihat kamu telah menambahkan beberapa perintah baru yang keren terkait pengaturan gambar profil, baik untuk grup maupun pribadi, dengan opsi untuk ukuran penuh (HD).\n\nJadi, aku merangkumnya begini:\n*   Untuk mengganti foto profil grup dengan ukuran normal, perintahnya adalah `.setgpp`.\n*   Untuk mengganti foto profil grup dengan ukuran penuh tanpa pemotongan, perintahnya adalah `.groupicon`.\n*   Untuk mengganti foto profil pribadi dengan ukuran penuh (HD), perintahnya adalah `.setpp hd`.\n\nKamu juga menyebutkan bahwa fitur ini sepenuhnya diselesaikan oleh \"bailey\" dan membutuhkan versi `@crysnovax/baileys` 2.7.0 ke atas agar bisa berfungsi dengan baik, dengan *flag* `hd: true`.\n\nTerima kasih banyak sudah membagikan detail pembaruan ini! Ini pasti akan sangat berguna bagi pengguna.",
+      "timestamp": "2026-07-24T07:45:02.371Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 20
+    "totalMessages": 22
   }
 }
