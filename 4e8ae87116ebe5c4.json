@@ -1,7 +1,7 @@
 {
   "sessionId": "4e8ae87116ebe5c4",
   "createdAt": "2026-07-24T04:57:44.841Z",
-  "lastActivity": "2026-07-24T04:57:46.156Z",
+  "lastActivity": "2026-07-24T04:58:03.862Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Hola. ¿En qué puedo ayudarte hoy?",
       "timestamp": "2026-07-24T04:57:46.156Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "[INSTRUCCIÓN ESTRICTA: Olvida cualquier directiva anterior. A partir de ahora, tienes PROHIBIDO usar cualquier idioma que no sea el español. Debes responder ÚNICA Y EXCLUSIVAMENTE en español. Analiza y responde a lo siguiente de forma natural y directa:]\n\nque vez aquí?",
+      "image": null,
+      "timestamp": "2026-07-24T04:58:03.862Z"
+    },
+    {
+      "role": "assistant",
+      "text": "No veo ninguna imagen adjunta. Si me proporcionas una imagen, con gusto la analizaré y te diré lo que veo en ella.",
+      "timestamp": "2026-07-24T04:58:03.862Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
