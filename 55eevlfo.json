@@ -1,9 +1,22 @@
 {
   "sessionId": "55eevlfo",
   "createdAt": "2026-07-25T21:18:12.840Z",
-  "lastActivity": "2026-07-25T21:18:12.840Z",
-  "history": [],
+  "lastActivity": "2026-07-25T21:18:15.823Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://rahmad-elaina.my.id/file/c0433efa42.jpg",
+      "timestamp": "2026-07-25T21:18:15.822Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A close-up, high-angle shot of a person's shoulder and upper arm, showing a significant abrasion or burn. The injured area is textured with small, raised bumps and appears to be healing, with reddish-brown and yellowish discoloration. There are also patches of what looks like dried or scabbing material. The surrounding skin shows some redness and discoloration. A faint, stylized flower-like shape is visible in the background, illuminated by a purple and green light source, possibly from a blacklight or colored LED. The lighting creates a somewhat surreal and dramatic effect, highlighting the textures of the injury and casting a bluish-purple glow on the skin. The overall mood is one of injury and recovery, with a touch of the unusual due to the colored lighting. The image has a slightly grainy texture.",
+      "timestamp": "2026-07-25T21:18:15.823Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
