@@ -1,9 +1,22 @@
 {
   "sessionId": "6wc12kbw",
   "createdAt": "2026-07-25T14:10:36.050Z",
-  "lastActivity": "2026-07-25T14:10:36.050Z",
-  "history": [],
+  "lastActivity": "2026-07-25T14:10:39.882Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Deskripsikan secara singkat dan jelas apa yang terlihat di gambar ini: objek, orang, dan aktivitas yang sedang dilakukan (jika ada).",
+      "image": "https://c.termai.cc/i154/P7QIdWo.jpeg",
+      "timestamp": "2026-07-25T14:10:39.882Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan karakter kartun Spongebob Squarepants yang sedang berpose dengan ekspresi wajah yang percaya diri dan sedikit nakal. Dia mengenakan topi dan celana pendek biru. Di latar belakang, terlihat sebuah papan pengumuman dengan beberapa diagram panah dan gambar perahu. Di bagian bawah gambar, terdapat teks \"GACOR KANG\" yang ditulis dengan huruf kapital.",
+      "timestamp": "2026-07-25T14:10:39.882Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
