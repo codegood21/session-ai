@@ -1,9 +1,22 @@
 {
   "sessionId": "1h8bbn9o",
   "createdAt": "2026-07-25T08:24:25.858Z",
-  "lastActivity": "2026-07-25T08:24:25.858Z",
-  "history": [],
+  "lastActivity": "2026-07-25T08:24:27.794Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "jawab",
+      "image": null,
+      "timestamp": "2026-07-25T08:24:27.794Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, apa yang bisa saya bantu jawab? Silakan berikan pertanyaan atau informasi yang ingin Anda diskusikan.",
+      "timestamp": "2026-07-25T08:24:27.794Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
