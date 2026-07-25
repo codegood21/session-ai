@@ -1,9 +1,22 @@
 {
   "sessionId": "diecv6ol",
   "createdAt": "2026-07-25T15:26:05.514Z",
-  "lastActivity": "2026-07-25T15:26:05.514Z",
-  "history": [],
+  "lastActivity": "2026-07-25T15:26:08.001Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu hiv",
+      "image": null,
+      "timestamp": "2026-07-25T15:26:08.001Z"
+    },
+    {
+      "role": "assistant",
+      "text": "HIV adalah singkatan dari *Human Immunodeficiency Virus*. Virus ini menyerang sistem kekebalan tubuh manusia, terutama sel CD4 (sel T helper), yang berperan penting dalam melawan infeksi dan penyakit.\n\nKetika HIV menyerang sel CD4, ia akan menggandakan dirinya di dalam sel tersebut, kemudian menghancurkannya. Seiring waktu, jumlah sel CD4 akan terus berkurang, sehingga tubuh menjadi semakin lemah dan rentan terhadap berbagai infeksi oportunistik (infeksi yang biasanya tidak berbahaya bagi orang dengan sistem kekebalan tubuh yang sehat) dan jenis kanker tertentu.\n\nJika tidak diobati, infeksi HIV dapat berkembang menjadi AIDS (*Acquired Immunodeficiency Syndrome*). AIDS adalah stadium akhir dari infeksi HIV, di mana sistem kekebalan tubuh sudah sangat rusak parah.\n\nPenting untuk diingat bahwa HIV tidak sama dengan AIDS. HIV adalah virusnya, sedangkan AIDS adalah kumpulan gejala penyakit yang timbul akibat kerusakan sistem kekebalan tubuh yang disebabkan oleh HIV. Dengan pengobatan antiretroviral (ARV) yang tepat dan teratur, orang dengan HIV dapat hidup sehat, panjang umur, dan mencegah penularan virus ke orang lain, serta tidak sampai berkembang menjadi AIDS.",
+      "timestamp": "2026-07-25T15:26:08.001Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
