@@ -1,7 +1,7 @@
 {
   "sessionId": "dfg",
   "createdAt": "2026-07-25T16:19:35.968Z",
-  "lastActivity": "2026-07-25T16:19:37.126Z",
+  "lastActivity": "2026-07-25T16:20:02.661Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Halo! Saya adalah model bahasa besar, yang dilatih oleh Google.",
       "timestamp": "2026-07-25T16:19:37.126Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "aku barusan bilang apa?",
+      "image": null,
+      "timestamp": "2026-07-25T16:20:02.661Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Anda baru saja bertanya, \"hai, kamu ai model apa\".",
+      "timestamp": "2026-07-25T16:20:02.661Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
