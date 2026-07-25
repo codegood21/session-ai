@@ -1,9 +1,22 @@
 {
   "sessionId": "3928848",
   "createdAt": "2026-07-25T09:30:44.975Z",
-  "lastActivity": "2026-07-25T09:30:44.975Z",
-  "history": [],
+  "lastActivity": "2026-07-25T09:30:55.165Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "dengan gambar",
+      "image": "https://u.pone.rs/wfqtcuot.jpg",
+      "timestamp": "2026-07-25T09:30:55.165Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan tampilan aplikasi perbankan digital \"Jago\". Di bagian atas, terdapat sapaan \"Selamat Siang, Angga\" dan logo aplikasi. Di bawahnya, terlihat informasi saldo \"Kantong Utama\" sebesar Rp10.000.000.000 dengan ikon mata yang dicoret, menandakan saldo disembunyikan. Terdapat juga tombol \"Aktivitas Terakhir\" dengan panah ke bawah.\n\nLebih lanjut, terdapat dua tombol besar untuk \"Transfer & Bayar\" dan \"QRIS, Scan QRIS\". Di bagian \"Spotlight\", ada dua kartu promo yang ditampilkan. Kartu pertama bertuliskan \"Featured\" dengan promo \"Cashback 20%\" untuk berlangganan musik dan film. Kartu kedua menampilkan promo \"Tebus Murah\" dengan diskon Rp15.000.\n\nDi bagian bawah layar, terdapat bagian \"Rencanakan\" yang berisi ajakan untuk membuat rencana pembayaran jika sering lupa membayar tagihan. Terdapat juga ikon daftar tugas dan tombol \"Buat Rencana Pembayaran\". Di bagian paling bawah terdapat bilah navigasi dengan ikon \"Beranda\", \"Kantong\", \"Transaksi\", \"Kartu\", dan \"Lainnya\".",
+      "timestamp": "2026-07-25T09:30:55.165Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
