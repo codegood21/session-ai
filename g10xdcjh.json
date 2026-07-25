@@ -1,9 +1,22 @@
 {
   "sessionId": "g10xdcjh",
   "createdAt": "2026-07-25T08:40:08.099Z",
-  "lastActivity": "2026-07-25T08:40:08.099Z",
-  "history": [],
+  "lastActivity": "2026-07-25T08:40:12.240Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Deskripsikan secara singkat dan jelas apa yang terlihat di gambar ini: objek, orang, dan aktivitas yang sedang dilakukan (jika ada).",
+      "image": "https://c.termai.cc/i185/itBppF.jpeg",
+      "timestamp": "2026-07-25T08:40:12.239Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar tersebut menampilkan karakter SpongeBob SquarePants dengan ekspresi wajah yang lebar dan seringai khasnya. Ia mengenakan topi dan celana pendek biru. Di latar belakang, terlihat sebuah papan dengan beberapa diagram atau instruksi yang digambar, serta dinding kayu. Di bagian bawah gambar, terdapat teks besar bertuliskan \"GACOR KANG\".",
+      "timestamp": "2026-07-25T08:40:12.240Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
