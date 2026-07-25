@@ -1,9 +1,22 @@
 {
   "sessionId": "gzljnzbv",
   "createdAt": "2026-07-25T02:34:27.501Z",
-  "lastActivity": "2026-07-25T02:34:27.501Z",
-  "history": [],
+  "lastActivity": "2026-07-25T02:34:30.591Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://rahmad-elaina.my.id/file/31a8d66d26.jpg",
+      "timestamp": "2026-07-25T02:34:30.591Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young man with curly dark hair is taking a mirror selfie in what appears to be a restroom. He is wearing a black hoodie with a graphic design on the front featuring red and white lettering that reads \"212 WORLD\" and a circular emblem with an American flag. He has a backpack slung over his left shoulder. His right hand is raised, touching the hood of his sweatshirt, and he is holding a smartphone in his left hand, which is also visible in the mirror. The phone case has a colorful, abstract design. The background shows a tiled wall, a dark gray door with a white pictogram of a person sweeping, and a white sink basin in the foreground. The lighting is somewhat dim, with a warm light casting a shadow on the left side of the frame. The overall mood is casual and candid.",
+      "timestamp": "2026-07-25T02:34:30.591Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
