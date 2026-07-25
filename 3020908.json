@@ -1,9 +1,22 @@
 {
   "sessionId": "3020908",
   "createdAt": "2026-07-25T09:31:58.128Z",
-  "lastActivity": "2026-07-25T09:31:58.128Z",
-  "history": [],
+  "lastActivity": "2026-07-25T09:31:59.133Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan gambar gunung",
+      "image": null,
+      "timestamp": "2026-07-25T09:31:59.133Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, ini dia gambar gunung:\n\n",
+      "timestamp": "2026-07-25T09:31:59.133Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
