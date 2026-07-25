@@ -1,7 +1,7 @@
 {
   "sessionId": "120363375703141911@g.us_5351524614@s.whatsapp.net_1",
   "createdAt": "2026-07-17T14:37:29.598Z",
-  "lastActivity": "2026-07-25T13:29:29.923Z",
+  "lastActivity": "2026-07-25T13:40:51.851Z",
   "history": [
     {
       "role": "user",
@@ -302,9 +302,21 @@
       "text": "La frase \"hola quiero comprar su Bot de whatsapp\" se traduce al inglés como:\n\n\"**Hello, I want to buy your WhatsApp Bot.**\"\n\nTambién podrías decir, dependiendo del contexto:\n\n*   \"Hi, I'm interested in buying your WhatsApp Bot.\" (Si quieres sonar un poco más formal o interesado)\n*   \"Hello, I'd like to purchase your WhatsApp Bot.\" (Una opción más formal)",
       "timestamp": "2026-07-25T13:29:29.923Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "traduce esto al inglés: acepta PayPal como método de pago ?\n\nResponde en español",
+      "image": null,
+      "timestamp": "2026-07-25T13:40:51.851Z"
+    },
+    {
+      "role": "assistant",
+      "text": "La frase \"acepta PayPal como método de pago ?\" se traduce al inglés como:\n\n\"**Do you accept PayPal as a payment method?**\"\n\nOtras formas comunes de preguntar lo mismo serían:\n\n*   \"Do you take PayPal?\" (Más informal)\n*   \"Is PayPal an accepted payment option?\"\n*   \"Can I pay with PayPal?\"",
+      "timestamp": "2026-07-25T13:40:51.851Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 50
+    "totalMessages": 52
   }
 }
