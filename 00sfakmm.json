@@ -1,9 +1,22 @@
 {
   "sessionId": "00sfakmm",
   "createdAt": "2026-07-25T08:26:25.921Z",
-  "lastActivity": "2026-07-25T08:26:25.921Z",
-  "history": [],
+  "lastActivity": "2026-07-25T08:26:27.299Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buah calincing \nBuah takokak \nCicing botak \n\nPantun Sunda",
+      "image": null,
+      "timestamp": "2026-07-25T08:26:27.299Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, ini pantun Sunda berdasarkan kata-kata yang Anda berikan:\n\nBuah calincing buah takokak,\nManis rasanya tiada tara.\nKalau hati sudah tertolak,\nCicing botak pun tak mengapa.",
+      "timestamp": "2026-07-25T08:26:27.299Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
