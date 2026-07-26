@@ -1,7 +1,7 @@
 {
   "sessionId": "5511934018116@s.whatsapp.net",
   "createdAt": "2026-07-26T00:24:48.638Z",
-  "lastActivity": "2026-07-26T20:52:56.613Z",
+  "lastActivity": "2026-07-26T21:11:22.310Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Halo! Ada yang bisa saya bantu?",
       "timestamp": "2026-07-26T20:52:56.613Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "que dia é hoje",
+      "image": null,
+      "timestamp": "2026-07-26T21:11:22.310Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Hari ini adalah hari Sabtu, 25 Mei 2024.",
+      "timestamp": "2026-07-26T21:11:22.310Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
