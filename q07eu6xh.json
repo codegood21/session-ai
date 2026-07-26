@@ -1,9 +1,22 @@
 {
   "sessionId": "q07eu6xh",
   "createdAt": "2026-07-26T15:30:43.321Z",
-  "lastActivity": "2026-07-26T15:30:43.321Z",
-  "history": [],
+  "lastActivity": "2026-07-26T15:30:47.121Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://rahmad-elaina.my.id/file/4681ea8bee.jpg",
+      "timestamp": "2026-07-26T15:30:47.121Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A low-angle, medium shot captures a person sitting on a motorcycle at night. The person, whose face is obscured by their dark, messy hair, wears a black polo shirt with a red emblem on the left sleeve and light grey pants. They are holding a black helmet with a reflective visor in their right hand, bringing it towards their face as if to adjust it or shield themselves. The motorcycle is black with a fuel tank decorated with white flame-like graphics. The background features a chain-link fence, a tree on the left, and a building with illuminated windows and architectural details behind it. The lighting is dim and atmospheric, with a single bright streetlamp casting a glow on the scene, creating strong shadows and highlighting the textures of the motorcycle and the person's clothing. The color palette is dominated by dark tones, with pops of red from the emblem and white from the motorcycle's graphics. The overall mood is casual and slightly mysterious, evoking a sense of a late-night stop or preparation for a ride. The style is realistic, with a touch of urban grit.",
+      "timestamp": "2026-07-26T15:30:47.121Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
