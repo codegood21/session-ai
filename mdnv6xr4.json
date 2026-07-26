@@ -1,9 +1,22 @@
 {
   "sessionId": "mdnv6xr4",
   "createdAt": "2026-07-26T05:30:12.631Z",
-  "lastActivity": "2026-07-26T05:30:12.631Z",
-  "history": [],
+  "lastActivity": "2026-07-26T05:30:16.121Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu bool",
+      "image": null,
+      "timestamp": "2026-07-26T05:30:16.121Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita bahas tentang \"bool\".\n\nDalam pemrograman, **bool** adalah sebuah tipe data yang sangat mendasar. Nama \"bool\" sendiri berasal dari nama seorang matematikawan bernama George Boole.\n\nTipe data `bool` hanya memiliki dua kemungkinan nilai:\n\n1.  **`true` (benar)**\n2.  **`false` (salah)**\n\nNilai-nilai ini sering digunakan untuk merepresentasikan kondisi atau status. Misalnya, apakah sebuah tombol sedang ditekan (`true`) atau tidak (`false`), apakah sebuah data sudah dimuat (`true`) atau belum (`false`), atau apakah sebuah kondisi terpenuhi (`true`) atau tidak (`false`).\n\nLogika `bool` ini menjadi dasar dari banyak operasi dalam pemrograman, terutama dalam penggunaan pernyataan kondisional seperti `if`, `else`, dan perulangan `while` atau `for`. Dengan `bool`, program dapat membuat keputusan dan mengontrol alur eksekusi berdasarkan kondisi tertentu.",
+      "timestamp": "2026-07-26T05:30:16.121Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
