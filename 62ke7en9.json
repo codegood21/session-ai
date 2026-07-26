@@ -1,9 +1,22 @@
 {
   "sessionId": "62ke7en9",
   "createdAt": "2026-07-26T11:04:43.400Z",
-  "lastActivity": "2026-07-26T11:04:43.400Z",
-  "history": [],
+  "lastActivity": "2026-07-26T11:04:44.663Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "72 jam itu berapa",
+      "image": null,
+      "timestamp": "2026-07-26T11:04:44.663Z"
+    },
+    {
+      "role": "assistant",
+      "text": "72 jam itu sama dengan 3 hari.\n\nSetiap 24 jam dihitung sebagai satu hari, jadi 72 jam dibagi 24 jam/hari akan menghasilkan 3 hari.",
+      "timestamp": "2026-07-26T11:04:44.663Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
