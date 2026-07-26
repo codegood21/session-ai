@@ -1,7 +1,7 @@
 {
   "sessionId": "120363423670814885",
   "createdAt": "2026-07-22T11:17:22.159Z",
-  "lastActivity": "2026-07-26T21:57:19.632Z",
+  "lastActivity": "2026-07-26T22:01:23.130Z",
   "history": [
     {
       "role": "user",
@@ -374,9 +374,21 @@
       "text": "Baiklah, aku mengerti! Jadi, bagi pengguna yang mengalami perubahan Cody AI menjadi CRYSNOVA AI setelah pembaruan, solusinya adalah menghapus semua file di panel mereka kecuali file `index.js`, lalu memulai ulang semuanya. Dengan begitu, semuanya akan kembali normal.\n\nTerima kasih banyak atas instruksi perbaikan yang jelas ini! Ini pasti sangat membantu bagi mereka yang terdampak.",
       "timestamp": "2026-07-26T21:57:19.632Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Or  if you know what to do, visit System/ folder, inside change repo URL from CRYSNOVA_AI to CODY. \n\nThe path is \n./src/Commands/System/📅\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-26T22:01:23.130Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Oke, aku paham! Kamu memberikan alternatif solusi lain bagi mereka yang tahu cara mengotak-atik sistem.\n\nSolusi kedua ini adalah dengan masuk ke folder `System`, lalu di dalamnya, ubah URL repositori dari `CRYSNOVA_AI` menjadi `CODY`. Jalur lengkapnya adalah `./src/Commands/System/📅`.\n\nTerima kasih atas dua pilihan solusi yang diberikan, ini sangat membantu!",
+      "timestamp": "2026-07-26T22:01:23.130Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 62
+    "totalMessages": 64
   }
 }
