@@ -1,9 +1,22 @@
 {
   "sessionId": "a0medakx",
   "createdAt": "2026-07-26T23:57:56.602Z",
-  "lastActivity": "2026-07-26T23:57:56.602Z",
-  "history": [],
+  "lastActivity": "2026-07-26T23:57:57.876Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Ridz pemeran utama go go squid siapa?",
+      "image": null,
+      "timestamp": "2026-07-26T23:57:57.876Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Dalam drama \"Go Go Squid!\", pemeran utama pria yang memerankan tokoh Han Shangyan (sering disapa \"Gundam\") adalah **Li Xian**.",
+      "timestamp": "2026-07-26T23:57:57.876Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
