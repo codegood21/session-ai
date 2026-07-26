@@ -1,9 +1,22 @@
 {
   "sessionId": "120363425690046229@g.us_5351524614@s.whatsapp.net_1",
   "createdAt": "2026-07-26T04:02:01.107Z",
-  "lastActivity": "2026-07-26T04:02:01.107Z",
-  "history": [],
+  "lastActivity": "2026-07-26T04:02:02.705Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "que significa eso\n\n[Mensaje citado]: Br wdoelhp wh sxlhur\n\nResponde en español",
+      "image": null,
+      "timestamp": "2026-07-26T04:02:02.705Z"
+    },
+    {
+      "role": "assistant",
+      "text": "El mensaje que citas, \"Br wdoelhp wh sxlhur\", parece ser un texto codificado o cifrado. Si lo interpretamos como un cifrado César simple con un desplazamiento de 3 letras hacia atrás (donde 'd' se convierte en 'a', 'e' en 'b', etc.), entonces \"Br wdoelhp wh sxlhur\" se traduciría como \"Go there to sleep\".\n\nEn resumen, el significado es una instrucción para ir a dormir.",
+      "timestamp": "2026-07-26T04:02:02.705Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
