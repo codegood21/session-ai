@@ -1,9 +1,22 @@
 {
   "sessionId": "mjxf7c9y",
   "createdAt": "2026-07-26T16:23:06.959Z",
-  "lastActivity": "2026-07-26T16:23:06.959Z",
-  "history": [],
+  "lastActivity": "2026-07-26T16:23:09.527Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa ini",
+      "image": "https://cdn-alip.clutch.web.id/api/u/ms20bhlo.jpg",
+      "timestamp": "2026-07-26T16:23:09.527Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan close-up mata seorang karakter anime. Terdapat dua mata yang terlihat, satu berwarna merah tua dengan pantulan cahaya yang berkilauan, dan mata lainnya berwarna cokelat keemasan yang menampilkan pola seperti jam dengan jarum jam dan menit. Rambut karakter berwarna cokelat gelap membingkai wajahnya.",
+      "timestamp": "2026-07-26T16:23:09.527Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
