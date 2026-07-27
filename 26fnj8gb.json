@@ -1,9 +1,22 @@
 {
   "sessionId": "26fnj8gb",
   "createdAt": "2026-07-27T03:11:40.074Z",
-  "lastActivity": "2026-07-27T03:11:40.074Z",
-  "history": [],
+  "lastActivity": "2026-07-27T03:11:41.646Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "siapa nama mama Layla",
+      "image": null,
+      "timestamp": "2026-07-27T03:11:41.646Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya tidak dapat menemukan informasi tentang nama ibu Layla dari gambar yang Anda berikan. Gambar tersebut menampilkan tangkapan layar dari sebuah video di YouTube yang berjudul \"LAYLA MAMA PAPA KE JEPANG\". Judul ini menunjukkan bahwa Layla akan pergi ke Jepang bersama mama dan papanya, tetapi tidak menyebutkan nama ibu Layla secara spesifik.",
+      "timestamp": "2026-07-27T03:11:41.646Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
