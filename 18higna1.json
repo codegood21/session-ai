@@ -1,9 +1,22 @@
 {
   "sessionId": "18higna1",
   "createdAt": "2026-07-27T14:40:48.928Z",
-  "lastActivity": "2026-07-27T14:40:48.928Z",
-  "history": [],
+  "lastActivity": "2026-07-27T14:40:51.020Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa arti niger",
+      "image": null,
+      "timestamp": "2026-07-27T14:40:51.020Z"
+    },
+    {
+      "role": "assistant",
+      "text": "\"Niger\" adalah nama sebuah negara di Afrika Barat. Nama negara ini berasal dari Sungai Niger, yang merupakan sungai terpanjang ketiga di benua Afrika.\n\nNegara Niger berbatasan dengan Aljazair, Libya, Chad, Nigeria, Benin, Burkina Faso, dan Mali. Ibu kotanya adalah Niamey. Niger adalah salah satu negara termiskin di dunia, dengan sebagian besar wilayahnya tertutup oleh gurun Sahara.",
+      "timestamp": "2026-07-27T14:40:51.020Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
