@@ -1,9 +1,22 @@
 {
   "sessionId": "64lfjbx6",
   "createdAt": "2026-07-27T05:43:59.008Z",
-  "lastActivity": "2026-07-27T05:43:59.008Z",
-  "history": [],
+  "lastActivity": "2026-07-27T05:44:00.548Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "lagu hello goodbye yg nyanyi Reza arap",
+      "image": null,
+      "timestamp": "2026-07-27T05:44:00.548Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Lagu \"Hello Goodbye\" yang dinyanyikan oleh Reza Arap sebenarnya adalah *cover version* dari lagu aslinya yang dibawakan oleh The Beatles.\n\nReza Arap merilis *cover* lagu ini pada tahun 2021. Lagu ini menjadi salah satu karyanya yang cukup dikenal di kalangan penggemarnya.",
+      "timestamp": "2026-07-27T05:44:00.548Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
