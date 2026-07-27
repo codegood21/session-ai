@@ -1,9 +1,22 @@
 {
   "sessionId": "8eotiyfr",
   "createdAt": "2026-07-27T09:30:45.981Z",
-  "lastActivity": "2026-07-27T09:30:45.981Z",
-  "history": [],
+  "lastActivity": "2026-07-27T09:30:51.332Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://rahmad-elaina.my.id/file/3e86b8e5b4.jpg",
+      "timestamp": "2026-07-27T09:30:51.332Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young woman with long, dark, wavy hair is captured in a close-up, slightly angled shot. Her eyes are closed, and she has a serene, contented smile on her face, with her head tilted slightly to her right. She's wearing a light-colored, possibly cream or beige, short-sleeved shirt with a collared neckline and a subtle checkered pattern visible at the opening. The sleeves have delicate lace trim. Around her neck, she wears a thin necklace with a small heart pendant. A thin bracelet adorns her right wrist.\n\nThe background is a blurred nighttime scene viewed through a window. Visible elements include dark tree branches and foliage, with hints of building structures and lights in the distance, suggesting an urban or suburban setting at night. The lighting is soft and ambient, with a warm tone that highlights the woman's face and clothing, creating a gentle, intimate mood. The overall color palette is dominated by warm beiges, creams, and dark greens and blues from the background. The image has a slightly vintage or dreamy aesthetic, possibly due to the lighting and shallow depth of field.",
+      "timestamp": "2026-07-27T09:30:51.332Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
