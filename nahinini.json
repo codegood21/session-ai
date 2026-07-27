@@ -1,7 +1,7 @@
 {
   "sessionId": "nahinini",
   "createdAt": "2026-07-17T14:46:34.874Z",
-  "lastActivity": "2026-07-25T15:44:00.360Z",
+  "lastActivity": "2026-07-27T06:20:30.883Z",
   "history": [
     {
       "role": "user",
@@ -230,9 +230,21 @@
       "text": "Tentu, nomor telepon yang tertera di gambar tersebut adalah: **0812-1030-9396**.\n\nGambar ini juga menampilkan foto pemain sepak bola (kemungkinan Lionel Messi, berdasarkan teks \"NO MESSI\" dan nomor punggung 10 di jerseynya) dengan beberapa anotasi teks dan lingkaran merah. Ada juga teks di bagian atas yang berbunyi \"BAGI BAGI NO\" dan teks di samping nomor punggung yang berbunyi \"JANGAN DISEBAR\".",
       "timestamp": "2026-07-25T15:44:00.360Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "copy code di gambar",
+      "image": "https://cdn.nekohime.site/file/glco7e3k.jpg",
+      "timestamp": "2026-07-27T06:20:30.883Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, berikut adalah kode yang disalin dari gambar tersebut:\n\n```javascript\nSpotify search, artists, albums, playlists\nAuthor: nath\nBase: spotify.com\nNote: Tolong biar masi semangat\n\n;\nimport axios from 'axios';\n\nfunction unfoorurn(comet, type, id, $n, $p) {\n    return `https://open.spotify.com/${type}/${$n}/${$p}`;\n}\n\nconst spotify = axios.create({\n    baseURL: 'https://api.spotify.com',\n    headers: {\n        'Accept': 'application/json',\n        'Authorization': Bearer\n        'b0d3h3r u cU5H3n 2 14g vUmIk 4 GqgF 4 //oibYQF0NVEPwuFOAx 4 5ky 4 YRYmJUK4 4 0bDh 1 Pk 2 H2yTjw\n        'V2u Qih-Tjpw 4 R4VNUE5OUFz 4 OW/bYfkeWCOYBCW 4 VIX 4 FR4H4 4 GzUwzw'\n        'client-token':\n        'U2FsdGVkX18uRP0rFf7e 4 rG TCYUYU 4 0 0H4 ECC4F 5UF RNYKrcs30tOW 4 YGh juxum4 4 cjQYF X u OEQlJZT\n        'HhY 4 V4K4g6qD9WGTKDUJE K 2 Eeu 4 ORXUMJIKPWYTPWW8 4 O BE 4 Mr8a 4 t 4 c+Qh4C4VWW\n        'uR'\n        'https://spotify.com'\n        'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'\n    }\n});\n\nasync function searchQuery(query, limit = 1) {\n    const vars = await spotify.get('/search/find?q=' + query + '&type=artist');\n    const artistId = vars.data.artists.items[0].id;\n    const artist = await spotify.get('/artists/' + artistId);\n    const relatedArtists = await spotify.get('/artists/' + artistId + '/related-artists');\n    const playlists = await spotify.get('/artists/' + artistId + '/playlists');\n    const albums = await spotify.get('/artists/' + artistId + '/albums');\n    const artistData = await spotify.get('/artists/' + artistId);\n\n    const data = {\n        artist,\n        relatedArtists,\n        playlists,\n        albums,\n        artistData\n    };\n\n    return data;\n}\n\nconst const_data = res.data.search.query.results;\nreturn const_data;\n```",
+      "timestamp": "2026-07-27T06:20:30.883Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 38
+    "totalMessages": 40
   }
 }
