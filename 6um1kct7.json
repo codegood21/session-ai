@@ -1,9 +1,22 @@
 {
   "sessionId": "6um1kct7",
   "createdAt": "2026-07-27T22:34:11.289Z",
-  "lastActivity": "2026-07-27T22:34:11.289Z",
-  "history": [],
+  "lastActivity": "2026-07-27T22:34:15.891Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://rahmad-elaina.my.id/file/5a4a2b8ad7.jpg",
+      "timestamp": "2026-07-27T22:34:15.891Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young man with curly black hair stands next to a black motorcycle. He is wearing a light blue denim jacket over a white collared shirt and a grey tie with a circular emblem. His left hand is in his jacket pocket, and his right arm is resting on the motorcycle's handlebars. The motorcycle is a classic style with a black fuel tank, a black seat, and chrome handlebars and mirrors. The engine is visible, and it appears to be a Honda. The background features a weathered brick wall with decorative openings and glass blocks. To the right of the motorcycle, a part of an old, possibly abandoned vehicle with a weathered, grey surface and graffiti can be seen. Behind the man and the motorcycle, there's a glimpse of a vintage-style pedicab with a black canopy. The ground is covered with grass, debris, and scattered papers. The lighting is somewhat dim and overcast, suggesting a cloudy day, with a slightly muted color palette. The overall mood is casual and slightly melancholic, with a hint of urban decay. The image has a slightly grainy, vintage photograph aesthetic.",
+      "timestamp": "2026-07-27T22:34:15.891Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
