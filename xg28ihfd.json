@@ -1,9 +1,22 @@
 {
   "sessionId": "xg28ihfd",
   "createdAt": "2026-07-27T07:50:03.068Z",
-  "lastActivity": "2026-07-27T07:50:03.068Z",
-  "history": [],
+  "lastActivity": "2026-07-27T07:50:07.397Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://rahmad-elaina.my.id/file/becb7b25e7.jpg",
+      "timestamp": "2026-07-27T07:50:07.397Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A low-angle, medium shot of a person sitting on a black motorcycle at night. The person is wearing a black polo shirt with a red logo on the sleeve and light grey jeans. Their face is obscured by their dark, messy hair, and they are holding a black helmet in their right hand, bringing it towards their face. The motorcycle is dark and appears to have a custom flame design on its fuel tank in white and black. The background features a chain-link fence in the foreground, with a dimly lit outdoor court area visible beyond it, possibly a basketball or tennis court, with lights illuminating the space. Further in the background, there's a building with architectural details and bright square lights. The overall lighting is dim and atmospheric, with artificial lights casting a cool tone and creating some shadows. The color palette is dominated by dark blues, blacks, greys, and the muted tones of the court and building. The mood is casual and urban, with a sense of quiet contemplation or a brief pause before a ride. The style leans towards realistic photography with a slightly moody, nighttime aesthetic.",
+      "timestamp": "2026-07-27T07:50:07.397Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
