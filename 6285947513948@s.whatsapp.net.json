@@ -1,9 +1,22 @@
 {
   "sessionId": "6285947513948@s.whatsapp.net",
   "createdAt": "2026-07-27T08:13:48.914Z",
-  "lastActivity": "2026-07-27T08:13:48.914Z",
-  "history": [],
+  "lastActivity": "2026-07-27T08:13:50.312Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "hai",
+      "image": null,
+      "timestamp": "2026-07-27T08:13:50.312Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Ada yang bisa saya bantu?",
+      "timestamp": "2026-07-27T08:13:50.312Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
