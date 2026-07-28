@@ -1,7 +1,7 @@
 {
   "sessionId": "120363380388430434",
   "createdAt": "2026-07-22T02:07:54.370Z",
-  "lastActivity": "2026-07-28T11:50:45.981Z",
+  "lastActivity": "2026-07-28T14:37:34.649Z",
   "history": [
     {
       "role": "user",
@@ -806,9 +806,21 @@
       "text": "Halo!\n\nSaya melihat ada pengumuman penting dari \"ZANSPIWPTERO\" mengenai pembaruan layanan mereka. Berikut adalah rangkuman dari pengumuman tersebut:\n\n*   **Perpanjangan VPS:** Seluruh VPS (Node 1–6) telah resmi diperpanjang untuk satu bulan ke depan, menjamin server aman, stabil, dan *online*.\n*   **Penyesuaian Harga & Upgrade Disk:**\n    *   Paket **Public** mengalami kenaikan harga sebesar +Rp1.000.\n    *   Paket **Private** mengalami kenaikan harga sebesar +Rp1.500.\n    *   Semua paket mendapatkan peningkatan kapasitas disk.\n*   **Kemudahan Perpanjangan Panel:** Perpanjangan panel kini dapat dilakukan langsung melalui website dengan lebih mudah dan cepat.\n*   **Voucher Baru:**\n    *   Kode: BACKTOSCHOOL\n    *   Diskon: 19%\n    *   Kuota: 50 pengguna\n    *   Masa berlaku: Tidak ada (*Exp: Tidak ada*)\n*   **Informasi Spesifikasi:**\n    *   Spesifikasi Private: `https://whatsapp.com/channel/0029VavKSRv6WaKnPwWtZG39/5399`\n    *   Spesifikasi Public V1 & V2: `https://whatsapp.com/channel/0029VavKSRv6WaKnPwWtZG39/5376`\n*   **Tautan Pemesanan:** `https://zanspiwptero.shoppanel.my.id`\n\nApakah ada hal spesifik yang ingin kamu tanyakan atau diskusikan mengenai pengumuman ini?",
       "timestamp": "2026-07-28T11:50:45.981Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Coba analisis gambar ini\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-28T14:37:34.649Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya siap menganalisis gambar yang kamu berikan! Silakan unggah gambarnya, dan saya akan memeriksanya untukmu.",
+      "timestamp": "2026-07-28T14:37:34.649Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 134
+    "totalMessages": 136
   }
 }
