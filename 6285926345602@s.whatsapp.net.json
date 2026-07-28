@@ -1,9 +1,22 @@
 {
   "sessionId": "6285926345602@s.whatsapp.net",
   "createdAt": "2026-07-28T12:19:35.008Z",
-  "lastActivity": "2026-07-28T12:19:35.008Z",
-  "history": [],
+  "lastActivity": "2026-07-28T12:19:36.578Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Gilang ganteng",
+      "image": null,
+      "timestamp": "2026-07-28T12:19:36.578Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan mencoba menganalisis gambar yang Anda kirimkan.\n\nMohon unggah gambar yang ingin Anda diskusikan. Setelah itu, saya akan dengan senang hati memberikan deskripsi mengenai isinya, menyoroti elemen-elemen penting yang terlihat, membaca atau merangkum teks yang ada jika relevan, dan memahami konteks keseluruhannya sebelum menjawab pertanyaan Anda.",
+      "timestamp": "2026-07-28T12:19:36.578Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
