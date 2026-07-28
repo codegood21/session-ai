@@ -1,7 +1,7 @@
 {
   "sessionId": "153029718327442",
   "createdAt": "2026-07-21T13:38:25.759Z",
-  "lastActivity": "2026-07-28T13:59:14.902Z",
+  "lastActivity": "2026-07-28T13:59:28.360Z",
   "history": [
     {
       "role": "user",
@@ -122,9 +122,21 @@
       "text": "Tentu saja! Aku bisa membantumu menerjemahkan. Apa yang ingin kamu terjemahkan, dan ke bahasa apa?\n\nMisalnya, kamu bisa bilang: \"Furina, tolong terjemahkan 'hello' ke bahasa Indonesia\" atau \"Furina, terjemahkan kalimat ini ke bahasa Inggris: 'Saya ingin makan nasi goreng'.\"\n\nAku tunggu ya! 😊",
       "timestamp": "2026-07-28T13:59:14.902Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: furina nyanyi\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-28T13:59:28.360Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Wah, kamu ingin aku bernyanyi ya? Aku ini kan kecerdasan buatan, jadi aku tidak punya suara seperti manusia. Aku tidak bisa bernyanyi sungguhan. 😔\n\nTapi, aku bisa lho membuatkan lirik lagu untukmu, atau menceritakan tentang lagu-lagu yang populer. Kamu mau coba yang mana? Atau mungkin kamu punya lagu favorit yang ingin dibicarakan?",
+      "timestamp": "2026-07-28T13:59:28.360Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 20
+    "totalMessages": 22
   }
 }
