@@ -1,9 +1,22 @@
 {
   "sessionId": "v8ut3iko",
   "createdAt": "2026-07-28T23:57:54.271Z",
-  "lastActivity": "2026-07-28T23:57:54.271Z",
-  "history": [],
+  "lastActivity": "2026-07-28T23:57:57.233Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "code 522 kenapa",
+      "image": null,
+      "timestamp": "2026-07-28T23:57:57.233Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar yang Anda berikan menampilkan sebuah jendela dialog yang berisi pesan error. Pesan error tersebut tertulis \"Error code 522: Connection timed out\".\n\nIni berarti bahwa koneksi antara server yang mencoba diakses dan server Anda (atau server perantara) terputus karena waktu tunggu telah habis. Sederhananya, server yang Anda coba hubungi tidak merespons dalam jangka waktu yang ditentukan, sehingga koneksi dianggap gagal.\n\nBeberapa penyebab umum dari error 522 ini antara lain:\n\n*   **Masalah Jaringan:** Terjadi gangguan pada jaringan internet Anda, atau pada jaringan antara Anda dan server tujuan.\n*   **Server Tujuan Sibuk atau Offline:** Server yang Anda coba akses mungkin sedang kelebihan beban (traffic tinggi) atau sedang dalam pemeliharaan (offline).\n*   **Firewall:** Firewall di sisi Anda atau di sisi server tujuan mungkin memblokir koneksi.\n*   **Masalah Konfigurasi Server:** Ada konfigurasi yang salah pada server tujuan yang menyebabkan respons tertunda atau tidak terkirim.\n\nUntuk mengatasinya, Anda bisa mencoba beberapa langkah seperti:\n\n*   Memeriksa koneksi internet Anda.\n*   Mencoba mengakses kembali situs atau layanan tersebut nanti.\n*   Menghubungi penyedia layanan atau administrator server jika masalah terus berlanjut.",
+      "timestamp": "2026-07-28T23:57:57.233Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
