@@ -1,9 +1,22 @@
 {
   "sessionId": "56w8d3de",
   "createdAt": "2026-07-28T13:19:02.383Z",
-  "lastActivity": "2026-07-28T13:19:02.383Z",
-  "history": [],
+  "lastActivity": "2026-07-28T13:19:04.352Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "25 × 18.092",
+      "image": null,
+      "timestamp": "2026-07-28T13:19:04.352Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita hitung perkalian tersebut.\n\n25 dikalikan dengan 18.092 adalah **452,3**.",
+      "timestamp": "2026-07-28T13:19:04.352Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
