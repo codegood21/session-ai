@@ -1,9 +1,22 @@
 {
   "sessionId": "5z1j2z8p",
   "createdAt": "2026-07-28T14:13:15.949Z",
-  "lastActivity": "2026-07-28T14:13:15.949Z",
-  "history": [],
+  "lastActivity": "2026-07-28T14:13:21.425Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://rahmad-elaina.my.id/file/87e5f9d4ba.jpg",
+      "timestamp": "2026-07-28T14:13:21.425Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young Asian woman with long, dark, wavy hair is taking a selfie in a bathroom. She is wearing a black, cropped t-shirt that exposes her midriff, and light grey sweatpants. Her eyes are closed, and her head is tilted slightly back as she holds her left hand up to her hair. She is holding a smartphone in her right hand, and the screen is brightly illuminated, casting a strong light on her face and arm. The background appears to be a bathroom with tiled walls and a wooden door. The lighting is harsh and direct from the phone screen, creating a dramatic contrast and a somewhat intimate, candid mood. The color palette is dominated by dark hair, black clothing, and the bright white light of the phone, with softer tones in the background. The overall style is a casual, modern selfie.",
+      "timestamp": "2026-07-28T14:13:21.425Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
