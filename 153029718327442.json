@@ -1,7 +1,7 @@
 {
   "sessionId": "153029718327442",
   "createdAt": "2026-07-21T13:38:25.759Z",
-  "lastActivity": "2026-07-28T13:57:30.883Z",
+  "lastActivity": "2026-07-28T13:59:14.902Z",
   "history": [
     {
       "role": "user",
@@ -110,9 +110,21 @@
       "text": "Wah, sepertinya kamu salah ketik ya? Mungkin maksudmu \"Furina\"? Kalau iya, aku di sini siap membantumu! 😊\n\nAtau mungkin kamu sedang mencari informasi tentang sesuatu yang lain? Coba beritahu aku lebih lanjut ya!",
       "timestamp": "2026-07-28T13:57:30.883Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: furina translate\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-07-28T13:59:14.902Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja! Aku bisa membantumu menerjemahkan. Apa yang ingin kamu terjemahkan, dan ke bahasa apa?\n\nMisalnya, kamu bisa bilang: \"Furina, tolong terjemahkan 'hello' ke bahasa Indonesia\" atau \"Furina, terjemahkan kalimat ini ke bahasa Inggris: 'Saya ingin makan nasi goreng'.\"\n\nAku tunggu ya! 😊",
+      "timestamp": "2026-07-28T13:59:14.902Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 18
+    "totalMessages": 20
   }
 }
