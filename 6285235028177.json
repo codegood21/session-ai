@@ -1,9 +1,22 @@
 {
   "sessionId": "6285235028177",
   "createdAt": "2026-07-28T17:22:12.816Z",
-  "lastActivity": "2026-07-28T17:22:12.816Z",
-  "history": [],
+  "lastActivity": "2026-07-28T17:22:14.890Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "⏳ Sedang cooldown, tunggu 2.1 detik lagi.\n\n> Openbot V2",
+      "image": null,
+      "timestamp": "2026-07-28T17:22:14.890Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Saya melihat ada pesan yang menunjukkan bahwa sistem sedang melakukan *cooldown* dan perlu menunggu sekitar 2.1 detik lagi sebelum dapat melanjutkan. Di bawahnya, tertera \"Openbot V2\", yang kemungkinan adalah nama atau versi dari sistem atau aplikasi yang sedang Anda gunakan.\n\nJadi, sepertinya Anda perlu bersabar sebentar sebelum bisa berinteraksi lebih lanjut dengan Openbot V2.",
+      "timestamp": "2026-07-28T17:22:14.890Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
