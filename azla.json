@@ -1,9 +1,22 @@
 {
   "sessionId": "azla",
   "createdAt": "2026-07-28T00:52:47.275Z",
-  "lastActivity": "2026-07-28T00:52:47.275Z",
-  "history": [],
+  "lastActivity": "2026-07-28T00:52:49.998Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ini siapa",
+      "image": "https://cdn.nekohime.site/file/wjo8i87c.jpg",
+      "timestamp": "2026-07-28T00:52:49.998Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini adalah sampul album \"Purpose\" dari Justin Bieber. Terlihat Justin Bieber dalam pose berdoa, dengan tato di lengan dan dadanya. Di latar belakang terdapat grafis abstrak berupa huruf dan angka, serta tulisan \"Purpose\" dalam gaya tulisan tangan di bagian bawah.",
+      "timestamp": "2026-07-28T00:52:49.998Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
