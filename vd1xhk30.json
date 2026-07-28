@@ -1,9 +1,22 @@
 {
   "sessionId": "vd1xhk30",
   "createdAt": "2026-07-28T11:22:21.624Z",
-  "lastActivity": "2026-07-28T11:22:21.624Z",
-  "history": [],
+  "lastActivity": "2026-07-28T11:22:25.014Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "singkatan dari NPD",
+      "image": null,
+      "timestamp": "2026-07-28T11:22:25.014Z"
+    },
+    {
+      "role": "assistant",
+      "text": "NPD adalah singkatan dari **Narcissistic Personality Disorder**. Dalam bahasa Indonesia, ini diterjemahkan menjadi **Gangguan Kepribadian Narsistik**.\n\nGangguan kepribadian narsistik adalah kondisi kesehatan mental di mana seseorang memiliki rasa kebesaran yang berlebihan, kebutuhan mendalam akan kekaguman, dan kurangnya empati terhadap orang lain.",
+      "timestamp": "2026-07-28T11:22:25.014Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
