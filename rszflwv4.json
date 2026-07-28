@@ -1,9 +1,22 @@
 {
   "sessionId": "rszflwv4",
   "createdAt": "2026-07-28T10:08:40.924Z",
-  "lastActivity": "2026-07-28T10:08:40.924Z",
-  "history": [],
+  "lastActivity": "2026-07-28T10:08:44.799Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa judul lagunya",
+      "image": "https://cdn-alip.clutch.web.id/api/u/ms4htmpn.mp3",
+      "timestamp": "2026-07-28T10:08:44.799Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Berdasarkan metadata dari file yang Anda berikan, tidak ada informasi judul lagu yang tertera. Metadata yang ada lebih banyak berisi informasi teknis mengenai format file dan encoding.",
+      "timestamp": "2026-07-28T10:08:44.799Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
