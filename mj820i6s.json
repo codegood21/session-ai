@@ -1,9 +1,22 @@
 {
   "sessionId": "mj820i6s",
   "createdAt": "2026-07-28T18:20:46.048Z",
-  "lastActivity": "2026-07-28T18:20:46.048Z",
-  "history": [],
+  "lastActivity": "2026-07-28T18:20:49.148Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "perbedaan javascript sama node.js apa?",
+      "image": null,
+      "timestamp": "2026-07-28T18:20:49.148Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita bahas perbedaan antara JavaScript dan Node.js.\n\nPada dasarnya, **JavaScript** adalah sebuah bahasa pemrograman. Ia adalah bahasa *scripting* yang awalnya dirancang untuk berjalan di dalam peramban web (browser) untuk membuat halaman web menjadi interaktif. Dengan JavaScript, kita bisa memanipulasi elemen HTML, merespons aksi pengguna, membuat animasi, dan banyak lagi di sisi klien (browser).\n\nNah, **Node.js** adalah sebuah *runtime environment* (lingkungan eksekusi) yang memungkinkan JavaScript untuk berjalan di luar peramban web, terutama di sisi server. Jadi, Node.js mengambil mesin JavaScript yang sudah ada (seperti V8 engine yang digunakan oleh Google Chrome) dan membungkusnya dengan berbagai API (Application Programming Interface) tambahan yang memungkinkan JavaScript untuk berinteraksi dengan sistem operasi, file, jaringan, dan sumber daya server lainnya.\n\nJadi, perbedaannya bisa diringkas seperti ini:\n\n*   **JavaScript:** Adalah **bahasa pemrograman** itu sendiri.\n*   **Node.js:** Adalah **lingkungan** yang memungkinkan JavaScript untuk berjalan di luar browser, khususnya di sisi server.\n\nDengan Node.js, JavaScript yang tadinya hanya bisa \"menari\" di halaman web, kini bisa digunakan untuk membangun aplikasi server yang lengkap, membuat API, mengelola database, bahkan membuat aplikasi desktop.\n\nBayangkan seperti ini: JavaScript itu seperti \"otak\" yang bisa berpikir dan melakukan berbagai tugas. Nah, Node.js itu seperti \"tubuh\" yang memberikannya kemampuan untuk berinteraksi dengan dunia luar (dalam hal ini, sistem server).",
+      "timestamp": "2026-07-28T18:20:49.148Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
