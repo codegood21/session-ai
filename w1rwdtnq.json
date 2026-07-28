@@ -1,9 +1,22 @@
 {
   "sessionId": "w1rwdtnq",
   "createdAt": "2026-07-28T12:01:33.485Z",
-  "lastActivity": "2026-07-28T12:01:33.485Z",
-  "history": [],
+  "lastActivity": "2026-07-28T12:01:35.645Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "kspn",
+      "image": null,
+      "timestamp": "2026-07-28T12:01:35.645Z"
+    },
+    {
+      "role": "assistant",
+      "text": "KSPN adalah singkatan dari **Koperasi Simpan Pinjam Nasional**.\n\nIni adalah sebuah lembaga keuangan non-bank yang beroperasi dalam bentuk koperasi. Fungsinya adalah untuk menghimpun dana dari anggotanya dalam bentuk simpanan, dan kemudian menyalurkan dana tersebut sebagai pinjaman kepada anggota yang membutuhkan.\n\nJadi, secara sederhana, KSPN adalah tempat anggota koperasi bisa menabung dan meminjam uang.",
+      "timestamp": "2026-07-28T12:01:35.645Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
