@@ -1,9 +1,22 @@
 {
   "sessionId": "yscunn02",
   "createdAt": "2026-07-29T08:45:51.287Z",
-  "lastActivity": "2026-07-29T08:45:51.287Z",
-  "history": [],
+  "lastActivity": "2026-07-29T08:45:52.530Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "79x2 brp",
+      "image": null,
+      "timestamp": "2026-07-29T08:45:52.530Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita hitung 79 dikalikan 2.\n\n79 x 2 = 158.",
+      "timestamp": "2026-07-29T08:45:52.530Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
