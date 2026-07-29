@@ -1,7 +1,7 @@
 {
   "sessionId": "vyr_router_v7",
   "createdAt": "2026-07-29T02:01:29.898Z",
-  "lastActivity": "2026-07-29T11:42:33.215Z",
+  "lastActivity": "2026-07-29T11:42:58.910Z",
   "history": [
     {
       "role": "user",
@@ -86,9 +86,21 @@
       "text": "{\"tool\":\"vs_search\",\"args\":{\"query\":\"tiktok downloader\"}}",
       "timestamp": "2026-07-29T11:42:33.215Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah router intent untuk bot WhatsApp kak Shan. Tentukan tool yang tepat.\nOutput: JSON satu baris, tanpa teks lain.\n\nTOOLS & KAPAN DIPAKAI:\nchat            → ngobrol, tanya-jawab umum, coding, opini, analisa — default kalau tidak ada kecocokan lain\nclarify         → permintaan AMBIGU: ada kata \"cari/carikan/search/find\" tapi TIDAK jelas mau cari di mana (internet? vyrsnip? bot command?) — TANYA DULU\nweb_search      → eksplisit minta cari di internet/web/google, ATAU tanya info realtime (cuaca, harga, berita, presiden sekarang, kurs, skor live)\nread_image      → ada gambar di pesan/reply DAN user bertanya tentang isi gambar\nscreenshot      → minta screenshot/ss/capture URL\nread_page       → minta baca/ringkas isi URL\nrate_web        → cek status/kecepatan/teknologi website\nfind_endpoints  → cari endpoint/API suatu URL\ncrawl_links     → kumpulkan semua link di halaman\nvs_home         → eksplisit sebut \"vyrsnip\" + minta lihat terbaru/populer/feed\nvs_search       → eksplisit sebut \"vyrsnip\" + minta cari snippet\nvs_fetch        → minta ambil/download file snippet (ada slug, nomor, atau judul spesifik)\nvs_profile      → minta profil user vyrsnip\nvs_stats        → minta statistik vyrsnip\nvs_pending      → minta lihat pending snippet\nvs_moderate     → approve/reject/ubah status snippet\nvs_delete       → hapus snippet\nvs_users        → cari/lihat user vyrsnip\nvs_user_title   → atur title/badge/permission user\nvs_notify       → kirim notifikasi/email ke user\ngenerate_image  → buat/generate gambar baru\nlist_commands   → minta daftar command bot\nsearch_command  → cari command bot\ncommand_info    → detail satu command bot\nread_plugin     → source code plugin bot\n\nRULES PENTING:\n- \"cari X\" tanpa sebut di mana → clarify (tanya: vyrsnip? internet? command?)\n- \"cari X di vyrsnip\" / \"vyrsnip X\" → vs_search\n- \"cari X di internet/web/google\" → web_search\n- \"cari command X\" / \"ada command X gak\" → search_command\n- Ada URL di pesan → read_page (kecuali ada kata screenshot/ss)\n- Gambar di pesan + pertanyaan tentang gambar → read_image\n- Gambar di pesan + pertanyaan tentang hal lain → chat (gambar jadi konteks saja)\n\nARGS:\nchat:           {\"message\":\"<pesan>\"}\nclarify:        {\"question\":\"<pertanyaan singkat ke user>\",\"options\":[\"<opsi1>\",\"<opsi2>\",\"<opsi3>\"]}\nweb_search:     {\"query\":\"<query optimal>\"}\nread_image:     {\"question\":\"<pertanyaan user tentang gambar>\"}\nscreenshot:     {\"url\":\"<url>\"}\nread_page:      {\"url\":\"<url>\",\"question\":\"<apa yang ingin diketahui>\"}\nrate_web:       {\"url\":\"<url>\"}\nfind_endpoints: {\"url\":\"<url>\",\"deep\":false}\ncrawl_links:    {\"url\":\"<url>\"}\nvs_home:        {\"sort\":\"date|favorites|views\",\"lang\":\"\",\"limit\":10,\"page\":1}\nvs_search:      {\"query\":\"<keyword>\",\"limit\":6}\nvs_fetch:       {\"slug\":\"\",\"username\":\"\",\"index\":0,\"lang\":\"auto\"}\nvs_profile:     {\"username\":\"<username>\"}\nvs_stats:       {\"date\":\"\",\"from\":\"\",\"to\":\"\"}\nvs_pending:     {\"limit\":10}\nvs_moderate:    {\"snippet_id\":\"<uuid>\",\"status\":\"approved|rejected|pending\",\"reason\":\"\"}\nvs_delete:      {\"snippet_id\":\"<uuid>\",\"reason\":\"\"}\nvs_users:       {\"q\":\"<keyword>\",\"limit\":10}\nvs_user_title:  {\"username\":\"\",\"title\":null,\"custom_title\":null,\"custom_title_color\":null,\"custom_title_verified\":null,\"allowed_effects\":null,\"allowed_custom_bg\":null,\"is_admin\":null}\nvs_notify:      {\"kind\":\"manual|broadcast\",\"to\":\"\",\"audience\":\"all|creators\",\"subject\":\"\",\"body\":\"\",\"isHtml\":false}\ngenerate_image: {\"prompt\":\"<deskripsi>\"}\nlist_commands:  {\"category\":null}\nsearch_command: {\"keyword\":\"<kata kunci>\"}\ncommand_info:   {\"name\":\"<nama>\"}\nread_plugin:    {\"name\":\"<nama>\"}\n\nFORMAT: {\"tool\":\"<nama>\",\"args\":{...}}\n\n<owner jid=\"[object Object]@s.whatsapp.net\" name=\"Shan\" />\n<quoted from=\"6285182212569@s.whatsapp.net\" name=\"6285182212569\" role=\"owner\">Oke, Kak Shan! Vyr udah cariin nih, ada satu pilihan buat download video atau foto dari TikTok tanpa watermark. Namanya *Tiktok Downloader*, dibikin pakai Node.js.\n\nYang ini keren, Kak, soalnya bisa download macem-macem: video, slideshow, audio, trending feed, user feed, music feed, hasil pencarian,</quoted>\n<group_members>196237441675361@lid=196237441675361, 43946457731314@lid=43946457731314, 88115716821133@lid=88115716821133, 143259137491050@lid=143259137491050, 90018957811779@lid=90018957811779, 171932607627281@lid=171932607627281, 226654618173508@lid=226654618173508, 246836921151576@lid=246836921151576, 148223616397439@lid=148223616397439, 23545547640866@lid=23545547640866</group_members>\n[snippet cache: [1] Tiktok Downloader (slug:tiktok-downloader)]\nPesan: \"ambilin yg nomor 1\"",
+      "image": null,
+      "timestamp": "2026-07-29T11:42:58.910Z"
+    },
+    {
+      "role": "assistant",
+      "text": "{\"tool\":\"vs_fetch\",\"args\":{\"slug\":\"tiktok-downloader\",\"index\":0}}",
+      "timestamp": "2026-07-29T11:42:58.910Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 14
+    "totalMessages": 16
   }
 }
