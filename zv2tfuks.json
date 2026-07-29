@@ -1,9 +1,22 @@
 {
   "sessionId": "zv2tfuks",
   "createdAt": "2026-07-29T13:26:28.248Z",
-  "lastActivity": "2026-07-29T13:26:28.248Z",
-  "history": [],
+  "lastActivity": "2026-07-29T13:26:29.721Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "halo ai siapa nama kamoe",
+      "image": null,
+      "timestamp": "2026-07-29T13:26:29.721Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Saya adalah model bahasa besar, yang dilatih oleh Google.",
+      "timestamp": "2026-07-29T13:26:29.721Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
