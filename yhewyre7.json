@@ -1,9 +1,22 @@
 {
   "sessionId": "yhewyre7",
   "createdAt": "2026-07-29T13:30:22.571Z",
-  "lastActivity": "2026-07-29T13:30:22.571Z",
-  "history": [],
+  "lastActivity": "2026-07-29T13:30:27.220Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://rahmad-elaina.my.id/file/5f1b68c78e.jpg",
+      "timestamp": "2026-07-29T13:30:27.220Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A close-up, profile shot of a young East Asian woman with long, dark hair wearing a delicate white lace bonnet. The bonnet has intricate floral patterns and a scalloped edge, with thin white ribbons tied in a bow under her chin. Her skin is fair and smooth, and she has large, expressive eyes with a soft gaze. Her lips are lightly colored. She is wearing a light-colored tank top. The background is a plain, light-colored wall, creating a soft and ethereal atmosphere. The lighting is gentle and diffused, casting a warm glow on her face and highlighting the texture of the lace. The overall mood is serene, innocent, and slightly vintage. The color palette is dominated by soft whites, creams, and pale pastels, with the dark hair providing a subtle contrast. The style is reminiscent of a soft-focus portrait, with a dreamy and romantic aesthetic.",
+      "timestamp": "2026-07-29T13:30:27.220Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
