@@ -1,9 +1,22 @@
 {
   "sessionId": "u3yz089p",
   "createdAt": "2026-07-29T13:24:39.034Z",
-  "lastActivity": "2026-07-29T13:24:39.034Z",
-  "history": [],
+  "lastActivity": "2026-07-29T13:24:43.367Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://rahmad-elaina.my.id/file/c889dabd7c.jpg",
+      "timestamp": "2026-07-29T13:24:43.367Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A close-up, high-angle shot of a young woman with long, dark, wavy hair lying on a white bed. She is wearing a white bonnet with delicate lace trim and small pearl-like beads along the edge, and a white, ruffled garment. Her face is turned to the side, with her eyes looking upwards. She has fair skin with prominent pink blush on her cheeks, full pink lips, and long, dark eyelashes. There's a subtle, delicate tattoo visible on her collarbone, resembling wings or abstract floral elements. The lighting is soft and ethereal, with a bright, diffused glow that creates a dreamy and slightly melancholic atmosphere. The color palette is dominated by whites, soft pinks, and the dark tones of her hair. The overall style evokes a vintage, romantic, or perhaps gothic aesthetic, with a touch of innocence and vulnerability. The background is softly blurred, suggesting a draped white fabric or bedding.",
+      "timestamp": "2026-07-29T13:24:43.367Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
