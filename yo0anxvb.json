@@ -1,9 +1,22 @@
 {
   "sessionId": "yo0anxvb",
   "createdAt": "2026-07-29T11:59:22.287Z",
-  "lastActivity": "2026-07-29T11:59:22.287Z",
-  "history": [],
+  "lastActivity": "2026-07-29T11:59:28.362Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Describe this image in detail.",
+      "image": "https://c.termai.cc/i142/vA0j1l.jpeg",
+      "timestamp": "2026-07-29T11:59:28.362Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan seekor kucing oranye yang sedang beristirahat dengan nyaman di atas karpet berwarna krem di dalam ruangan. Kucing tersebut meringkuk dengan mata tertutup, tampak menikmati sinar matahari hangat yang masuk melalui jendela besar di latar belakang. Cahaya matahari menciptakan pola bayangan yang indah di lantai kayu dan karpet.\n\nDi latar belakang, terlihat furnitur seperti kursi berlengan yang empuk dan rak buku yang penuh dengan buku, memberikan kesan hangat dan nyaman di dalam rumah. Ada juga beberapa tanaman hijau yang menambah sentuhan alami pada suasana ruangan. Keseluruhan gambar memancarkan suasana yang tenang dan damai, menangkap momen relaksasi seekor kucing di bawah sinar matahari.",
+      "timestamp": "2026-07-29T11:59:28.362Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
