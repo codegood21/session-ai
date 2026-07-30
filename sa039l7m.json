@@ -1,9 +1,22 @@
 {
   "sessionId": "sa039l7m",
   "createdAt": "2026-07-30T04:42:54.454Z",
-  "lastActivity": "2026-07-30T04:42:54.454Z",
-  "history": [],
+  "lastActivity": "2026-07-30T04:42:58.969Z",
+  "history": [
+    {
+      "role": "user",
+      "text": ".ai kerjakan",
+      "image": "https://cdn-alip.clutch.web.id/api/u/ms712fi5.jpg",
+      "timestamp": "2026-07-30T04:42:58.969Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan papan tulis putih yang berisi tulisan tangan. Di bagian atas papan tulis, tertulis \"Tugas: Membuat Mind Map, Judul: tentang Mandarin, isinya Menjelaskan kata-kata berikut:\".\n\nDi bawahnya, ada daftar kata dalam bahasa Mandarin beserta nomornya:\n1. Zhongguo\n2. Laosshi\n3. Hanyu\n4. Huayu\n5. Guoyu\n6. Zhongwen\n7. Hanzi\n8. Pinyin\n\nDi sebelah kanan daftar kata, terdapat catatan yang bertuliskan \"Note: Dikerjakan dibuku catatan\".\n\nDi sisi kiri papan tulis, terlihat pantulan sebuah bangunan dengan kubah, kemungkinan besar sebuah masjid. Di bagian bawah gambar, terlihat sebagian kepala seseorang.\n\nTugas yang diberikan adalah membuat peta pikiran (mind map) tentang bahasa Mandarin, yang isinya menjelaskan kata-kata yang tertera di daftar tersebut, dan tugas ini harus dikerjakan di buku catatan.",
+      "timestamp": "2026-07-30T04:42:58.969Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
