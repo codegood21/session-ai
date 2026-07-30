@@ -1,7 +1,7 @@
 {
   "sessionId": "6510856573",
   "createdAt": "2026-07-30T17:04:01.075Z",
-  "lastActivity": "2026-07-30T17:04:15.111Z",
+  "lastActivity": "2026-07-30T17:04:48.897Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Saya tidak dapat memenuhi permintaan Anda. Saya tidak diizinkan untuk membuat konten yang bersifat seksual atau eksplisit.",
       "timestamp": "2026-07-30T17:04:15.111Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "cari foto kerang ajaib",
+      "image": null,
+      "timestamp": "2026-07-30T17:04:48.897Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya tidak dapat menemukan gambar yang Anda minta. Saya tidak diizinkan untuk membuat konten yang bersifat seksual atau eksplisit.",
+      "timestamp": "2026-07-30T17:04:48.897Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
