@@ -1,9 +1,22 @@
 {
   "sessionId": "lf01k7nz",
   "createdAt": "2026-07-30T02:58:10.344Z",
-  "lastActivity": "2026-07-30T02:58:10.344Z",
-  "history": [],
+  "lastActivity": "2026-07-30T02:58:12.374Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "rangkum \n MAN adalah jenis jaringan komputer yang mencakup area seluas kota atau metropolitan.\n\nFungsi utama MAN adalah untuk menghubungkan beberapa jaringan Local Area Network (LAN) yang lokasinya berjauhan, namun masih berada dalam satu wilayah perkotaan.\n\nBeberapa poin penting yang ditekankan dalam teks mengenai MAN adalah:\n\n Cakupan Area: Meliputi area metropolitan atau satu kota.\n Fungsi: Menghubungkan beberapa jaringan LAN yang lokasinya terpisah.\n Kecepatan: Dirancang untuk transfer data yang cepat.\n Infrastruktur: Seringkali menggunakan infrastruktur yang dimiliki oleh satu pihak.\n* Konektivitas: Mampu menghubungkan berbagai tipe jaringan, termasuk LAN dan terkadang juga terhubung ke WAN (Wide Area Network).\n\nContoh penerapan MAN yang disebutkan adalah jaringan kampus universitas yang tersebar di kota, jaringan kantor cabang bank di seluruh kota, atau jaringan pemerintah kota. Intinya, MAN berfungsi sebagai jembatan antara jaringan lokal (LAN) dan jaringan luas (WAN) di area perkotaan dengan kecepatan tinggi.",
+      "image": null,
+      "timestamp": "2026-07-30T02:58:12.374Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Teks tersebut menjelaskan tentang **Metropolitan Area Network (MAN)**.\n\nMAN adalah jenis jaringan komputer yang cakupannya seluas satu kota atau wilayah metropolitan. Fungsi utamanya adalah untuk menghubungkan beberapa jaringan Local Area Network (LAN) yang lokasinya berjauhan namun masih dalam satu wilayah perkotaan. Jaringan ini dirancang untuk transfer data yang cepat dan seringkali menggunakan infrastruktur milik satu pihak. MAN bisa menghubungkan berbagai tipe jaringan, termasuk LAN dan terkadang juga terhubung ke Wide Area Network (WAN).\n\nContoh penerapan MAN yang diberikan adalah jaringan kampus universitas yang tersebar di kota, jaringan kantor cabang bank di seluruh kota, atau jaringan pemerintah kota. Secara ringkas, MAN berperan sebagai penghubung antara jaringan lokal (LAN) dan jaringan luas (WAN) di area perkotaan dengan kecepatan tinggi.",
+      "timestamp": "2026-07-30T02:58:12.374Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
