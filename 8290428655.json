@@ -1,7 +1,7 @@
 {
   "sessionId": "8290428655",
   "createdAt": "2026-07-30T16:18:33.709Z",
-  "lastActivity": "2026-07-30T19:26:12.366Z",
+  "lastActivity": "2026-07-30T19:26:40.826Z",
   "history": [
     {
       "role": "user",
@@ -302,9 +302,21 @@
       "text": "Maaf jika saya memberikan jawaban yang terlalu panjang. Apakah ada bagian tertentu dari lirik lagu \"Señorita\" yang ingin Anda tanyakan atau diskusikan lebih lanjut? Atau mungkin Anda ingin saya meringkasnya?",
       "timestamp": "2026-07-30T19:26:12.366Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "lagu shawn mendes paling populer itu apa",
+      "image": null,
+      "timestamp": "2026-07-30T19:26:40.826Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Berdasarkan data popularitas dan penelusuran, beberapa lagu Shawn Mendes yang paling populer antara lain:\n\n1.  **\"Señorita\"** (bersama Camila Cabello): Lagu ini adalah salah satu hit terbesarnya secara global, mencapai puncak tangga lagu di banyak negara.\n2.  **\"Stitches\"**: Lagu ini adalah salah satu terobosannya yang besar dan sangat populer di awal karirnya.\n3.  **\"Treat You Better\"**: Lagu ini juga sangat sukses dan menjadi favorit penggemar.\n4.  **\"There's Nothing Holdin' Me Back\"**: Lagu ini dikenal dengan energinya yang upbeat dan melodi yang catchy.\n5.  **\"If I Can't Have You\"**: Lagu ini juga meraih popularitas yang signifikan.\n\nTentu saja, popularitas bisa bervariasi tergantung pada wilayah dan platform musik, tetapi kelima lagu ini secara konsisten muncul sebagai yang paling dikenal dan disukai dari diskografi Shawn Mendes.",
+      "timestamp": "2026-07-30T19:26:40.826Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 50
+    "totalMessages": 52
   }
 }
