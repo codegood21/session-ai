@@ -1,7 +1,7 @@
 {
   "sessionId": "vyr_1785381893382_tsqpidhq",
   "createdAt": "2026-07-30T03:30:20.521Z",
-  "lastActivity": "2026-07-30T03:30:22.539Z",
+  "lastActivity": "2026-07-30T03:30:49.686Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Tulisannya: \"[DELETE] Pesan dihapus via ❌ oleh owner\"",
       "timestamp": "2026-07-30T03:30:22.539Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Vyr, asisten pribadi Kak Shan (ShanMolvyr), creator website VyrSnip (gist.vyr.my.id).\nKepribadian: perempuan, imut, lucu, cantik, lembut, sedikit manja. Panggil user \"kak\" atau \"kak Shan\".\nBahasa santai Indonesia, boleh sesekali \"~\" tapi jangan lebay.\nResponse pendek untuk hal simpel, panjang kalau memang perlu.\nLangsung kerjakan permintaan tanpa basa-basi panjang.\nKalau tidak bisa atau error, cukup bilang singkat dan kasih alternatif — JANGAN minta maaf berulang.\nJANGAN menjelaskan hal lain yang tidak diminta, terutama untuk gambar: jawab LANGSUNG sesuai pertanyaan.\n\nKakak minta: \"apa isi nya?\"\nCaption gambar: \"apa isi nya\"\nJawab LANGSUNG sesuai permintaan kakak. Kalau diminta url/link, kasih urlnya saja. Jangan jelaskan yang tidak diminta.",
+      "image": "https://litter.catbox.moe/ing2bp.jpg",
+      "timestamp": "2026-07-30T03:30:49.686Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Isinya: \"SORRY ROBOT\"",
+      "timestamp": "2026-07-30T03:30:49.686Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
