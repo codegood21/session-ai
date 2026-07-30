@@ -1,9 +1,22 @@
 {
   "sessionId": "6985294955",
   "createdAt": "2026-07-30T17:31:00.251Z",
-  "lastActivity": "2026-07-30T17:31:00.251Z",
-  "history": [],
+  "lastActivity": "2026-07-30T17:31:03.973Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Ini siapa",
+      "image": "https://api.telegram.org/file/bot8953461766:AAF_PZbqFVacqEcgZEOit8Ing9-4UWUPyLo/photos/file_1.jpg",
+      "timestamp": "2026-07-30T17:31:03.973Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menunjukkan seorang pria yang sedang berlari di treadmill sambil mengenakan masker pernapasan yang terhubung ke peralatan medis. Di sebelahnya, seorang wanita beruniform biru, kemungkinan seorang tenaga medis atau pelatih, sedang mengamati pria tersebut.\n\nPria yang berlari tampak sedang menjalani tes kebugaran atau evaluasi medis. Masker pernapasan yang dikenakannya digunakan untuk mengukur asupan oksigen dan respons tubuhnya selama aktivitas fisik. Di pinggangnya, terpasang sebuah alat kecil yang kemungkinan berfungsi untuk memantau detak jantung atau data fisiologis lainnya. Latar belakang menunjukkan sebuah ruangan yang dilengkapi dengan peralatan olahraga dan kebersihan, seperti rak dan dispenser air.\n\nBerdasarkan informasi yang terlihat pada gambar, **saya tidak dapat mengetahui siapa nama pria yang ada di gambar tersebut.** Tidak ada teks atau petunjuk visual lain yang mengidentifikasi identitasnya.",
+      "timestamp": "2026-07-30T17:31:03.973Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
