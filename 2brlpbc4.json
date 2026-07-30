@@ -1,9 +1,22 @@
 {
   "sessionId": "2brlpbc4",
   "createdAt": "2026-07-30T08:23:34.442Z",
-  "lastActivity": "2026-07-30T08:23:34.442Z",
-  "history": [],
+  "lastActivity": "2026-07-30T08:23:40.375Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "berikan saya contoh mind map",
+      "image": null,
+      "timestamp": "2026-07-30T08:23:40.375Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa memberikan contoh mind map. Mind map adalah alat visual yang sangat berguna untuk mengatur ide, merencanakan proyek, atau sekadar mencatat informasi.\n\nSecara umum, mind map memiliki struktur seperti pohon:\n\n*   **Ide Sentral:** Di tengah mind map, ada satu topik utama atau ide sentral yang menjadi fokus.\n*   **Cabang Utama:** Dari ide sentral, akan keluar cabang-cabang utama yang mewakili kategori atau sub-topik utama dari ide sentral tersebut.\n*   **Cabang Sekunder (dan seterusnya):** Dari setiap cabang utama, bisa lagi keluar cabang-cabang yang lebih kecil (cabang sekunder, tersier, dan seterusnya) yang merinci lebih lanjut ide-ide terkait.\n*   **Kata Kunci dan Gambar:** Setiap cabang biasanya berisi kata kunci, frasa pendek, atau bahkan gambar kecil untuk membantu memvisualisasikan dan mengingat informasi.\n\n**Contoh Sederhana Mind Map: \"Liburan Impian\"**\n\nBayangkan kita ingin merencanakan liburan impian.\n\n1.  **Ide Sentral:** Di tengah, tuliskan **\"Liburan Impian\"**.\n\n2.  **Cabang Utama:** Dari \"Liburan Impian\", kita bisa membuat cabang-cabang utama seperti:\n    *   **Tujuan**\n    *   **Aktivitas**\n    *   **Anggaran**\n    *   **Logistik**\n    *   **Siapa yang Ikut?**\n\n3.  **Cabang Sekunder (dan seterusnya):**\n    *   Dari **\"Tujuan\"**, bisa keluar cabang:\n        *   Pantai (misal: Bali, Maldives)\n        *   Pegunungan (misal: Swiss, Nepal)\n        *   Kota Budaya (misal: Kyoto, Roma)\n    *   Dari **\"Aktivitas\"**, bisa keluar cabang:\n        *   Relaksasi (misal: spa, membaca)\n        *   Petualangan (misal: hiking, diving)\n        *   Eksplorasi (misal: museum, pasar lokal)\n    *   Dari **\"Anggaran\"**, bisa keluar cabang:\n        *   Transportasi\n        *   Akomodasi\n        *   Makanan\n        *   Oleh-oleh\n    *   Dari **\"Logistik\"**, bisa keluar cabang:\n        *   Tiket Pesawat/Kereta\n        *   Hotel/Penginapan\n        *   Visa (jika perlu)\n        *   Asuransi Perjalanan\n    *   Dari **\"Siapa yang Ikut?\"**, bisa keluar cabang:\n        *   Sendiri\n        *   Pasangan\n        *   Keluarga\n        *   Teman\n\n**Bagaimana Bentuk Visualnya?**\n\nJika digambar, ini akan terlihat seperti ini:\n\n```\n                       +-----------------+\n                       | Liburan Impian  |\n                       +-----------------+\n                              |\n        +---------------------+---------------------+---------------------+---------------------+---------------------+\n        |                     |                     |                     |                     |                     |\n+-------+-------+   +-------+-------+   +-------+-------+   +-------+-------+   +-------+-------+\n|    Tujuan     |   |   Aktivitas   |   |    Anggaran   |   |    Logistik   |   | Siapa yang Ikut?|\n+---------------+   +---------------+   +---------------+   +---------------+   +---------------+\n    |                   |                   |                   |                   |\n    +-- Pantai          +-- Relaksasi      +-- Transportasi    +-- Tiket Pesawat   +-- Sendiri\n    |   |-- Bali        |   |-- Spa         |   |-- Hotel         |   |-- Hotel         |   |-- Pasangan\n    |   |-- Maldives    |   |-- Membaca     |   |-- Makanan       |   |-- Visa          |   |-- Keluarga\n    +-- Pegunungan      +-- Petualangan     |   |-- Oleh-oleh     |   |-- Asuransi      +-- Teman\n        |-- Swiss       |   |-- Hiking\n        |-- Nepal       |   |-- Diving\n    +-- Kota Budaya     +-- Eksplorasi\n        |-- Kyoto       |   |-- Museum\n        |-- Roma        |   |-- Pasar\n```\n\nIni hanya contoh sederhana. Mind map bisa dibuat lebih kompleks dengan banyak tingkatan cabang, penggunaan warna yang berbeda untuk setiap cabang utama, dan penambahan gambar-gambar kecil untuk memperjelas setiap ide.\n\nAnda bisa membuat mind map secara manual dengan kertas dan pena, atau menggunakan berbagai aplikasi dan *software* mind mapping yang tersedia (seperti XMind, MindMeister, Coggle, dll.).",
+      "timestamp": "2026-07-30T08:23:40.375Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
