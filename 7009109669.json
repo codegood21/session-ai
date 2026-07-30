@@ -1,7 +1,7 @@
 {
   "sessionId": "7009109669",
   "createdAt": "2026-07-30T15:45:19.480Z",
-  "lastActivity": "2026-07-30T15:52:16.263Z",
+  "lastActivity": "2026-07-30T16:06:30.497Z",
   "history": [
     {
       "role": "user",
@@ -74,9 +74,21 @@
       "text": "Tadi Anda bilang kalau nama Anda adalah **Rohan**.",
       "timestamp": "2026-07-30T15:52:16.263Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "https://www.instagram.com/p/DajD3vUkXyO/?igsh=MTM0ZG1wcThocGpvZw==",
+      "image": null,
+      "timestamp": "2026-07-30T16:06:30.497Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya tidak dapat mengakses tautan eksternal, termasuk tautan Instagram. Oleh karena itu, saya tidak bisa melihat isi dari tautan yang Anda berikan.\n\nJika Anda ingin saya menganalisis sesuatu dari tautan tersebut, Anda bisa mencoba mendeskripsikan isinya atau mengunggah gambar/video terkait di sini.",
+      "timestamp": "2026-07-30T16:06:30.497Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 12
+    "totalMessages": 14
   }
 }
