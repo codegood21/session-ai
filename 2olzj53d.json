@@ -1,9 +1,22 @@
 {
   "sessionId": "2olzj53d",
   "createdAt": "2026-07-30T11:10:31.003Z",
-  "lastActivity": "2026-07-30T11:10:31.003Z",
-  "history": [],
+  "lastActivity": "2026-07-30T11:10:32.506Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "lombok dikenal sebagai apa",
+      "image": null,
+      "timestamp": "2026-07-30T11:10:32.506Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Lombok dikenal sebagai **Pulau Seribu Masjid**.\n\nSelain itu, Lombok juga terkenal dengan keindahan alamnya yang luar biasa, seperti pantai-pantainya yang memukau (misalnya Pantai Kuta, Tanjung Aan, Selong Belanak), Gunung Rinjani yang megah, serta kebudayaan Sasak yang kaya dan unik.",
+      "timestamp": "2026-07-30T11:10:32.506Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
