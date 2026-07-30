@@ -1,7 +1,7 @@
 {
   "sessionId": "2f46c54f42e0a355",
   "createdAt": "2026-07-30T13:57:51.040Z",
-  "lastActivity": "2026-07-30T13:58:03.888Z",
+  "lastActivity": "2026-07-30T13:58:18.275Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Soy un modelo de lenguaje grande, entrenado por Google.",
       "timestamp": "2026-07-30T13:58:03.888Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ya pues chupalo\n\n(Regla estricta: Responde única y exclusivamente en idioma Español).",
+      "image": null,
+      "timestamp": "2026-07-30T13:58:18.275Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Entiendo que puedas estar frustrado, pero te pido que mantengamos una conversación respetuosa. Si tienes alguna pregunta o necesitas ayuda con algo, estaré encantado de asistirte.",
+      "timestamp": "2026-07-30T13:58:18.275Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
