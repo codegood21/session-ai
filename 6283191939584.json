@@ -1,7 +1,7 @@
 {
   "sessionId": "6283191939584",
   "createdAt": "2026-07-28T01:30:29.717Z",
-  "lastActivity": "2026-07-30T01:55:57.409Z",
+  "lastActivity": "2026-07-30T03:38:15.641Z",
   "history": [
     {
       "role": "user",
@@ -422,9 +422,21 @@
       "text": "Tentu, Rohan. Anda ingin memutar lagu \"The One That Got Away\"?\n\nApakah Anda ingin saya mencarikan liriknya, informasi tentang lagu tersebut, atau mencoba memutarnya melalui layanan musik jika saya terhubung dengannya?",
       "timestamp": "2026-07-30T01:55:57.408Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "=> await sock.relayMessage(m.chat, {\n  botForwardedMessage: {\n    message: {\n      richResponseMessage: {\n        submessages: [],\n        messageType: 1,\n        unifiedResponse: {\n          data: Buffer.from(JSON.stringify({\n            response_id: \"2d9e57e0-570a-4d50-bf80-b6d6f6318f08\",\n            sections: [\n              {\n                view_model: {\n                  primitive: {\n                    language: \"javascript\",\n                    code_blocks: [\n                      {\n                        content: \"coba\",\n                        type: \"KEYWORD\"\n                      },\n                      {\n                        content: \"tes\",\n                        type: \"DEFAULT\"\n                      }\n                    ],\n                    __typename: \"GenAICodeUXPrimitive\"\n                  },\n                  __typename: \"GenAISingleLayoutViewModel\"\n                }\n              }\n            ]\n          })).toString('base64')\n        },\n        contextInfo: {\n          mentionedJid: [],\n          groupMentions: [],\n          statusAttributions: [],\n          stanzaId: \"A5EEAB402618A0149706FB4075E46C54\",\n          participant: \"164746439479432@lid\",\n          quotedMessage: {\n            conversation: \"Coba Tes\"\n          },\n          forwardingScore: 1,\n          isForwarded: true,\n          forwardOrigin: 4,\n          quotedType: 0,\n          botMessageSharingInfo: {\n            forwardScore: 1\n          }\n        }\n      }\n    }\n  }\n}, {});",
+      "image": "https://cdn.nekohime.site/file/v571tm7n.png",
+      "timestamp": "2026-07-30T03:38:15.641Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar yang Anda berikan adalah tangkapan layar dari sebuah dasbor \"System Monitor\". Tampilan dasbor ini modern dengan latar belakang gelap (ungu kebiruan) dan elemen-elemen antarmuka berwarna cerah.\n\nInformasi yang ditampilkan meliputi:\n\n*   **Judul**: \"System Monitor\" dengan ID unik `afbf0d78-95b4-4737-b4c8-2946569b0ddf`, latensi `894ms`, dan versi Node.js `v20.20.2`.\n*   **CPU USAGE**: Menunjukkan penggunaan CPU sebesar `31%`. Disebutkan bahwa CPU-nya adalah `AMD EPYC 7452 32-Core Processor`.\n*   **MEMORY**: Total memori adalah `62.8 GB`. Penggunaan memori adalah `50.9 GB` (81%), dengan sisa `11.9 GB` (19%). Grafik melingkar menunjukkan penggunaan memori yang tinggi.\n*   **STORAGE**: Total penyimpanan adalah `1936.3 GB`. Penggunaan penyimpanan adalah `11%`, yaitu `206.5 GB` terpakai dan `1936.3 GB` tersedia.\n*   **SYSTEM INFO**:\n    *   Platform: `LINUX`\n    *   Arch: `x64`\n    *   Bot Uptime: `1d 1h 15m 45s` (1 hari, 1 jam, 15 menit, 45 detik)\n    *   OS Uptime: `21d 9h 59m 50s` (21 hari, 9 jam, 59 menit, 50 detik)\n*   **MEMORY DETAIL**:\n    *   RSS (Resident Set Size): `840.6 MB`\n    *   Heap Used: `522.7 MB`\n    *   Heap Total: `585.5 MB`\n    *   External: `33.8 MB`\n*   **Waktu**: `10.36.30 WIB` terlihat di sudut kiri bawah.\n*   **Footer**: Terdapat tulisan \"Powered by KyzoYamada\".\n\nCuplikan kode yang Anda berikan adalah bagian dari implementasi bot (kemungkinan bot WhatsApp berdasarkan sintaksis `sock.relayMessage` dan `m.chat`, `m.reply` yang umum di library seperti `whatsapp-web.js` atau sejenisnya). Kode tersebut terlihat seperti mencoba mengirimkan respons yang terstruktur, kemungkinan besar sebagai respons terhadap perintah tertentu yang diberikan oleh pengguna.\n\nDalam kode tersebut, ada bagian `richResponseMessage` yang berisi `unifiedResponse` dengan `data` yang di-encode base64. Data ini tampaknya mendefinisikan struktur respons yang akan dikirim, termasuk `sections` dan `code_blocks` dengan konten \"coba\" dan \"tes\". Ini menunjukkan bahwa bot tersebut mungkin memiliki kemampuan untuk menampilkan kode atau blok teks terformat dalam pesannya.\n\nApakah ada pertanyaan spesifik yang ingin Anda ajukan mengenai gambar dasbor atau cuplikan kode tersebut, Rohan?",
+      "timestamp": "2026-07-30T03:38:15.641Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 70
+    "totalMessages": 72
   }
 }
