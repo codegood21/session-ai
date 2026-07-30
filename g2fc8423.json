@@ -1,9 +1,22 @@
 {
   "sessionId": "g2fc8423",
   "createdAt": "2026-07-30T03:04:56.780Z",
-  "lastActivity": "2026-07-30T03:04:56.780Z",
-  "history": [],
+  "lastActivity": "2026-07-30T03:04:59.514Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "rangkum \n\nJaringan WAN (Wide Area Network) adalah jenis jaringan komputer yang mencakup area geografis yang luas. Berbeda dengan LAN (Local Area Network) yang terbatas pada area kecil seperti gedung atau kampus, WAN dapat menghubungkan komputer dan jaringan di berbagai kota, negara, bahkan benua.\n\nBayangkan saja seperti ini:\n LAN itu seperti jaringan telepon di dalam satu kantor.\n WAN itu seperti jaringan telepon yang menghubungkan kantor-kantor tersebut di seluruh dunia.\n\nBeberapa karakteristik utama dari jaringan WAN meliputi:\n\n Cakupan Geografis Luas: Ini adalah ciri paling menonjol. WAN bisa membentang ribuan kilometer.\n Konektivitas Antar Jaringan: WAN seringkali merupakan kumpulan dari beberapa jaringan LAN yang saling terhubung.\n Kecepatan yang Bervariasi: Kecepatan transfer data di WAN umumnya lebih lambat dibandingkan LAN karena jarak yang ditempuh lebih jauh dan seringkali menggunakan teknologi yang berbeda.\n Infrastruktur Milik Bersama atau Sewaan: Pembangunan dan pemeliharaan infrastruktur WAN seringkali memerlukan biaya besar, sehingga banyak organisasi menyewa jalur komunikasi dari penyedia layanan telekomunikasi.\n* Contoh Nyata: Internet adalah contoh WAN terbesar dan paling terkenal. Jaringan perusahaan multinasional yang menghubungkan kantor-kantornya di berbagai negara juga merupakan contoh WAN.\n\nJadi, secara singkat, WAN adalah jaringan yang dirancang untuk menghubungkan perangkat dan jaringan di lokasi yang berjauhan secara geografis.",
+      "image": null,
+      "timestamp": "2026-07-30T03:04:59.514Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Teks tersebut menjelaskan tentang **Jaringan WAN (Wide Area Network)**.\n\nSecara garis besar, WAN adalah jenis jaringan komputer yang memiliki cakupan geografis sangat luas, berbeda dengan LAN yang hanya terbatas pada area kecil. WAN bisa menghubungkan komputer dan jaringan di berbagai kota, negara, bahkan antar benua.\n\nAnalogi yang diberikan adalah seperti jaringan telepon di dalam satu kantor (LAN) dibandingkan dengan jaringan telepon yang menghubungkan kantor-kantor di seluruh dunia (WAN).\n\nBeberapa karakteristik utama WAN yang disebutkan adalah:\n\n*   **Cakupan Geografis Luas**: Bisa membentang ribuan kilometer.\n*   **Konektivitas Antar Jaringan**: Seringkali merupakan gabungan dari beberapa jaringan LAN yang saling terhubung.\n*   **Kecepatan Bervariasi**: Umumnya lebih lambat dari LAN karena jarak yang lebih jauh dan teknologi yang berbeda.\n*   **Infrastruktur Milik Bersama atau Sewaan**: Membutuhkan biaya besar, sehingga seringkali menyewa jalur komunikasi.\n*   **Contoh Nyata**: Internet adalah contoh WAN terbesar, begitu juga jaringan perusahaan multinasional.\n\nIntinya, WAN adalah jaringan yang berfungsi untuk menghubungkan perangkat dan jaringan yang lokasinya berjauhan secara geografis.",
+      "timestamp": "2026-07-30T03:04:59.514Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
