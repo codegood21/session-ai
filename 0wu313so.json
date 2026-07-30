@@ -1,9 +1,22 @@
 {
   "sessionId": "0wu313so",
   "createdAt": "2026-07-30T03:04:24.206Z",
-  "lastActivity": "2026-07-30T03:04:24.206Z",
-  "history": [],
+  "lastActivity": "2026-07-30T03:04:27.548Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "pengertian jaringan WAN",
+      "image": null,
+      "timestamp": "2026-07-30T03:04:27.548Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita bahas pengertian jaringan WAN.\n\nJaringan WAN (Wide Area Network) adalah jenis jaringan komputer yang mencakup area geografis yang luas. Berbeda dengan LAN (Local Area Network) yang terbatas pada area kecil seperti gedung atau kampus, WAN dapat menghubungkan komputer dan jaringan di berbagai kota, negara, bahkan benua.\n\nBayangkan saja seperti ini:\n*   **LAN** itu seperti jaringan telepon di dalam satu kantor.\n*   **WAN** itu seperti jaringan telepon yang menghubungkan kantor-kantor tersebut di seluruh dunia.\n\nBeberapa karakteristik utama dari jaringan WAN meliputi:\n\n*   **Cakupan Geografis Luas:** Ini adalah ciri paling menonjol. WAN bisa membentang ribuan kilometer.\n*   **Konektivitas Antar Jaringan:** WAN seringkali merupakan kumpulan dari beberapa jaringan LAN yang saling terhubung.\n*   **Kecepatan yang Bervariasi:** Kecepatan transfer data di WAN umumnya lebih lambat dibandingkan LAN karena jarak yang ditempuh lebih jauh dan seringkali menggunakan teknologi yang berbeda.\n*   **Infrastruktur Milik Bersama atau Sewaan:** Pembangunan dan pemeliharaan infrastruktur WAN seringkali memerlukan biaya besar, sehingga banyak organisasi menyewa jalur komunikasi dari penyedia layanan telekomunikasi.\n*   **Contoh Nyata:** Internet adalah contoh WAN terbesar dan paling terkenal. Jaringan perusahaan multinasional yang menghubungkan kantor-kantornya di berbagai negara juga merupakan contoh WAN.\n\nJadi, secara singkat, WAN adalah jaringan yang dirancang untuk menghubungkan perangkat dan jaringan di lokasi yang berjauhan secara geografis.",
+      "timestamp": "2026-07-30T03:04:27.548Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
