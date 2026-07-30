@@ -1,9 +1,22 @@
 {
   "sessionId": "7206465925",
   "createdAt": "2026-07-30T20:14:29.159Z",
-  "lastActivity": "2026-07-30T20:14:29.159Z",
-  "history": [],
+  "lastActivity": "2026-07-30T20:14:30.769Z",
+  "history": [
+    {
+      "role": "user",
+      "text": ".menu",
+      "image": null,
+      "timestamp": "2026-07-30T20:14:30.769Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa membantumu dengan itu. Mohon berikan gambar menu yang ingin kamu diskusikan. Setelah saya melihatnya, saya akan bisa membacakan atau meringkas isinya, serta menjawab pertanyaan spesifikmu mengenai menu tersebut.",
+      "timestamp": "2026-07-30T20:14:30.769Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
