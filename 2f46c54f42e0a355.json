@@ -1,7 +1,7 @@
 {
   "sessionId": "2f46c54f42e0a355",
   "createdAt": "2026-07-30T13:57:51.040Z",
-  "lastActivity": "2026-07-30T13:57:52.320Z",
+  "lastActivity": "2026-07-30T13:58:03.888Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Hola, ¿en qué puedo ayudarte hoy?",
       "timestamp": "2026-07-30T13:57:52.320Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "quien te creo\n\n(Regla estricta: Responde única y exclusivamente en idioma Español).",
+      "image": null,
+      "timestamp": "2026-07-30T13:58:03.888Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Soy un modelo de lenguaje grande, entrenado por Google.",
+      "timestamp": "2026-07-30T13:58:03.888Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
