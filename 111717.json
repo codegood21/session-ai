@@ -1,7 +1,7 @@
 {
   "sessionId": "111717",
   "createdAt": "2026-07-30T02:47:14.320Z",
-  "lastActivity": "2026-07-30T02:47:20.009Z",
+  "lastActivity": "2026-07-30T02:47:20.859Z",
   "history": [
     {
       "role": "user",
@@ -17,18 +17,30 @@
     },
     {
       "role": "user",
-      "text": "apa ",
+      "text": "apa",
       "image": null,
-      "timestamp": "2026-07-30T02:47:20.009Z"
+      "timestamp": "2026-07-30T02:47:19.308Z"
     },
     {
       "role": "assistant",
-      "text": "Saya siap membantu. Ada yang bisa saya bantu hari ini?",
-      "timestamp": "2026-07-30T02:47:20.009Z",
+      "text": "Baik, saya siap mendengarkan. Apa yang ingin Anda ketahui atau bicarakan? Jika ada gambar, silakan diunggah agar saya bisa melihatnya.",
+      "timestamp": "2026-07-30T02:47:19.308Z",
+      "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "apa t",
+      "image": null,
+      "timestamp": "2026-07-30T02:47:20.858Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Saya siap membantu. Apa yang ingin Anda tanyakan atau diskusikan? Jika ada gambar yang ingin Anda tunjukkan, silakan diunggah ya.",
+      "timestamp": "2026-07-30T02:47:20.859Z",
       "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
