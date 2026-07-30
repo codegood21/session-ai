@@ -1,9 +1,22 @@
 {
   "sessionId": "5dtlgz0p",
   "createdAt": "2026-07-30T14:04:00.469Z",
-  "lastActivity": "2026-07-30T14:04:00.469Z",
-  "history": [],
+  "lastActivity": "2026-07-30T14:04:02.120Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "infokan kepadaku, waktu dan tanggal pembicaraan ini diadakan",
+      "image": null,
+      "timestamp": "2026-07-30T14:04:02.119Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Mohon maaf, saya tidak memiliki informasi mengenai waktu dan tanggal pembicaraan ini diadakan. Sebagai model AI, saya tidak menyimpan riwayat percakapan atau informasi pribadi pengguna. Saya hanya berinteraksi berdasarkan input yang Anda berikan pada sesi percakapan saat ini.",
+      "timestamp": "2026-07-30T14:04:02.120Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
