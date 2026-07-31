@@ -1,7 +1,7 @@
 {
   "sessionId": "8962891986",
   "createdAt": "2026-07-31T00:01:01.296Z",
-  "lastActivity": "2026-07-31T00:01:02.898Z",
+  "lastActivity": "2026-07-31T00:01:23.591Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Halo! Anda menyebutkan \"jawa\". Apakah Anda sedang mencari informasi tentang Pulau Jawa, suku Jawa, Bahasa Jawa, atau mungkin ada hal lain yang berkaitan dengan Jawa yang ingin Anda ketahui?\n\nMohon berikan detail lebih lanjut agar saya bisa membantu Anda dengan lebih baik.",
       "timestamp": "2026-07-31T00:01:02.898Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "buatkan gambar bebek",
+      "image": null,
+      "timestamp": "2026-07-31T00:01:23.591Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan buatkan gambar bebek untuk Anda. Mohon tunggu sebentar.\n\n![Bebek](https://image.pollinations.ai/prompt/A%20cute%20duck%20swimming%20in%20a%20pond)\n\nIni dia gambar bebek yang saya buat. Bebek ini tampak sedang berenang dengan riang di sebuah kolam.",
+      "timestamp": "2026-07-31T00:01:23.591Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
