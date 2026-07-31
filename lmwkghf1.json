@@ -1,9 +1,22 @@
 {
   "sessionId": "lmwkghf1",
   "createdAt": "2026-07-31T15:08:53.151Z",
-  "lastActivity": "2026-07-31T15:08:53.151Z",
-  "history": [],
+  "lastActivity": "2026-07-31T15:08:55.004Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu cimeng",
+      "image": null,
+      "timestamp": "2026-07-31T15:08:55.004Z"
+    },
+    {
+      "role": "assistant",
+      "text": "\"Cimeng\" adalah bahasa gaul atau slang yang umum digunakan di Indonesia untuk merujuk pada **ganja**.\n\nGanja sendiri adalah tanaman psikoaktif yang daun, bunga, batang, dan bijinya mengandung senyawa kimia bernama tetrahydrocannabinol (THC) yang dapat menimbulkan efek halusinogenik dan euforia jika dikonsumsi.\n\nPenting untuk diketahui bahwa di Indonesia, ganja termasuk dalam golongan narkotika dan penggunaannya, kepemilikan, serta perdagangannya adalah ilegal dan dapat dikenakan sanksi hukum yang berat.",
+      "timestamp": "2026-07-31T15:08:55.004Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
