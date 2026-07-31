@@ -1,9 +1,22 @@
 {
   "sessionId": "qf8pfgej",
   "createdAt": "2026-07-31T08:12:04.998Z",
-  "lastActivity": "2026-07-31T08:12:04.998Z",
-  "history": [],
+  "lastActivity": "2026-07-31T08:12:08.839Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu omni router",
+      "image": null,
+      "timestamp": "2026-07-31T08:12:08.839Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan jelaskan apa itu Omni Router.\n\nOmni Router adalah sebuah perangkat jaringan yang dirancang untuk **mengintegrasikan berbagai jenis koneksi internet ke dalam satu jaringan yang terpadu**. Istilah \"omni\" sendiri berarti \"semua\" atau \"universal\", yang menggambarkan kemampuannya untuk menggabungkan berbagai sumber koneksi.\n\nSecara umum, fungsi utama Omni Router adalah:\n\n*   **Agregasi Bandwidth (Bonding):** Ini adalah fitur paling menonjol dari Omni Router. Ia dapat menggabungkan beberapa koneksi internet (misalnya, beberapa koneksi DSL, kabel, serat optik, atau bahkan koneksi seluler 4G/5G) menjadi satu koneksi virtual dengan bandwidth yang lebih besar. Ini sangat berguna untuk bisnis atau pengguna yang membutuhkan kecepatan internet yang sangat tinggi dan stabil.\n*   **Failover Otomatis:** Jika salah satu koneksi internet yang terhubung ke Omni Router mengalami gangguan atau putus, router akan secara otomatis mengalihkan lalu lintas ke koneksi lain yang masih aktif. Ini memastikan kelangsungan konektivitas internet tanpa gangguan.\n*   **Load Balancing:** Omni Router dapat mendistribusikan lalu lintas jaringan ke berbagai koneksi internet yang tersedia. Ini membantu mencegah satu koneksi menjadi terlalu terbebani dan memastikan kinerja jaringan yang optimal.\n*   **Manajemen Jaringan yang Canggih:** Router ini sering kali dilengkapi dengan fitur manajemen jaringan yang lebih canggih dibandingkan router rumahan biasa, seperti firewall yang kuat, VPN, QoS (Quality of Service) untuk memprioritaskan jenis lalu lintas tertentu, dan kemampuan pemantauan kinerja jaringan.\n\n**Kapan Omni Router Digunakan?**\n\nOmni Router biasanya digunakan dalam skenario di mana keandalan dan kecepatan koneksi internet sangat krusial, seperti:\n\n*   **Bisnis:** Terutama bagi perusahaan yang mengandalkan konektivitas internet untuk operasional sehari-hari, seperti layanan pelanggan, transfer data besar, atau aplikasi berbasis cloud.\n*   **Lokasi Terpencil:** Di daerah di mana hanya ada satu pilihan koneksi internet yang tersedia atau kualitasnya kurang baik, Omni Router dapat digunakan untuk menggabungkan beberapa koneksi seluler atau satelit untuk meningkatkan kecepatan dan keandalan.\n*   **Acara Khusus:** Untuk acara-acara seperti konser, pameran, atau konferensi yang membutuhkan konektivitas internet yang kuat dan stabil untuk banyak pengguna secara bersamaan.\n\nSingkatnya, Omni Router adalah solusi canggih untuk mengoptimalkan dan mengamankan koneksi internet dengan cara menggabungkan, mengelola, dan melindungi berbagai sumber koneksi yang tersedia.",
+      "timestamp": "2026-07-31T08:12:08.839Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
