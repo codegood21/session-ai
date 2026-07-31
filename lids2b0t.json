@@ -1,9 +1,22 @@
 {
   "sessionId": "lids2b0t",
   "createdAt": "2026-07-31T08:11:57.656Z",
-  "lastActivity": "2026-07-31T08:11:57.656Z",
-  "history": [],
+  "lastActivity": "2026-07-31T08:12:01.261Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu omni router",
+      "image": null,
+      "timestamp": "2026-07-31T08:12:01.261Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Dalam konteks jaringan komputer, **omni router** mengacu pada router yang memiliki kemampuan untuk memancarkan sinyal Wi-Fi ke segala arah secara merata. Ini berbeda dengan antena router yang lebih terarah (directional), yang memfokuskan sinyal ke satu arah tertentu.\n\nBayangkan sebuah bola lampu:\n\n*   **Omni Router:** Seperti bola lampu biasa yang cahayanya menyebar ke seluruh ruangan.\n*   **Antena Directional:** Seperti lampu sorot yang cahayanya sangat kuat di satu area, tetapi redup di area lain.\n\n**Karakteristik utama dari omni router:**\n\n*   **Cakupan 360 derajat:** Sinyal menyebar ke segala arah, memberikan cakupan yang lebih luas di sekitar router.\n*   **Ideal untuk area terbuka:** Sangat cocok digunakan di rumah, kantor, atau area lain yang membutuhkan cakupan Wi-Fi yang merata di berbagai ruangan atau lokasi.\n*   **Antena eksternal:** Kebanyakan omni router memiliki antena eksternal yang dapat diatur posisinya untuk mendapatkan cakupan yang optimal.\n\n**Kapan omni router digunakan?**\n\nOmni router adalah pilihan yang umum untuk penggunaan rumahan dan kantor kecil karena kemampuannya memberikan cakupan Wi-Fi yang konsisten di sebagian besar area. Jika Anda memiliki rumah dengan tata letak yang tidak terlalu kompleks dan ingin memastikan setiap sudut mendapatkan sinyal, omni router adalah pilihan yang baik.\n\nNamun, perlu diingat bahwa \"omni\" dalam konteks ini lebih merujuk pada **karakteristik pemancaran sinyalnya**, bukan pada fungsi router itu sendiri. Fungsi inti router tetap sama, yaitu menghubungkan perangkat ke jaringan dan meneruskan data antar jaringan.",
+      "timestamp": "2026-07-31T08:12:01.261Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
