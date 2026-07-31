@@ -1,7 +1,7 @@
 {
   "sessionId": "8189901486",
   "createdAt": "2026-07-31T00:17:08.578Z",
-  "lastActivity": "2026-07-31T00:17:26.946Z",
+  "lastActivity": "2026-07-31T00:20:46.221Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Saya adalah model bahasa besar, yang dilatih oleh Google.",
       "timestamp": "2026-07-31T00:17:26.946Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Jam berapa sekarang",
+      "image": null,
+      "timestamp": "2026-07-31T00:20:46.221Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya tidak memiliki akses ke informasi waktu saat ini. Saya adalah model AI dan tidak terhubung ke jam dunia nyata.",
+      "timestamp": "2026-07-31T00:20:46.221Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
