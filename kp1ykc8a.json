@@ -1,9 +1,22 @@
 {
   "sessionId": "kp1ykc8a",
   "createdAt": "2026-07-31T12:48:29.986Z",
-  "lastActivity": "2026-07-31T12:48:29.986Z",
-  "history": [],
+  "lastActivity": "2026-07-31T12:48:34.234Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9743/753934440_nsfw-1785502109326.png",
+      "timestamp": "2026-07-31T12:48:34.234Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar tersebut menampilkan sebuah karakter kartun 3D yang memegang bendera pelangi. Di bawah karakter tersebut terdapat teks bertuliskan \"SEKTE KUE LAPIS\". Terdapat juga goresan panah merah di sisi kiri gambar yang mengarah ke atas. Tidak ada konten NSFW, pornografi, atau ketelanjangan dalam gambar ini.",
+      "timestamp": "2026-07-31T12:48:34.234Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
