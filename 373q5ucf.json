@@ -1,9 +1,22 @@
 {
   "sessionId": "373q5ucf",
   "createdAt": "2026-07-31T07:22:04.111Z",
-  "lastActivity": "2026-07-31T07:22:04.111Z",
-  "history": [],
+  "lastActivity": "2026-07-31T07:22:05.745Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "siapa kijet",
+      "image": null,
+      "timestamp": "2026-07-31T07:22:05.745Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Kijet adalah nama panggilan untuk Lionel Messi, seorang pemain sepak bola profesional asal Argentina yang saat ini bermain sebagai penyerang untuk klub Inter Miami dan tim nasional Argentina. Ia dianggap oleh banyak orang sebagai salah satu pemain terhebat sepanjang masa.",
+      "timestamp": "2026-07-31T07:22:05.745Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
