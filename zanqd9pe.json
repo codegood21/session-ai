@@ -1,9 +1,22 @@
 {
   "sessionId": "zanqd9pe",
   "createdAt": "2026-08-01T08:44:23.151Z",
-  "lastActivity": "2026-08-01T08:44:23.151Z",
-  "history": [],
+  "lastActivity": "2026-08-01T08:44:26.304Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9763/754296798_nsfw-1785573862046.png",
+      "timestamp": "2026-08-01T08:44:26.304Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan teks buram dalam bahasa Indonesia yang terdiri dari tiga baris. Baris pertama bertuliskan \"tidak\", baris kedua bertuliskan \"ramah\", dan baris ketiga bertuliskan \"bintang 1\". Teks tersebut tidak mengandung konten NSFW atau pornografi.\n```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```",
+      "timestamp": "2026-08-01T08:44:26.304Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
