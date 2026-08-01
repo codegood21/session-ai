@@ -1,9 +1,22 @@
 {
   "sessionId": "c6izaya1",
   "createdAt": "2026-08-01T11:29:43.198Z",
-  "lastActivity": "2026-08-01T11:29:43.198Z",
-  "history": [],
+  "lastActivity": "2026-08-01T11:29:46.467Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9766/754345847_nsfw-1785583782439.png",
+      "timestamp": "2026-08-01T11:29:46.467Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menunjukkan sekelompok orang di atas rakit bambu yang terapung di genangan air yang tinggi, kemungkinan besar akibat banjir. Ada seorang pria berseragam polisi duduk di atas rakit, dikelilingi oleh beberapa pria lainnya. Teks dalam gambar tersebut bertuliskan \"AKU ADMIN\" dan \"KAU MEMBER\". Konteksnya tampaknya bersifat humoris, menyamakan posisi otoritas admin dengan polisi di atas rakit, sementara anggota grup dianggap sebagai \"member\" yang ikut serta. Tidak ada konten NSFW, pornografi, atau ketelanjangan dalam gambar ini.",
+      "timestamp": "2026-08-01T11:29:46.467Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
