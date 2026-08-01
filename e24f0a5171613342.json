@@ -1,9 +1,22 @@
 {
   "sessionId": "e24f0a5171613342",
   "createdAt": "2026-08-01T00:42:12.157Z",
-  "lastActivity": "2026-08-01T00:42:12.157Z",
-  "history": [],
+  "lastActivity": "2026-08-01T00:42:13.609Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "esto q w\n\n(Regla estricta: Responde única y exclusivamente en idioma Español).",
+      "image": null,
+      "timestamp": "2026-08-01T00:42:13.609Z"
+    },
+    {
+      "role": "assistant",
+      "text": "¡Hola! Veo que has escrito \"esto q w\". Parece una abreviatura o una forma informal de preguntar algo, quizás \"¿esto qué es?\" o \"¿qué quieres?\".\n\nSi me pudieras dar un poco más de contexto o explicar qué quieres decir con \"esto q w\", con gusto te ayudaré.",
+      "timestamp": "2026-08-01T00:42:13.609Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
