@@ -1,9 +1,22 @@
 {
   "sessionId": "5m1w6y8h",
   "createdAt": "2026-08-01T03:05:15.263Z",
-  "lastActivity": "2026-08-01T03:05:15.263Z",
-  "history": [],
+  "lastActivity": "2026-08-01T03:05:19.505Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9758/754220722_nsfw-1785553514539.png",
+      "timestamp": "2026-08-01T03:05:19.505Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar tersebut berisi teks dalam bahasa Indonesia yang berbunyi \"artinya apa bang messi\". Teks ini merupakan pertanyaan yang menanyakan arti dari sesuatu kepada seseorang bernama Messi. Tidak ada konten NSFW, pornografi, atau sugestif dalam gambar ini.",
+      "timestamp": "2026-08-01T03:05:19.505Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
