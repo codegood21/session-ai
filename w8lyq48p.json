@@ -1,9 +1,22 @@
 {
   "sessionId": "w8lyq48p",
   "createdAt": "2026-08-01T03:32:21.625Z",
-  "lastActivity": "2026-08-01T03:32:21.625Z",
-  "history": [],
+  "lastActivity": "2026-08-01T03:32:22.994Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "pembuat dari lagu my girl my girl",
+      "image": null,
+      "timestamp": "2026-08-01T03:32:22.994Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Lagu \"My Girl\" yang sangat populer itu dibawakan oleh **The Temptations**.\n\nLagu ini dirilis pada tahun 1964 dan menjadi salah satu lagu hits terbesar mereka.",
+      "timestamp": "2026-08-01T03:32:22.994Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
