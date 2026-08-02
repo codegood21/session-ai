@@ -1,9 +1,22 @@
 {
   "sessionId": "wsib3zr7",
   "createdAt": "2026-08-02T11:23:26.096Z",
-  "lastActivity": "2026-08-02T11:23:26.096Z",
-  "history": [],
+  "lastActivity": "2026-08-02T11:23:29.676Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9790/754615603_nsfw-1785669805293.png",
+      "timestamp": "2026-08-02T11:23:29.676Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan close-up wajah seorang anak. Latar belakangnya tampak seperti layar digital dengan beberapa elemen kartun, termasuk sebagian karakter yang terlihat seperti berasal dari permainan Plants vs. Zombies. Tidak ada konten NSFW, pornografi, atau ketelanjangan dalam gambar ini.",
+      "timestamp": "2026-08-02T11:23:29.676Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
