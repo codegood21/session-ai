@@ -1,9 +1,22 @@
 {
   "sessionId": "5gbdrsht",
   "createdAt": "2026-08-02T15:01:56.817Z",
-  "lastActivity": "2026-08-02T15:01:56.817Z",
-  "history": [],
+  "lastActivity": "2026-08-02T15:01:58.306Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ubah teks ini menjadi bahasa inggris \n\nHalo! 👋 Selamat datang di Axio Infinity.\n\nSaya adalah asisten virtual Anda yang siap membantu segala kebutuhan Anda terkait produk dan layanan Axio. Ada yang bisa saya bantu hari ini?",
+      "image": null,
+      "timestamp": "2026-08-02T15:01:58.306Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, ini terjemahan teks tersebut ke dalam bahasa Inggris:\n\nHello! 👋 Welcome to Axio Infinity.\n\nI am your virtual assistant, ready to help with all your needs regarding Axio products and services. How can I assist you today?",
+      "timestamp": "2026-08-02T15:01:58.306Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
