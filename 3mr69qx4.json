@@ -1,9 +1,22 @@
 {
   "sessionId": "3mr69qx4",
   "createdAt": "2026-08-02T08:52:58.406Z",
-  "lastActivity": "2026-08-02T08:52:58.406Z",
-  "history": [],
+  "lastActivity": "2026-08-02T08:52:59.816Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "jelaskan la cpt",
+      "image": null,
+      "timestamp": "2026-08-02T08:52:59.816Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya siap menjelaskan. Apa yang ingin Anda jelaskan? Beri tahu saya topik atau pertanyaan spesifik yang Anda miliki, dan saya akan berusaha menjelaskannya dengan cepat dan jelas.",
+      "timestamp": "2026-08-02T08:52:59.816Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
