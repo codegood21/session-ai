@@ -1,9 +1,22 @@
 {
   "sessionId": "fl5r76ev",
   "createdAt": "2026-08-02T23:25:28.983Z",
-  "lastActivity": "2026-08-02T23:25:28.983Z",
-  "history": [],
+  "lastActivity": "2026-08-02T23:25:30.229Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "siapa nama beruang di film kartun Masha and the bear?",
+      "image": null,
+      "timestamp": "2026-08-02T23:25:30.229Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Dalam film kartun \"Masha and the Bear\", nama beruangnya adalah **Bear** (atau **Mishka** dalam bahasa Rusia, yang merupakan nama panggilan yang sering digunakan).",
+      "timestamp": "2026-08-02T23:25:30.229Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
