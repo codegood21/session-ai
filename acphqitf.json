@@ -1,9 +1,22 @@
 {
   "sessionId": "acphqitf",
   "createdAt": "2026-08-02T05:16:21.400Z",
-  "lastActivity": "2026-08-02T05:16:21.400Z",
-  "history": [],
+  "lastActivity": "2026-08-02T05:16:22.894Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "kepanjangan cpu",
+      "image": null,
+      "timestamp": "2026-08-02T05:16:22.894Z"
+    },
+    {
+      "role": "assistant",
+      "text": "CPU adalah singkatan dari **Central Processing Unit**.\n\nDalam bahasa Indonesia, CPU sering disebut sebagai **Unit Pemrosesan Sentral**. CPU ini adalah \"otak\" dari komputer yang bertanggung jawab untuk menjalankan instruksi-instruksi dari program komputer.",
+      "timestamp": "2026-08-02T05:16:22.894Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
