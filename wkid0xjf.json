@@ -1,9 +1,22 @@
 {
   "sessionId": "wkid0xjf",
   "createdAt": "2026-08-02T13:34:40.164Z",
-  "lastActivity": "2026-08-02T13:34:40.164Z",
-  "history": [],
+  "lastActivity": "2026-08-02T13:34:43.715Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9792/754652283_nsfw-1785677679373.png",
+      "timestamp": "2026-08-02T13:34:43.715Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nThe image shows a close-up of a young Black man's face, looking directly at the camera. He has short hair and a mustache. Text is overlaid at the bottom of the image, which reads \"LUAR BIASA\". This phrase is in Indonesian and translates to \"Extraordinary\" or \"Amazing.\" The man's expression appears surprised or impressed. The background is blurred, suggesting the photo was taken inside a vehicle. There are no elements in the image that are NSFW, pornographic, or suggestive.",
+      "timestamp": "2026-08-02T13:34:43.715Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
