@@ -1,9 +1,22 @@
 {
   "sessionId": "x8cyp8tf",
   "createdAt": "2026-08-02T04:45:32.778Z",
-  "lastActivity": "2026-08-02T04:45:32.778Z",
-  "history": [],
+  "lastActivity": "2026-08-02T04:45:33.937Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "bulan 8 bulan apa",
+      "image": null,
+      "timestamp": "2026-08-02T04:45:33.937Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Bulan 8 adalah bulan **Agustus**.",
+      "timestamp": "2026-08-02T04:45:33.937Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
