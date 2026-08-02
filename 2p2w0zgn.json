@@ -1,9 +1,22 @@
 {
   "sessionId": "2p2w0zgn",
   "createdAt": "2026-08-02T01:46:40.920Z",
-  "lastActivity": "2026-08-02T01:46:40.920Z",
-  "history": [],
+  "lastActivity": "2026-08-02T01:46:44.850Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "cara masking shape ke foto di PowerPoint",
+      "image": null,
+      "timestamp": "2026-08-02T01:46:44.850Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan jelaskan cara melakukan masking shape ke foto di PowerPoint.\n\nPada dasarnya, masking shape ke foto di PowerPoint berarti Anda ingin foto Anda \"mengikuti\" bentuk dari shape yang Anda pilih. Ini bisa membuat tampilan foto menjadi lebih menarik dan kreatif.\n\nBerikut langkah-langkahnya:\n\n1.  **Masukkan Foto Anda:**\n    *   Buka slide PowerPoint Anda.\n    *   Pilih tab `Insert`.\n    *   Klik `Pictures` dan pilih foto yang ingin Anda gunakan.\n\n2.  **Masukkan Shape yang Diinginkan:**\n    *   Masih di tab `Insert`, klik `Shapes`.\n    *   Pilih bentuk yang Anda inginkan untuk dijadikan masker (misalnya, lingkaran, bintang, hati, atau bentuk custom lainnya).\n    *   Gambar shape tersebut di atas foto Anda. Anda bisa mengatur ukuran dan posisinya sesuai kebutuhan.\n\n3.  **Atur Urutan Objek (Bring to Front):**\n    *   Pastikan shape yang Anda gambar berada **di atas** foto. Jika tidak, klik kanan pada shape, pilih `Bring to Front`.\n\n4.  **Lakukan Masking (Crop to Shape):**\n    *   **Penting:** Klik **pertama** pada **foto** Anda.\n    *   Kemudian, sambil menekan tombol `Ctrl` (atau `Shift` jika Anda menggunakan Mac), klik **kedua** pada **shape** yang Anda buat. Dengan cara ini, kedua objek (foto dan shape) akan terpilih bersamaan.\n    *   Setelah kedua objek terpilih, akan muncul tab baru di ribbon, yaitu `Picture Format` (atau `Format` tergantung versi PowerPoint Anda).\n    *   Di dalam tab `Picture Format`, cari grup `Size` dan klik tombol `Crop`.\n    *   Dari menu dropdown `Crop` yang muncul, pilih `Crop to Shape`.\n    *   Sekarang, Anda akan melihat daftar berbagai bentuk. Pilih **shape yang sama** dengan shape yang tadi Anda buat.\n\nSetelah langkah ini, foto Anda akan otomatis terpotong dan mengikuti bentuk dari shape yang Anda pilih.\n\n**Tips Tambahan:**\n\n*   **Menyesuaikan Foto di Dalam Shape:** Setelah masking, Anda mungkin perlu menyesuaikan posisi atau ukuran foto di dalam shape. Caranya:\n    *   Klik pada foto yang sudah ter-masking.\n    *   Kembali ke tab `Picture Format`, klik `Crop`.\n    *   Pilih `Fit` atau `Fill`. `Fit` akan memastikan seluruh foto terlihat, mungkin ada ruang kosong di tepi shape. `Fill` akan mengisi seluruh area shape dengan foto, tapi sebagian foto mungkin terpotong.\n    *   Anda juga bisa mengklik dua kali pada foto yang ter-masking, lalu gunakan slider `Zoom` di jendela `Format Picture` untuk memperbesar atau memperkecil foto di dalam shape.\n*   **Menghilangkan Garis Tepi Shape:** Jika shape Anda memiliki garis tepi (outline) yang tidak diinginkan, klik pada foto yang ter-masking, lalu di tab `Picture Format`, klik `Picture Border` dan pilih `No Outline`.\n\nDengan langkah-langkah ini, Anda bisa membuat foto Anda tampil lebih menarik dengan berbagai bentuk kreatif di PowerPoint. Selamat mencoba!",
+      "timestamp": "2026-08-02T01:46:44.850Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
