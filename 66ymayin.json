@@ -1,9 +1,22 @@
 {
   "sessionId": "66ymayin",
   "createdAt": "2026-08-02T03:41:34.386Z",
-  "lastActivity": "2026-08-02T03:41:34.386Z",
-  "history": [],
+  "lastActivity": "2026-08-02T03:41:37.343Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9782/754501388_nsfw-1785642093567.png",
+      "timestamp": "2026-08-02T03:41:37.343Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan karakter Patrick Star dari serial kartun SpongeBob SquarePants. Patrick digambarkan dengan ekspresi wajah yang dramatis, mata tertutup sebagian, dan mulut terbuka. Ada teks dalam bahasa Indonesia yang mengelilingi karakternya. Teks di bagian atas gambar bertuliskan \"Pembohong\", dan di bagian bawah terdapat tulisan \"kau Pembohong\". Karakter tersebut mengenakan celana pendek hijau. Secara keseluruhan, gambar ini adalah meme atau stiker yang menggunakan karakter Patrick untuk menyampaikan pesan bahwa seseorang adalah pembohong. Tidak ada konten NSFW atau pornografi dalam gambar ini.",
+      "timestamp": "2026-08-02T03:41:37.343Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
