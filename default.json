@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-02T12:50:13.053Z",
+  "lastActivity": "2026-08-03T15:46:55.210Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Hai juga! Ada yang bisa saya bantu?",
       "timestamp": "2026-08-02T12:50:13.053Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"url\": \"https://mmg.whatsapp.net/o1/v/t24/f2/m234/AQPbS_s0lDrIP6cN23U1TRmOKk62KTX7yk1xwjHEh9CI6hYueKV3Ds5powFWbkTFbKJ9_BqgbVwcCjQGzyvbJSr6lvqEkELPtIMI7R8Oqw?ccb=9-4&oh=01_Q5Aa5AECWsJw9xV_u6u9JLuHlOAT48BPy02Z183yBLrdBkx9DA&oe=6A98237A&_nc_sid=e6ed6c\",\n  \"mimetype\": \"image/jpeg\",\n  \"fileSha256\": \"q+6cShAGmaynVkNhaZ2EJLBD7AETdP0diREJzINVkEA=\",\n  \"fileLength\": \"469706\",\n  \"height\": 512,\n  \"width\": 512,\n  \"mediaKey\": \"poUfp6hQmDNPoDdI5jwyD6JE+qGppheWBSIOzQJlzwk=\",\n  \"fileEncSha256\": \"CZ0/Wpi2srudGrsv+xot7AF+RXOvcro2JtWeatSm1UY=\",\n  \"directPath\": \"/o1/v/t24/f2/m234/AQPbS_s0lDrIP6cN23U1TRmOKk62KTX7yk1xwjHEh9CI6hYueKV3Ds5powFWbkTFbKJ9_BqgbVwcCjQGzyvbJSr6lvqEkELPtIMI7R8Oqw?ccb=9-4&oh=01_Q5Aa5AECWsJw9xV_u6u9JLuHlOAT48BPy02Z183yBLrdBkx9DA&oe=6A98237A&_nc_sid=e6ed6c\",\n  \"mediaKeyTimestamp\": \"1785767203\",\n  \"jpegThumbnail\": \"/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAQQDBQYC/8QAJRAAAgECBgIDAQEAAAAAAAAAAQIDBBEABRIhMUEiURNhcRVC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQBA//EABwRAQACAwADAAAAAAAAAAAAAAEAAhESIQMTMf/aAAwDAQACEQMRAD8AzVPSVIjeo03sCfrE9HNISwEZJXaRexi7rqimpKRaUk65ACdIvYX7wMvWlpEqsymjAiYhfHcsb74jzsKk31mucw0YhkhaR3QhT5KT5AeyMdywUc0qn41Ykc+sVFFXx071dkEkczsVD7EYkqDBURF4UMUibsoPH4cC3j7yc7UE4xSZqirievSJmhjIVwzgHbkAckbi/q+H2zAfxzG9LrXTb49NuPz1g5fmaZfTvHVQyFvk1hWVbNe3fO1uue8SjPKZ3Y3qFOpiDYKCCQbHfu2/e/eKUqgRvJn0jliq3p3TzVtJ9De17+r94sFmRKSSEIUcG5v/AKHsfWGKbPKWTPJ5WWSMTokQuw0IQe9+OD+3wjm+YRVclM0GsCKMoxc3vvf3xhNckHyf/9k=\",\n  \"contextInfo\": {\n    \"pairedMediaType\": \"NOT_PAIRED_MEDIA\",\n    \"statusSourceType\": \"IMAGE\"\n  }\n}\n\njadikan send message atau relay message, kirim kode nya langsung tanpa kata-kata apapun",
+      "image": null,
+      "timestamp": "2026-08-03T15:46:55.210Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"url\": \"https://mmg.whatsapp.net/o1/v/t24/f2/m234/AQPbS_s0lDrIP6cN23U1TRmOKk62KTX7yk1xwjHEh9CI6hYueKV3Ds5powFWbkTFbKJ9_BqgbVwcCjQGzyvbJSr6lvqEkELPtIMI7R8Oqw?ccb=9-4&oh=01_Q5Aa5AECWsJw9xV_u6u9JLuHlOAT48BPy02Z183yBLrdBkx9DA&oe=6A98237A&_nc_sid=e6ed6c\",\n  \"mimetype\": \"image/jpeg\",\n  \"fileSha256\": \"q+6cShAGmaynVkNhaZ2EJLBD7AETdP0diREJzINVkEA=\",\n  \"fileLength\": \"469706\",\n  \"height\": 512,\n  \"width\": 512,\n  \"mediaKey\": \"poUfp6hQmDNPoDdI5jwyD6JE+qGppheWBSIOzQJlzwk=\",\n  \"fileEncSha256\": \"CZ0/Wpi2srudGrsv+xot7AF+RXOvcro2JtWeatSm1UY=\",\n  \"directPath\": \"/o1/v/t24/f2/m234/AQPbS_s0lDrIP6cN23U1TRmOKk62KTX7yk1xwjHEh9CI6hYueKV3Ds5powFWbkTFbKJ9_BqgbVwcCjQGzyvbJSr6lvqEkELPtIMI7R8Oqw?ccb=9-4&oh=01_Q5Aa5AECWsJw9xV_u6u9JLuHlOAT48BPy02Z183yBLrdBkx9DA&oe=6A98237A&_nc_sid=e6ed6c\",\n  \"mediaKeyTimestamp\": \"1785767203\",\n  \"jpegThumbnail\": \"/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAQQDBQYC/8QAJRAAAgECBgIDAQEAAAAAAAAAAQIDBEABRIhMUEiURNhcRVC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQBA//EABwRAQACAwADAAAAAAAAAAAAAAEAAhESIQMTMf/aAAwDAQACEQMRAD8AzVPSVIjeo03sCfrE9HNISwEZJXaRexi7rqimpKRaUk65ACdIvYX7wM1WlpEqsymjAiYhfHcsb74jzsKk31mucw0YhkhaR3QhT5KT5AeyMdywUc0qn41Ykc+sVFFXx071dkEkczsVD7EYkqDBURF4UMUibsoPH4cC3j7yc7UE4xSZqirievSJmhjIVwzgHbkAckbi/q+H2zAfxzG9LrXTb49NuPz1g5fmaZfTvHVQyFvk1hWVbNe3fO1uue8SjPKZ3Y3qFOpiDYKCCQbHfu2/e/eKUqgRvJn0jliq3p3TzVtJ9De17+r94sFmRKSSEIUcG5v/AKHsfWGKbPKWTPJ5WWSMTokQuw0IQe9+OD+3wjm+YRVclM0GsCKMoxc3vvf3xhNckHyf/9k=\",\n  \"contextInfo\": {\n    \"pairedMediaType\": \"NOT_PAIRED_MEDIA\",\n    \"statusSourceType\": \"IMAGE\"\n  }\n}\n```",
+      "timestamp": "2026-08-03T15:46:55.210Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
