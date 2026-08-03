@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-03T16:10:57.100Z",
+  "lastActivity": "2026-08-03T16:12:33.606Z",
   "history": [
     {
       "role": "user",
@@ -242,9 +242,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    video: {\n        url: \"https://mmg.whatsapp.net/v/t62.7161-24/627704512_975899872131506_6079433277576494955_n.enc?ccb=11-4&oh=01_Q5Aa5AE4gdS87UsYrzQ97k0uuoyBD4FnBx4-oVRk7cnIjSuMJg&oe=6A981F9A&_nc_sid=5e03e0&mms3=true\"\n    },\n    mimetype: \"video/mp4\",\n    fileSha256: \"Whx61Se216nyQ6DjQDFSsD5AgxPUboRxqrJ+nWRXiAE=\",\n    fileLength: \"3675642\",\n    seconds: 16,\n    mediaKey: \"7kz/lcrHoPfAejLgLkt5H4KGrkh2+lS9f2b9rTAvehg=\",\n    caption: \"dvd\",\n    height: 864,\n    width: 480,\n    fileEncSha256: \"/EcgRxaknD+urxPdNMswimyjOuyTnVpa58Fsi/d6ELI=\",\n    directPath: \"/v/t62.7161-24/627704512_975899872131506_6079433277576494955_n.enc?ccb=11-4&oh=01_Q5Aa5AE4gdS87UsYrzQ97k0uuoyBD4FnBx4-oVRk7cnIjSuMJg&oe=6A981F9A&_nc_sid=5e03e0\",\n    mediaKeyTimestamp: \"1785773438\",\n    jpegThumbnail: \"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAKAMBIgACEQEDEQH/xAAqAAEAAwEAAAAAAAAAAAAAAAAAAQIDBAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAA4J55OieexuxHJOMm04SbsRhNRaaDRQQAAAAAD//EABcQAQEBAQAAAAAAAAAAAAAAAAASEUD/2gAIAQEAAT8ApSlKUpSlKUpSmta1TWta3l//xAAUEQEAAAAAAAAAAAAAAAAAAAAw/9oACAECAQE/AH//xAAUEQEAAAAAAAAAAAAAAAAAAAAw/9oACAEDAQE/AH//2Q==\",\n    contextInfo: {\n        pairedMediaType: 2,\n        statusSourceType: 2\n    },\n    streamingSidecar: \"cDabW4wwb3XWl2iNitnUDxGvgYfuPY8L1BujA7p4fryUEc3TiNLzSZf/lYiRYvYbPC/+F+GTKH0QDxvKfuP85PAAkDIF7HnIbq/RU/zdKeai1TFNmdiP+QLPi2lZfHn4rvpCH6JGETFgwn0GFUVuJzLT2HXi/fhnu4A+slUm5LQ3jQRLgqrwgiu2gTp6tIH+kBK9P+YtLCrEk3lHFz/0y9+2dXy2efFINV4SuwPH+95vTkhkvDfcMF0CXJL+cGvFUdLjlFzx77Ty6cfplSy0dKcOLQjs6YaoZKUo9UmunBPdiXQ3iMPid9AxjuehgE0gLnTeT+aPT3SHMuF36ZW6kZZVsry8Y5ViLwouQ6mGrzKTHpkowtqE73eWcTQi5tl421IkgD30NH7gI0M7T2SMgWQgKG3ej6Bpgubggxa6QqzyXiGgEWrNwgbmGuU7w6T3Hu3/eGf4oMeZLcY8SuE9TMe5xLYJfHukxhGrqqmSxAj0TrH9D/lf29PS9kmoY9HNExkv61lOQ78bpwWZVfeNodQ3q8U24jrASSco/1jks2tJU+AFjYoOps4p3EQ6cN91hc+Yp0D4B/0lVwQe35/yKrODERDucxqrZTi7yBv7EawaBIwsVadxpjS9Euz/D5ZRJadFneKzC4AVm5k8nvBIaMdicj7sA7APHM8yaC53z6FIMKFOneK1O7wL6l5dnUOXszI6Q5gCJKiaKBoLqbl+G+yPmXDaGr43M0vqSrBqOPm0su/tEd7Rl6rS\"\n    }\n})",
       "timestamp": "2026-08-03T16:10:57.100Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"url\": \"https://mmg.whatsapp.net/v/t62.7118-24/761279683_1118760067661300_3099680010816593438_n.enc?ccb=11-4&oh=01_Q5Aa5AGcDChwwDxLuKT_-8iGRlTTBNA05nDE4OmF2rXC3Z1Dig&oe=6A958057&_nc_sid=5e03e0\",\n  \"mimetype\": \"image/jpeg\",\n  \"caption\": \"dbdbndnddd\",\n  \"fileSha256\": \"F4fmd77QDnUdkIdbooGV1VW52bo7yU2XLUwttTshtlU=\",\n  \"fileLength\": \"5370\",\n  \"height\": 600,\n  \"width\": 600,\n  \"mediaKey\": \"kpnhC8KDuFK8NzJmzraMPRHetmE7iAun1XBmxXSDNxI=\",\n  \"fileEncSha256\": \"JBIGE1Pbi7mxTJ1nl1FE/tXbJKEPBHiuZPnLi8NwiMQ=\",\n  \"directPath\": \"/v/t62.7118-24/761279683_1118760067661300_3099680010816593438_n.enc?ccb=11-4&oh=01_Q5Aa5AGcDChwwDxLuKT_-8iGRlTTBNA05nDE4OmF2rXC3Z1Dig&oe=6A958057&_nc_sid=5e03e0\",\n  \"mediaKeyTimestamp\": \"1785598224\",\n  \"jpegThumbnail\": \"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgASAMBIgACEQEDEQH/xAArAAEBAQEBAQAAAAAAAAAAAAAABAMBAgUBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAPrgAAAAAe/NxhlYIHeAAHboNyhzAx4AACjbp5z2EC6EAahUABKGQP/EACEQAQACAwABBAMAAAAAAAAAAAECAwARIBAEEhMhMUBR/9oACAEBAAE/AP1YwZZ8GSgx6DaGAB4kCYmlOYupHEncnqu5j9OF0Ayy73fR0C5Gj+40QDJ+nT8YicBvKqyJt4trExNeaTcurjUvH//EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQIBAT8AT//EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQMBAT8AT//Z\",\n  \"contextInfo\": {\n    \"pairedMediaType\": \"NOT_PAIRED_MEDIA\",\n    \"statusSourceType\": \"IMAGE\"\n  }\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-03T16:12:33.606Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    image: {\n        url: \"https://mmg.whatsapp.net/v/t62.7118-24/761279683_1118760067661300_3099680010816593438_n.enc?ccb=11-4&oh=01_Q5Aa5AGcDChwwDxLuKT_-8iGRlTTBNA05nDE4OmF2rXC3Z1Dig&oe=6A958057&_nc_sid=5e03e0\"\n    },\n    mimetype: \"image/jpeg\",\n    caption: \"dbdbndnddd\",\n    fileSha256: \"F4fmd77QDnUdkIdbooGV1VW52bo7yU2XLUwttTshtlU=\",\n    fileLength: \"5370\",\n    height: 600,\n    width: 600,\n    mediaKey: \"kpnhC8KDuFK8NzJmzraMPRHetmE7iAun1XBmxXSDNxI=\",\n    fileEncSha256: \"JBIGE1Pbi7mxTJ1nl1FE/tXbJKEPBHiuZPnLi8NwiMQ=\",\n    directPath: \"/v/t62.7118-24/761279683_1118760067661300_3099680010816593438_n.enc?ccb=11-4&oh=01_Q5Aa5AGcDChwwDxLuKT_-8iGRlTTBNA05nDE4OmF2rXC3Z1Dig&oe=6A958057&_nc_sid=5e03e0\",\n    mediaKeyTimestamp: \"1785598224\",\n    jpegThumbnail: \"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgASAMBIgACEQEDEQH/xAArAAEBAQEBAQAAAAAAAAAAAAAABAMBAgUBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAPrgAAAAAe/NxhlYIHeAAHboNyhzAx4AACjbp5z2EC6EAahUABKGQP/EACEQAQACAwABBAMAAAAAAAAAAAECAwARIBAEEhMhMUBR/9oACAEBAAE/AP1YwZZ8GSgx6DaGAB4kCYmlOYupHEncnqu5j9OF0Ayy73fR0C5Gj+40QDJ+nT8YicBvKqyJt4trExNeaTcurjUvH//EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQIBAT8AT//EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQMBAT8AT//Z\",\n    contextInfo: {\n        pairedMediaType: 1,\n        statusSourceType: 1\n    }\n})",
+      "timestamp": "2026-08-03T16:12:33.606Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 40
+    "totalMessages": 42
   }
 }
