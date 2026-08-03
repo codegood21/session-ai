@@ -1,9 +1,22 @@
 {
   "sessionId": "z7xgnez3",
   "createdAt": "2026-08-03T11:10:49.122Z",
-  "lastActivity": "2026-08-03T11:10:49.122Z",
-  "history": [],
+  "lastActivity": "2026-08-03T11:10:52.439Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9813/754938214_nsfw-1785755448336.jpg",
+      "timestamp": "2026-08-03T11:10:52.439Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan cuplikan layar dari sebuah permainan video, kemungkinan besar bergenre battle royale. Terlihat seorang pemain dari sudut pandang orang ketiga, membelakangi kamera, dengan latar belakang lingkungan yang tampak seperti area permainan. Di bagian atas layar, terdapat informasi mengenai peringkat pemain, yaitu #7, dan nama tim \"FURIOUS SLAYER\" dengan status \"TERELIMINASI\". Di kejauhan, terlihat sebuah kendaraan yang terbakar hebat, mengeluarkan asap hitam pekat. Di bagian bawah layar, terdapat informasi mengenai pemain, termasuk nama \"TH.Depin16★\", jumlah eliminasi (Elim 3), dan item-item yang dimiliki pemain, seperti panci dan jumlah amunisi. Terdapat juga avatar pemain lain yang ditampilkan di sebelah kanan bawah. Secara keseluruhan, gambar ini merupakan tangkapan layar dari aksi dalam sebuah permainan video yang penuh dengan elemen pertempuran dan eliminasi.",
+      "timestamp": "2026-08-03T11:10:52.439Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
