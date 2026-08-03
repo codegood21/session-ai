@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-03T16:05:46.084Z",
+  "lastActivity": "2026-08-03T16:06:50.793Z",
   "history": [
     {
       "role": "user",
@@ -182,9 +182,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    sticker: {\n        url: \"https://mmg.whatsapp.net/v/t62.15575-24/761767046_1040138811997747_8560704669304286411_n.enc?ccb=11-4&oh=01_Q5Aa5AGEIYPPaNVk96HZUVkUA8vsWfvZ8v06b0GFBbUnErNVYg&oe=6A9826C6&_nc_sid=5e03e0\"\n    },\n    fileSha256: \"DI23EizyMrXLvm/NtreAhCazJlPfjLLwxaOwl2Od7GI=\",\n    fileEncSha256: \"ImjuYS+2crXUBi2k5pqFBSRzCalIiw0FwE+MYK3MrTE=\",\n    mediaKey: \"vqPpsUOCbW4qzJ9Qg1zeKufUJKfzt8MPtV3E9EHtWbE=\",\n    mimetype: \"image/webp\",\n    fileLength: \"405584\",\n    directPath: \"/v/t62.15575-24/761767046_1040138811997747_8560704669304286411_n.enc?ccb=11-4&oh=01_Q5Aa5AGEIYPPaNVk96HZUVkUA8vsWfvZ8v06b0GFBbUnErNVYg&oe=6A9826C6&_nc_sid=5e03e0\",\n    contextInfo: {},\n    packDescription: \"StickerPack • Rizky Rohan\",\n    mediaKeyTimestamp: \"1785773123\",\n    trayIconFileName: \"tray_icon.webp\",\n    thumbnailDirectPath: \"/v/t62.15575-24/762657850_1369396485145787_5756077654659117635_n.enc?ccb=11-4&oh=01_Q5Aa5AE4J-zEoUssjNX2OVEg0zk_08N47QnjQzelLf9ChmpgAA&oe=6A98477F&_nc_sid=5e03e0\",\n    thumbnailSha256: \"Uzzjq9sD5bnUgd9bfpD6oTnKQHIUNHImLEKPtLSixO8=\",\n    thumbnailEncSha256: \"k3wrWJnt2GRDPnM3rQYpWwsztHvQXWfrQM96OnTQ2bI=\",\n    thumbnailHeight: 252,\n    thumbnailWidth: 252,\n    imageDataHash: \"vo1MuBP7z4SEUndmKZWeCc12akyBiefvYa7qwvQWyxQ=\",\n    stickerPackSize: \"405448\",\n    stickerPackOrigin: \"USER_CREATED\"\n})",
       "timestamp": "2026-08-03T16:05:46.084Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"text\": \"wts semvak second\\n> D\",\n  \"previewType\": \"NONE\",\n  \"contextInfo\": {\n    \"forwardingScore\": 1,\n    \"isForwarded\": true\n  },\n  \"inviteLinkGroupTypeV2\": \"DEFAULT\"\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-03T16:06:50.793Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    text: \"wts semvak second\\n> D\",\n    previewType: 0,\n    contextInfo: {\n        forwardingScore: 1,\n        isForwarded: true\n    },\n    inviteLinkGroupTypeV2: 0\n})",
+      "timestamp": "2026-08-03T16:06:50.793Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 30
+    "totalMessages": 32
   }
 }
