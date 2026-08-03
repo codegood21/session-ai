@@ -1,9 +1,22 @@
 {
   "sessionId": "48mm082y",
   "createdAt": "2026-08-03T00:45:32.261Z",
-  "lastActivity": "2026-08-03T00:45:32.261Z",
-  "history": [],
+  "lastActivity": "2026-08-03T00:45:34.038Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "babi",
+      "image": null,
+      "timestamp": "2026-08-03T00:45:34.038Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Babi adalah mamalia berkuku genap dari famili Suidae. Mereka adalah hewan omnivora dan memiliki tubuh yang gempal dengan moncong yang khas. Babi telah didomestikasi di berbagai belahan dunia dan sering dipelihara untuk diambil dagingnya.\n\nApakah ada hal spesifik tentang babi yang ingin Anda ketahui? Misalnya, tentang jenis babi tertentu, kebiasaan makan mereka, atau hal lainnya?",
+      "timestamp": "2026-08-03T00:45:34.038Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
