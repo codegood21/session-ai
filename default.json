@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-03T16:06:50.793Z",
+  "lastActivity": "2026-08-03T16:08:14.085Z",
   "history": [
     {
       "role": "user",
@@ -194,9 +194,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    text: \"wts semvak second\\n> D\",\n    previewType: 0,\n    contextInfo: {\n        forwardingScore: 1,\n        isForwarded: true\n    },\n    inviteLinkGroupTypeV2: 0\n})",
       "timestamp": "2026-08-03T16:06:50.793Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"isCanceled\": false,\n  \"name\": \"Spider-Man\",\n  \"location\": {\n    \"degreesLatitude\": 0,\n    \"degreesLongitude\": 0,\n    \"name\": \"Grage City mall\"\n  },\n  \"joinLink\": \"https://call.whatsapp.com/video/MJlK1HXVNOnwtiIktowgn2\",\n  \"startTime\": \"1785833400\",\n  \"extraGuestsAllowed\": false,\n  \"isScheduleCall\": false\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-03T16:08:14.085Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    protocolMessage: {\n        protocolType: 3,\n        callEvent: {\n            callType: \"VIDEO\",\n            callStatus: \"UNSPECIFIED\",\n            callFrequency: 0,\n            callFromMe: false,\n            callGroup: {\n                isVoiceCall: false,\n                callGroupName: \"Spider-Man\",\n                participants: [\n                    {\n                        degreesLatitude: 0,\n                        degreesLongitude: 0,\n                        name: \"Grage City mall\"\n                    }\n                ],\n                joinLink: \"https://call.whatsapp.com/video/MJlK1HXVNOnwtiIktowgn2\",\n                startTime: \"1785833400\",\n                extraGuestsAllowed: false,\n                isScheduled: false\n            }\n        }\n    }\n})",
+      "timestamp": "2026-08-03T16:08:14.085Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 32
+    "totalMessages": 34
   }
 }
