@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-03T16:01:24.271Z",
+  "lastActivity": "2026-08-03T16:02:08.227Z",
   "history": [
     {
       "role": "user",
@@ -122,9 +122,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    sticker: {\n        url: \"https://mmg.whatsapp.net/v/t62.15575-24/763958850_1064554116117515_227169201707676337_n.enc?ccb=11-4&oh=01_Q5Aa5AEYG1h1I1ce312EZFeaFXm8DJUPS0DCdDKGjSA9RBGoiw&oe=6A980242&_nc_sid=5e03e0\"\n    },\n    fileSha256: \"LQAZbd0+aKQS+lrbwvwDIoXsdFcRt051JT1k8tMzUlk=\",\n    fileEncSha256: \"w+gSruMfYvjpAjhlfW5zJxWHg+HWVTC02qxxTA1Efu8=\",\n    mediaKey: \"GABlMjpAqzde+19tYarnfJJzsAVe0PRzXVIwaC24O8s=\",\n    mimetype: \"image/webp\",\n    height: 512,\n    width: 512,\n    directPath: \"/v/t62.15575-24/763958850_1064554116117515_227169201707676337_n.enc?ccb=11-4&oh=01_Q5Aa5AEYG1h1I1ce312EZFeaFXm8DJUPS0DCdDKGjSA9RBGoiw&oe=6A980242&_nc_sid=5e03e0\",\n    fileLength: \"7568\",\n    mediaKeyTimestamp: \"1785757615\",\n    isAnimated: false,\n    contextInfo: {},\n    stickerSentTs: \"1785772868952\",\n    isAvatar: false,\n    isAiSticker: false,\n    isLottie: false\n})",
       "timestamp": "2026-08-03T16:01:24.271Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"name\": \"dhdh\",\n  \"options\": [\n    {\n      \"optionName\": \"ddbded\"\n    },\n    {\n      \"optionName\": \"dd\"\n    }\n  ],\n  \"selectableOptionsCount\": 0\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-03T16:02:08.227Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    text: \"name: dhdh\\noptions:\\n- ddbded\\n- dd\\nselectableOptionsCount: 0\"\n})",
+      "timestamp": "2026-08-03T16:02:08.227Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 20
+    "totalMessages": 22
   }
 }
