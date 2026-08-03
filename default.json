@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-03T16:20:51.772Z",
+  "lastActivity": "2026-08-03T16:21:46.659Z",
   "history": [
     {
       "role": "user",
@@ -302,9 +302,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    sticker: {\n        url: \"https://mmg.whatsapp.net/v/t62.15575-24/762827795_1310952784204641_844269524718721820_n.enc?ccb=11-4&oh=01_Q5Aa5AHmu79hNYfFi8eVQI4WCY4XCs_KzopMibn7mXMWtTsOtQ&oe=6A984312&_nc_sid=5e03e0\"\n    },\n    mimetype: \"application/was\",\n    fileSha256: \"3b82gPYkWoLxCmu1tnA4B0Av4UdyHZkxbAXhzvUzNo4=\",\n    fileEncSha256: \"D4+8TwPsInQ+Kms9/R+7hAWg++2J3UCt2wgSkAf7FUI=\",\n    mediaKey: \"BZ5/SCin6aDotUcD2zCe7eWH4yo87bbFiujAVh4ttcI=\",\n    height: 512,\n    width: 512,\n    directPath: \"/v/t62.15575-24/762827795_1310952784204641_844269524718721820_n.enc?ccb=11-4&oh=01_Q5Aa5AHmu79hNYfFi8eVQI4WCY4XCs_KzopMibn7mXMWtTsOtQ&oe=6A984312&_nc_sid=5e03e0\",\n    fileLength: \"14082\",\n    mediaKeyTimestamp: \"1785773832\",\n    isAnimated: true,\n    stickerSentTs: \"1785773834814\",\n    isAvatar: false,\n    isAiSticker: false,\n    isLottie: true\n})",
       "timestamp": "2026-08-03T16:20:51.772Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"url\": \"https://mmg.whatsapp.net/o1/v/t24/f2/m238/AQPa85BAVLfmuxVJSjMfFyitoXZle-6DgOG39h2th4jRySVqfRPFpSj_K62ZHTTO15TXGjjFDN8JetlK2O_DDh7jbEH7q3nLwCKNtT_EpA?ccb=9-4&oh=01_Q5Aa5AEVx9Zg85tVO_bDZ7g9Rga5pOUVAQawcCPgY_ucx8mMRA&oe=6A982EE1&_nc_sid=e6ed6c&mms3=true\",\n  \"fileSha256\": \"JeL+vPAm8k+8KW9f8ZuQapjRhFR1aXxlsonrP6SZjZI=\",\n  \"fileEncSha256\": \"efHt4p0sL39oUii1hVtXK8KiqOGZa5FieaGHaXcuOx4=\",\n  \"mediaKey\": \"NlWOfDrPNK6Orf01roXiZ5KTYzrtjoLAD9JIvPhFhWI=\",\n  \"mimetype\": \"image/webp\",\n  \"height\": 64,\n  \"width\": 64,\n  \"directPath\": \"/o1/v/t24/f2/m238/AQPa85BAVLfmuxVJSjMfFyitoXZle-6DgOG39h2th4jRySVqfRPFpSj_K62ZHTTO15TXGjjFDN8JetlK2O_DDh7jbEH7q3nLwCKNtT_EpA?ccb=9-4&oh=01_Q5Aa5AEVx9Zg85tVO_bDZ7g9Rga5pOUVAQawcCPgY_ucx8mMRA&oe=6A982EE1&_nc_sid=e6ed6c\",\n  \"fileLength\": \"257736\",\n  \"mediaKeyTimestamp\": \"1785772109\",\n  \"isAnimated\": false,\n  \"stickerSentTs\": \"1785772111000\",\n  \"isAvatar\": false,\n  \"isAiSticker\": false,\n  \"isLottie\": false\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-03T16:21:46.659Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    sticker: {\n        url: \"https://mmg.whatsapp.net/o1/v/t24/f2/m238/AQPa85BAVLfmuxVJSjMfFyitoXZle-6DgOG39h2th4jRySVqfRPFpSj_K62ZHTTO15TXGjjFDN8JetlK2O_DDh7jbEH7q3nLwCKNtT_EpA?ccb=9-4&oh=01_Q5Aa5AEVx9Zg85tVO_bDZ7g9Rga5pOUVAQawcCPgY_ucx8mMRA&oe=6A982EE1&_nc_sid=e6ed6c&mms3=true\"\n    },\n    fileSha256: \"JeL+vPAm8k+8KW9f8ZuQapjRhFR1aXxlsonrP6SZjZI=\",\n    fileEncSha256: \"efHt4p0sL39oUii1hVtXK8KiqOGZa5FieaGHaXcuOx4=\",\n    mediaKey: \"NlWOfDrPNK6Orf01roXiZ5KTYzrtjoLAD9JIvPhFhWI=\",\n    mimetype: \"image/webp\",\n    height: 64,\n    width: 64,\n    directPath: \"/o1/v/t24/f2/m238/AQPa85BAVLfmuxVJSjMfFyitoXZle-6DgOG39h2th4jRySVqfRPFpSj_K62ZHTTO15TXGjjFDN8JetlK2O_DDh7jbEH7q3nLwCKNtT_EpA?ccb=9-4&oh=01_Q5Aa5AEVx9Zg85tVO_bDZ7g9Rga5pOUVAQawcCPgY_ucx8mMRA&oe=6A982EE1&_nc_sid=e6ed6c\",\n    fileLength: \"257736\",\n    mediaKeyTimestamp: \"1785772109\",\n    isAnimated: false,\n    stickerSentTs: \"1785772111000\",\n    isAvatar: false,\n    isAiSticker: false,\n    isLottie: false\n})",
+      "timestamp": "2026-08-03T16:21:46.659Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 50
+    "totalMessages": 52
   }
 }
