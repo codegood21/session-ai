@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-03T16:02:08.227Z",
+  "lastActivity": "2026-08-03T16:02:46.742Z",
   "history": [
     {
       "role": "user",
@@ -134,9 +134,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    text: \"name: dhdh\\noptions:\\n- ddbded\\n- dd\\nselectableOptionsCount: 0\"\n})",
       "timestamp": "2026-08-03T16:02:08.227Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"url\": \"https://mmg.whatsapp.net/v/t62.7117-24/534256404_921110760486076_7691031975766404869_n.enc?ccb=11-4&oh=01_Q5Aa5AEva285ew-PWKZIjHc2Oocv2ZoTXOj7SqL7B8fLfUDo8Q&oe=6A981B1E&_nc_sid=5e03e0&mms3=true\",\n  \"mimetype\": \"audio/ogg; codecs=opus\",\n  \"fileSha256\": \"gKYjpnBJdUWV3Kwy6/gV2wN7FxP3QdFrlFOxc2c7IfA=\",\n  \"fileLength\": \"8476\",\n  \"seconds\": 5,\n  \"ptt\": true,\n  \"mediaKey\": \"OWGC3F5xbZUhXfFRCkX5xod81QDhB5DmVZa+FPRREMs=\",\n  \"fileEncSha256\": \"XCqx3+NUq7K8EW72aHXf7JLCEuZiP9rkPOLSKjdDqm4=\",\n  \"directPath\": \"/v/t62.7117-24/534256404_921110760486076_7691031975766404869_n.enc?ccb=11-4&oh=01_Q5Aa5AEva285ew-PWKZIjHc2Oocv2ZoTXOj7SqL7B8fLfUDo8Q&oe=6A981B1E&_nc_sid=5e03e0\",\n  \"mediaKeyTimestamp\": \"1785772955\",\n  \"contextInfo\": {},\n  \"waveform\": \"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\"\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-03T16:02:46.742Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    audio: {\n        url: \"https://mmg.whatsapp.net/v/t62.7117-24/534256404_921110760486076_7691031975766404869_n.enc?ccb=11-4&oh=01_Q5Aa5AEva285ew-PWKZIjHc2Oocv2ZoTXOj7SqL7B8fLfUDo8Q&oe=6A981B1E&_nc_sid=5e03e0&mms3=true\"\n    },\n    mimetype: \"audio/ogg; codecs=opus\",\n    fileSha256: \"gKYjpnBJdUWV3Kwy6/gV2wN7FxP3QdFrlFOxc2c7IfA=\",\n    fileLength: \"8476\",\n    seconds: 5,\n    ptt: true,\n    mediaKey: \"OWGC3F5xbZUhXfFRCkX5xod81QDhB5DmVZa+FPRREMs=\",\n    fileEncSha256: \"XCqx3+NUq7K8EW72aHXf7JLCEuZiP9rkPOLSKjdDqm4=\",\n    directPath: \"/v/t62.7117-24/534256404_921110760486076_7691031975766404869_n.enc?ccb=11-4&oh=01_Q5Aa5AEva285ew-PWKZIjHc2Oocv2ZoTXOj7SqL7B8fLfUDo8Q&oe=6A981B1E&_nc_sid=5e03e0\",\n    mediaKeyTimestamp: \"1785772955\",\n    contextInfo: {},\n    waveform: \"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\"\n})",
+      "timestamp": "2026-08-03T16:02:46.742Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 22
+    "totalMessages": 24
   }
 }
