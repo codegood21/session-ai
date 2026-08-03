@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-03T16:02:46.742Z",
+  "lastActivity": "2026-08-03T16:03:38.947Z",
   "history": [
     {
       "role": "user",
@@ -146,9 +146,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    audio: {\n        url: \"https://mmg.whatsapp.net/v/t62.7117-24/534256404_921110760486076_7691031975766404869_n.enc?ccb=11-4&oh=01_Q5Aa5AEva285ew-PWKZIjHc2Oocv2ZoTXOj7SqL7B8fLfUDo8Q&oe=6A981B1E&_nc_sid=5e03e0&mms3=true\"\n    },\n    mimetype: \"audio/ogg; codecs=opus\",\n    fileSha256: \"gKYjpnBJdUWV3Kwy6/gV2wN7FxP3QdFrlFOxc2c7IfA=\",\n    fileLength: \"8476\",\n    seconds: 5,\n    ptt: true,\n    mediaKey: \"OWGC3F5xbZUhXfFRCkX5xod81QDhB5DmVZa+FPRREMs=\",\n    fileEncSha256: \"XCqx3+NUq7K8EW72aHXf7JLCEuZiP9rkPOLSKjdDqm4=\",\n    directPath: \"/v/t62.7117-24/534256404_921110760486076_7691031975766404869_n.enc?ccb=11-4&oh=01_Q5Aa5AEva285ew-PWKZIjHc2Oocv2ZoTXOj7SqL7B8fLfUDo8Q&oe=6A981B1E&_nc_sid=5e03e0\",\n    mediaKeyTimestamp: \"1785772955\",\n    contextInfo: {},\n    waveform: \"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\"\n})",
       "timestamp": "2026-08-03T16:02:46.742Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"message\": {\n    \"richResponseMessage\": {\n      \"messageType\": \"AI_RICH_RESPONSE_TYPE_STANDARD\",\n      \"submessages\": [\n        {\n          \"messageType\": \"AI_RICH_RESPONSE_TEXT\",\n          \"messageText\": \"︵︵︵︵︵︵︵︵︵︵︵︵︵\\n ⋆ ˚｡⋆୨ৎ˚  *welcome*  ˚୨ৎ⋆｡˚ ⋆\\n︶︶︶︶︶︶︶︶︶︶︶︶︶\\n\\n  ✦   ʜᴀʟᴏ , \\n  ✦   sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ\\n        ⟡  *Bot Wangsaf Rimek*  ⟡\\n\\n  ❀  ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ\\n        ┊ ɪɴᴛʀᴏ ᴅᴜʟᴜ ʏᴀ ✿\\n        ┊ ɴᴀᴍᴀ :\\n        ┊ ᴜᴍᴜʀ :\\n\\n︵︵︵︵︵︵︵︵︵︵︵︵︵\\n     ‧₊˚ ⋅  𝑒𝑛𝑗𝑜𝑦 𝑦𝑜𝑢𝑟 𝑠𝑡𝑎𝑦  ⋅ ˚₊‧\\n︶︶︶︶︶︶︶︶︶︶︶︶︶\"\n        }\n      ],\n      \"unifiedResponse\": {\n        \"data\": \"eyJyZXNwb25zZV9pZCI6IjU1NTlkNzIyLTE4ZDgtNGMzYy1iMTMwLTA2NTZlMDI3Mjk5ZiIsInNlY3Rpb25zIjpbeyJ2aWV3X21vZGVsIjp7InByaW1pdGl2ZSI6eyJtZWRpYSI6eyJ1cmwiOiJodHRwczovL21tZy53aGF0c2FwcC5uZXQvbzEvdi90MjQvZjIvbTI2OS9BUU9ybFVxVGlZLTg5TnRlMHd1QTJfN0FobTZ5cmUtN0pBdXpxb0NUVEJQZF8weU9uZU5rUVgzSHV3Z05PQV9EMksxWW80MkNpZnJqbXIwOWptSV91RUZ6eHlvMDBfRDZXSk1PbXZ2bVFRP2NjYj05LTQmb2g9MDFfUTVBYTVBSHBMbkJuanI5TFo0SmtOcFUxWU5iLXpMQVowTWVKcjhxdmZjMjVUUmR5T3cmb2U9NkE5ODJGMkEmX25jX3NpZD1lNmVkNmMmbW1zMz10cnVlIiwibWltZV90eXBlIjoiaW1hZ2UvanBlZyJ9LCJpbWFnaW5lX3R5cGUiOiJJTUFHSU5FIiwic3RhdHVzIjp7InN0YXR1cyI6IlJFQURZIn0sIl9fdHlwZW5hbWUiOiJHZW5BSUltYWdpbmVQcmltaXRpdmUifSwiX190eXBlbmFtZSI6IkdlbkFJU2luZ2xlTGF5b3V0Vmlld01vZGVsIn19LHsidmlld19tb2RlbCI6eyJwcmltaXRpdmUiOnsidGV4dCI6Iu+4te+4te+4te+4te+4te+4te+4te+4te+4te+4te+4te+4te+4tVxuIOKLhiDLmu+9oeKLhuCtqOCnjsuaICAqd2VsY29tZSogIMua4K2o4KeO4ouG772hy5og4ouGXG7vuLbvuLbvuLbvuLbvuLbvuLbvuLbvuLbvuLbvuLbvuLbvuLbvuLZcblxuICDinKYgICDKnOG0gMqf4bSPICwgXG4gIOKcpiAgIHPhtIfKn+G0gOG0jeG0gOG0myDhtIXhtIDhtJvhtIDJtMmiIOG0hcmqXG4gICAgICAgIOKfoSAgKkJvdCBXYW5nc2FmIFJpbWVrKiAg4p+hXG5cbiAg4p2AICDhtIrhtIDJtMmi4bSAybQgyp/htJzhtJjhtIBcbiAgICAgICAg4pSKIMmqybThtJvKgOG0jyDhtIXhtJzKn+G0nCDKj+G0gCDinL9cbiAgICAgICAg4pSKIMm04bSA4bSN4bSAIDpcbiAgICAgICAg4pSKIOG0nOG0jeG0nMqAIDpcblxu77i177i177i177i177i177i177i177i177i177i177i177i177i1XG4gICAgIOKAp+KCisuaIOKLhSAg8J2RkvCdkZvwnZGX8J2RnPCdkaYg8J2RpvCdkZzwnZGi8J2RnyDwnZGg8J2RofCdkY7wnZGmICDii4Ugy5rigorigKdcbu+4tu+4tu+4tu+4tu+4tu+4tu+4tu+4tu+4tu+4tu+4tu+4tu+4tiIsIl9fdHlwZW5hbWUiOiJHZW5BSU1hcmtkb3duVGV4dFVYUHJpbWl0aXZlIn0sIl9fdHlwZW5hbWUiOiJHZW5BSVNpbmdsZUxheW91dFZpZXdNb2RlbCJ9fSx7InZpZXdfbW9kZWwiOnsicHJpbWl0aXZlIjp7InRleHQiOiJQb3dlciIsIl9fdHlwZW5hbWUiOiJHZW5BSU1ldGFkYXRhVGV4dFByaW1pdGl2ZSJ9LCJfX3R5cGVuYW1lIjoiR2VuQUlTaW5nbGVMYXlvdXRWaWV3TW9kZWwifX1dfQ==\"\n      },\n      \"contextInfo\": {\n        \"mentionedJid\": [\n          \"6285150287676@s.whatsapp.net\"\n        ],\n        \"forwardingScore\": 1,\n        \"isForwarded\": true\n      }\n    }\n  }\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-03T16:03:38.947Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.relayMessage(m.chat, {\n    message: {\n        extendedTextMessage: {\n            text: \"︵︵︵︵︵︵︵︵︵︵︵︵︵\\n ⋆ ˚｡⋆୨ৎ˚  *welcome*  ˚୨ৎ⋆｡˚ ⋆\\n︶︶︶︶︶︶︶︶︶︶︶︶︶\\n\\n  ✦   ʜᴀʟᴏ ,\\n  ✦   sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ\\n        ⟡  *Bot Wangsaf Rimek*  ⟡\\n\\n  ❀  ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ\\n        ┊ ɪɴᴛʀᴏ ᴅᴜʟᴜ ʏᴀ ✿\\n        ┊ ɴᴀᴍᴀ :\\n        ┊ ᴜᴍᴜʀ :\\n\\n︵︵︵︵︵︵︵︵︵︵︵︵︵\\n     ‧₊˚ ⋅  𝑒𝑛𝑗𝑜𝑦 𝑦𝑜𝑢𝑟 𝑠𝑡𝑎𝑦  ⋅ ˚₊‧\\n︶︶︶︶︶︶︶︶︶︶︶︶︶\",\n            contextInfo: {\n                mentionedJid: [\"6285150287676@s.whatsapp.net\"],\n                forwardingScore: 1,\n                isForwarded: true\n            },\n            isForwarded: true\n        }\n    }\n})",
+      "timestamp": "2026-08-03T16:03:38.947Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 24
+    "totalMessages": 26
   }
 }
