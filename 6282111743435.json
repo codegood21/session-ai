@@ -1,9 +1,22 @@
 {
   "sessionId": "6282111743435",
   "createdAt": "2026-08-02T14:24:56.878Z",
-  "lastActivity": "2026-08-02T14:24:56.878Z",
-  "history": [],
+  "lastActivity": "2026-08-03T14:20:42.001Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "lgi put",
+      "image": null,
+      "timestamp": "2026-08-03T14:20:42.001Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Aku Gemini, asisten AI dari Google. Aku di sini untuk membantu Anda. Ada yang bisa aku bantu?",
+      "timestamp": "2026-08-03T14:20:42.001Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
