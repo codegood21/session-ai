@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-03T16:00:34.762Z",
+  "lastActivity": "2026-08-03T16:01:24.271Z",
   "history": [
     {
       "role": "user",
@@ -110,9 +110,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    image: {\n        url: \"https://mmg.whatsapp.net/o1/v/t24/f2/m234/AQPbS_s0lDrIP6cN23U1TRmOKk62KTX7yk1xwjHEh9CI6hYueKV3Ds5powFWbkTFbKJ9_BqgbVwcCjQGzyvbJSr6lvqEkELPtIMI7R8Oqw?ccb=9-4&oh=01_Q5Aa5AECWsJw9xV_u6u9JLuHlOAT48BPy02Z183yBLrdBkx9DA&oe=6A98237A&_nc_sid=e6ed6c\"\n    },\n    mimetype: \"image/jpeg\",\n    fileSha256: \"q+6cShAGmaynVkNhaZ2EJLBD7AETdP0diREJzINVkEA=\",\n    fileLength: \"469706\",\n    height: 512,\n    width: 512,\n    mediaKey: \"poUfp6hQmDNPoDdI5jwyD6JE+qGppheWBSIOzQJlzwk=\",\n    fileEncSha256: \"CZ0/Wpi2srudGrsv+xot7AF+RXOvcro2JtWeatSm1UY=\",\n    directPath: \"/o1/v/t24/f2/m234/AQPbS_s0lDrIP6cN23U1TRmOKk62KTX7yk1xwjHEh9CI6hYueKV3Ds5powFWbkTFbKJ9_BqgbVwcCjQGzyvbJSr6lvqEkELPtIMI7R8Oqw?ccb=9-4&oh=01_Q5Aa5AECWsJw9xV_u6u9JLuHlOAT48BPy02Z183yBLrdBkx9DA&oe=6A98237A&_nc_sid=e6ed6c\",\n    mediaKeyTimestamp: \"1785767203\",\n    jpegThumbnail: \"/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAQQDBQYC/8QAJRAAAgECBgIDAQEAAAAAAAAAAQIDBBEABRIhMUEiURNhcRVC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQBA//EABwRAQACAwADAAAAAAAAAAAAAAEAAhESIQMTMf/aAAwDAQACEQMRAD8AzVPSVIjeo03sCfrE9HNISwEZJXaRexi7rqimpKRaUk65ACdIvYX7wMvWlpEqsymjAiYhfHcsb74jzsKk31mucw0YhkhaR3QhT5KT5AeyMdywUc0qn41Ykc+sVFFXx071dkEkczsVD7EYkqDBURF4UMUibsoPH4cC3j7yc7UE4xSZqirievSJmhjIVwzgHbkAckbi/q+H2zAfxzG9LrXTb49NuPz1g5fmaZfTvHVQyFvk1hWVbNe3fO1uue8SjPKZ3Y3qFOpiDYKCCQbHfu2/e/eKUqgRvJn0jliq3p3TzVtJ9De17+r94sFmRKSSEIUcG5v/AKHsfWGKbPKWTPJ5WWSMTokQuw0IQe9+OD+3wjm+YRVclM0GsCKMoxc3vvf3xhNckHyf/9k=\",\n    contextInfo: {\n        pairedMediaType: \"NOT_PAIRED_MEDIA\"\n    }\n})",
       "timestamp": "2026-08-03T16:00:34.762Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"url\": \"https://mmg.whatsapp.net/v/t62.15575-24/763958850_1064554116117515_227169201707676337_n.enc?ccb=11-4&oh=01_Q5Aa5AEYG1h1I1ce312EZFeaFXm8DJUPS0DCdDKGjSA9RBGoiw&oe=6A980242&_nc_sid=5e03e0\",\n  \"fileSha256\": \"LQAZbd0+aKQS+lrbwvwDIoXsdFcRt051JT1k8tMzUlk=\",\n  \"fileEncSha256\": \"w+gSruMfYvjpAjhlfW5zJxWHg+HWVTC02qxxTA1Efu8=\",\n  \"mediaKey\": \"GABlMjpAqzde+19tYarnfJJzsAVe0PRzXVIwaC24O8s=\",\n  \"mimetype\": \"image/webp\",\n  \"height\": 512,\n  \"width\": 512,\n  \"directPath\": \"/v/t62.15575-24/763958850_1064554116117515_227169201707676337_n.enc?ccb=11-4&oh=01_Q5Aa5AEYG1h1I1ce312EZFeaFXm8DJUPS0DCdDKGjSA9RBGoiw&oe=6A980242&_nc_sid=5e03e0\",\n  \"fileLength\": \"7568\",\n  \"mediaKeyTimestamp\": \"1785757615\",\n  \"isAnimated\": false,\n  \"contextInfo\": {},\n  \"stickerSentTs\": \"1785772868952\",\n  \"isAvatar\": false,\n  \"isAiSticker\": false,\n  \"isLottie\": false\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-03T16:01:24.271Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    sticker: {\n        url: \"https://mmg.whatsapp.net/v/t62.15575-24/763958850_1064554116117515_227169201707676337_n.enc?ccb=11-4&oh=01_Q5Aa5AEYG1h1I1ce312EZFeaFXm8DJUPS0DCdDKGjSA9RBGoiw&oe=6A980242&_nc_sid=5e03e0\"\n    },\n    fileSha256: \"LQAZbd0+aKQS+lrbwvwDIoXsdFcRt051JT1k8tMzUlk=\",\n    fileEncSha256: \"w+gSruMfYvjpAjhlfW5zJxWHg+HWVTC02qxxTA1Efu8=\",\n    mediaKey: \"GABlMjpAqzde+19tYarnfJJzsAVe0PRzXVIwaC24O8s=\",\n    mimetype: \"image/webp\",\n    height: 512,\n    width: 512,\n    directPath: \"/v/t62.15575-24/763958850_1064554116117515_227169201707676337_n.enc?ccb=11-4&oh=01_Q5Aa5AEYG1h1I1ce312EZFeaFXm8DJUPS0DCdDKGjSA9RBGoiw&oe=6A980242&_nc_sid=5e03e0\",\n    fileLength: \"7568\",\n    mediaKeyTimestamp: \"1785757615\",\n    isAnimated: false,\n    contextInfo: {},\n    stickerSentTs: \"1785772868952\",\n    isAvatar: false,\n    isAiSticker: false,\n    isLottie: false\n})",
+      "timestamp": "2026-08-03T16:01:24.271Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 18
+    "totalMessages": 20
   }
 }
