@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-03T16:25:05.751Z",
+  "lastActivity": "2026-08-03T16:26:48.822Z",
   "history": [
     {
       "role": "user",
@@ -338,9 +338,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    product: {\n        productImage: {\n            url: \"https://mmg.whatsapp.net/o1/v/t24/f2/m235/AQPAGjqGMV_Gw8lHZlE5bppC6s6nHt60uxqGTiuziuYo7teOp9IExsMHU2xzhtjQDzxDkQwmckbjGqRu6R6L9NGC_f1RbrDWnKk2mKeBBA?ccb=9-4&oh=01_Q5Aa5AEMFjuCqEGhl5wUA-7R2z_wd2y4hQUsy8kizPcC-KM31A&oe=6A983162&_nc_sid=e6ed6c&mms3=true\",\n            mimetype: \"image/jpeg\",\n            fileSha256: \"F4fmd77QDnUdkIdbooGV1VW52bo7yU2XLUwttTshtlU=\",\n            fileLength: \"5370\",\n            height: 600,\n            width: 600,\n            mediaKey: \"dxFMtX8H1Js1bcaMcBWXfSO58xBw6syYEbtAdUK3Njs=\",\n            fileEncSha256: \"OI/fMihxo4VdzoCoFrz2eVUq/z+TNrGCKVAX/0rdc/M=\",\n            directPath: \"/o1/v/t24/f2/m235/AQPAGjqGMV_Gw8lHZlE5bppC6s6nHt60uxqGTiuziuYo7teOp9IExsMHU2xzhtjQDzxDkQwmckbjGqRu6R6L9NGC_f1RbrDWnKk2mKeBBA?ccb=9-4&oh=01_Q5Aa5AEMFjuCqEGhl5wUA-7R2z_wd2y4hQUsy8kizPcC-KM31A&oe=6A983162&_nc_sid=e6ed6c\",\n            mediaKeyTimestamp: \"1785773157\",\n            jpegThumbnail: \"/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAAFAwb/xAAdEAACAgIDAQAAAAAAAAAAAAABAgADBEEREzFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APTSlHYdCGvsYBifOdQAyjsyhBX2KApHvG4GBRWHbYoKrWXX5qcaK+21U0fZqKoVQqjgDUAOZbYwCtWUX7uFmwyhlKsOQdTLvr6rWTQ8gf/Z\"\n        },\n        productId: \"999999\",\n        title: \"Bot Wangsaf Rimek\",\n        productImageCount: 999\n    }\n})",
       "timestamp": "2026-08-03T16:25:05.751Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"header\": {\n    \"title\": \"Morela\"\n  },\n  \"body\": {\n    \"text\": \"✅ Gambar berhasil diedit.\\nPrompt: coba kamu edit gambar ini jadi anime\"\n  },\n  \"nativeFlowMessage\": {\n    \"buttons\": [\n      {\n        \"name\": \"inapp_signup\",\n        \"buttonParamsJson\": \"{}\"\n      }\n    ],\n    \"messageParamsJson\": \"\"\n  }\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-03T16:26:48.822Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    text: \"✅ Gambar berhasil diedit.\\nPrompt: coba kamu edit gambar ini jadi anime\",\n    buttons: [\n        {\n            buttonId: \"inapp_signup\",\n            buttonText: {\n                displayText: \"Morela\"\n            },\n            type: \"BUTTON_TYPE_NATIVE_APP_DEEPLINK\"\n        }\n    ],\n    headerType: 1,\n    contextInfo: {\n        mentionedJid: []\n    }\n})",
+      "timestamp": "2026-08-03T16:26:48.822Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 56
+    "totalMessages": 58
   }
 }
