@@ -1,7 +1,7 @@
 {
   "sessionId": "6283191939584",
   "createdAt": "2026-07-28T01:30:29.717Z",
-  "lastActivity": "2026-08-04T07:22:26.321Z",
+  "lastActivity": "2026-08-04T14:01:46.209Z",
   "history": [
     {
       "role": "user",
@@ -902,9 +902,21 @@
       "text": "Baik, Rohan. Anda menampilkan `m.quoted`.\n\nIni merujuk pada **objek yang berisi informasi tentang pesan yang dikutip (pesan yang dibalas) oleh pengguna**.\n\nDalam konteks pengembangan bot chat (misalnya menggunakan library seperti `whatsapp-web.js`), ketika seorang pengguna membalas pesan lain, objek `m` (pesan yang diterima) akan memiliki properti `quoted`. Objek `m.quoted` ini kemudian akan berisi detail-detail dari pesan yang dibalas, seperti:\n\n*   `m.quoted.text`: Isi teks dari pesan yang dikutip.\n*   `m.quoted.key.id`: ID unik dari pesan yang dikutip.\n*   `m.quoted.pushname`: Nama tampilan pengirim pesan yang dikutip.\n*   `m.quoted.from`: Nomor pengirim pesan yang dikutip.\n*   `m.quoted.type`: Tipe dari pesan yang dikutip (misalnya, teks, gambar, video).\n\nJadi, `m.quoted` itu sendiri adalah \"wadah\" atau objek yang menyimpan semua informasi terkait pesan yang dibalas. Anda kemudian bisa mengakses properti-properti di dalamnya seperti `.text`, `.pushname`, atau `.key.id` untuk mendapatkan detail spesifik dari pesan yang dikutip tersebut.\n\nApakah ada hal lain yang ingin Anda tanyakan terkait `m.quoted` atau properti di dalamnya, Rohan?",
       "timestamp": "2026-08-04T07:22:26.321Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "hai",
+      "image": null,
+      "timestamp": "2026-08-04T14:01:46.209Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Hai juga, Rohan! Ada yang bisa saya bantu hari ini?",
+      "timestamp": "2026-08-04T14:01:46.209Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 150
+    "totalMessages": 152
   }
 }
