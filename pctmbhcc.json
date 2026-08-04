@@ -1,9 +1,22 @@
 {
   "sessionId": "pctmbhcc",
   "createdAt": "2026-08-04T08:33:30.856Z",
-  "lastActivity": "2026-08-04T08:33:30.856Z",
-  "history": [],
+  "lastActivity": "2026-08-04T08:33:34.524Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9834/755306405_nsfw-1785832409971.jpg",
+      "timestamp": "2026-08-04T08:33:34.524Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan dua karakter dari game Honkai Star Rail. Bagian atas gambar menampilkan karakter bernama \"Zephyro\" dengan deskripsi \"Takut pada kegelapan.\" Karakter ini digambarkan sebagai sosok gelap dengan jubah yang mengalir dan pedang yang menyala. Bagian bawah gambar menampilkan karakter bernama \"Asat Pramad\" dengan deskripsi \"Kelemahannya sekaligus kekuatannya adalah 'keacakan'.\" Karakter ini mengenakan pakaian formal yang unik dengan warna-warna cerah dan terlihat sedang bergerak. Latar belakang kedua gambar bernuansa fantasi gelap dengan efek cahaya yang dramatis.\n\n```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```",
+      "timestamp": "2026-08-04T08:33:34.524Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
