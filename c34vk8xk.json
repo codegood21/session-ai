@@ -1,9 +1,22 @@
 {
   "sessionId": "c34vk8xk",
   "createdAt": "2026-08-04T08:37:25.553Z",
-  "lastActivity": "2026-08-04T08:37:25.553Z",
-  "history": [],
+  "lastActivity": "2026-08-04T08:37:28.073Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "401 kenapa",
+      "image": null,
+      "timestamp": "2026-08-04T08:37:28.073Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu menjelaskan apa arti dari kode status HTTP 401.\n\nKode status `401 Unauthorized` berarti permintaan yang Anda kirimkan ke server tidak dapat diproses karena klien belum melakukan otentikasi. Dengan kata lain, server tidak tahu siapa Anda atau Anda tidak memiliki izin yang cukup untuk mengakses sumber daya yang diminta.\n\nIni biasanya terjadi ketika Anda mencoba mengakses halaman atau sumber daya yang memerlukan login, tetapi Anda belum masuk, atau kredensial yang Anda berikan (seperti username dan password) salah.\n\nJadi, jika Anda melihat kode `401`, itu artinya Anda perlu melakukan otentikasi terlebih dahulu agar bisa mengakses informasi yang Anda inginkan.",
+      "timestamp": "2026-08-04T08:37:28.073Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
