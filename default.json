@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-04T00:08:35.345Z",
+  "lastActivity": "2026-08-04T00:09:38.350Z",
   "history": [
     {
       "role": "user",
@@ -386,9 +386,21 @@
       "text": "await conn.sendMessage(m.chat, { text: '*#seosumin #kimminji #efyepe *\\nField\\tValue\\n👤 Author\\t@minjjye (seo)\\n📅 Date\\t22 Juli 2026\\n⏱️ Duration\\t13s\\n👁️ Views\\t499.804\\n❤️ Likes\\t93.366\\n💬 Comments\\t209\\n🔗 Share\\t6.420\\n🎵 Music\\toriginal sound - minjjye — seo' })",
       "timestamp": "2026-08-04T00:08:35.345Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"isCanceled\": false,\n  \"name\": \"hhh\",\n  \"description\": \"u\",\n  \"startTime\": \"1785803400\",\n  \"extraGuestsAllowed\": false,\n  \"isScheduleCall\": false\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-04T00:09:38.350Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    protocolMessage: {\n        protocolType: 3,\n        callEvent: {\n            callType: \"AUDIO\",\n            callStatus: \"UNSPECIFIED\",\n            callFrequency: 0,\n            callFromMe: false,\n            callGroup: {\n                isVoiceCall: true,\n                callGroupName: \"hhh\",\n                participants: [],\n                startTime: \"1785803400\",\n                extraGuestsAllowed: false,\n                isScheduled: false\n            }\n        }\n    }\n})",
+      "timestamp": "2026-08-04T00:09:38.350Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 64
+    "totalMessages": 66
   }
 }
