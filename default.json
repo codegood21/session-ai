@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-04T15:04:14.924Z",
+  "lastActivity": "2026-08-05T00:36:43.134Z",
   "history": [
     {
       "role": "user",
@@ -506,9 +506,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    sticker: {\n        url: \"https://mmg.whatsapp.net/v/t62.15575-24/634398760_1061095359762468_6729778195515749941_n.enc?ccb=11-4&oh=01_Q5Aa5QGb835DfyStdvSeqO8zVzv8QPwxLjQYrW9IALbiSy_efg&oe=6A99835F&_nc_sid=5e03e0\"\n    },\n    fileSha256: \"bT3bDCu7Hy/5IZbIWjuWAmyUcni3kVs2jn5b7kzPCic=\",\n    fileEncSha256: \"H0bFKBBVSk2JM4PgXKWstaOHZnM5ATZklcIbrSQW8ek=\",\n    mediaKey: \"lVJQM/T+e2ijFEVd22TDUk2VB66kIJFyEyTCJ3umrjE=\",\n    mimetype: \"image/webp\",\n    height: 64,\n    width: 64,\n    directPath: \"/v/t62.15575-24/634398760_1061095359762468_6729778195515749941_n.enc?ccb=11-4&oh=01_Q5Aa5QGb835DfyStdvSeqO8zVzv8QPwxLjQYrW9IALbiSy_efg&oe=6A99835F&_nc_sid=5e03e0\",\n    fileLength: \"424870\",\n    mediaKeyTimestamp: \"1785855836\",\n    firstFrameLength: 508686,\n    firstFrameSidecar: \"R6ob0lZXVURVqw==\",\n    isAnimated: true,\n    contextInfo: {},\n    packDescription: \"StickerPack • Rizky Rohan\",\n    trayIconFileName: \"tray_icon.webp\",\n    thumbnailDirectPath: \"/v/t62.15575-24/764068417_1049337231300756_516664875264498135_n.enc?ccb=11-4&oh=01_Q5Aa5QHakkKBMqx5wU9XoVcfXAThGFWQhWtHQQ-Qs7OZyrup1Q&oe=6A996BFE&_nc_sid=5e03e0\",\n    thumbnailSha256: \"Uzzjq9sD5bnUgd9bfpD6oTnKQHIUNHImLEKPtLSixO8=\",\n    thumbnailEncSha256: \"f85fEsE2eaAx7NPUfX3xsqIzlyrzDW2s14B5+oHGIE4=\",\n    thumbnailHeight: 252,\n    thumbnailWidth: 252,\n    imageDataHash: \"vo1MuBP7z4SEUndmKZWeCc12akyBiefvYa7qwvQWyxQ=\",\n    stickerPackSize: \"405448\",\n    stickerPackOrigin: \"USER_CREATED\"\n})",
       "timestamp": "2026-08-04T15:04:14.924Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"text\": \"https://wa.me\",\n  \"mtype\": \"conversation\",\n  \"id\": \"AC039C138D6D9B8A410973FC55DBA75B\",\n  \"chat\": \"120363428854245891@g.us\",\n  \"isBaileys\": false,\n  \"sender\": \"6283191939584@s.whatsapp.net\",\n  \"fromMe\": false,\n  \"mentionedJid\": [],\n  \"fakeObj\": {\n    \"key\": {\n      \"remoteJid\": \"120363428854245891@g.us\",\n      \"fromMe\": false,\n      \"id\": \"AC039C138D6D9B8A410973FC55DBA75B\"\n    },\n    \"message\": {\n      \"conversation\": \"https://wa.me\"\n    },\n    \"participant\": \"6283191939584@s.whatsapp.net\"\n  }\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-05T00:36:43.134Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, { text: 'https://wa.me' })",
+      "timestamp": "2026-08-05T00:36:43.134Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 84
+    "totalMessages": 86
   }
 }
