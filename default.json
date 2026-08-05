@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-05T01:10:14.457Z",
+  "lastActivity": "2026-08-05T01:49:58.648Z",
   "history": [
     {
       "role": "user",
@@ -530,9 +530,21 @@
       "text": "await conn.sendMessage(m.chat, { text: 'Gagal memproses permintaan' })",
       "timestamp": "2026-08-05T01:10:14.457Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"url\": \"https://mmg.whatsapp.net/o1/v/t24/f2/m231/AQMQxbkPxItjUdod8cJrlZ3WWdVFCR17wi1xuPFvJkP-sHGiBszN26xt8THX_rQ4uDYjVWJMss-V-bG9-4gw07hWyuUZJ9HOjJYCzB-c-A?ccb=9-4&oh=01_Q5Aa5QHyw7yhVf6h8jKlI11GShEU-XGcMfwDB6oub7nXqWkYfw&oe=6A9A07EC&_nc_sid=e6ed6c&mms3=true\",\n  \"fileSha256\": \"o3roJFLKc7FSd/sS/TZvlojYsNVE5NkuP0KEGANLsUs=\",\n  \"fileEncSha256\": \"1NmCrMgNyyeO/Jr3/Aub87BJQSZMMqfkrSuKI++vTWc=\",\n  \"mediaKey\": \"LV5n+KSdepaf66jIU3ZlnXBD1Yy2bA0I52YrNufyhDY=\",\n  \"mimetype\": \"image/webp\",\n  \"height\": 64,\n  \"width\": 64,\n  \"directPath\": \"/o1/v/t24/f2/m231/AQMQxbkPxItjUdod8cJrlZ3WWdVFCR17wi1xuPFvJkP-sHGiBszN26xt8THX_rQ4uDYjVWJMss-V-bG9-4gw07hWyuUZJ9HOjJYCzB-c-A?ccb=9-4&oh=01_Q5Aa5QHyw7yhVf6h8jKlI11GShEU-XGcMfwDB6oub7nXqWkYfw&oe=6A9A07EC&_nc_sid=e6ed6c\",\n  \"fileLength\": \"12624\",\n  \"mediaKeyTimestamp\": \"1785894586\",\n  \"isAnimated\": false,\n  \"stickerSentTs\": \"0\",\n  \"isAvatar\": false,\n  \"isAiSticker\": true,\n  \"isLottie\": false\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-05T01:49:58.648Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    sticker: {\n        url: \"https://mmg.whatsapp.net/o1/v/t24/f2/m231/AQMQxbkPxItjUdod8cJrlZ3WWdVFCR17wi1xuPFvJkP-sHGiBszN26xt8THX_rQ4uDYjVWJMss-V-bG9-4gw07hWyuUZJ9HOjJYCzB-c-A?ccb=9-4&oh=01_Q5Aa5QHyw7yhVf6h8jKlI11GShEU-XGcMfwDB6oub7nXqWkYfw&oe=6A9A07EC&_nc_sid=e6ed6c&mms3=true\"\n    },\n    fileSha256: \"o3roJFLKc7FSd/sS/TZvlojYsNVE5NkuP0KEGANLsUs=\",\n    fileEncSha256: \"1NmCrMgNyyeO/Jr3/Aub87BJQSZMMqfkrSuKI++vTWc=\",\n    mediaKey: \"LV5n+KSdepaf66jIU3ZlnXBD1Yy2bA0I52YrNufyhDY=\",\n    mimetype: \"image/webp\",\n    height: 64,\n    width: 64,\n    directPath: \"/o1/v/t24/f2/m231/AQMQxbkPxItjUdod8cJrlZ3WWdVFCR17wi1xuPFvJkP-sHGiBszN26xt8THX_rQ4uDYjVWJMss-V-bG9-4gw07hWyuUZJ9HOjJYCzB-c-A?ccb=9-4&oh=01_Q5Aa5QHyw7yhVf6h8jKlI11GShEU-XGcMfwDB6oub7nXqWkYfw&oe=6A9A07EC&_nc_sid=e6ed6c\",\n    fileLength: \"12624\",\n    mediaKeyTimestamp: \"1785894586\",\n    isAnimated: false,\n    stickerSentTs: \"0\",\n    isAvatar: false,\n    isAiSticker: true,\n    isLottie: false\n})",
+      "timestamp": "2026-08-05T01:49:58.648Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 88
+    "totalMessages": 90
   }
 }
