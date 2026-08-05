@@ -1,9 +1,22 @@
 {
   "sessionId": "t21mxxxr",
   "createdAt": "2026-08-05T16:40:15.482Z",
-  "lastActivity": "2026-08-05T16:40:15.482Z",
-  "history": [],
+  "lastActivity": "2026-08-05T16:40:17.009Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "putar lagu galau",
+      "image": null,
+      "timestamp": "2026-08-05T16:40:17.009Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan memutarkan lagu galau untuk Anda.\n\nSebelumnya, apakah ada penyanyi atau genre musik galau tertentu yang Anda sukinkan? Atau Anda ingin saya memilihkan lagu galau yang sedang populer saat ini?",
+      "timestamp": "2026-08-05T16:40:17.009Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
