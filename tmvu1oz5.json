@@ -1,9 +1,22 @@
 {
   "sessionId": "tmvu1oz5",
   "createdAt": "2026-08-05T23:27:26.163Z",
-  "lastActivity": "2026-08-05T23:27:26.163Z",
-  "history": [],
+  "lastActivity": "2026-08-05T23:27:27.533Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Ridz siapa kah nama presiden Indonesia sekarang",
+      "image": null,
+      "timestamp": "2026-08-05T23:27:27.533Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Berdasarkan pengetahuan saya, presiden Indonesia saat ini adalah **Joko Widodo**.",
+      "timestamp": "2026-08-05T23:27:27.533Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
