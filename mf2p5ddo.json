@@ -1,9 +1,22 @@
 {
   "sessionId": "mf2p5ddo",
   "createdAt": "2026-08-06T04:03:57.974Z",
-  "lastActivity": "2026-08-06T04:03:57.974Z",
-  "history": [],
+  "lastActivity": "2026-08-06T04:04:00.811Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analisis gambar ini secara objektif dan jujur. Jawab PERSIS dalam format berikut, isi tiap baris (jangan tambahkan teks lain di luar format ini):\nDESKRIPSI: [deskripsikan singkat objek/orang/aktivitas yang terlihat]\nTINGKAT_KEPANTASAN: [pilih salah satu saja: AMAN atau MENJURUS atau EKSPLISIT]\nALASAN: [jelasin singkat kenapa milih tingkat itu]",
+      "image": "https://c.termai.cc/i160/imC.png",
+      "timestamp": "2026-08-06T04:04:00.810Z"
+    },
+    {
+      "role": "assistant",
+      "text": "DESKRIPSI: Patrick Star dari kartun Spongebob Squarepants tersenyum lebar dengan teks \"HEHE\" di bawahnya.\nTINGKAT_KEPANTASAN: AMAN\nALASAN: Gambar ini menampilkan karakter kartun yang lucu dengan ekspresi ceria dan teks yang tidak mengandung unsur negatif.",
+      "timestamp": "2026-08-06T04:04:00.810Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
