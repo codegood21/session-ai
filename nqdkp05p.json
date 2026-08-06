@@ -1,9 +1,22 @@
 {
   "sessionId": "nqdkp05p",
   "createdAt": "2026-08-06T05:42:35.033Z",
-  "lastActivity": "2026-08-06T05:42:35.033Z",
-  "history": [],
+  "lastActivity": "2026-08-06T05:42:36.290Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "halo tes",
+      "image": null,
+      "timestamp": "2026-08-06T05:42:36.290Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo juga! Ada yang bisa saya bantu hari ini?",
+      "timestamp": "2026-08-06T05:42:36.290Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
