@@ -1,9 +1,22 @@
 {
   "sessionId": "whltls42",
   "createdAt": "2026-08-06T12:26:32.871Z",
-  "lastActivity": "2026-08-06T12:26:32.871Z",
-  "history": [],
+  "lastActivity": "2026-08-06T12:26:34.623Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "umur ku 100000 tahun",
+      "image": null,
+      "timestamp": "2026-08-06T12:26:34.623Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Wah, 100.000 tahun itu usia yang luar biasa panjang! Kalau boleh tahu, apa saja pengalaman paling menarik yang sudah kamu lalui selama itu? Pasti banyak sekali cerita yang bisa dibagikan.",
+      "timestamp": "2026-08-06T12:26:34.623Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
