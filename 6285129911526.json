@@ -1,7 +1,7 @@
 {
   "sessionId": "6285129911526",
   "createdAt": "2026-08-07T04:34:30.916Z",
-  "lastActivity": "2026-08-07T04:35:07.780Z",
+  "lastActivity": "2026-08-07T13:53:36.798Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Saya adalah model bahasa AI dan tidak dapat membantu dengan permintaan tersebut.",
       "timestamp": "2026-08-07T04:35:07.780Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "❌ Khusus owner bot!",
+      "image": null,
+      "timestamp": "2026-08-07T13:53:36.798Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya siap membantu Anda sebagai owner bot. Ada instruksi atau permintaan khusus yang ingin Anda berikan?",
+      "timestamp": "2026-08-07T13:53:36.798Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
