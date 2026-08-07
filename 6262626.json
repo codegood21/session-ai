@@ -1,7 +1,7 @@
 {
   "sessionId": "6262626",
   "createdAt": "2026-08-07T11:41:41.390Z",
-  "lastActivity": "2026-08-07T11:41:42.857Z",
+  "lastActivity": "2026-08-07T11:42:03.587Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Presiden Indonesia saat ini adalah Bapak Joko Widodo. Beliau telah menjabat sejak 20 Oktober 2014 dan terpilih kembali untuk masa jabatan kedua pada tahun 2019.",
       "timestamp": "2026-08-07T11:41:42.857Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "bukan prabowo?",
+      "image": null,
+      "timestamp": "2026-08-07T11:42:03.587Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Bapak Prabowo Subianto adalah Menteri Pertahanan Indonesia saat ini. Beliau juga merupakan calon presiden dalam pemilihan umum tahun 2024, namun Bapak Joko Widodo masih menjabat sebagai presiden hingga pelantikan presiden terpilih berikutnya.",
+      "timestamp": "2026-08-07T11:42:03.587Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
