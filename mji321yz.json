@@ -1,9 +1,22 @@
 {
   "sessionId": "mji321yz",
   "createdAt": "2026-08-07T11:42:55.095Z",
-  "lastActivity": "2026-08-07T11:42:55.095Z",
-  "history": [],
+  "lastActivity": "2026-08-07T11:42:58.543Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9909/756456394_nsfw-1786102974314.jpg",
+      "timestamp": "2026-08-07T11:42:58.543Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan sekelompok karakter anime yang berdiri di dalam ruangan, kemungkinan besar sebuah gimnasium atau aula. Di bagian depan, seorang karakter laki-laki dengan rambut hitam dan syal berwarna cokelat terlihat mengenakan jaket berwarna putih dan biru dengan celana panjang berwarna gelap. Dia juga membawa tas selempang berwarna krem. Di belakangnya, ada beberapa karakter perempuan yang mengenakan seragam olahraga berwarna hijau dengan garis putih. Mereka semua tampak berbaris dan melihat ke arah yang sama, mungkin sedang menunggu instruksi atau bersiap untuk suatu kegiatan. Terdapat juga rambu berwarna hijau dengan tulisan putih di bagian atas gambar, yang mungkin menunjukkan arah atau informasi lain di dalam ruangan tersebut. Keseluruhan adegan ini tampak seperti cuplikan dari sebuah anime yang berfokus pada kehidupan sekolah atau kegiatan olahraga.",
+      "timestamp": "2026-08-07T11:42:58.543Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
