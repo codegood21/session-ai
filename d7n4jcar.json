@@ -1,9 +1,22 @@
 {
   "sessionId": "d7n4jcar",
   "createdAt": "2026-08-07T23:43:24.256Z",
-  "lastActivity": "2026-08-07T23:43:24.256Z",
-  "history": [],
+  "lastActivity": "2026-08-07T23:43:25.800Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "gw mau ban semua fitur ini tapi cara penggunaan command nya tu kaya gini contoh:\n\n.banfitur grup bokep,nsfw,nsfwahegao\n\nkaya gitu. nah gw mau text yg gw reply d ubah jadi kaya gitu",
+      "image": null,
+      "timestamp": "2026-08-07T23:43:25.800Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa bantu membuat teks balasan yang sesuai dengan format yang kamu inginkan.\n\nJadi, kamu ingin bot membalas dengan format seperti ini:\n\n`.banfitur [nama_grup] [fitur1],[fitur2],[fitur3]`\n\nMisalnya, jika kamu memasukkan perintah `.banfitur grup_favorit bokep,nsfw,nsfwahegao`, maka bot akan membalas dengan:\n\n`.banfitur grup_favorit bokep,nsfw,nsfwahegao`\n\nApakah seperti itu yang kamu maksud? Jika ada detail lain yang ingin ditambahkan atau diubah, beri tahu saja ya!",
+      "timestamp": "2026-08-07T23:43:25.800Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
