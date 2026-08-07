@@ -1,7 +1,7 @@
 {
   "sessionId": "6285520961121",
   "createdAt": "2026-08-02T11:20:17.902Z",
-  "lastActivity": "2026-08-07T10:20:47.768Z",
+  "lastActivity": "2026-08-07T10:30:32.281Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Wah, \"lagu lama jir\" bisa berarti banyak hal! Bisa jadi Anda sedang mendengarkan lagu lama yang sangat Anda sukai, atau mungkin Anda sedang mencari rekomendasi lagu lama.\n\nBoleh tahu lagu lama seperti apa yang Anda maksud? Mungkin Anda bisa berikan sedikit petunjuk, misalnya:\n\n*   **Genre-nya apa?** (Pop, rock, dangdut, keroncong, dll.)\n*   **Era-nya kira-kira kapan?** (Tahun 70-an, 80-an, 90-an, 2000-an awal?)\n*   **Ada penyanyi atau band favorit dari era itu?**\n*   **Atau mungkin Anda punya potongan liriknya?**\n\nDengan sedikit informasi tambahan, saya mungkin bisa bantu menebak lagu apa yang Anda maksud atau bahkan merekomendasikan lagu lama lainnya yang mungkin Anda suka! 😊",
       "timestamp": "2026-08-07T10:20:47.768Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ape tu woi",
+      "image": "https://cdn.nekohime.site/file/6yacsm0n.jpg",
+      "timestamp": "2026-08-07T10:30:32.281Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini adalah sampul album musik. Di dalamnya terlihat seorang wanita berambut hitam yang berbaring di atas awan berwarna merah muda seperti permen kapas. Latar belakangnya adalah langit biru cerah. Di sudut kanan bawah gambar terdapat simbol \"Parental Advisory Explicit Content\", yang menandakan bahwa konten dalam album tersebut mungkin tidak cocok untuk semua usia.\n\nApakah Anda ingin tahu album apa ini atau siapa penyanyinya?",
+      "timestamp": "2026-08-07T10:30:32.281Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
