@@ -1,7 +1,7 @@
 {
   "sessionId": "6283191939584",
   "createdAt": "2026-07-28T01:30:29.717Z",
-  "lastActivity": "2026-08-07T12:59:43.112Z",
+  "lastActivity": "2026-08-08T00:40:14.920Z",
   "history": [
     {
       "role": "user",
@@ -1022,9 +1022,21 @@
       "text": "Baik, Rohan. Anda menampilkan `m.quoted.sender`.\n\nIni sama seperti `m.quoted.from` yang pernah kita bahas. Dalam konteks bot chat, ini merujuk pada **pengirim pesan yang dikutip (pesan yang dibalas)**.\n\n*   **`m`**: Objek pesan yang diterima.\n*   **`m.quoted`**: Objek yang berisi detail pesan yang dikutip.\n*   **`m.quoted.sender`**: Properti ini akan mengembalikan **nomor telepon atau ID pengirim** dari pesan yang dikutip tersebut. Formatnya biasanya seperti `nomortelepon@c.us` (untuk WhatsApp).\n\nJadi, jika seseorang membalas pesan Anda, dan Anda ingin mengetahui nomor siapa yang membalas pesan tersebut, Anda bisa menggunakan `m.quoted.sender`.\n\nApakah ada pertanyaan lanjutan mengenai ini, Rohan?",
       "timestamp": "2026-08-07T12:59:43.112Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "hai",
+      "image": null,
+      "timestamp": "2026-08-08T00:40:14.920Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Hai juga, Rohan! Ada yang bisa saya bantu hari ini?",
+      "timestamp": "2026-08-08T00:40:14.920Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 170
+    "totalMessages": 172
   }
 }
