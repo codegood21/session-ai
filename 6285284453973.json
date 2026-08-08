@@ -1,9 +1,22 @@
 {
   "sessionId": "6285284453973",
   "createdAt": "2026-08-08T01:39:34.904Z",
-  "lastActivity": "2026-08-08T01:39:34.904Z",
-  "history": [],
+  "lastActivity": "2026-08-08T01:39:37.952Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Think...",
+      "image": null,
+      "timestamp": "2026-08-08T01:39:37.952Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya siap untuk berpikir. Apa yang ada di pikiran Anda? Ada sesuatu yang ingin Anda diskusikan, tanyakan, atau minta saya analisis?",
+      "timestamp": "2026-08-08T01:39:37.952Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
