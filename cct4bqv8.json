@@ -1,9 +1,22 @@
 {
   "sessionId": "cct4bqv8",
   "createdAt": "2026-08-08T14:45:43.954Z",
-  "lastActivity": "2026-08-08T14:45:43.954Z",
-  "history": [],
+  "lastActivity": "2026-08-08T14:45:45.172Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "p",
+      "image": null,
+      "timestamp": "2026-08-08T14:45:45.172Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Mohon maaf, saya tidak mengerti maksud Anda dengan \"p\". Bisakah Anda memberikan informasi lebih lanjut atau mengulang pertanyaan Anda?",
+      "timestamp": "2026-08-08T14:45:45.172Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
