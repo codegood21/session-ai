@@ -1,7 +1,7 @@
 {
   "sessionId": "120363375703141911@g.us_5351524614@s.whatsapp.net_1",
   "createdAt": "2026-07-17T14:37:29.598Z",
-  "lastActivity": "2026-08-08T18:41:48.216Z",
+  "lastActivity": "2026-08-08T22:40:36.454Z",
   "history": [
     {
       "role": "user",
@@ -686,9 +686,21 @@
       "text": "¡Claro! Aquí tienes la tabla de datos que te proporcioné anteriormente:\n\n| Nombre      | Número      |\n| :---------- | :---------- |\n| Ana García  | 123456789   |\n| Juan Pérez  | 987654321   |\n| María López | 555111222   |\n| Carlos Ruiz | 333444555   |\n| Sofía Díaz  | 777888999   |",
       "timestamp": "2026-08-08T18:41:48.216Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "manda de nuevo la tabla\n\nResponde en español",
+      "image": null,
+      "timestamp": "2026-08-08T22:40:36.454Z"
+    },
+    {
+      "role": "assistant",
+      "text": "¡Por supuesto! Aquí tienes la tabla de datos nuevamente:\n\n| Nombre      | Número      |\n| :---------- | :---------- |\n| Ana García  | 123456789   |\n| Juan Pérez  | 987654321   |\n| María López | 555111222   |\n| Carlos Ruiz | 333444555   |\n| Sofía Díaz  | 777888999   |",
+      "timestamp": "2026-08-08T22:40:36.454Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 114
+    "totalMessages": 116
   }
 }
