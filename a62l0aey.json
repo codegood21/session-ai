@@ -1,9 +1,22 @@
 {
   "sessionId": "a62l0aey",
   "createdAt": "2026-08-08T12:49:46.135Z",
-  "lastActivity": "2026-08-08T12:49:46.135Z",
-  "history": [],
+  "lastActivity": "2026-08-08T12:49:47.363Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "siapa pencipta tiktok",
+      "image": null,
+      "timestamp": "2026-08-08T12:49:47.363Z"
+    },
+    {
+      "role": "assistant",
+      "text": "TikTok diciptakan oleh perusahaan teknologi Tiongkok bernama **ByteDance**.",
+      "timestamp": "2026-08-08T12:49:47.363Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
