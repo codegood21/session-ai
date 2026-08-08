@@ -1,9 +1,22 @@
 {
   "sessionId": "2lbo9tef",
   "createdAt": "2026-08-08T15:58:25.979Z",
-  "lastActivity": "2026-08-08T15:58:25.979Z",
-  "history": [],
+  "lastActivity": "2026-08-08T15:58:27.977Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "tb 165 bb 49 ideal ga",
+      "image": null,
+      "timestamp": "2026-08-08T15:58:27.977Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita hitung Indeks Massa Tubuh (IMT) Anda untuk melihat apakah berat badan Anda ideal untuk tinggi badan tersebut.\n\nTinggi badan Anda adalah 165 cm (atau 1.65 meter) dan berat badan Anda adalah 49 kg.\n\nRumus IMT adalah:\nIMT = berat badan (kg) / (tinggi badan (m) * tinggi badan (m))\n\nJadi, IMT Anda adalah:\nIMT = 49 / (1.65 * 1.65)\nIMT = 49 / 2.7225\nIMT ≈ 17.99\n\nBerdasarkan klasifikasi IMT dari WHO:\n*   **< 18.5**: Berat badan kurang (underweight)\n*   **18.5 - 24.9**: Berat badan normal/ideal\n*   **25.0 - 29.9**: Berat badan berlebih (overweight)\n*   **≥ 30.0**: Obesitas\n\nDengan IMT sekitar 17.99, Anda berada sedikit di bawah rentang berat badan ideal, yaitu masuk dalam kategori **berat badan kurang (underweight)**.\n\nIni bukan berarti ada masalah serius, namun ada baiknya Anda memperhatikan asupan nutrisi dan jika ada kekhawatiran lain, berkonsultasilah dengan dokter atau ahli gizi.",
+      "timestamp": "2026-08-08T15:58:27.977Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
