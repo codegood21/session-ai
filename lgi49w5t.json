@@ -1,9 +1,22 @@
 {
   "sessionId": "lgi49w5t",
   "createdAt": "2026-08-08T11:58:14.905Z",
-  "lastActivity": "2026-08-08T11:58:14.905Z",
-  "history": [],
+  "lastActivity": "2026-08-08T11:58:16.504Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "<h1>hello world<h1> itu apa",
+      "image": null,
+      "timestamp": "2026-08-08T11:58:16.504Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! \"Hello world\" adalah sebuah ungkapan yang sangat umum digunakan dalam dunia pemrograman.\n\nSecara harfiah, artinya adalah \"Halo dunia\".\n\nBiasanya, ketika seseorang baru belajar bahasa pemrograman baru, program pertama yang mereka buat adalah program yang menampilkan tulisan \"Hello, World!\" di layar. Tujuannya adalah untuk memastikan bahwa lingkungan pemrograman sudah terpasang dengan benar dan program dasar bisa dijalankan. Jadi, ini seperti semacam \"salam pembuka\" dari program tersebut kepada dunia.\n\nJadi, intinya, \"Hello, World!\" adalah tradisi atau program paling sederhana yang sering dibuat oleh programmer pemula untuk menguji coba bahasa pemrograman baru.",
+      "timestamp": "2026-08-08T11:58:16.504Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
