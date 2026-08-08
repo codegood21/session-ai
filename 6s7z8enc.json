@@ -1,9 +1,22 @@
 {
   "sessionId": "6s7z8enc",
   "createdAt": "2026-08-08T09:30:46.678Z",
-  "lastActivity": "2026-08-08T09:30:46.678Z",
-  "history": [],
+  "lastActivity": "2026-08-08T09:30:47.951Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "€769M + €453,705M =€",
+      "image": null,
+      "timestamp": "2026-08-08T09:30:47.951Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita hitung:\n\n€769 juta ditambah €453.705 juta sama dengan **€454.474 juta**.",
+      "timestamp": "2026-08-08T09:30:47.951Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
