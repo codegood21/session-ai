@@ -1,9 +1,22 @@
 {
   "sessionId": "6vqa3vb9",
   "createdAt": "2026-08-09T15:33:53.099Z",
-  "lastActivity": "2026-08-09T15:33:53.099Z",
-  "history": [],
+  "lastActivity": "2026-08-09T15:33:54.526Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu nsfw",
+      "image": null,
+      "timestamp": "2026-08-09T15:33:54.526Z"
+    },
+    {
+      "role": "assistant",
+      "text": "NSFW adalah singkatan dari \"Not Safe For Work\". Istilah ini digunakan untuk menandai konten yang bersifat eksplisit, vulgar, atau tidak pantas untuk dilihat di lingkungan kerja atau tempat umum lainnya. Konten NSFW bisa mencakup gambar, video, atau teks yang mengandung unsur pornografi, kekerasan, atau topik sensitif lainnya.",
+      "timestamp": "2026-08-09T15:33:54.526Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
