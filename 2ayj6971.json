@@ -1,9 +1,22 @@
 {
   "sessionId": "2ayj6971",
   "createdAt": "2026-08-09T08:48:47.557Z",
-  "lastActivity": "2026-08-09T08:48:47.557Z",
-  "history": [],
+  "lastActivity": "2026-08-09T08:48:48.749Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "1.250.000 bagi 4",
+      "image": null,
+      "timestamp": "2026-08-09T08:48:48.749Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa bantu menghitungnya.\n\n1.250.000 dibagi 4 sama dengan **312.500**.",
+      "timestamp": "2026-08-09T08:48:48.749Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
