@@ -1,9 +1,22 @@
 {
   "sessionId": "baws72qj",
   "createdAt": "2026-08-09T12:54:06.819Z",
-  "lastActivity": "2026-08-09T12:54:06.819Z",
-  "history": [],
+  "lastActivity": "2026-08-09T12:54:08.070Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "404 found",
+      "image": null,
+      "timestamp": "2026-08-09T12:54:08.070Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu.\n\nGambar yang Anda kirimkan menunjukkan pesan kesalahan \"404 Not Found\". Pesan ini biasanya muncul ketika Anda mencoba mengakses halaman web atau sumber daya di internet yang tidak dapat ditemukan oleh server. Ini seperti mencoba mencari buku di perpustakaan yang ternyata tidak ada di raknya.\n\nApakah Anda sedang mencoba mengakses suatu halaman web tertentu saat melihat pesan ini? Mungkin saya bisa membantu mencari tahu mengapa halaman tersebut tidak ditemukan atau memberikan saran tentang apa yang bisa Anda lakukan selanjutnya.",
+      "timestamp": "2026-08-09T12:54:08.070Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
