@@ -1,9 +1,22 @@
 {
   "sessionId": "mjt0ph36",
   "createdAt": "2026-08-09T12:44:15.435Z",
-  "lastActivity": "2026-08-09T12:44:15.435Z",
-  "history": [],
+  "lastActivity": "2026-08-09T12:44:16.668Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "son apa?",
+      "image": null,
+      "timestamp": "2026-08-09T12:44:16.668Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Saya adalah model bahasa besar, yang dilatih oleh Google.",
+      "timestamp": "2026-08-09T12:44:16.668Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
