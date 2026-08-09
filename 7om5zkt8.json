@@ -1,9 +1,22 @@
 {
   "sessionId": "7om5zkt8",
   "createdAt": "2026-08-09T12:52:25.665Z",
-  "lastActivity": "2026-08-09T12:52:25.666Z",
-  "history": [],
+  "lastActivity": "2026-08-09T12:52:27.099Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "hallo 404 found aku 404 found",
+      "image": null,
+      "timestamp": "2026-08-09T12:52:27.099Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo juga! Sepertinya ada sedikit kebingungan di sini. \"404 Not Found\" adalah kode status HTTP yang biasanya muncul ketika sebuah halaman web tidak dapat ditemukan. Ini bukan nama seseorang atau sesuatu yang bisa diajak bicara.\n\nApa yang bisa saya bantu hari ini? Mungkin ada sesuatu yang bisa saya cari atau jelaskan untuk Anda?",
+      "timestamp": "2026-08-09T12:52:27.099Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
