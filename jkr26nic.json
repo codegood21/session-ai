@@ -1,9 +1,22 @@
 {
   "sessionId": "jkr26nic",
   "createdAt": "2026-08-09T06:58:11.093Z",
-  "lastActivity": "2026-08-09T06:58:11.093Z",
-  "history": [],
+  "lastActivity": "2026-08-09T06:58:12.461Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "tau https://private.gervhosting.my.id ga",
+      "image": null,
+      "timestamp": "2026-08-09T06:58:12.460Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya tidak dapat mengakses informasi dari tautan pribadi atau yang memerlukan otentikasi, seperti tautan yang Anda berikan: `https://private.gervhosting.my.id`.\n\nOleh karena itu, saya tidak dapat mengetahui apa itu `https://private.gervhosting.my.id` atau memberikan informasi mengenainya.",
+      "timestamp": "2026-08-09T06:58:12.461Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
