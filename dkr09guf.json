@@ -1,9 +1,22 @@
 {
   "sessionId": "dkr09guf",
   "createdAt": "2026-08-09T04:24:00.011Z",
-  "lastActivity": "2026-08-09T04:24:00.011Z",
-  "history": [],
+  "lastActivity": "2026-08-09T04:24:03.914Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/9950/756922291_nsfw-1786249439168.jpg",
+      "timestamp": "2026-08-09T04:24:03.914Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan layar utama dari game Free Fire MAX. Di tengah layar, ada karakter pemain yang mengenakan pakaian kasual, lengkap dengan topi dan kacamata. Di sebelah kanan karakter, terdapat sebuah karakter mini berwarna kuning yang menyerupai dinosaurus. Bagian latar belakang menampilkan arena yang ramai dengan penonton di tribun, lampu sorot, dan elemen dekoratif khas game. Di sisi kiri layar, terdapat menu navigasi yang menampilkan opsi seperti \"Toko\", \"Luck Royale\", \"Booyah Pass\", \"Misi\", dan \"Event\". Di bagian atas layar, terlihat informasi akun pemain, mata uang dalam game (diamond), dan notifikasi. Di bagian bawah, terdapat opsi untuk \"Vault\", \"Senjata\", \"Preset\", dan \"Lab\", serta tombol besar bertuliskan \"Mulai\" yang menandakan siap untuk memulai permainan. Terdapat juga elemen lain seperti ikon peti harta karun, ikon gratis, dan daftar teman. Secara keseluruhan, gambar ini adalah tampilan antarmuka pengguna dalam game yang aman dan tidak mengandung konten NSFW.",
+      "timestamp": "2026-08-09T04:24:03.914Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
