@@ -1,9 +1,22 @@
 {
   "sessionId": "afs6xgfj",
   "createdAt": "2026-08-10T10:25:58.580Z",
-  "lastActivity": "2026-08-10T10:25:58.580Z",
-  "history": [],
+  "lastActivity": "2026-08-10T10:26:00.943Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "bendera apakah ini",
+      "image": "https://cdn-alip.clutch.web.id/api/u/msn35ziu.png",
+      "timestamp": "2026-08-10T10:26:00.943Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar tersebut menampilkan bendera Jersey. Bendera ini memiliki latar belakang putih dengan salib diagonal merah (salib Santo Andreas). Di bagian atas tengah, terdapat perisai berwarna merah yang berisi tiga singa kuning yang saling membelakangi, dengan mahkota kuning di atasnya.",
+      "timestamp": "2026-08-10T10:26:00.943Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
