@@ -1,9 +1,22 @@
 {
   "sessionId": "k1qan96z",
   "createdAt": "2026-08-10T10:24:00.407Z",
-  "lastActivity": "2026-08-10T10:24:00.407Z",
-  "history": [],
+  "lastActivity": "2026-08-10T10:24:02.704Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "bendera apakah ini",
+      "image": "https://cdn-alip.clutch.web.id/api/u/msn33f0h.png",
+      "timestamp": "2026-08-10T10:24:02.704Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar tersebut menampilkan bendera Mauritius. Bendera ini memiliki empat garis horizontal dengan lebar yang sama. Dari atas ke bawah, warnanya adalah merah, biru, kuning, dan hijau.",
+      "timestamp": "2026-08-10T10:24:02.704Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
