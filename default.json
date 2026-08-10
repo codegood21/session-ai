@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-10T12:32:16.115Z",
+  "lastActivity": "2026-08-10T12:35:55.119Z",
   "history": [
     {
       "role": "user",
@@ -650,9 +650,21 @@
       "text": "await conn.sendMessage(m.chat, { text: '' })",
       "timestamp": "2026-08-10T12:32:16.115Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"url\": \"https://mmg.whatsapp.net/o1/v/t24/f2/m231/AQMJHQ9L12hzPLyIirvmlylx5z0CrXuJ91odrpLn7GL4LVEklKGLTK540MLcTqyX_VaJVQCs6y2Uk2z3sw-TeZTuAwKSwd-RlIDMw409ag?ccb=9-4&oh=01_Q5Aa5QGYVBGkOKRVb_dc0w0N6h_WKYdxJ3K9fE9S8MxkmjoGcQ&oe=6AA12E70&_nc_sid=e6ed6c&mms3=true\",\n  \"mimetype\": \"image/jpeg\",\n  \"fileSha256\": \"MNk2dMHuZQNfgie9Rasp6pBsrdWT+WTQw7y7Kd55Zq8=\",\n  \"fileLength\": \"35375\",\n  \"height\": 1280,\n  \"width\": 720,\n  \"mediaKey\": \"IB8yWgdAFun8EMLxjt6uRs88xWq/IphHX3RIPQFY1rE=\",\n  \"fileEncSha256\": \"mHnos/ZU9aOBUvjZP8l8/13UNRM0WAOQ98mtnAiFq/g=\",\n  \"directPath\": \"/o1/v/t24/f2/m231/AQMJHQ9L12hzPLyIirvmlylx5z0CrXuJ91odrpLn7GL4LVEklKGLTK540MLcTqyX_VaJVQCs6y2Uk2z3sw-TeZTuAwKSwd-RlIDMw409ag?ccb=9-4&oh=01_Q5Aa5QGYVBGkOKRVb_dc0w0N6h_WKYdxJ3K9fE9S8MxkmjoGcQ&oe=6AA12E70&_nc_sid=e6ed6c&_nc_hot=1786362241\",\n  \"mediaKeyTimestamp\": \"1786362240\",\n  \"jpegThumbnail\": \"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\",\n  \"contextInfo\": {\n    \"featureEligibilities\": {},\n    \"pairedMediaType\": \"NOT_PAIRED_MEDIA\",\n    \"statusSourceType\": \"TEXT\",\n    \"statusAttributions\": [\n      {\n        \"type\": \"EXTERNAL_SHARE\",\n        \"statusReshare\": {\n          \"source\": \"CHANNEL_RESHARE\",\n          \"metadata\": {\n            \"duration\": 0,\n            \"channelJid\": \"120363427900634313@newsletter\",\n            \"channelMessageId\": 164,\n            \"hasMultipleReshares\": false\n          }\n        }\n      }\n    ]\n  }\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-10T12:35:55.119Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    text: \" \",\n    previewType: 0,\n    contextInfo: {\n        forwardingScore: 1,\n        isForwarded: true\n    },\n    inviteLinkGroupTypeV2: 0\n})",
+      "timestamp": "2026-08-10T12:35:55.119Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 108
+    "totalMessages": 110
   }
 }
