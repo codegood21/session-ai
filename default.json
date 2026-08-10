@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-09T13:23:41.752Z",
+  "lastActivity": "2026-08-10T12:32:16.115Z",
   "history": [
     {
       "role": "user",
@@ -638,9 +638,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    contacts: {\n        displayName: \"zionjs\",\n        vcard: \"BEGIN:VCARD\\nVERSION:3.0\\nN:;;;;\\nFN:zionjs\\nPHOTO;BASE64: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\\nX-WA-LID:109827346956434\\nEND:VCARD\"\n    }\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
       "timestamp": "2026-08-09T13:23:41.752Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"text\": \"\",\n  \"mtype\": \"conversation\",\n  \"id\": \"AC15CE609B0F80638A03F43FED7D1FCE\",\n  \"chat\": \"6283191939584@s.whatsapp.net\",\n  \"isBaileys\": false,\n  \"sender\": \"109827346956434@lid\",\n  \"fromMe\": false,\n  \"mentionedJid\": [],\n  \"fakeObj\": {\n    \"key\": {\n      \"remoteJid\": \"6283191939584@s.whatsapp.net\",\n      \"fromMe\": false,\n      \"id\": \"AC15CE609B0F80638A03F43FED7D1FCE\"\n    },\n    \"message\": {\n      \"conversation\": \"\"\n    }\n  }\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-10T12:32:16.115Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, { text: '' })",
+      "timestamp": "2026-08-10T12:32:16.115Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 106
+    "totalMessages": 108
   }
 }
