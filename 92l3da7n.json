@@ -1,9 +1,22 @@
 {
   "sessionId": "92l3da7n",
   "createdAt": "2026-08-10T12:00:28.345Z",
-  "lastActivity": "2026-08-10T12:00:28.345Z",
-  "history": [],
+  "lastActivity": "2026-08-10T12:00:29.965Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "nama lengkap kayoko blue archive",
+      "image": null,
+      "timestamp": "2026-08-10T12:00:29.965Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, nama lengkap dari karakter Kayoko dalam game Blue Archive adalah **Kayoko Yakumo**.",
+      "timestamp": "2026-08-10T12:00:29.965Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
