@@ -1,9 +1,22 @@
 {
   "sessionId": "6281522552994",
   "createdAt": "2026-08-11T12:03:42.679Z",
-  "lastActivity": "2026-08-11T12:03:42.679Z",
-  "history": [],
+  "lastActivity": "2026-08-11T12:03:44.479Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "mengerikan namanya",
+      "image": null,
+      "timestamp": "2026-08-11T12:03:44.478Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Saya mengerti Anda merasa ngeri dengan sebuah nama.\n\nUntuk bisa membantu Anda lebih lanjut, bisakah Anda memberi tahu saya nama apa yang Anda maksud? Dengan begitu, saya bisa memahami konteksnya dan mungkin memberikan tanggapan yang lebih relevan.",
+      "timestamp": "2026-08-11T12:03:44.479Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
