@@ -1,9 +1,22 @@
 {
   "sessionId": "wlifu",
   "createdAt": "2026-08-11T15:02:26.116Z",
-  "lastActivity": "2026-08-11T15:02:26.116Z",
-  "history": [],
+  "lastActivity": "2026-08-11T15:02:29.509Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan code nodejs cjs menggunakan axios untuk proses request ini\n\nPOST https://api.ezsrv.net/api/convert 200\n\nRequest Data\n\n{\"url\":\"https://www.youtube.com/watch?v=M7y9sIvMGjw\",\"format\":\"mp3\",\"quality\":128,\"captchaToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY29wZSI6ImNvbnZlcnQiLCJqdGkiOiI5Nzk1NjIxZC1iMzRlLTQ3NzctYTY3My1kOWM2MzA5MDgyMTgiLCJpYXQiOjE3ODY0NjA0OTMsImV4cCI6MTc4NjQ2MTM5M30.XhcRdBqa6P_8Oeha7cvUoz9zlMxQq-_Zj2twUT92qp0\"}\n\nRequest Headers\n\nContent-Type: application/json\n\nResponse Headers\n\ncontent-type: application/json; charset=utf-8\n\n{\"jobId\":\"9fe1070a-1d3e-4370-9c45-efbd1728f37e\",\"status\":\"processing\"}\n\n\nGET https://api.ezsrv.net/api/convert/status?jobId=9fe1070a-1d3e-4370-9c45-efbd1728f37e 200\n\nResponse Headers\n\ncontent-type: application/json; charset=utf-8\n\n{\"status\":\"done\",\"phase\":\"fetching\",\"percent\":100,\"downloadUrl\":\"https://dl2.ezsrv.net/download?sig=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaWxlIjoibXAzLTEyOC8yMDI2LzA3LzI5LzA5L2MxYjZmNDIxMTVlMWE2ZDAzYjM2MGY4YS9NN3k5c0l2TUdqdy5tcDMiLCJ0aXRsZSI6IlNhbSBTbWl0aCAtIExhIExhIExhIiwiaWF0IjoxNzg2NDYwNTAzLCJleHAiOjE3ODY1NDY5MDN9.WojLKrWCw9o5Ao69gwXf_jo7K3llXCEdvVQ0thin42w\",\"title\":\"Sam Smith - La La La\"}\n\njangan pernah pake \"console.log\" pake \"m.reply\" aja,\n\njangan pernah kasih komentar // ...,\n\nkirim kode nya aja jangan ada kata-kata lain dan jangan ada ...",
+      "image": null,
+      "timestamp": "2026-08-11T15:02:29.509Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```javascript\nconst axios = require('axios');\n\nasync function convertVideoToMp3(url, format, quality, captchaToken) {\n  try {\n    const postResponse = await axios.post('https://api.ezsrv.net/api/convert', {\n      url: url,\n      format: format,\n      quality: quality,\n      captchaToken: captchaToken\n    }, {\n      headers: {\n        'Content-Type': 'application/json'\n      }\n    });\n\n    const jobId = postResponse.data.jobId;\n    m.reply(`Konversi dimulai. Job ID: ${jobId}`);\n\n    let status = 'processing';\n    let downloadUrl = null;\n    let title = null;\n\n    while (status !== 'done') {\n      await new Promise(resolve => setTimeout(resolve, 5000)); \n      const getResponse = await axios.get(`https://api.ezsrv.net/api/convert/status?jobId=${jobId}`);\n      status = getResponse.data.status;\n      downloadUrl = getResponse.data.downloadUrl;\n      title = getResponse.data.title;\n\n      if (status === 'done') {\n        m.reply(`Konversi selesai! Judul: ${title}, URL Unduh: ${downloadUrl}`);\n      } else {\n        m.reply(`Status konversi: ${status}, Persentase: ${getResponse.data.percent}%`);\n      }\n    }\n  } catch (error) {\n    m.reply(`Terjadi kesalahan: ${error.message}`);\n  }\n}\n\nconst videoUrl = \"https://www.youtube.com/watch?v=M7y9sIvMGjw\";\nconst format = \"mp3\";\nconst quality = 128;\nconst captchaToken = \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY29wZSI6ImNvbnZlcnQiLCJqdGkiOiI5Nzk1NjIxZC1iMzRlLTQ3NzctYTY3My1kOWM2MzA5MDgyMTgiLCJpYXQiOjE3ODY0NjA0OTMsImV4cCI6MTc4NjQ2MTM5M30.XhcRdBqa6P_8Oeha7cvUoz9zlMxQq-_Zj2twUT92qp0\";\n\nconvertVideoToMp3(videoUrl, format, quality, captchaToken);\n```",
+      "timestamp": "2026-08-11T15:02:29.509Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
