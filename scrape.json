@@ -1,7 +1,7 @@
 {
   "sessionId": "scrape",
   "createdAt": "2026-08-11T08:53:14.256Z",
-  "lastActivity": "2026-08-11T09:57:25.900Z",
+  "lastActivity": "2026-08-11T10:03:10.022Z",
   "history": [
     {
       "role": "user",
@@ -62,9 +62,21 @@
       "text": "```javascript\nconst axios = require('axios');\nconst fs = require('fs');\nconst FormData = require('form-data');\n\nconst UPLOAD_URL = 'https://unggah.web.id/unggah.php';\nconst audioFilePath = './path/to/your/audio.mp3'; // Ganti dengan path file audio Anda\n\nasync function uploadAudio() {\n    const formData = new FormData();\n    formData.append('file', fs.createReadStream(audioFilePath));\n\n    try {\n        const response = await axios.post(UPLOAD_URL, formData, {\n            headers: {\n                'Content-Type': 'multipart/form-data',\n                'Accept': 'application/json, text/plain, */*'\n            }\n        });\n        return response.data;\n    } catch (error) {\n        if (error.response) {\n            console.error('Status:', error.response.status);\n            console.error('Data:', error.response.data);\n        } else if (error.request) {\n            console.error('Request:', error.request);\n        } else {\n            console.error('Error Message:', error.message);\n        }\n        return null;\n    }\n}\n\nuploadAudio().then(data => {\n    if (data && data.success) {\n        console.log('Upload successful:', data);\n    } else {\n        console.log('Upload failed.');\n        if (data && data.errors) {\n            console.error('Errors:', data.errors);\n        }\n    }\n});\n```",
       "timestamp": "2026-08-11T09:57:25.900Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "buatkan code nodejs cjs menggunakan axios untuk proses request ini\n\nGET https://www.sosmedsaver.me/api/info?url=https%3A%2F%2Fyoutu.be%2FObuP-wH0ghA%3Fsi%3DpwdwhVr8cZLBgXAh 200\n\nResponse Headers\n\naccess-control-allow-origin: *\nage: 0\ncache-control: public, max-age=0, must-revalidate\ncontent-length: 345\ncontent-type: application/json; charset=utf-8\ndate: Tue, 11 Aug 2026 10:02:40 GMT\netag: W/\"159-cNUCXz9YGOGHL/RJcfP26Q4JfAk\"\nserver: Vercel\nstrict-transport-security: max-age=63072000\nx-powered-by: Express\nx-vercel-cache: MISS\nx-vercel-id: sin1::iad1::pxqzg-1786442544304-6ab797069198\n\n{\"type\":\"video\",\"url\":\"https://c.ymcdn.org/api/v2/download/b2781110d09e10a0959cd8e1c8b71502/ObuP-wH0ghA?_=WadpCVG8UiRVEVXiJqpp5TOxPNx3UCxb28SYoownB6wAvcSzo5EFb5LH8GtNxoAUk77C8AE0GKRHfskJqIVgUg\",\"thumbnail\":\"https://i.ytimg.com/vi/ObuP-wH0ghA/hqdefault.jpg\",\"filename\":\"youtube-video-1786442560276.mp4\",\"durationSeconds\":null,\"sizeBytes\":4245471}\n\nkirim kode nya aja jangan ada kata-kata lain dan jangan ada ...",
+      "image": null,
+      "timestamp": "2026-08-11T10:03:10.022Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```javascript\nconst axios = require('axios');\n\nconst TARGET_URL = 'https://www.sosmedsaver.me/api/info';\nconst YOUTUBE_VIDEO_URL = 'https://youtu.be/ObuP-wH0ghA?si=pwdwhVr8cZLBgXAh';\n\nasync function getVideoInfo() {\n    try {\n        const response = await axios.get(TARGET_URL, {\n            params: {\n                url: YOUTUBE_VIDEO_URL\n            },\n            headers: {\n                'Accept': 'application/json, text/plain, */*'\n            }\n        });\n        return response.data;\n    } catch (error) {\n        if (error.response) {\n            console.error('Status:', error.response.status);\n            console.error('Data:', error.response.data);\n        } else if (error.request) {\n            console.error('Request:', error.request);\n        } else {\n            console.error('Error Message:', error.message);\n        }\n        return null;\n    }\n}\n\ngetVideoInfo().then(data => {\n    if (data) {\n        console.log('Video Info:', data);\n    } else {\n        console.log('Failed to get video info.');\n    }\n});\n```",
+      "timestamp": "2026-08-11T10:03:10.022Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 10
+    "totalMessages": 12
   }
 }
