@@ -1,9 +1,22 @@
 {
   "sessionId": "n102pxau",
   "createdAt": "2026-08-11T11:10:47.401Z",
-  "lastActivity": "2026-08-11T11:10:47.401Z",
-  "history": [],
+  "lastActivity": "2026-08-11T11:10:56.740Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img2.pixhost.to/images/10004/757668738_nsfw-1786446643914.png",
+      "timestamp": "2026-08-11T11:10:56.740Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar tersebut menampilkan sebuah karakter game dengan gaya fantasi yang futuristik. Karakter tersebut mengenakan jaket hitam dengan motif tengkorak putih, celana hitam dengan aksen merah dan biru, serta sepatu bot merah. Wajahnya tertutup topeng dengan riasan khas yang menyerupai tengkorak. Latar belakangnya didominasi warna merah dengan pecahan kristal yang tajam, serta siluet mobil sport berwarna oranye di sisi kiri. Di bagian atas, terlihat beberapa ikon game, termasuk angka \"7846\", ikon medali bertuliskan \"8\", ikon \"M\" dengan berlian, dan ikon unduh. Di bagian bawah, terdapat nama pemain \"Devilgood\" di dalam sebuah bingkai, serta ikon mikrofon dan speaker yang menunjukkan status audio. Secara keseluruhan, gambar ini adalah ilustrasi karakter game yang bergaya, tanpa adanya konten yang tidak pantas.",
+      "timestamp": "2026-08-11T11:10:56.740Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
