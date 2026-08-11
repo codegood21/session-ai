@@ -1,9 +1,22 @@
 {
   "sessionId": "zkese",
   "createdAt": "2026-08-11T14:11:37.229Z",
-  "lastActivity": "2026-08-11T14:11:37.229Z",
-  "history": [],
+  "lastActivity": "2026-08-11T14:11:39.203Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan code nodejs cjs menggunakan axios untuk proses request ini\n\nGET https://igexport.com/api/ig-reels/?url=https%3A%2F%2Fwww.instagram.com%2Freel%2FDaLRcG5pWQo%2F%3Figsh%3DeTNtbnFsdDFuaDd4 200\n\nResponse Headers\n\nage: 0\nalt-svc: h3=\":443\"; ma=86400\ncache-control: public\ncf-cache-status: DYNAMIC\ncf-ray: a2959fa61d25f888-SIN\ncontent-encoding: br\ncontent-type: application/json\ndate: Tue, 11 Aug 2026 07:45:57 GMT\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=zjfmpvkm%2BMSRg3tOabzBG0uI%2Bt%2BNDcjyABmejelWfqDwC1FblToE0RE6FCPt7zvWsY7xNVnOK%2FFLW6nKbZTz%2FbG0NuX4sfpyuXiQj8pkZzF7v2tkjl0mTNEa2%2BZlJ6Y%3D\"}]}\nserver: cloudflare\nstrict-transport-security: max-age=63072000\nvary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, accept-encoding\nx-matched-path: /api/ig-reels\nx-vercel-cache: MISS\nx-vercel-id: sin1::iad1::hmk2l-1786434356185-40eb0b3aa24a\n\n{\"ok\":true,\"source\":2,\"media\":{\"videoUrl\":\"https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQP9fkF-K0qFEYZWQWT-KUN2YBgjuVbBxzPQTA6i5YiWFK9qhv67hzqiZ71dXDNqM3XAeHlibuf9BFVqtkCYbkh6p5bJz_8_5oa1EW0.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=uNs0_IjT6NkQ7kNvwE3-6FX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTk1NDkzODAxNTIyNTc2OSwiYXNzZXRfYWdlX2RheXMiOjQyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7a8ccb5debae76b0&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yMzRGOTMwNTkzODgwMzk1OUYxRjQ0MEMxODYwOUU4N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U1NEI0RkYzNDg3RDMwQjczN0VGODAzRUY0NDdCMjk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbS3qSfr4D5BhUCKAJDMywXQC2ZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=IcNOC6V6zK7aXEV2XQT2oA&_nc_zt=28&_nc_ss=7a22e&oh=00_AQEmdF3-FNu-X90n24jIaVlsVl7hY2QmOIc4vCfHyRmx9Q&oe=6A7CB0AB\",\"thumbnailUrl\":null,\"filename\":\"igexport-DaLRcG5pWQo.mp4\"}}\n\njangan pernah pake \"console.log\" pake \"m.reply\" aja,\n\njangan pernah kasih komentar // ...,\n\nkirim kode nya aja jangan ada kata-kata lain dan jangan ada ...",
+      "image": null,
+      "timestamp": "2026-08-11T14:11:39.203Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```javascript\nconst axios = require('axios');\n\nasync function getInstagramReel(url) {\n  try {\n    const response = await axios.get('https://igexport.com/api/ig-reels/', {\n      params: {\n        url: url\n      }\n    });\n\n    if (response.data && response.data.ok) {\n      return response.data.media.videoUrl;\n    } else {\n      return 'Gagal mendapatkan video reel.';\n    }\n  } catch (error) {\n    console.error('Terjadi kesalahan:', error);\n    return 'Terjadi kesalahan saat memproses permintaan.';\n  }\n}\n\nconst reelUrl = 'https://www.instagram.com/reel/DaLRcG5pWQo/?igsh=eTNtbnFsdDFuaDd4';\ngetInstagramReel(reelUrl).then(videoUrl => {\n  m.reply(videoUrl);\n});\n```",
+      "timestamp": "2026-08-11T14:11:39.203Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
