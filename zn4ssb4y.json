@@ -1,9 +1,22 @@
 {
   "sessionId": "zn4ssb4y",
   "createdAt": "2026-08-11T19:00:43.848Z",
-  "lastActivity": "2026-08-11T19:00:43.848Z",
-  "history": [],
+  "lastActivity": "2026-08-11T19:00:45.481Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "kenapa lu dongo",
+      "image": null,
+      "timestamp": "2026-08-11T19:00:45.481Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya adalah model bahasa besar, yang dilatih oleh Google.",
+      "timestamp": "2026-08-11T19:00:45.481Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
