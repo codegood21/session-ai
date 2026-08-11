@@ -1,7 +1,7 @@
 {
   "sessionId": "6282218216151",
   "createdAt": "2026-08-11T06:46:17.020Z",
-  "lastActivity": "2026-08-11T07:26:00.058Z",
+  "lastActivity": "2026-08-11T07:26:36.598Z",
   "history": [
     {
       "role": "user",
@@ -38,9 +38,21 @@
       "text": "Maaf, \"ins\" ini singkatan dari apa ya? Apakah Anda bisa memberikan sedikit konteks lagi? Saya belum yakin apa yang Anda maksud.",
       "timestamp": "2026-08-11T07:26:00.058Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "crm",
+      "image": null,
+      "timestamp": "2026-08-11T07:26:36.598Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Ah, CRM! CRM adalah singkatan dari **Customer Relationship Management**.\n\nIni adalah sistem atau strategi yang digunakan perusahaan untuk mengelola dan menganalisis interaksi mereka dengan pelanggan saat ini dan calon pelanggan. Tujuannya adalah untuk meningkatkan hubungan bisnis, membantu dalam retensi pelanggan, dan mendorong pertumbuhan penjualan.\n\nBiasanya, sistem CRM mencakup berbagai fungsi seperti:\n\n*   **Manajemen Kontak:** Menyimpan informasi detail tentang pelanggan dan prospek.\n*   **Manajemen Penjualan:** Melacak prospek, peluang penjualan, dan proses penjualan.\n*   **Manajemen Layanan Pelanggan:** Mengelola permintaan layanan, keluhan, dan dukungan pelanggan.\n*   **Pemasaran:** Merencanakan dan melaksanakan kampanye pemasaran.\n*   **Analitik:** Memberikan wawasan tentang perilaku pelanggan dan kinerja penjualan.\n\nApakah Anda sedang mencari informasi tentang sistem CRM tertentu, atau ada hal lain yang ingin Anda diskusikan terkait CRM?",
+      "timestamp": "2026-08-11T07:26:36.598Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 6
+    "totalMessages": 8
   }
 }
