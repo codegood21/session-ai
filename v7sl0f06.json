@@ -1,9 +1,22 @@
 {
   "sessionId": "v7sl0f06",
   "createdAt": "2026-08-11T01:24:48.763Z",
-  "lastActivity": "2026-08-11T01:24:48.763Z",
-  "history": [],
+  "lastActivity": "2026-08-11T01:24:52.899Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "sebutkan 15 jenis komponen komputer dan jelaskan",
+      "image": null,
+      "timestamp": "2026-08-11T01:24:52.899Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita bahas 15 komponen komputer beserta penjelasannya:\n\n**Komponen Internal Utama:**\n\n1.  **Motherboard (Papan Induk):** Ini adalah papan sirkuit utama yang menghubungkan semua komponen komputer lainnya. Motherboard menyediakan soket untuk CPU, slot untuk RAM, konektor untuk kartu ekspansi (seperti kartu grafis), port untuk penyimpanan, dan berbagai konektor untuk periferal. Ibaratnya, ini adalah \"tulang punggung\" dari komputer.\n\n2.  **Central Processing Unit (CPU) / Prosesor:** Otak dari komputer. CPU bertanggung jawab untuk mengeksekusi instruksi dari program dan melakukan perhitungan. Kecepatan dan jumlah inti (core) pada CPU sangat mempengaruhi kinerja keseluruhan komputer.\n\n3.  **Random Access Memory (RAM):** Memori sementara yang digunakan komputer untuk menyimpan data yang sedang aktif digunakan oleh CPU. Semakin besar kapasitas RAM, semakin banyak aplikasi yang bisa dijalankan secara bersamaan tanpa memperlambat komputer. Data di RAM akan hilang saat komputer dimatikan.\n\n4.  **Hard Disk Drive (HDD) / Solid State Drive (SSD):** Perangkat penyimpanan utama komputer yang digunakan untuk menyimpan sistem operasi, program, dan data pengguna secara permanen.\n    *   **HDD** menggunakan piringan magnetik yang berputar, lebih murah per gigabyte, tetapi lebih lambat.\n    *   **SSD** menggunakan chip memori flash, jauh lebih cepat, lebih tahan guncangan, tetapi biasanya lebih mahal.\n\n5.  **Graphics Processing Unit (GPU) / Kartu Grafis:** Bertanggung jawab untuk memproses dan menampilkan gambar ke monitor. Untuk tugas-tugas grafis intensif seperti bermain game, desain grafis, atau pengeditan video, kartu grafis yang kuat sangat penting. Ada GPU terintegrasi pada CPU dan kartu grafis diskrit yang lebih kuat.\n\n6.  **Power Supply Unit (PSU):** Mengubah daya listrik dari stopkontak menjadi tegangan yang sesuai untuk semua komponen komputer. Kapasitas PSU harus mencukupi untuk kebutuhan daya seluruh komponen, terutama kartu grafis dan CPU.\n\n7.  **Casing Komputer:** Kotak atau wadah yang melindungi semua komponen internal komputer. Casing juga berperan dalam aliran udara untuk pendinginan dan estetika.\n\n8.  **Sistem Pendingin (Cooling System):** Penting untuk menjaga suhu komponen agar tidak overheat, terutama CPU dan GPU. Ini bisa berupa heatsink dengan kipas (fan), atau sistem pendingin cair (liquid cooling).\n\n**Komponen Periferal (Input/Output):**\n\n9.  **Monitor:** Perangkat output yang menampilkan gambar yang diproses oleh kartu grafis.\n\n10. **Keyboard:** Perangkat input yang digunakan untuk memasukkan teks dan perintah ke komputer.\n\n11. **Mouse:** Perangkat input yang digunakan untuk mengontrol kursor di layar dan berinteraksi dengan antarmuka grafis.\n\n12. **Speaker/Headset:** Perangkat output yang menghasilkan suara.\n\n13. **Webcam:** Perangkat input yang menangkap gambar video.\n\n**Komponen Lainnya:**\n\n14. **Optical Drive (CD/DVD/Blu-ray):** Perangkat yang membaca dan menulis data pada media optik (meskipun semakin jarang digunakan).\n\n15. **Network Interface Card (NIC) / Kartu Jaringan:** Memungkinkan komputer untuk terhubung ke jaringan, baik melalui kabel (Ethernet) maupun nirkabel (Wi-Fi). Seringkali sudah terintegrasi di motherboard.\n\nSemoga penjelasan ini cukup detail dan mudah dipahami!",
+      "timestamp": "2026-08-11T01:24:52.899Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
