@@ -1,9 +1,22 @@
 {
   "sessionId": "gdzxp",
   "createdAt": "2026-08-12T00:16:13.593Z",
-  "lastActivity": "2026-08-12T00:16:13.593Z",
-  "history": [],
+  "lastActivity": "2026-08-12T00:16:15.151Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan code nodejs cjs menggunakan axios untuk proses request ini\n\nPOST https://api.viesnap.com/info 200\n\nRequest Data\n\n{\"url\":\"https://vt.tiktok.com/ZS437FNcx/\"}\n\nRequest Headers\n\nContent-Type: application/json\n\nResponse Headers\n\ncache-control: public, max-age=0\ncontent-type: application/json\n\n{\"source\":\"hybrid\",\"original_url\":\"https://vt.tiktok.com/ZS437FNcx/\",\"title\":\"Tom Holland so cute🥰 #tomholland #spiderman #fyp #tiktok #foryoupage #foryou #tom #😏🤫🔥 #🥰🥰🥰🥰❤️❤️❤️ #cute #boyfriend \",\"author\":\"♡ Tom Holland ♡\",\"description\":\"Tom Holland so cute🥰 #tomholland #spiderman #fyp #tiktok #foryoupage #foryou #tom #😏🤫🔥 #🥰🥰🥰🥰❤️❤️❤️ #cute #boyfriend \",\"duration\":0,\"thumbnail\":\"https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-aiso/561eb4ed1b34456c91da1c8c8a21d3c1~tplv-photomode-image-v1:q70.webp?dr=10375&from=photomode.FEED&ftpl=1&idc=useast2b&ps=13740610&refresh_token=2632e2e3&s=FEED&shcp=34ff8df6&shp=d05b14bd&t=4d5b0474&x-expires=1787785200&x-signature=8RIyuN4U2I2QIgYXLKU7On7xea8%3D\",\"view_count\":150551,\"qualities\":{\"audio\":{\"cdn_url\":\"https://sf19-music.tiktokcdn-eu.com/obj/tos-alisg-ve-2774/o4qBI2FgGAZMNUmL1IKNeOfKhfQGhLfMrAarG1\",\"height\":0,\"ext\":\"mp3\",\"cookies\":\"\",\"cdn_headers\":\"eyJVc2VyLUFnZW50IjogIk1vemlsbGEvNS4wIChpUGhvbmU7IENQVSBpUGhvbmUgT1MgMTdfMCBsaWtlIE1hYyBPUyBYKSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIE1vYmlsZS8xNUUxNDgiLCAiUmVmZXJlciI6ICJodHRwczovL3d3dy50aWt0b2suY29tLyIsICJPcmlnaW4iOiAiaHR0cHM6Ly93d3cudGlrdG9rLmNvbSJ9\",\"filesize\":0,\"audio_url\":\"\"}},\"images\":[\"https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-aiso/561eb4ed1b34456c91da1c8c8a21d3c1~tplv-photomode-image-v1:q70.webp?dr=10375&from=photomode.FEED&ftpl=1&idc=useast2b&ps=13740610&refresh_token=2632e2e3&s=FEED&shcp=34ff8df6&shp=d05b14bd&t=4d5b0474&x-expires=1787785200&x-signature=8RIyuN4U2I2QIgYXLKU7On7xea8%3D\",\"https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-aiso/c18366079dd8444f93da250335142d6a~tplv-photomode-image-v1:q70.webp?dr=10375&from=photomode.FEED&ftpl=1&idc=useast2b&ps=13740610&refresh_token=f1e41464&s=FEED&shcp=34ff8df6&shp=d05b14bd&t=4d5b0474&x-expires=1787785200&x-signature=ROFOE6odYMf0ek%2BlprSqrOhdox8%3D\"]}\n\nkurang lebih kode nya seperti ini:\nconst axios = require(\"axios\");\n\nasync function getData(input) {\n  try {\n    const response = await axios.post(\n      \"\",\n      {\n        url: input\n      },\n      {\n        headers: {\n          \"Content-Type\": \"application/json\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n\nNote:\njangan pernah pake \"console.log\" pake \"m.reply\" aja,\n\njangan pernah kasih komentar // ...,\n\nkirim kode nya aja jangan ada kata-kata lain dan jangan ada ...\n\n",
+      "image": null,
+      "timestamp": "2026-08-12T00:16:15.151Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```javascript\nconst axios = require(\"axios\");\n\nasync function getData(input) {\n  try {\n    const response = await axios.post(\n      \"https://api.viesnap.com/info\",\n      {\n        url: input\n      },\n      {\n        headers: {\n          \"Content-Type\": \"application/json\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"https://vt.tiktok.com/ZS437FNcx/\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n```",
+      "timestamp": "2026-08-12T00:16:15.151Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
