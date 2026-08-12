@@ -1,9 +1,22 @@
 {
   "sessionId": "xyqga",
   "createdAt": "2026-08-12T00:27:56.497Z",
-  "lastActivity": "2026-08-12T00:27:56.497Z",
-  "history": [],
+  "lastActivity": "2026-08-12T00:27:58.278Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan code nodejs cjs menggunakan axios untuk proses request ini\n\nGET https://igram.site/api/instagram?url=https%3A%2F%2Fwww.instagram.com%2Freel%2FDb3nDCRzoGl%2F%3Figsh%3DajJla2l5azV0Ymxx 200\n\nRequest Headers\n\nx-locale: id\n\nResponse Headers\n\nconnection: keep-alive\ncontent-encoding: gzip\ncontent-type: application/json\ndate: Wed, 12 Aug 2026 00:27:15 GMT\npermissions-policy: camera=(), microphone=(), geolocation=()\nreferrer-policy: strict-origin-when-cross-origin\nserver: nginx\ntransfer-encoding: chunked\nvary: Accept-Encoding, rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch\nx-cache: BYPASS\nx-content-type-options: nosniff\nx-frame-options: SAMEORIGIN\nx-xss-protection: 1; mode=block\n\n{\"status\":true,\"data\":[{\"url\":\"https://media.fastdl.app/get?__sig=Qngg8b7U4zzOuKFMSwk-wQ&__expires=1786495630&uri=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Fo1%2Fv%2Ft2%2Ff2%2Fm86%2FAQN7oun4sr0he94rewrl8zCGORcTYCYumfDHAZXlQoW80tlprFBXk82iMRXEGRSI9t8u5kIwSfkaAHPTYRO3DVa_FWhfZLEAdJS9gA0.mp4%3F_nc_cat%3D101%26_nc_sid%3D5e9851%26_nc_ht%3Dscontent-iad3-1.cdninstagram.com%26_nc_ohc%3DUgiFRZhk8PMQ7kNvwEn8ZSH%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTkzNTQzMDc4MDQ2MzIxOCwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D17-1%26vs%3D1e0c0692eeb417f4%26_nc_vs%3DHBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GNzRBMDU2MERCNUNFQkNFMjk3MzE1M0JCMjAwNkY5Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EyNDEyMzY1MDYyQ0M2MDcyRjBFODE3NjhGRTRBRThGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbkocGC85DwBhUCKAJDMywXQDaj1wo9cKQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA%26_nc_gid%3DsXpIRvxmGuOZWmbB_GvJ8Q%26_nc_ss%3D7839b%26_nc_zt%3D28%26oh%3D00_AQHRISE8Xcjk08B0Sd1t37eutzFDL9X3c4mXcJyIPnF52Q%26oe%3D6A7D935A%26dl%3D1&filename=Tom%20Holland%20is%20called%20the%20king%20of%20manifestation%20because%20he%20kept%20putting%20things%20out%20there%20and%20the.mp4&ua=-&referer=https%3A%2F%2Fwww.instagram.com%2F\",\"thumbnail\":\"https://media.fastdl.app/get?__sig=eGvTRzGCLHeoIHPBcyoTLQ&__expires=1786495630&uri=https%3A%2F%2Fscontent-iad6-1.cdninstagram.com%2Fv%2Ft51.71878-15%2F773492619_918791464608153_5397519624605381607_n.jpg%3Fstp%3Ddst-jpg_e15_tt6%26_nc_cat%3D109%26ig_cache_key%3DMzk2MDgwNjEyOTcxNDIzMzc2NQ%253D%253D.3-ccb7-5%26ccb%3D7-5%26_nc_sid%3D58cdad%26efg%3DeyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9%26_nc_ohc%3DMkbQp6QITQ0Q7kNvwEAVQ7q%26_nc_oc%3DAdoY_xbUHi8CqIMVeAb9fZtqm6avAx-hHFr__QGUcfsvog3SLXlwEeQ4QL_vrSlEXijSVLKKiWrLF0nf0DkEi6ID%26_nc_zt%3D23%26_nc_ht%3Dscontent-iad6-1.cdninstagram.com%26_nc_gid%3DsXpIRvxmGuOZWmbB_GvJ8Q%26_nc_ss%3D7839b%26oh%3D00_AQELmqG17B3oj9V39sB6h9U_1diPiQyB79Q1xCtzDeKt9Q%26oe%3D6A81808A&filename=773492619_918791464608153_5397519624605381607_n.jpg\",\"type\":\"mp4\"}]}\n\nkurang lebih kode nya seperti ini:\nconst axios = require(\"axios\");\n\nasync function getData(input) {\n  try {\n    const response = await axios.post(\n      \"\",\n      {\n        url: input\n      },\n      {\n        headers: {\n          \"Content-Type\": \"application/json\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n\nNote:\njangan pernah pake \"console.log\" pake \"m.reply\" aja,\n\njangan pernah kasih komentar // ...,\n\nkirim kode nya aja jangan ada kata-kata lain dan jangan ada ...\n\n",
+      "image": null,
+      "timestamp": "2026-08-12T00:27:58.278Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```javascript\nconst axios = require(\"axios\");\n\nasync function getData(input) {\n  try {\n    const response = await axios.get(\n      \"https://igram.site/api/instagram\",\n      {\n        params: {\n          url: input\n        },\n        headers: {\n          \"x-locale\": \"id\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"https://www.instagram.com/reel/Db3nDCRzoGl/?igsh=ajJla2l5azV0Ymxx\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n```",
+      "timestamp": "2026-08-12T00:27:58.278Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
