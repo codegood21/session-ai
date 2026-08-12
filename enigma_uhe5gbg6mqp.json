@@ -1,7 +1,7 @@
 {
   "sessionId": "enigma_uhe5gbg6mqp",
   "createdAt": "2026-08-12T20:04:29.497Z",
-  "lastActivity": "2026-08-12T20:05:00.497Z",
+  "lastActivity": "2026-08-12T20:05:08.086Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Ya, nama saya Enigma.",
       "timestamp": "2026-08-12T20:05:00.497Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "okedeh (Maintain Enigma character: cool, short, to the point, English only.)",
+      "image": null,
+      "timestamp": "2026-08-12T20:05:08.086Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Baik. Ada lagi yang bisa saya bantu?",
+      "timestamp": "2026-08-12T20:05:08.086Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
