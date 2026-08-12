@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-11T07:27:13.581Z",
+  "lastActivity": "2026-08-12T12:59:12.101Z",
   "history": [
     {
       "role": "user",
@@ -674,9 +674,21 @@
       "text": "await conn.sendMessage(m.chat, {\n    product: {\n        productImage: {\n            url: \"https://mmg.whatsapp.net/o1/v/t24/f2/m232/AQOyTXMMFOZ7Igy_8iy6u3emTs4wP6sPUHND_VVXQ7b_lra3hNZJYoVtuA_Nd_ox00XIusR8KNtz-85CpIFqoLsmkWGaSHfMIHUfpUYUpw?ccb=9-4&oh=01_Q5Aa5QErWIUJ_8DSZioGqqD396fHazpfcu8GBi-Omkm59plgdg&oe=6AA25A2F&_nc_sid=e6ed6c&mms3=true\",\n            mimetype: \"image/jpeg\",\n            fileSha256: \"Y/G1JRVCORv+t+Jape3nLf70vqssM7CvVrEg3+y7fCU=\",\n            fileLength: \"49955\",\n            height: 640,\n            width: 640,\n            mediaKey: \"kAo4WXBTWHenCacIUR2menmEBAwCWUwzYuFc1CnMiZk=\",\n            fileEncSha256: \"6FuWKczEBbj1pCO5TWIKhEfjOXd9QhFfU15j2+urU0k=\",\n            directPath: \"/o1/v/t24/f2/m232/AQOyTXMMFOZ7Igy_8iy6u3emTs4wP6sPUHND_VVXQ7b_lra3hNZJYoVtuA_Nd_ox00XIusR8KNtz-85CpIFqoLsmkWGaSHfMIHUfpUYUpw?ccb=9-4&oh=01_Q5Aa5QErWIUJ_8DSZioGqqD396fHazpfcu8GBi-Omkm59plgdg&oe=6AA25A2F&_nc_sid=e6ed6c\",\n            mediaKeyTimestamp: \"1786433085\",\n            jpegThumbnail: \"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\",\n  \"contextInfo\": {\n    \"pairedMediaType\": \"NOT_PAIRED_MEDIA\"\n  }\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
       "timestamp": "2026-08-11T07:27:13.581Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"text\": \"Di sini tempatnya gak beres semua, nasgor goreng ada, drama admin juga ada. Santai aja, jangan kaku kaku wkwk\",\n  \"mtype\": \"conversation\",\n  \"id\": \"AC7B9F010DD33B9AE17E16AFD3EB55BF\",\n  \"chat\": \"120363428854245891@g.us\",\n  \"isBaileys\": false,\n  \"sender\": \"6283191939584@s.whatsapp.net\",\n  \"fromMe\": false,\n  \"mentionedJid\": [],\n  \"fakeObj\": {\n    \"key\": {\n      \"remoteJid\": \"120363428854245891@g.us\",\n      \"fromMe\": false,\n      \"id\": \"AC7B9F010DD33B9AE17E16AFD3EB55BF\"\n    },\n    \"message\": {\n      \"conversation\": \"Di sini tempatnya gak beres semua, nasgor goreng ada, drama admin juga ada. Santai aja, jangan kaku kaku wkwk\"\n    },\n    \"participant\": \"6283191939584@s.whatsapp.net\"\n  }\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-12T12:59:12.101Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, { text: 'Di sini tempatnya gak beres semua, nasgor goreng ada, drama admin juga ada. Santai aja, jangan kaku kaku wkwk' })",
+      "timestamp": "2026-08-12T12:59:12.101Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 112
+    "totalMessages": 114
   }
 }
