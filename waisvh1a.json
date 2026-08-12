@@ -1,9 +1,22 @@
 {
   "sessionId": "waisvh1a",
   "createdAt": "2026-08-12T11:54:08.316Z",
-  "lastActivity": "2026-08-12T11:54:08.316Z",
-  "history": [],
+  "lastActivity": "2026-08-12T11:54:13.183Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ini gambar apa",
+      "image": "https://cdn-alip.clutch.web.id/api/u/msq1715r.jpg",
+      "timestamp": "2026-08-12T11:54:13.183Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini adalah sebuah poster promosi yang menampilkan karakter anime bergaya chibi dengan tema dunia teknologi dan *deployment* website.\n\nElemen-elemen penting yang terlihat dalam gambar adalah:\n\n*   **Karakter Utama:** Seorang karakter anime laki-laki berkerudung ungu, mengenakan pakaian hitam dengan aksen emas, memegang bola energi ungu yang berisi ikon awan dengan panah ke atas.\n*   **Teks Utama:** \"DEPLOY BY DEPLOY BY MAZZBUDETZZ\" yang menonjol, serta slogan \"UPLOAD SEKALI, WEBSITE LANGSUNG ONLINE!\".\n*   **Proses Deployment:** Digambarkan dengan tiga ikon berurutan: \"UPLOAD HTML / ZIP\", panah, ikon \"DEPLOY ONLINE\" (bola dunia), dan bola energi awan yang dipegang karakter.\n*   **Detail Teknologi:** Terlihat latar belakang dengan kode-kode pemrograman, server, dan laptop yang menyala.\n*   **Fitur dan Dukungan:** Di sisi kanan, terdapat beberapa tombol atau indikator yang menyebutkan \"100% FREE DEPLOY\", \"VERCEL SUPPORT\", \"SUPPORT .ZIP\", \"HTML SUPPORT\", \"NETLIFY SEDANG FIX (PERBAIKAN)\", \"FAST DEPLOY\", \"AMAN & TERPERCAYA\", dan \"SIMPLE & MUDAH\".\n*   **Link Deploy:** Di bagian bawah, tertera link \"https://mazzbudetzz.biz/deploy\".\n\nSecara keseluruhan, gambar ini mempromosikan layanan atau platform bernama \"Deploy by Mazzbudetzz\" yang menawarkan kemudahan dan kecepatan dalam mengunggah atau mendeploy website secara online, serta menyoroti bahwa layanan ini gratis dan mendukung berbagai format serta platform.",
+      "timestamp": "2026-08-12T11:54:13.183Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
