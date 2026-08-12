@@ -1,9 +1,22 @@
 {
   "sessionId": "3g64mkgb",
   "createdAt": "2026-08-12T15:38:53.437Z",
-  "lastActivity": "2026-08-12T15:38:53.437Z",
-  "history": [],
+  "lastActivity": "2026-08-12T15:38:57.205Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/msq982dn.jpg",
+      "timestamp": "2026-08-12T15:38:57.205Z"
+    },
+    {
+      "role": "assistant",
+      "text": "The image displays the words \"iya kak\" in black text against a white background. The text is written in a simple, sans-serif font, with \"iya\" on the top line and \"kak\" on the bottom line. The words appear to be in Indonesian, commonly used as a polite form of address or agreement. There are no visual elements that suggest any NSFW content.\n{\"nsfw\": false, \"confidence\": 0, \"label\": \"safe\"}",
+      "timestamp": "2026-08-12T15:38:57.205Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
