@@ -1,9 +1,22 @@
 {
   "sessionId": "cbrms",
   "createdAt": "2026-08-13T11:56:51.272Z",
-  "lastActivity": "2026-08-13T11:56:51.272Z",
-  "history": [],
+  "lastActivity": "2026-08-13T11:56:52.897Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan code nodejs cjs menggunakan axios untuk proses request ini\n\nPOST https://nsfw-categorize.it/api/upload 200\n\nRequest Headers\n\nAccept: application/json, text/javascript, */*; q=0.01\nX-Requested-With: XMLHttpRequest\n\nResponse Headers\n\ncontent-length: 232\ncontent-type: application/json\ndate: Thu, 13 Aug 2026 11\nonion-location: http\nserver: gunicorn\nvia: 1.1 Caddy, 1.1 Caddy\n\n{\"data\":{\"classification\":\"porn\",\"confidence\":75.13,\"detect_time\":0.152,\"hash\":\"871b30e8afc717ba9667c8cda2b473d3293c5528\",\"nsfw\":true,\"porn\":true,\"second_pass\":{\"classification\":\"nsfw\",\"confidence\":94.2}},\"quota\":199,\"status\":\"OK\"}\n\nkurang lebih kode nya seperti ini:\nconst axios = require(\"axios\");\n\nasync function getData(input) {\n  try {\n    const response = await axios.post(\n      \"\",\n      {\n        url: input\n      },\n      {\n        headers: {\n          \"Content-Type\": \"application/json\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n\nNote:\njangan pernah pake \"console.log\" pake \"m.reply\" aja,\n\njangan pernah kasih komentar // ...,\n\nkirim kode nya aja jangan ada kata-kata lain dan jangan ada ...\n\n",
+      "image": null,
+      "timestamp": "2026-08-13T11:56:52.897Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```javascript\nconst axios = require(\"axios\");\n\nasync function getData(input) {\n  try {\n    const response = await axios.post(\n      \"https://nsfw-categorize.it/api/upload\",\n      {\n        url: input\n      },\n      {\n        headers: {\n          \"Accept\": \"application/json, text/javascript, */*; q=0.01\",\n          \"X-Requested-With\": \"XMLHttpRequest\",\n          \"Content-Type\": \"application/json\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"URL_GAMBAR_ANDA_DI_SINI\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n```",
+      "timestamp": "2026-08-13T11:56:52.897Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
