@@ -1,9 +1,22 @@
 {
   "sessionId": "b3khw7pm",
   "createdAt": "2026-08-13T09:59:24.409Z",
-  "lastActivity": "2026-08-13T09:59:24.409Z",
-  "history": [],
+  "lastActivity": "2026-08-13T09:59:25.705Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa bahasa filipinanya \"nama saya adalah\"",
+      "image": null,
+      "timestamp": "2026-08-13T09:59:25.705Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Dalam bahasa Filipina, \"nama saya adalah\" dapat diucapkan sebagai **\"Ang pangalan ko ay\"**.\n\nJika Anda ingin menyatakannya secara lebih singkat, Anda juga bisa mengatakan **\"Pangalan ko si\"** diikuti dengan nama Anda.",
+      "timestamp": "2026-08-13T09:59:25.705Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
