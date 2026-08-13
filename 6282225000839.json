@@ -1,9 +1,22 @@
 {
   "sessionId": "6282225000839",
   "createdAt": "2026-08-13T15:10:51.416Z",
-  "lastActivity": "2026-08-13T15:10:51.416Z",
-  "history": [],
+  "lastActivity": "2026-08-13T15:10:52.975Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "@109827346956434 aku bukan telkomsel",
+      "image": null,
+      "timestamp": "2026-08-13T15:10:52.975Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Saya adalah model bahasa AI yang besar, yang dilatih oleh Google.",
+      "timestamp": "2026-08-13T15:10:52.975Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
