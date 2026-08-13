@@ -1,9 +1,22 @@
 {
   "sessionId": "o9cvrn0r",
   "createdAt": "2026-08-13T12:10:16.354Z",
-  "lastActivity": "2026-08-13T12:10:16.354Z",
-  "history": [],
+  "lastActivity": "2026-08-13T12:10:18.075Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buat lebih pendek lagu nya",
+      "image": null,
+      "timestamp": "2026-08-13T12:10:18.075Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa bantu memendekkan lagunya. Tapi, saya perlu tahu dulu lagu mana yang ingin Anda perpendek.\n\nBisa tolong berikan lirik lagunya atau sebutkan judulnya? Setelah itu, saya akan coba meringkasnya agar lebih singkat dan padat tanpa menghilangkan esensi lagunya.",
+      "timestamp": "2026-08-13T12:10:18.075Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
