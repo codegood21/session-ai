@@ -1,9 +1,22 @@
 {
   "sessionId": "6ydhip96",
   "createdAt": "2026-08-13T09:30:57.965Z",
-  "lastActivity": "2026-08-13T09:30:57.965Z",
-  "history": [],
+  "lastActivity": "2026-08-13T09:30:59.747Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa type bubble message yang digunakan pada pesan diatas dan apa namanya jika ada dibot WhatsApp?",
+      "image": null,
+      "timestamp": "2026-08-13T09:30:59.747Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar tersebut menampilkan percakapan di WhatsApp dengan beberapa pesan yang dikirimkan. Tipe *bubble message* yang digunakan adalah tipe standar WhatsApp, yaitu gelembung berwarna hijau untuk pesan yang dikirim oleh pengguna dan gelembung berwarna putih untuk pesan yang diterima.\n\nJika di bot WhatsApp, *bubble message* ini biasanya disebut sebagai **pesan teks** atau **pesan biasa**. Bot WhatsApp akan menampilkan pesan dalam format yang sama seperti percakapan antar pengguna, yaitu dalam gelembung teks berwarna hijau atau putih tergantung apakah itu pesan yang dikirim oleh bot atau pesan balasan dari pengguna.",
+      "timestamp": "2026-08-13T09:30:59.747Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
