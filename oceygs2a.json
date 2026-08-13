@@ -1,9 +1,22 @@
 {
   "sessionId": "oceygs2a",
   "createdAt": "2026-08-13T14:19:20.314Z",
-  "lastActivity": "2026-08-13T14:19:20.314Z",
-  "history": [],
+  "lastActivity": "2026-08-13T14:19:22.305Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "gw lagi sedih",
+      "image": null,
+      "timestamp": "2026-08-13T14:19:22.305Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya turut sedih mendengar kamu sedang merasa sedih. Ada sesuatu yang ingin kamu ceritakan? Kadang-kadang, berbicara atau berbagi perasaan bisa sedikit membantu.\n\nKalau kamu tidak ingin bercerita, itu juga tidak apa-apa. Mungkin kamu bisa mencoba melakukan sesuatu yang biasanya membuatmu merasa lebih baik, seperti mendengarkan musik, menonton film, membaca buku, atau sekadar beristirahat.\n\nIngat, perasaan sedih itu wajar dan akan berlalu. Kalau kamu merasa sangat berat, jangan ragu untuk mencari dukungan dari teman, keluarga, atau profesional jika diperlukan.",
+      "timestamp": "2026-08-13T14:19:22.305Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
