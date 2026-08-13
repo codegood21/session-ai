@@ -1,9 +1,22 @@
 {
   "sessionId": "62882003452147",
   "createdAt": "2026-08-13T12:31:06.921Z",
-  "lastActivity": "2026-08-13T12:31:06.921Z",
-  "history": [],
+  "lastActivity": "2026-08-13T12:31:08.546Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "p",
+      "image": null,
+      "timestamp": "2026-08-13T12:31:08.546Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Sepertinya Anda hanya mengetik \"p\". Apakah ada sesuatu yang bisa saya bantu? Mungkin Anda ingin bertanya tentang sesuatu, atau ada teks atau gambar yang ingin Anda bagikan? Beri tahu saya apa yang ada di pikiran Anda!",
+      "timestamp": "2026-08-13T12:31:08.546Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
