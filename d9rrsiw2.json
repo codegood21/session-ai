@@ -1,9 +1,22 @@
 {
   "sessionId": "d9rrsiw2",
   "createdAt": "2026-08-13T09:11:12.280Z",
-  "lastActivity": "2026-08-13T09:11:12.280Z",
-  "history": [],
+  "lastActivity": "2026-08-13T09:11:13.853Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Kan tebak aja bisa gak?",
+      "image": null,
+      "timestamp": "2026-08-13T09:11:13.853Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja bisa! Saya akan mencoba menebak semampu saya. Silakan berikan tebakan Anda atau ajukan pertanyaan yang ingin ditebak. Saya siap!",
+      "timestamp": "2026-08-13T09:11:13.853Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
