@@ -1,7 +1,7 @@
 {
   "sessionId": "6283199272189",
   "createdAt": "2026-08-06T12:41:22.920Z",
-  "lastActivity": "2026-08-06T12:41:24.630Z",
+  "lastActivity": "2026-08-13T12:30:32.666Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "Saya mengerti Anda kesal karena ada batasan pada tangkapan layar (screenshot) web. Terkadang, batasan ini bisa sangat mengganggu, terutama jika Anda perlu menyimpan informasi penting atau membagikan halaman web secara lengkap.\n\nApakah ada hal spesifik yang ingin Anda lakukan dengan tangkapan layar web tersebut yang terhalang oleh batasan ini? Mungkin saya bisa memberikan saran alternatif jika Anda menjelaskan lebih lanjut.",
       "timestamp": "2026-08-06T12:41:24.630Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "crm",
+      "image": null,
+      "timestamp": "2026-08-13T12:30:32.666Z"
+    },
+    {
+      "role": "assistant",
+      "text": "CRM adalah singkatan dari **Customer Relationship Management** atau dalam Bahasa Indonesia berarti **Manajemen Hubungan Pelanggan**.\n\nSecara garis besar, CRM adalah sebuah strategi dan teknologi yang digunakan perusahaan untuk mengelola dan menganalisis interaksi dengan pelanggan saat ini dan masa lalu. Tujuannya adalah untuk meningkatkan hubungan bisnis, membantu dalam retensi pelanggan, dan mendorong pertumbuhan penjualan.\n\nBeberapa hal yang biasanya dicakup oleh sistem CRM meliputi:\n\n*   **Manajemen Kontak:** Menyimpan informasi detail tentang pelanggan dan prospek (nama, kontak, riwayat komunikasi, dll.).\n*   **Manajemen Penjualan:** Melacak prospek, peluang penjualan, dan mengelola proses penjualan dari awal hingga akhir.\n*   **Manajemen Pemasaran:** Merencanakan, mengeksekusi, dan melacak kampanye pemasaran.\n*   **Layanan Pelanggan:** Mengelola permintaan dukungan, keluhan, dan memberikan layanan purna jual.\n*   **Analisis dan Pelaporan:** Memberikan wawasan tentang perilaku pelanggan, kinerja penjualan, dan efektivitas pemasaran.\n\nApakah ada aspek CRM tertentu yang ingin Anda diskusikan lebih lanjut? Misalnya, tentang jenis-jenis CRM, manfaatnya, atau bagaimana cara memilih sistem CRM yang tepat?",
+      "timestamp": "2026-08-13T12:30:32.666Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
