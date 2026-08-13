@@ -1,9 +1,22 @@
 {
   "sessionId": "amvccm57",
   "createdAt": "2026-08-13T10:55:08.349Z",
-  "lastActivity": "2026-08-13T10:55:08.349Z",
-  "history": [],
+  "lastActivity": "2026-08-13T10:55:09.726Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa kabarr",
+      "image": null,
+      "timestamp": "2026-08-13T10:55:09.726Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Kabar baik! Ada yang bisa saya bantu hari ini?",
+      "timestamp": "2026-08-13T10:55:09.726Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
