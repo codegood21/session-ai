@@ -1,9 +1,22 @@
 {
   "sessionId": "kt0qho19",
   "createdAt": "2026-08-13T14:16:58.778Z",
-  "lastActivity": "2026-08-13T14:16:58.778Z",
-  "history": [],
+  "lastActivity": "2026-08-13T14:17:03.591Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "isukan urang ngirim kamana",
+      "image": "https://cdn-alip.clutch.web.id/api/u/msrlqltl.jpg",
+      "timestamp": "2026-08-13T14:17:03.591Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar tersebut menampilkan detail transaksi transfer uang. Terlihat bahwa uang sebesar Rp200.000 ditransfer ke Nanang Hermawan melalui rekening BRI dengan nomor 446001047621536. Status transaksi menunjukkan \"Berhasil transfer uang ke penerima\" dan rincian transaksi mencatat bahwa metode pembayaran adalah GoPay Saldo, waktu transaksi pukul 23:22 pada tanggal 09 Agu 2026. Biaya admin untuk transaksi ini adalah Rp2.000 dan gratis. Total yang dibayarkan adalah Rp200.000.\n\nDalam konteks pertanyaan Anda \"isukan urang ngirim kamana\" yang berarti \"besok kita kirim ke mana\" dalam bahasa Sunda, informasi pada gambar ini adalah detail pengiriman uang yang **sudah terjadi**, bukan rencana pengiriman di masa depan. Jadi, berdasarkan gambar ini, pengiriman uang dilakukan ke **Nanang Hermawan**.",
+      "timestamp": "2026-08-13T14:17:03.591Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
