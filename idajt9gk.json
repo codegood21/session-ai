@@ -1,9 +1,22 @@
 {
   "sessionId": "idajt9gk",
   "createdAt": "2026-08-14T17:03:49.199Z",
-  "lastActivity": "2026-08-14T17:03:49.199Z",
-  "history": [],
+  "lastActivity": "2026-08-14T17:03:50.945Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "23:49 15 menit lgi jam bro",
+      "image": null,
+      "timestamp": "2026-08-14T17:03:50.945Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Jam menunjukkan pukul 23:49, jadi sebentar lagi tepat tengah malam, yaitu pukul 00:00. Hanya tersisa 11 menit lagi, bukan 15 menit.",
+      "timestamp": "2026-08-14T17:03:50.945Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
