@@ -1,7 +1,7 @@
 {
   "sessionId": "default",
   "createdAt": "2026-07-19T14:07:58.933Z",
-  "lastActivity": "2026-08-12T12:59:12.101Z",
+  "lastActivity": "2026-08-14T05:47:14.474Z",
   "history": [
     {
       "role": "user",
@@ -686,9 +686,21 @@
       "text": "await conn.sendMessage(m.chat, { text: 'Di sini tempatnya gak beres semua, nasgor goreng ada, drama admin juga ada. Santai aja, jangan kaku kaku wkwk' })",
       "timestamp": "2026-08-12T12:59:12.101Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "{\n  \"url\": \"https://mmg.whatsapp.net/v/t62.7114-24/542709821_1758869888759481_2965212329461575652_n.enc?ccb=11-4&oh=01_Q5Aa5QHnblnvJb1c06HtuKKgsoTJKk55llg-6Y1Yq9oLwDl5KA&oe=6AA629B7&_nc_sid=5e03e0&mms3=true\",\n  \"mimetype\": \"audio/ogg; codecs=opus\",\n  \"fileSha256\": \"NoAgkyllLKAAvTbUNt5p5wOOBrwNRO3FG/i4q7FljTE=\",\n  \"fileLength\": \"689811\",\n  \"seconds\": 119,\n  \"ptt\": false,\n  \"mediaKey\": \"hwDDzhVF0IKKKHiwg9ofmOTjIPxDOhBSWJT/c56F6Q4=\",\n  \"fileEncSha256\": \"OkVySGMhntX/8RIaIYeD+uFaXbiNL2shduNGsxmcIyA=\",\n  \"directPath\": \"/v/t62.7114-24/542709821_1758869888759481_2965212329461575652_n.enc?ccb=11-4&oh=01_Q5Aa5QHnblnvJb1c06HtuKKgsoTJKk55llg-6Y1Yq9oLwDl5KA&oe=6AA629B7&_nc_sid=5e03e0&_nc_hot=1786686078\",\n  \"mediaKeyTimestamp\": \"1786686077\",\n  \"contextInfo\": {\n    \"forwardingScore\": 1,\n    \"isForwarded\": true\n  },\n  \"waveform\": \"GikqKDE3QEBQT1JIMCs2NCs/PjhRUWQxTldWVFVYWlVVVVpWW1hUWFVVVFJQVUk3LTQ7QTc7Mz5BPDAsPjQsEA==\"\n}\n\njadikan send message atau relay message\n\nseperti ini:\nawait conn.sendMessage(m.chat, ...)\nawait conn.relayMessage(m.chat, ...)\n\nkirim kode nya langsung tanpa kata-kata apapun, jangan pake ```...```",
+      "image": null,
+      "timestamp": "2026-08-14T05:47:14.474Z"
+    },
+    {
+      "role": "assistant",
+      "text": "await conn.sendMessage(m.chat, {\n    audio: {\n        url: \"https://mmg.whatsapp.net/v/t62.7114-24/542709821_1758869888759481_2965212329461575652_n.enc?ccb=11-4&oh=01_Q5Aa5QHnblnvJb1c06HtuKKgsoTJKk55llg-6Y1Yq9oLwDl5KA&oe=6AA629B7&_nc_sid=5e03e0&mms3=true\"\n    },\n    mimetype: \"audio/ogg; codecs=opus\",\n    fileSha256: \"NoAgkyllLKAAvTbUNt5p5wOOBrwNRO3FG/i4q7FljTE=\",\n    fileLength: \"689811\",\n    seconds: 119,\n    ptt: false,\n    mediaKey: \"hwDDzhVF0IKKKHiwg9ofmOTjIPxDOhBSWJT/c56F6Q4=\",\n    fileEncSha256: \"OkVySGMhntX/8RIaIYeD+uFaXbiNL2shduNGsxmcIyA=\",\n    directPath: \"/v/t62.7114-24/542709821_1758869888759481_2965212329461575652_n.enc?ccb=11-4&oh=01_Q5Aa5QHnblnvJb1c06HtuKKgsoTJKk55llg-6Y1Yq9oLwDl5KA&oe=6AA629B7&_nc_sid=5e03e0&_nc_hot=1786686078\",\n    mediaKeyTimestamp: \"1786686077\",\n    contextInfo: {\n        forwardingScore: 1,\n        isForwarded: true\n    },\n    waveform: \"GikqKDE3QEBQT1JIMCs2NCs/PjhRUWQxTldWVFVYWlVVVVpWW1hUWFVVVFJQVUk3LTQ7QTc7Mz5BPDAsPjQsEA==\"\n})",
+      "timestamp": "2026-08-14T05:47:14.474Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 114
+    "totalMessages": 116
   }
 }
