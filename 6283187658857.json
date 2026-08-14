@@ -1,9 +1,22 @@
 {
   "sessionId": "6283187658857",
   "createdAt": "2026-08-14T10:54:43.577Z",
-  "lastActivity": "2026-08-14T10:54:43.577Z",
-  "history": [],
+  "lastActivity": "2026-08-14T10:54:49.794Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ini dari baileys nya apa gmna ett dah?",
+      "image": "https://cdn.zass.in/e3xm92MLlT.png",
+      "timestamp": "2026-08-14T10:54:49.794Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar tersebut menampilkan sebuah dasbor \"System Monitor\" yang memberikan ringkasan informasi tentang kinerja sistem. Terdapat beberapa bagian utama yang menampilkan:\n\n*   **CPU Usage**: Menunjukkan penggunaan CPU sebesar 43%, dengan informasi bahwa sistem menggunakan prosesor AMD EPYC 7452 32-Core.\n*   **Memory**: Menampilkan penggunaan memori sebesar 74%, dengan total 62.8 GB, terpakai 46.5 GB, dan tersisa 16.3 GB.\n*   **Storage**: Menunjukkan penggunaan penyimpanan sebesar 13%, dengan total 1936.3 GB, terpakai 244.4 GB.\n*   **System Info**: Memberikan detail platform (LINUX, x64), Bot Uptime (7 jam 13 menit 4 detik), dan OS Uptime (15 hari 3 jam 58 menit 1 detik).\n*   **Memory Detail**: Merinci penggunaan memori lebih lanjut, seperti RSS (1.1 GB), Heap Used (840.0 MB), Heap Total (923.8 MB), dan External (27.5 MB).\n\nDi bagian atas dasbor, terdapat juga informasi tambahan seperti ID unik `afbf0d78-95b4-4737-b4c8-2946569b0ddf`, latensi `175ms`, dan versi Node.js `v20.20.2`. Di bagian bawah kiri terdapat informasi waktu `17.35.39 WIB`, dan di kanan bawah tertulis \"Powered by KyzoYamada\".\n\nPertanyaan Anda \"ini dari baileys nya apa gmna ett dah?\" kurang jelas konteksnya. Jika Anda merujuk pada \"baileys\" sebagai semacam alat atau aplikasi yang menampilkan informasi ini, maka berdasarkan teks \"Powered by KyzoYamada\" di bagian bawah, dapat disimpulkan bahwa dasbor ini dibuat atau didukung oleh KyzoYamada. Namun, tidak ada informasi spesifik mengenai \"baileys\" dalam gambar tersebut.",
+      "timestamp": "2026-08-14T10:54:49.794Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
