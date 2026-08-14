@@ -1,9 +1,22 @@
 {
   "sessionId": "p3tm8tad",
   "createdAt": "2026-08-14T05:44:42.072Z",
-  "lastActivity": "2026-08-14T05:44:42.072Z",
-  "history": [],
+  "lastActivity": "2026-08-14T05:44:46.246Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mssivnr0.jpg",
+      "timestamp": "2026-08-14T05:44:46.246Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan ilustrasi karakter anime dengan rambut putih panjang dan mata biru besar. Karakter tersebut digambarkan sedang memegang sebuah kotak persegi, mungkin sebuah ponsel atau tablet, dan menatapnya dengan ekspresi yang sedikit bingung atau termenung. Terdapat jepit rambut di rambutnya dan aksesori hitam di bagian atas kepalanya, kemungkinan pita. Gaya gambarnya adalah gaya anime chibi yang khas, dengan proporsi yang terdistorsi untuk kesan imut. Tidak ada konten yang tidak pantas atau eksplisit dalam gambar ini.",
+      "timestamp": "2026-08-14T05:44:46.246Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
