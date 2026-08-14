@@ -1,7 +1,7 @@
 {
   "sessionId": "6518400763",
   "createdAt": "2026-08-14T06:01:11.069Z",
-  "lastActivity": "2026-08-14T06:01:18.554Z",
+  "lastActivity": "2026-08-14T06:01:36.473Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Saya adalah model bahasa besar, yang dilatih oleh Google.",
       "timestamp": "2026-08-14T06:01:18.554Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Deskripsikan gambar ini",
+      "image": "https://api.telegram.org/file/bot8953461766:AAF_PZbqFVacqEcgZEOit8Ing9-4UWUPyLo/photos/file_4.jpg",
+      "timestamp": "2026-08-14T06:01:36.473Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini adalah infografis yang menjelaskan tentang perubahan fitur usulan atau ceklis Layak PIP (Program Indonesia Pintar) di Dapodik versi 2027.\n\nBeberapa elemen penting yang terlihat dalam gambar adalah:\n\n*   **Judul Utama:** \"DAPODIK VERSI 2027 FITUR USULAN / CEKLIS LAYAK PIP DIHILANGKAN..\"\n*   **Ilustrasi Keluarga:** Terdapat ilustrasi keluarga yang tampak bingung dengan pertanyaan \"Lalu Orang Tua Harus Ngapain? Ke Mana?\".\n*   **Penjelasan Inti:** Bagian ini menekankan bahwa intinya bukan mendaftar, melainkan \"Memastikan Data Masuk & Valid di 2 Tempat Ini\".\n*   **Dua Langkah Utama:**\n    1.  **Pastikan Masuk DTSEN - Data Tunggal Sosial dan Ekonomi Nasional:** Dijelaskan cara-cara untuk memastikan data masuk ke DTSEN, yaitu melapor ke RT/RW, ajukan lewat aplikasi \"Cek Bansos\" Kemensos, atau langsung ke Dinsos Kabupaten/Kota. Ada juga peringatan bahwa \"Kalau Nama Tidak Ada di DTSEN = 99% Tidak Akan Dapat PIP dan Tergantung Kuota yang Diberikan ke Sekolah Tersebut\".\n    2.  **Pastikan Data di DAPODIK/EMIS Valid:** Ini adalah tugas sekolah, namun orang tua wajib membantu mengecek. Data yang harus 100% sama dengan KK & Dukcapil meliputi NIK, Nama, Tempat Tanggal Lahir, Nama Ibu Kandung, dan Alamat. Ada peringatan bahwa \"Kalau Ada Beda 1 Huruf Aja = Gagal Sistem\".\n*   **Alur Baru PIP 2027:** Menggambarkan empat tahapan baru:\n    1.  Pusat Tarik Data dari DTSEN + DTKS + Dapodik/EMIS.\n    2.  Sistem SIPintar Seleksi Otomatis → Keluar SK.\n    3.  Penerima Sekolah Umumkan → Siswa yang namanya keluar di SK.\n    4.  Orang Tua Aktivasi ke Bank.\n*   **Ilustrasi Tambahan:** Terdapat ilustrasi anak yang meminta orang tuanya untuk dimasukkan ke sekolah, namun ada tanda silang besar dengan tulisan \"Sekolah Sudah Tidak Bisa Usul\" dan \"Tidak Bisa Usul\".\n*   **Informasi Kontak:** Di bagian bawah terdapat nama \"OTO SUBRATA, S.E., M.M., CPFM, CVFM\" dengan jabatan \"Pemerhati PIP, KIP, KJP dan BANSOS\".\n\nSecara keseluruhan, infografis ini bertujuan untuk memberikan informasi dan panduan kepada orang tua mengenai perubahan dalam proses pengusulan PIP di Dapodik versi 2027, menekankan pentingnya validasi data di dua sistem utama (DTSEN dan Dapodik/EMIS) agar anak mereka berhak menerima PIP.",
+      "timestamp": "2026-08-14T06:01:36.473Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
