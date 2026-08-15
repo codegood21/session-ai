@@ -1,9 +1,22 @@
 {
   "sessionId": "nubee2ns",
   "createdAt": "2026-08-15T02:47:25.928Z",
-  "lastActivity": "2026-08-15T02:47:25.928Z",
-  "history": [],
+  "lastActivity": "2026-08-15T02:47:27.966Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apakah kalimantan banyak dinosaurus?",
+      "image": null,
+      "timestamp": "2026-08-15T02:47:27.966Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Berdasarkan pengetahuan saya saat ini, **tidak ada bukti fosil dinosaurus yang ditemukan di Kalimantan**.\n\nKalimantan, seperti benua Asia lainnya, dulunya merupakan bagian dari Pangea dan kemudian Gondwana, namun catatan fosil yang ditemukan di pulau ini lebih banyak didominasi oleh fosil-fosil dari zaman yang berbeda, seperti fosil tumbuhan purba, moluska, dan mamalia.\n\nPenemuan fosil dinosaurus di Indonesia sebagian besar terkonsentrasi di wilayah lain, seperti di Pulau Jawa dan Sulawesi, yang memberikan gambaran tentang keberadaan dinosaurus di kepulauan Nusantara pada masa prasejarah.",
+      "timestamp": "2026-08-15T02:47:27.966Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
