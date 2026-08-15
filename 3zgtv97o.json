@@ -1,9 +1,22 @@
 {
   "sessionId": "3zgtv97o",
   "createdAt": "2026-08-15T12:39:38.666Z",
-  "lastActivity": "2026-08-15T12:39:38.666Z",
-  "history": [],
+  "lastActivity": "2026-08-15T12:39:40.125Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "1 tahun berapa hari",
+      "image": null,
+      "timestamp": "2026-08-15T12:39:40.125Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Satu tahun umumnya terdiri dari 365 hari. Namun, ada juga tahun kabisat yang memiliki 366 hari. Tahun kabisat terjadi setiap empat tahun sekali, kecuali pada tahun yang habis dibagi 100 tetapi tidak habis dibagi 400.",
+      "timestamp": "2026-08-15T12:39:40.125Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
