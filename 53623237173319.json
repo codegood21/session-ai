@@ -1,9 +1,22 @@
 {
   "sessionId": "53623237173319",
   "createdAt": "2026-08-16T07:31:10.561Z",
-  "lastActivity": "2026-08-16T07:31:10.561Z",
-  "history": [],
+  "lastActivity": "2026-08-16T07:31:12.367Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "cari lagu  i thought i saw you face today",
+      "image": null,
+      "timestamp": "2026-08-16T07:31:12.367Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, lagu yang Anda cari kemungkinan besar adalah **\"I Thought I Saw You Today\"** yang dibawakan oleh **The Lumineers**.\n\nLagu ini dirilis pada tahun 2016 sebagai bagian dari album mereka yang berjudul **Cleopatra**. \"I Thought I Saw You Today\" dikenal dengan melodi yang melankolis dan lirik yang puitis, khas dari The Lumineers.\n\nApakah Anda ingin saya mencari liriknya, atau mungkin informasi lebih lanjut tentang lagu ini?",
+      "timestamp": "2026-08-16T07:31:12.367Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
