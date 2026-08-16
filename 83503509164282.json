@@ -1,9 +1,22 @@
 {
   "sessionId": "83503509164282",
   "createdAt": "2026-08-16T05:56:01.636Z",
-  "lastActivity": "2026-08-16T05:56:01.636Z",
-  "history": [],
+  "lastActivity": "2026-08-16T05:56:03.024Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "🔐 *AKSES DITOLAK!*\n\nKamu belum terdaftar!\n\nDaftar dulu dengan:\n*.register nama.umur*\n\n📌 Contoh:\n*.register rizky.17*",
+      "image": null,
+      "timestamp": "2026-08-16T05:56:03.024Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa bantu jelaskan.\n\nGambar yang Anda berikan menampilkan sebuah pesan yang menunjukkan bahwa akses ditolak karena pengguna belum terdaftar. Untuk bisa mendaftar, pengguna diminta untuk menggunakan format perintah `.register nama.umur` dengan contoh `.register rizky.17`.\n\nJadi, intinya, Anda perlu mendaftar terlebih dahulu menggunakan format yang telah ditentukan untuk bisa mendapatkan akses.",
+      "timestamp": "2026-08-16T05:56:03.024Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
