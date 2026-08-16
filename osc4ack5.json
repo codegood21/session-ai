@@ -1,9 +1,22 @@
 {
   "sessionId": "osc4ack5",
   "createdAt": "2026-08-16T10:32:59.013Z",
-  "lastActivity": "2026-08-16T10:32:59.013Z",
-  "history": [],
+  "lastActivity": "2026-08-16T10:33:00.547Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "masakin",
+      "image": null,
+      "timestamp": "2026-08-16T10:33:00.546Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Saya siap membantu Anda memasak. Apa yang ingin Anda masak hari ini? Apakah Anda punya resep tertentu yang ingin diikuti, atau Anda ingin saya memberikan ide masakan?\n\nCeritakan saja apa yang ada di pikiran Anda, dan kita akan mulai petualangan kuliner bersama! 😊",
+      "timestamp": "2026-08-16T10:33:00.546Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
