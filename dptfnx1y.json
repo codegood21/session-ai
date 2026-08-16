@@ -1,9 +1,22 @@
 {
   "sessionId": "dptfnx1y",
   "createdAt": "2026-08-16T10:33:49.738Z",
-  "lastActivity": "2026-08-16T10:33:49.738Z",
-  "history": [],
+  "lastActivity": "2026-08-16T10:33:50.992Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "lapar",
+      "image": null,
+      "timestamp": "2026-08-16T10:33:50.992Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Sama! Ada yang bisa kubantu untuk mengatasi rasa lapar ini? Mungkin kamu ingin mencari resep masakan, rekomendasi tempat makan, atau sekadar ngobrolin makanan favorit?",
+      "timestamp": "2026-08-16T10:33:50.992Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
