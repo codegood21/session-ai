@@ -1,9 +1,22 @@
 {
   "sessionId": "7933572964",
   "createdAt": "2026-08-16T04:14:21.303Z",
-  "lastActivity": "2026-08-16T04:14:21.303Z",
-  "history": [],
+  "lastActivity": "2026-08-16T04:14:22.716Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "get number +62",
+      "image": null,
+      "timestamp": "2026-08-16T04:14:22.716Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, nomor yang diawali dengan `+62` adalah kode negara untuk Indonesia. Ini adalah awalan yang digunakan untuk panggilan internasional ke nomor telepon di Indonesia.",
+      "timestamp": "2026-08-16T04:14:22.716Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
