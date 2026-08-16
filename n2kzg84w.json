@@ -1,9 +1,22 @@
 {
   "sessionId": "n2kzg84w",
   "createdAt": "2026-08-16T11:46:46.110Z",
-  "lastActivity": "2026-08-16T11:46:46.110Z",
-  "history": [],
+  "lastActivity": "2026-08-16T11:46:53.662Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img3.pixhost.to/images/5001/759382644_nsfw-1786880804857.png",
+      "timestamp": "2026-08-16T11:46:53.662Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan adegan dari sebuah permainan video, kemungkinan besar game battle royale seperti Free Fire. Terlihat dua karakter, seorang pria dan seorang wanita, dalam pose aksi. Pria tersebut mengenakan pakaian serba putih dengan riasan wajah seperti badut, sementara wanita itu memakai pakaian serba hitam dengan kacamata. Keduanya tampak sedang berinteraksi dengan senjata futuristik yang berwarna-warni. Latar belakangnya adalah pemandangan kota fantasi yang cerah dengan elemen-elemen futuristik. Di bagian bawah layar terdapat elemen antarmuka pengguna game, termasuk nama pemain \"p1\" dan \"p2\", serta ikon-ikon lain yang umum ditemukan dalam game. Tidak ada konten yang tidak pantas atau vulgar dalam gambar ini.",
+      "timestamp": "2026-08-16T11:46:53.662Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
