@@ -1,9 +1,22 @@
 {
   "sessionId": "r4d0gevn",
   "createdAt": "2026-08-16T06:48:49.463Z",
-  "lastActivity": "2026-08-16T06:48:49.463Z",
-  "history": [],
+  "lastActivity": "2026-08-16T06:48:57.339Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "http://database.yonzofficial.cloud/img2prompt/temp/3582d7eb9ec87777b1c02de780c6003c.jpg",
+      "timestamp": "2026-08-16T06:48:57.339Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Two young women, likely performers or models, stand back-to-back against a dark, moody blue background with swirling, cloudy textures. The woman on the left has long, flowing brown hair adorned with a pink and white bow. She wears a whimsical, layered dress with a red and white plaid pattern, accented with ruffles of pink and light blue fabric. A light blue sash cinches her waist, and a thin red choker is visible around her neck. She looks directly at the viewer with a gentle smile.\n\nThe woman on the right has wavy, dark brown hair and a more serious expression as she looks slightly away from the camera. She is dressed in a striking, regal outfit. Her jacket is a deep maroon velvet with gold trim and ornate gold buttons. Underneath, she wears a white shirt with a gold chain detail. Her skirt is a multi-layered ensemble, featuring a dark maroon fabric with intricate gold embroidery, topped with a shimmering gold skirt. A brown leather belt with a buckle is visible.\n\nThe lighting is dramatic, with a strong spotlight illuminating the women from the front, creating highlights and shadows that emphasize their features and the textures of their clothing. The overall mood is theatrical and striking, with a touch of fantasy due to the elaborate costumes. The color palette is dominated by rich reds, blues, and golds, with the dark background providing contrast. The style is reminiscent of a stylized photoshoot or a scene from a performance.",
+      "timestamp": "2026-08-16T06:48:57.339Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
