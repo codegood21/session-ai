@@ -1,9 +1,22 @@
 {
   "sessionId": "gbgdx4au",
   "createdAt": "2026-08-16T13:47:25.778Z",
-  "lastActivity": "2026-08-16T13:47:25.778Z",
-  "history": [],
+  "lastActivity": "2026-08-16T13:47:28.350Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa judul soundnya?",
+      "image": null,
+      "timestamp": "2026-08-16T13:47:28.350Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar yang Anda berikan adalah tangkapan layar dari sebuah video di YouTube yang berjudul \"The Legend of Zelda: Tears of the Kingdom - Official Trailer #2\".\n\nDi dalam gambar tersebut, terlihat jelas judul video di bagian atas layar, serta thumbnail yang menampilkan karakter Link dengan latar belakang pemandangan dari game tersebut. Ada juga informasi tambahan seperti nama channel yang mengunggah video (\"The Legend of Zelda\"), jumlah penonton, dan waktu unggah.\n\nJadi, judul sound dari video tersebut adalah **The Legend of Zelda: Tears of the Kingdom - Official Trailer #2**.",
+      "timestamp": "2026-08-16T13:47:28.350Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
