@@ -1,9 +1,22 @@
 {
   "sessionId": "x4fbfest",
   "createdAt": "2026-08-16T10:33:45.390Z",
-  "lastActivity": "2026-08-16T10:33:45.390Z",
-  "history": [],
+  "lastActivity": "2026-08-16T10:33:47.298Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "kenapa",
+      "image": null,
+      "timestamp": "2026-08-16T10:33:47.298Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya siap membantu. \"Kenapa\" adalah pertanyaan yang sangat luas. Untuk memberikan jawaban yang relevan, saya perlu informasi lebih lanjut.\n\nBisa tolong beritahu saya, **\"kenapa\" mengenai apa?**\n\nMisalnya, apakah Anda bertanya kenapa:\n*   Sesuatu terjadi?\n*   Sesuatu itu seperti ini?\n*   Seseorang melakukan sesuatu?\n*   Anda merasakan sesuatu?\n*   Ada fenomena alam tertentu?\n\nSemakin spesifik Anda bertanya, semakin baik saya bisa memberikan penjelasan.",
+      "timestamp": "2026-08-16T10:33:47.298Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
