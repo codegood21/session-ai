@@ -1,9 +1,22 @@
 {
   "sessionId": "8037697464",
   "createdAt": "2026-08-16T04:15:17.857Z",
-  "lastActivity": "2026-08-16T04:15:17.857Z",
-  "history": [],
+  "lastActivity": "2026-08-16T04:15:19.231Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "get number +62",
+      "image": null,
+      "timestamp": "2026-08-16T04:15:19.231Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa bantu. Angka +62 adalah kode negara Indonesia.\n\nApakah ada hal lain yang bisa saya bantu terkait nomor tersebut? Mungkin Anda ingin tahu cara menelepon ke Indonesia, atau ada informasi spesifik lainnya yang Anda cari?",
+      "timestamp": "2026-08-16T04:15:19.231Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
