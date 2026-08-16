@@ -1,9 +1,22 @@
 {
   "sessionId": "892y6go6",
   "createdAt": "2026-08-16T10:34:18.827Z",
-  "lastActivity": "2026-08-16T10:34:18.827Z",
-  "history": [],
+  "lastActivity": "2026-08-16T10:34:20.672Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "kenapa ya",
+      "image": null,
+      "timestamp": "2026-08-16T10:34:20.672Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan coba bantu jelaskan. Tapi, untuk bisa menjawab \"kenapa ya\" dari Anda, saya perlu informasi lebih lanjut.\n\nApa yang sedang Anda pikirkan atau tanyakan? Apakah ada sesuatu yang terjadi, sebuah fenomena, atau mungkin sebuah pertanyaan spesifik yang ingin Anda ketahui alasannya?\n\nMohon berikan detailnya agar saya bisa memberikan penjelasan yang relevan.",
+      "timestamp": "2026-08-16T10:34:20.672Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
