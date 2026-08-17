@@ -1,9 +1,22 @@
 {
   "sessionId": "mvsrvs5z",
   "createdAt": "2026-08-17T17:49:51.799Z",
-  "lastActivity": "2026-08-17T17:49:51.799Z",
-  "history": [],
+  "lastActivity": "2026-08-17T17:49:57.417Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "http://database.yonzofficial.cloud/img2prompt/temp/ff5686fd769377e744fd35041ff91733.jpg",
+      "timestamp": "2026-08-17T17:49:57.416Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young East Asian woman with short black hair and glasses stands outside a cafe. She is wearing a black long-sleeved t-shirt with a graphic print and loose-fitting black pants. Her right hand is raised, resting on her head. She is looking directly at the camera with a neutral expression. The background features a brick building with large glass windows. A green door is visible to her left, and a green outdoor table and chair are to her right. Inside the cafe, through the window, a person wearing a plaid shirt can be seen. The cafe window has snowflake decorations and the word \"Bambi\" is visible on a poster inside. The lighting appears to be natural daylight, casting soft shadows. The overall color palette is dominated by black, brick red, and green, with hints of white from the decorations. The mood is casual and relaxed.",
+      "timestamp": "2026-08-17T17:49:57.417Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
