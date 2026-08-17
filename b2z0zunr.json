@@ -1,9 +1,22 @@
 {
   "sessionId": "b2z0zunr",
   "createdAt": "2026-08-17T08:14:54.104Z",
-  "lastActivity": "2026-08-17T08:14:54.104Z",
-  "history": [],
+  "lastActivity": "2026-08-17T08:14:59.965Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "http://database.yonzofficial.cloud/img2prompt/temp/56abc757ef04a52d89d0f341b1504678.jpg",
+      "timestamp": "2026-08-17T08:14:59.965Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young anime woman with long, flowing blonde hair tied into a high ponytail, bangs framing her face, and bright amber eyes. She is wearing a simple white t-shirt with a Henley neckline, a black belt with a gold buckle cinching her waist, and a loose-fitting, light brown A-line skirt. In her left hand, she holds a disposable coffee cup with a brown sleeve. Her right arm is slightly bent, and she carries two white shopping bags with brown handles slung over her left shoulder, along with a small red handbag. She is depicted from the chest down, with a slight smile and a cheerful expression. The background suggests an indoor environment, possibly a convenience store or a shopping aisle, with shelves filled with products visible behind her. The lighting is bright and even, illuminating the scene clearly. The overall color palette is soft and warm, dominated by the blonde hair, beige skirt, white shirt, and the muted tones of the background. The mood is casual, pleasant, and everyday. The art style is clean and characteristic of modern anime illustrations.",
+      "timestamp": "2026-08-17T08:14:59.965Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
