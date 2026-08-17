@@ -1,9 +1,22 @@
 {
   "sessionId": "76429362516143",
   "createdAt": "2026-08-17T05:50:30.727Z",
-  "lastActivity": "2026-08-17T05:50:30.727Z",
-  "history": [],
+  "lastActivity": "2026-08-17T05:50:32.002Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "udah di update dev?",
+      "image": null,
+      "timestamp": "2026-08-17T05:50:32.001Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya sudah diperbarui. Ada yang bisa saya bantu?",
+      "timestamp": "2026-08-17T05:50:32.002Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
