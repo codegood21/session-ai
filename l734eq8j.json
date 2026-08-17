@@ -1,9 +1,22 @@
 {
   "sessionId": "l734eq8j",
   "createdAt": "2026-08-17T13:38:57.103Z",
-  "lastActivity": "2026-08-17T13:38:57.103Z",
-  "history": [],
+  "lastActivity": "2026-08-17T13:39:01.829Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "lagu apa ini",
+      "image": "https://cdn-alip.clutch.web.id/api/u/msxa50qu.mp3",
+      "timestamp": "2026-08-17T13:39:01.829Z"
+    },
+    {
+      "role": "assistant",
+      "text": "File ini berisi metadata audio dari sebuah lagu. Berdasarkan informasi yang tertera (seperti \"LAME3.99r\"), ini adalah file MP3 yang dikodekan menggunakan LAME. File ini juga berisi informasi tentang *downbeats* dan *beats* lagu, yang merupakan indikator ritme dan ketukan.\n\nSayangnya, file ini tidak berisi informasi tentang judul lagu, artis, atau album. Metadata yang ada hanya bersifat teknis terkait struktur audio dan ritme lagu.\n\nOleh karena itu, saya tidak bisa memberitahu Anda lagu apa ini hanya dari file metadata ini.",
+      "timestamp": "2026-08-17T13:39:01.829Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
