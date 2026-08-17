@@ -1,9 +1,22 @@
 {
   "sessionId": "f9zw7ayc",
   "createdAt": "2026-08-17T17:43:21.549Z",
-  "lastActivity": "2026-08-17T17:43:21.549Z",
-  "history": [],
+  "lastActivity": "2026-08-17T17:43:27.887Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "http://database.yonzofficial.cloud/img2prompt/temp/eac0674c2d4985f9de2cbf792e97ee3a.jpg",
+      "timestamp": "2026-08-17T17:43:27.887Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A close-up portrait of a young East Asian woman with long, dark, wavy hair framing her face. She has striking makeup, featuring smoky eyeshadow in warm brown and grey tones, sharp winged eyeliner, defined eyebrows, and glossy, plump lips. A silver chain is delicately held between her teeth, draping down her chest. She is wearing a dark grey ribbed tank top with a silver emblem on the front, and a black open zip-up jacket. Her accessories include delicate silver necklaces, one with a small, sparkling pendant, and matching star-shaped dangle earrings. The background is dark and dimly lit, with a hint of a textured wall or curtain. The lighting is dramatic and moody, casting soft shadows that highlight her features and create a sense of intimacy and allure. The color palette is dominated by dark, muted tones with silver accents, emphasizing a stylish, edgy, and slightly mysterious aesthetic.",
+      "timestamp": "2026-08-17T17:43:27.887Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
