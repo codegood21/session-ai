@@ -1,9 +1,22 @@
 {
   "sessionId": "qn4698w1",
   "createdAt": "2026-08-17T01:54:05.665Z",
-  "lastActivity": "2026-08-17T01:54:05.665Z",
-  "history": [],
+  "lastActivity": "2026-08-17T01:54:07.289Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "siapakah aku",
+      "image": null,
+      "timestamp": "2026-08-17T01:54:07.289Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu mengidentifikasi Anda. Namun, untuk bisa menjawab pertanyaan \"siapakah aku\", saya memerlukan informasi lebih lanjut.\n\nBisakah Anda ceritakan sedikit tentang diri Anda? Misalnya:\n\n*   Apa yang ingin Anda ketahui tentang diri Anda?\n*   Apakah ada konteks tertentu yang membuat Anda bertanya demikian?\n*   Apakah ada informasi spesifik yang ingin Anda dapatkan?\n\nSemakin banyak detail yang Anda berikan, semakin baik saya bisa membantu Anda.",
+      "timestamp": "2026-08-17T01:54:07.289Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
