@@ -1,9 +1,22 @@
 {
   "sessionId": "3ktj33hw",
   "createdAt": "2026-08-17T04:03:14.266Z",
-  "lastActivity": "2026-08-17T04:03:14.266Z",
-  "history": [],
+  "lastActivity": "2026-08-17T04:03:17.454Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mswpkpxw.jpg",
+      "timestamp": "2026-08-17T04:03:17.454Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan antarmuka pengguna dari sebuah permainan, kemungkinan besar Mobile Legends, berdasarkan elemen visualnya. Di bagian atas terdapat tulisan \"Rank 10 Ban Mythic\", yang menunjukkan peringkat dalam permainan. Di bawahnya ada banner profil pemain dengan nama \"Wann Suka Nyoli\". Terdapat juga ikon peringkat yang berkilauan, menunjukkan tingkat tertinggi dalam permainan. Di dekat ikon profil pemain ada tulisan \"35ms\" yang kemungkinan besar adalah ping atau latensi jaringan, serta bendera Indonesia di profil pemain. Ada juga gelembung obrolan dengan teks \"mnding push smpe lrut mlm,dri pd kluar prut aplgi didlam\". Di bagian bawah layar terdapat beberapa ikon, termasuk ikon mikrofon yang dicoret dan ikon obrolan. Secara keseluruhan, gambar ini menampilkan informasi profil dan peringkat pemain dalam sebuah game online, dan tidak mengandung konten NSFW.",
+      "timestamp": "2026-08-17T04:03:17.454Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
