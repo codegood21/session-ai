@@ -1,9 +1,22 @@
 {
   "sessionId": "eos5niax",
   "createdAt": "2026-08-17T01:36:00.746Z",
-  "lastActivity": "2026-08-17T01:36:00.746Z",
-  "history": [],
+  "lastActivity": "2026-08-17T01:36:02.171Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "1 ditambah 1 berapa",
+      "image": null,
+      "timestamp": "2026-08-17T01:36:02.171Z"
+    },
+    {
+      "role": "assistant",
+      "text": "1 ditambah 1 hasilnya adalah 2.",
+      "timestamp": "2026-08-17T01:36:02.171Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
