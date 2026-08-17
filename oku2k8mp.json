@@ -1,9 +1,22 @@
 {
   "sessionId": "oku2k8mp",
   "createdAt": "2026-08-17T12:07:48.683Z",
-  "lastActivity": "2026-08-17T12:07:48.683Z",
-  "history": [],
+  "lastActivity": "2026-08-17T12:07:50.449Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa arti yamete kudasai",
+      "image": null,
+      "timestamp": "2026-08-17T12:07:50.449Z"
+    },
+    {
+      "role": "assistant",
+      "text": "\"Yamete kudasai\" (やめてください) adalah ungkapan dalam bahasa Jepang yang secara harfiah berarti \"Tolong hentikan\" atau \"Mohon berhenti\".\n\nUngkapan ini digunakan untuk meminta seseorang agar menghentikan tindakan yang sedang dilakukannya. Sifatnya sopan karena menggunakan akhiran \"-kudasai\" yang menunjukkan permintaan.\n\nDalam konteks yang berbeda, ungkapan ini bisa memiliki nuansa yang sedikit berbeda, namun inti pesannya tetap sama: meminta penghentian suatu aktivitas.",
+      "timestamp": "2026-08-17T12:07:50.449Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
