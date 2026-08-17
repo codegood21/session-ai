@@ -1,9 +1,22 @@
 {
   "sessionId": "sdwubktv",
   "createdAt": "2026-08-17T02:05:27.789Z",
-  "lastActivity": "2026-08-17T02:05:27.789Z",
-  "history": [],
+  "lastActivity": "2026-08-17T02:05:29.224Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "25-6=",
+      "image": null,
+      "timestamp": "2026-08-17T02:05:29.224Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Perhitungan yang Anda berikan adalah 25 dikurangi 6.\n\nSetelah melakukan pengurangan tersebut, hasilnya adalah **19**.",
+      "timestamp": "2026-08-17T02:05:29.224Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
