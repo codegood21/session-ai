@@ -1,9 +1,22 @@
 {
   "sessionId": "flitw",
   "createdAt": "2026-08-18T09:57:59.731Z",
-  "lastActivity": "2026-08-18T09:57:59.731Z",
-  "history": [],
+  "lastActivity": "2026-08-18T09:58:01.658Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan code nodejs cjs menggunakan axios untuk proses request ini\n\nGET https://api.microlink.io/?url=https%3A%2F%2Fkyzorohan.web.id&iframe=true&audio=true&video=true 200\n\nResponse Headers\n\ncache-control: public, must-revalidate, max-age=86399\ncontent-length: 861\ncontent-type: application/json; charset=utf-8\nserver-timing: total;dur=7748,ssrf;dur=161,fetch;dur=1556,function;dur=0,insights;dur=0,meta;dur=7374,pdf;dur=0,screenshot;dur=0,media;dur=199,purge;dur=0, cfExtPri\nx-cache-stale-ttl: false\nx-cache-status: MISS\nx-cache-ttl: 86400000\nx-fetch-mode: prerender\nx-fetch-time: 1.5s\nx-pricing-plan: free\nx-rate-limit-limit: 25\nx-rate-limit-remaining: 23\nx-rate-limit-reset: 1787133317\nx-region: iad\nx-request-id: iad:019cc0ca-019a-4078-bbc7-36333023fa12\nx-response-time: 7.7s\nx-timestamp: 1787046979501\n\n{\"status\":\"success\",\"data\":{\"iframe\":null,\"title\":\"RizkyRohan REST API\",\"description\":\"70+ endpoint AI, downloader, generator, search, dan tools siap digunakan. Daftar gratis, dapatkan API key instan, lalu langsung integrasikan ke aplikasi atau bot kamu.\",\"publisher\":\"kyzorohan.web.id\",\"lang\":\"id\",\"url\":\"https://kyzorohan.web.id/\",\"image\":{\"url\":\"https://raw.githubusercontent.com/rzkrohanmedia/cloud-backup/main/uploads/KyzoCDN_1784736604415_undefined.jpg\",\"type\":\"jpg\",\"size\":285137,\"height\":698,\"width\":1240,\"size_pretty\":\"285 kB\"},\"logo\":{\"url\":\"https://raw.githubusercontent.com/rzkrohanmedia/cloud-backup/main/uploads/KyzoCDN_1784736604415_undefined.jpg\",\"type\":\"jpg\",\"size\":285137,\"height\":698,\"width\":1240,\"size_pretty\":\"285 kB\"},\"video\":null,\"audio\":null,\"date\":null,\"author\":null},\"statusCode\":200,\"redirects\":[],\"headers\":{\"alt-svc\":\"h3=\\\":443\\\"; ma=86400\",\"cf-cache-status\":\"DYNAMIC\",\"cf-ray\":\"a2d00c194beb5e67-EWR\",\"content-encoding\":\"br\",\"content-type\":\"text/html\",\"date\":\"Tue, 18 Aug 2026 09:56:12 GMT\",\"nel\":\"{\\\"report_to\\\":\\\"cf-nel\\\",\\\"success_fraction\\\":0.0,\\\"max_age\\\":604800}\",\"priority\":\"u=0,i\",\"report-to\":\"{\\\"group\\\":\\\"cf-nel\\\",\\\"max_age\\\":604800,\\\"endpoints\\\":[{\\\"url\\\":\\\"https://a.nel.cloudflare.com/report/v4?s=iGMjVLGMLvvKM%2Bwu%2F2yhKS82UmVADoWxP7rIrLzBBdi94cB1NzGL8xxU6aMYihoZ%2BbSIZXf5lf9uJFtSwXOPtpSgYjI7Qhb3s3lfBA5nYtdpyqIVWXtPhu3qWpA8HK%2BsfDHf\\\"}]}\",\"server\":\"cloudflare\",\"server-timing\":\"cfCacheStatus;desc=\\\"DYNAMIC\\\", cfEdge;dur=15,cfOrigin;dur=51, cfExtPri\"}}\n\nkurang lebih kode nya seperti ini:\nconst axios = require(\"axios\");\n\nasync function getData(input) {\n  try {\n    const response = await axios.post(\n      \"\",\n      {\n        url: input\n      },\n      {\n        headers: {\n          \"Content-Type\": \"application/json\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n\nNote:\njangan pernah pake \"console.log\" pake \"m.reply\" aja,\n\njangan pernah kasih komentar // ...,\n\nkirim kode nya aja jangan ada kata-kata lain dan jangan ada ...\n\n",
+      "image": null,
+      "timestamp": "2026-08-18T09:58:01.657Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```javascript\nconst axios = require(\"axios\");\n\nasync function getData(input) {\n  try {\n    const response = await axios.get(\n      \"https://api.microlink.io/\",\n      {\n        params: {\n          url: input,\n          iframe: \"true\",\n          audio: \"true\",\n          video: \"true\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"https://kyzorohan.web.id\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n```",
+      "timestamp": "2026-08-18T09:58:01.658Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
