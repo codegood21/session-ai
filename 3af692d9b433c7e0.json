@@ -1,9 +1,22 @@
 {
   "sessionId": "3af692d9b433c7e0",
   "createdAt": "2026-08-18T13:32:39.849Z",
-  "lastActivity": "2026-08-18T13:32:39.849Z",
-  "history": [],
+  "lastActivity": "2026-08-18T13:32:43.787Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "haz un menu en python\n\n(Regla estricta: Responde única y exclusivamente en idioma Español).",
+      "image": null,
+      "timestamp": "2026-08-18T13:32:43.787Z"
+    },
+    {
+      "role": "assistant",
+      "text": "¡Claro! Aquí tienes un ejemplo de cómo crear un menú sencillo en Python. Este código te permitirá mostrar opciones al usuario y ejecutar diferentes acciones basadas en su elección.\n\n```python\ndef opcion_uno():\n  \"\"\"Función que se ejecuta si el usuario elige la opción 1.\"\"\"\n  print(\"¡Has elegido la opción 1! Realizando tarea A...\")\n  # Aquí puedes poner el código para la tarea 1\n\ndef opcion_dos():\n  \"\"\"Función que se ejecuta si el usuario elige la opción 2.\"\"\"\n  print(\"¡Has elegido la opción 2! Realizando tarea B...\")\n  # Aquí puedes poner el código para la tarea 2\n\ndef mostrar_menu():\n  \"\"\"Muestra las opciones del menú al usuario.\"\"\"\n  print(\"\\n--- Menú Principal ---\")\n  print(\"1. Opción Uno\")\n  print(\"2. Opción Dos\")\n  print(\"3. Salir\")\n  print(\"----------------------\")\n\ndef main():\n  \"\"\"Función principal que maneja el flujo del menú.\"\"\"\n  while True:\n    mostrar_menu()\n    eleccion = input(\"Por favor, introduce tu elección (1-3): \")\n\n    if eleccion == '1':\n      opcion_uno()\n    elif eleccion == '2':\n      opcion_dos()\n    elif eleccion == '3':\n      print(\"¡Gracias por usar el menú! ¡Hasta luego!\")\n      break  # Sale del bucle while\n    else:\n      print(\"Opción no válida. Por favor, introduce un número entre 1 y 3.\")\n\n# Ejecuta la función principal cuando el script se inicia\nif __name__ == \"__main__\":\n  main()\n```\n\n**Cómo funciona este código:**\n\n1.  **Funciones para las Opciones:**\n    *   `opcion_uno()` y `opcion_dos()`: Cada una de estas funciones representa una acción que el usuario puede realizar. Puedes reemplazar los `print()` con el código real que necesitas ejecutar para cada opción.\n\n2.  **`mostrar_menu()`:**\n    *   Esta función simplemente imprime las opciones disponibles para el usuario en la consola.\n\n3.  **`main()`:**\n    *   Este es el corazón del menú. Utiliza un bucle `while True` para que el menú se muestre repetidamente hasta que el usuario decida salir.\n    *   Dentro del bucle, llama a `mostrar_menu()` para presentar las opciones.\n    *   `input()` se usa para obtener la elección del usuario.\n    *   Se utilizan declaraciones `if`, `elif` (else if) y `else` para verificar la elección del usuario:\n        *   Si la elección es '1', llama a `opcion_uno()`.\n        *   Si la elección es '2', llama a `opcion_dos()`.\n        *   Si la elección es '3', imprime un mensaje de despedida y usa `break` para salir del bucle `while`, terminando el programa.\n        *   Si la elección no es ninguna de las anteriores, muestra un mensaje de error.\n\n4.  **`if __name__ == \"__main__\":`**\n    *   Esta es una convención común en Python. Asegura que la función `main()` solo se ejecute cuando el script se ejecuta directamente (no cuando se importa como un módulo en otro script).\n\n**Para usarlo:**\n\n1.  Guarda este código en un archivo con extensión `.py` (por ejemplo, `menu.py`).\n2.  Abre una terminal o línea de comandos.\n3.  Navega hasta el directorio donde guardaste el archivo.\n4.  Ejecuta el script con el comando: `python menu.py`\n\nVerás el menú en la consola y podrás interactuar con él. ¡Espero que te sea útil!",
+      "timestamp": "2026-08-18T13:32:43.787Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
