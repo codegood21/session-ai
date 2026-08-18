@@ -1,9 +1,22 @@
 {
   "sessionId": "6mgz3cll",
   "createdAt": "2026-08-18T05:22:07.153Z",
-  "lastActivity": "2026-08-18T05:22:07.153Z",
-  "history": [],
+  "lastActivity": "2026-08-18T05:22:08.473Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "p",
+      "image": null,
+      "timestamp": "2026-08-18T05:22:08.473Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Saya Gemini, asisten AI multimodal. Saya siap membantu Anda. Apa yang bisa saya bantu hari ini?",
+      "timestamp": "2026-08-18T05:22:08.473Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
