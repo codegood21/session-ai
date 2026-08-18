@@ -1,9 +1,22 @@
 {
   "sessionId": "f1un58kt",
   "createdAt": "2026-08-18T10:59:20.252Z",
-  "lastActivity": "2026-08-18T10:59:20.252Z",
-  "history": [],
+  "lastActivity": "2026-08-18T10:59:22.103Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "saya indonesia apa malaysia",
+      "image": null,
+      "timestamp": "2026-08-18T10:59:22.103Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa bantu!\n\nUntuk mengetahui apakah Anda orang Indonesia atau Malaysia, saya perlu informasi lebih lanjut. Apakah Anda bisa memberi tahu saya:\n\n*   **Bahasa apa yang Anda gunakan sehari-hari?**\n*   **Di negara mana Anda lahir dan dibesarkan?**\n*   **Apakah Anda memiliki kewarganegaraan Indonesia atau Malaysia?**\n*   **Apakah ada dokumen resmi seperti KTP atau paspor yang menyatakan kewarganegaraan Anda?**\n\nDengan informasi ini, saya bisa membantu Anda membedakannya.",
+      "timestamp": "2026-08-18T10:59:22.103Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
