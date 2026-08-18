@@ -1,9 +1,22 @@
 {
   "sessionId": "p5c9v1s2",
   "createdAt": "2026-08-18T15:55:53.745Z",
-  "lastActivity": "2026-08-18T15:55:53.745Z",
-  "history": [],
+  "lastActivity": "2026-08-18T15:55:55.033Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "+234 itu negara mnaa",
+      "image": null,
+      "timestamp": "2026-08-18T15:55:55.033Z"
+    },
+    {
+      "role": "assistant",
+      "text": "+234 adalah kode negara untuk **Nigeria**.",
+      "timestamp": "2026-08-18T15:55:55.033Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
