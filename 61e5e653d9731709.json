@@ -1,9 +1,22 @@
 {
   "sessionId": "61e5e653d9731709",
   "createdAt": "2026-08-18T13:34:57.700Z",
-  "lastActivity": "2026-08-18T13:34:57.700Z",
-  "history": [],
+  "lastActivity": "2026-08-18T13:35:02.774Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "haz un código en Java de un menú pequeño\n\n(Regla estricta: Responde única y exclusivamente en idioma Español).",
+      "image": null,
+      "timestamp": "2026-08-18T13:35:02.774Z"
+    },
+    {
+      "role": "assistant",
+      "text": "¡Claro! Aquí tienes un ejemplo de código Java para un menú pequeño utilizando la clase `Scanner` para la entrada del usuario y una estructura `switch` para manejar las opciones.\n\n```java\nimport java.util.Scanner;\n\npublic class MenuPequeno {\n\n    public static void main(String[] args) {\n\n        Scanner scanner = new Scanner(System.in);\n        int opcion;\n\n        do {\n            // Mostrar el menú\n            System.out.println(\"----- MENÚ PRINCIPAL -----\");\n            System.out.println(\"1. Opción A\");\n            System.out.println(\"2. Opción B\");\n            System.out.println(\"3. Opción C\");\n            System.out.println(\"0. Salir\");\n            System.out.print(\"Seleccione una opción: \");\n\n            // Leer la opción del usuario\n            opcion = scanner.nextInt();\n\n            // Procesar la opción seleccionada\n            switch (opcion) {\n                case 1:\n                    System.out.println(\"Ha seleccionado la Opción A. ¡Bien hecho!\");\n                    // Aquí puedes añadir el código para la Opción A\n                    break;\n                case 2:\n                    System.out.println(\"Ha seleccionado la Opción B. ¡Excelente!\");\n                    // Aquí puedes añadir el código para la Opción B\n                    break;\n                case 3:\n                    System.out.println(\"Ha seleccionado la Opción C. ¡Genial!\");\n                    // Aquí puedes añadir el código para la Opción C\n                    break;\n                case 0:\n                    System.out.println(\"Saliendo del programa. ¡Hasta luego!\");\n                    break;\n                default:\n                    System.out.println(\"Opción no válida. Por favor, intente de nuevo.\");\n            }\n            System.out.println(); // Línea en blanco para mejor legibilidad\n\n        } while (opcion != 0); // Repetir mientras la opción no sea 0\n\n        scanner.close(); // Cerrar el scanner al finalizar\n    }\n}\n```\n\n**Explicación del código:**\n\n1.  **`import java.util.Scanner;`**: Importa la clase `Scanner`, que se utiliza para obtener la entrada del usuario desde la consola.\n2.  **`public class MenuPequeno { ... }`**: Define la clase principal de nuestro programa.\n3.  **`public static void main(String[] args) { ... }`**: Este es el método principal donde comienza la ejecución del programa.\n4.  **`Scanner scanner = new Scanner(System.in);`**: Crea un objeto `Scanner` que leerá la entrada del sistema (teclado).\n5.  **`int opcion;`**: Declara una variable entera `opcion` para almacenar la elección del usuario.\n6.  **`do { ... } while (opcion != 0);`**: Este es un bucle `do-while`. El código dentro del `do` se ejecutará al menos una vez, y luego continuará repitiéndose mientras la condición `opcion != 0` sea verdadera (es decir, hasta que el usuario elija la opción 0 para salir).\n7.  **Mostrar el menú**: Dentro del bucle, se imprimen las opciones del menú en la consola.\n8.  **`opcion = scanner.nextInt();`**: Lee el número entero que el usuario introduce y lo guarda en la variable `opcion`.\n9.  **`switch (opcion) { ... }`**: La estructura `switch` evalúa el valor de `opcion` y ejecuta el bloque de código correspondiente a cada `case`.\n    *   **`case 1:`, `case 2:`, `case 3:`**: Estos casos manejan las opciones válidas del menú. Puedes reemplazar los `System.out.println` con la lógica específica que necesites para cada opción.\n    *   **`break;`**: Es importante usar `break` al final de cada `case` para salir del `switch` y evitar que se ejecuten los casos siguientes.\n    *   **`case 0:`**: Este caso se encarga de salir del programa.\n    *   **`default:`**: Si el usuario introduce un número que no coincide con ningún `case` (es decir, una opción no válida), se ejecuta este bloque.\n10. **`scanner.close();`**: Una vez que el bucle termina (cuando el usuario elige salir), se cierra el objeto `Scanner` para liberar los recursos del sistema.\n\nPara ejecutar este código, puedes guardarlo en un archivo llamado `MenuPequeno.java`, compilarlo con un compilador de Java (como `javac MenuPequeno.java`) y luego ejecutarlo (como `java MenuPequeno`).",
+      "timestamp": "2026-08-18T13:35:02.774Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
