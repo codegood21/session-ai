@@ -1,9 +1,22 @@
 {
   "sessionId": "hhqvh",
   "createdAt": "2026-08-19T13:52:29.000Z",
-  "lastActivity": "2026-08-19T13:52:29.000Z",
-  "history": [],
+  "lastActivity": "2026-08-19T13:52:31.155Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan code nodejs cjs menggunakan axios untuk proses request ini\n\nPOST https://api.vidssave.com/api/contentsite_api/media/parse 200\n\nRequest Data\n\nauth=20250901majwlqo&domain=api-ak.vidssave.com&origin=source&link=https%3A%2F%2Fyoutu.be%2FYs7-6_t7OEQ%3Fsi%3DiQdzNlOaD0REbHkg\n\nRequest Headers\n\nContent-Type: application/x-www-form-urlencoded\nUser-Agent: Mozilla/5.0 (Linux; Android 12; Infinix X665E Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36\nReferer: https://id.vidssave.com/home-1ey\n\nResponse Headers\n\ncontent-type: application/json; charset=utf-8\n\nkurang lebih kode nya seperti ini:\nconst axios = require(\"axios\");\n\nasync function getData(input) {\n  try {\n    const response = await axios.post(\n      \"\",\n      {\n        url: input\n      },\n      {\n        headers: {\n          \"Content-Type\": \"application/json\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n\nNote:\njangan pernah pake \"console.log\" pake \"m.reply\" aja,\n\njangan pernah kasih komentar // ...,\n\nkirim kode nya aja jangan ada kata-kata lain dan jangan ada ...\n\n",
+      "image": null,
+      "timestamp": "2026-08-19T13:52:31.155Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```javascript\nconst axios = require(\"axios\");\n\nasync function getData(link) {\n  try {\n    const response = await axios.post(\n      \"https://api.vidssave.com/api/contentsite_api/media/parse\",\n      \"auth=20250901majwlqo&domain=api-ak.vidssave.com&origin=source&link=\" + encodeURIComponent(link),\n      {\n        headers: {\n          \"Content-Type\": \"application/x-www-form-urlencoded\",\n          \"User-Agent\": \"Mozilla/5.0 (Linux; Android 12; Infinix X665E Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36\",\n          \"Referer\": \"https://id.vidssave.com/home-1ey\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"https://youtu.be/Ys7-6_t7OEQ?si=iQdzNlOaD0REbHkg\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n```",
+      "timestamp": "2026-08-19T13:52:31.155Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
