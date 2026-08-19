@@ -1,9 +1,22 @@
 {
   "sessionId": "e7k4m0m3",
   "createdAt": "2026-08-19T13:38:42.284Z",
-  "lastActivity": "2026-08-19T13:38:42.284Z",
-  "history": [],
+  "lastActivity": "2026-08-19T13:38:45.806Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img3.pixhost.to/images/5075/760672375_nsfw-1787146721346.jpg",
+      "timestamp": "2026-08-19T13:38:45.806Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nDalam gambar ini, kita melihat sebuah aplikasi ponsel yang tampaknya berfungsi sebagai pembuat pesan error palsu ala Windows. Terdapat judul \"Fake Windows Error Maker\" dan kolom teks yang berisi tulisan \"hai\". Di bawahnya ada tombol \"Generate\" berwarna ungu. Di bagian bawah layar, terlihat pratinjau hasil yang menampilkan jendela Windows Media Player dengan tulisan \"hai\" di tengahnya, disertai gambar karakter stick figure yang mengangkat kedua tangan seolah bingung. Tampilan bawah aplikasi menampilkan ikon-ikon navigasi seperti Home, History, Premium, Info, Profil, dan Store. Tidak ada konten yang tidak pantas atau vulgar dalam gambar ini.",
+      "timestamp": "2026-08-19T13:38:45.806Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
