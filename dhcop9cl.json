@@ -1,9 +1,22 @@
 {
   "sessionId": "dhcop9cl",
   "createdAt": "2026-08-19T12:05:47.232Z",
-  "lastActivity": "2026-08-19T12:05:47.232Z",
-  "history": [],
+  "lastActivity": "2026-08-19T12:05:48.739Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "berapa hasil nya",
+      "image": null,
+      "timestamp": "2026-08-19T12:05:48.739Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Mohon berikan informasi lebih lanjut atau gambar yang ingin Anda hitung. Saya perlu tahu apa yang harus dihitung untuk memberikan hasilnya.",
+      "timestamp": "2026-08-19T12:05:48.739Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
