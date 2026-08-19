@@ -1,9 +1,22 @@
 {
   "sessionId": "yllao",
   "createdAt": "2026-08-19T15:24:18.457Z",
-  "lastActivity": "2026-08-19T15:24:18.457Z",
-  "history": [],
+  "lastActivity": "2026-08-19T15:24:20.798Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "buatkan code nodejs cjs menggunakan axios untuk proses request ini\n\nPOST https://fsave.net/proxy.php 200\n\nRequest Data\n\nurl=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1EHRaSNXih%2F&dt=1787152966.e5247369.a5d935f7cd554efaee7956c7d99e5965\n\nRequest Headers\n\nContent-Type: application/x-www-form-urlencoded; charset=UTF-8\nAccept: */*\nX-Requested-With: XMLHttpRequest\n\nResponse Headers\n\nalt-svc: h3=\"\ncf-cache-status: DYNAMIC\ncf-ray: a2da28178a76ddc1-HKG\ncontent-encoding: gzip\ncontent-security-policy: frame-ancestors 'self';\ncontent-type: application/json; charset=utf-8\ndate: Wed, 19 Aug 2026 15\nnel: {\"report_to\"\npriority: u=1,i\nreferrer-policy: no-referrer-when-downgrade\nreport-to: {\"group\"\nserver: cloudflare\nserver-timing: cfExtPri\nstrict-transport-security: \"max-age=31536000; includeSubDomains; preload\" always\nvary: Accept-Encoding\nx-content-type-options: \"nosniff\" always\nx-frame-options: SAMEORIGIN\nx-proxy-cache: MISS\nx-xss-protection: \"1; mode=block\" always\n\nkurang lebih kode nya seperti ini:\nconst axios = require(\"axios\");\n\nasync function getData(input) {\n  try {\n    const response = await axios.post(\n      \"\",\n      {\n        url: input\n      },\n      {\n        headers: {\n          \"Content-Type\": \"application/json\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n\nNote:\njangan pernah pake \"console.log\" pake \"m.reply\" aja,\n\njangan pernah kasih komentar // ...,\n\nkirim kode nya aja jangan ada kata-kata lain dan jangan ada ...\n\n",
+      "image": null,
+      "timestamp": "2026-08-19T15:24:20.798Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```javascript\nconst axios = require(\"axios\");\n\nasync function getData(input) {\n  try {\n    const response = await axios.post(\n      \"https://fsave.net/proxy.php\",\n      \"url=\" + encodeURIComponent(input) + \"&dt=1787152966.e5247369.a5d935f7cd554efaee7956c7d99e5965\",\n      {\n        headers: {\n          \"Content-Type\": \"application/x-www-form-urlencoded; charset=UTF-8\",\n          \"Accept\": \"*/*\",\n          \"X-Requested-With\": \"XMLHttpRequest\"\n        }\n      }\n    );\n\n    return response.data;\n  } catch (error) {\n    return {\n      error: error.message\n    };\n  }\n}\n\ngetData(\"https://www.facebook.com/share/v/1EHRaSNXih/\")\n  .then(result => m.reply(JSON.stringify(result, null, 2)))\n  .catch(error => m.reply(error.message));\n```",
+      "timestamp": "2026-08-19T15:24:20.798Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
