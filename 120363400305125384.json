@@ -1,7 +1,7 @@
 {
   "sessionId": "120363400305125384",
   "createdAt": "2026-07-25T10:22:09.759Z",
-  "lastActivity": "2026-08-01T13:36:07.026Z",
+  "lastActivity": "2026-08-19T10:01:58.084Z",
   "history": [
     {
       "role": "user",
@@ -50,9 +50,21 @@
       "text": "Halo! Saya Furina, asisten virtualmu.\n\nDari pesan yang kamu berikan, saya memahami bahwa mereka kini menawarkan sebuah \"child panel\" untuk situs mereka, yaitu `pro.bwmxmd.co.ke`.\n\nChild panel ini digambarkan sebagai klon dari platform mereka, yang memberikan akses penuh sebagai administrator. Dengan child panel ini, kamu bisa mengatur nama situs sendiri, menggunakan domain sendiri, mengintegrasikan *payment gateway* sendiri, dan menyesuaikan harga layanan.\n\nAda dua pilihan harga yang ditawarkan:\n*   Akses 1 bulan seharga $20.\n*   Kode sumber penuh seharga $100.\n\nPenting untuk dicatat bahwa harga tersebut bisa bertambah jika kamu meminta fitur tambahan, seperti layanan penjualan data Ghana atau layanan Kenya Bingwa Sokoni.\n\nMereka juga mengingatkan untuk segera memesan karena slot terbatas, dan kamu bisa menempatkan pesanan melalui `t.me/bwmxmdtech`. Di akhir pesan, tertera nama \"BWM XMD\".",
       "timestamp": "2026-08-01T13:36:07.026Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Hello everyone,\n\nThe issue with auto-like status and anti-link not working has now been fixed. However, this fix will only apply to newly deployed bots going forward.\n\nHow to deploy\n> https://youtu.be/Ko2nPnw4nwo?si=ATCDR3PsBq2QjVT8\n\nOur website\n> pro.bwmxmd.co.ke\n\nOur app\n> apk.bwmxmd.co.ke\n\nIf you need website development services or want to learn how to build a website, visit\n> https://pro.bwmxmd.co.ke/web-development\n\nIf you need a child panel (clone of our website), visit\n> https://pro.bwmxmd.co.ke/child-panel\n\nIf you want to make real money with us, visit\n> https://pro.bwmxmd.co.ke/earn-money\n\n> BWM XMD\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-08-19T10:01:58.084Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Saya Furina, asisten virtualmu.\n\nDari pesan yang kamu kirimkan, saya mengerti bahwa ada perbaikan yang telah dilakukan terkait masalah *auto-like status* dan fitur *anti-link* yang sebelumnya tidak berfungsi. Kabar baiknya, perbaikan ini sudah selesai, namun perlu diingat bahwa perbaikan ini hanya akan berlaku untuk bot-bot yang akan di-*deploy* mulai sekarang.\n\nPesan ini juga menyertakan beberapa tautan penting:\n*   Sebuah video tutorial tentang cara *deploy* bot di `https://youtu.be/Ko2nPnw4nwo?si=ATCDR3PsBq2QjVT8`.\n*   Tautan ke situs web mereka di `pro.bwmxmd.co.ke`.\n*   Tautan untuk mengunduh aplikasi mereka di `apk.bwmxmd.co.ke`.\n*   Informasi mengenai layanan pengembangan situs web di `https://pro.bwmxmd.co.ke/web-development`.\n*   Tautan untuk mendapatkan *child panel* (klon dari situs mereka) di `https://pro.bwmxmd.co.ke/child-panel`.\n*   Dan terakhir, tautan untuk peluang menghasilkan uang bersama mereka di `https://pro.bwmxmd.co.ke/earn-money`.\n\nDi akhir pesan, tertera nama \"BWM XMD\".",
+      "timestamp": "2026-08-19T10:01:58.084Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 8
+    "totalMessages": 10
   }
 }
