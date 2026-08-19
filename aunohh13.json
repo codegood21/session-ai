@@ -1,9 +1,22 @@
 {
   "sessionId": "aunohh13",
   "createdAt": "2026-08-19T08:00:14.993Z",
-  "lastActivity": "2026-08-19T08:00:14.993Z",
-  "history": [],
+  "lastActivity": "2026-08-19T08:00:20.368Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img3.pixhost.to/images/5070/760605981_nsfw-1787126413954.png",
+      "timestamp": "2026-08-19T08:00:20.368Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nThe image shows a screenshot of a mobile messaging application. At the top, the time \"10.00\" and battery status \"70%\" are visible. Below that, there is a message bubble containing several emojis: a thumbs up, a red heart, a laughing face, a surprised face, a sad face, and a praying hands emoji, followed by a plus sign. Beneath the emojis, there's a text message that reads \"MALES NGEJAR KAMU AKU MENDING NGEJAR MASTER\" with the timestamp \"10.00\". A menu with options like \"Beri Bintang\", \"Balas\", \"Teruskan\", \"Salin\", \"Hapus\", and \"Lainnya...\" is displayed at the bottom. The content of the image is entirely safe for work and contains no nudity, pornographic material, or suggestive themes.",
+      "timestamp": "2026-08-19T08:00:20.368Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
