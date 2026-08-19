@@ -1,9 +1,22 @@
 {
   "sessionId": "se1yhjmx",
   "createdAt": "2026-08-19T12:41:28.404Z",
-  "lastActivity": "2026-08-19T12:41:28.404Z",
-  "history": [],
+  "lastActivity": "2026-08-19T12:41:30.302Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "berapa hasil nya",
+      "image": null,
+      "timestamp": "2026-08-19T12:41:30.302Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu menghitungnya. Namun, saya memerlukan informasi lebih lanjut mengenai \"hasil nya\" yang Anda maksud.\n\nApakah Anda bisa memberikan angka-angka atau soal yang perlu dihitung? Jika ada gambar yang berkaitan dengan pertanyaan Anda, silakan diunggah agar saya bisa melihatnya dan memberikan jawaban yang tepat.",
+      "timestamp": "2026-08-19T12:41:30.302Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
