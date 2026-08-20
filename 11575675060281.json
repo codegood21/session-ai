@@ -1,9 +1,22 @@
 {
   "sessionId": "11575675060281",
   "createdAt": "2026-08-20T16:43:40.485Z",
-  "lastActivity": "2026-08-20T16:43:40.485Z",
-  "history": [],
+  "lastActivity": "2026-08-20T16:43:42.014Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Info scrape",
+      "image": null,
+      "timestamp": "2026-08-20T16:43:42.014Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, apa yang bisa saya bantu scrape informasinya? Berikan saya detailnya, seperti situs web, teks, atau data lain yang ingin Anda kumpulkan.",
+      "timestamp": "2026-08-20T16:43:42.014Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
