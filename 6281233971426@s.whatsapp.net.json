@@ -1,9 +1,22 @@
 {
   "sessionId": "6281233971426@s.whatsapp.net",
   "createdAt": "2026-08-20T12:07:07.686Z",
-  "lastActivity": "2026-08-20T12:07:07.686Z",
-  "history": [],
+  "lastActivity": "2026-08-20T12:07:09.143Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ketik \". addprem 6281233971426\" hanya yang di dalam tanda kutip",
+      "image": null,
+      "timestamp": "2026-08-20T12:07:09.143Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, ini dia:\n\n\".addprem 6281233971426\"",
+      "timestamp": "2026-08-20T12:07:09.143Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
