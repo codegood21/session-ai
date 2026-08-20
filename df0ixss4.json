@@ -1,9 +1,22 @@
 {
   "sessionId": "df0ixss4",
   "createdAt": "2026-08-20T06:46:27.108Z",
-  "lastActivity": "2026-08-20T06:46:27.108Z",
-  "history": [],
+  "lastActivity": "2026-08-20T06:46:28.757Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "200ml air berapa sdm",
+      "image": null,
+      "timestamp": "2026-08-20T06:46:28.757Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Untuk mengkonversi 200 ml air ke sendok makan (sdm), kita perlu mengetahui bahwa **1 sendok makan (sdm) setara dengan sekitar 15 ml**.\n\nJadi, perhitungannya adalah:\n\n200 ml / 15 ml/sdm = **sekitar 13.3 sdm**\n\nArtinya, 200 ml air setara dengan kurang lebih 13 hingga 13.5 sendok makan.",
+      "timestamp": "2026-08-20T06:46:28.757Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
