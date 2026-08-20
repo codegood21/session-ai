@@ -1,9 +1,22 @@
 {
   "sessionId": "r4ot4rob",
   "createdAt": "2026-08-20T12:04:43.536Z",
-  "lastActivity": "2026-08-20T12:04:43.536Z",
-  "history": [],
+  "lastActivity": "2026-08-20T12:04:45.151Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu insp",
+      "image": null,
+      "timestamp": "2026-08-20T12:04:45.151Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Mohon maaf, saya memerlukan informasi lebih lanjut mengenai \"insp\" yang Anda maksud. Apakah \"insp\" merupakan singkatan dari sesuatu? Atau mungkin Anda merujuk pada sebuah konsep, istilah teknis, atau konteks tertentu?\n\nJika Anda bisa memberikan sedikit penjelasan tambahan, saya akan dengan senang hati mencoba menjawab pertanyaan Anda.",
+      "timestamp": "2026-08-20T12:04:45.151Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
