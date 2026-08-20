@@ -1,9 +1,22 @@
 {
   "sessionId": "120363375703141911@g.us_120363375703141911@g.us_1",
   "createdAt": "2026-08-20T19:26:54.126Z",
-  "lastActivity": "2026-08-20T19:26:54.126Z",
-  "history": [],
+  "lastActivity": "2026-08-20T19:26:57.117Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "quién es este personaje\n\nResponde en español",
+      "image": "https://cloud.stellarwa.xyz/62d06311e96b3cf2.jpeg",
+      "timestamp": "2026-08-20T19:26:57.117Z"
+    },
+    {
+      "role": "assistant",
+      "text": "La imagen muestra un personaje de estilo anime con cabello rosa, ojos morados y mejillas sonrosadas. El personaje está sentado frente a una computadora, con las manos sobre el teclado, y parece estar concentrado o quizás un poco aburrido. Lleva un lazo rosa y una flor en el cabello. El estilo de la imagen es simple y caricaturesco, con contornos negros gruesos y colores planos.\n\nNo hay información en la imagen que permita identificar quién es este personaje. Es posible que sea un personaje original o de alguna serie, juego o meme que no es ampliamente conocido.",
+      "timestamp": "2026-08-20T19:26:57.117Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
