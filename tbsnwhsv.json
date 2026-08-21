@@ -1,9 +1,22 @@
 {
   "sessionId": "tbsnwhsv",
   "createdAt": "2026-08-21T13:17:59.137Z",
-  "lastActivity": "2026-08-21T13:17:59.137Z",
-  "history": [],
+  "lastActivity": "2026-08-21T13:18:02.344Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mt2z5iwn.bin",
+      "timestamp": "2026-08-21T13:18:02.343Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan adegan dari sebuah animasi, kemungkinan dari kartun anak-anak. Terlihat dua karakter animasi: satu anak perempuan yang memegang dahi anak laki-laki yang lebih besar, dan anak laki-laki tersebut memakai kacamata bulat. Di bagian bawah gambar terdapat teks \"Ashadu..\". Latar belakangnya terlihat seperti interior rumah. Tidak ada konten yang tidak pantas atau vulgar dalam gambar ini.",
+      "timestamp": "2026-08-21T13:18:02.343Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
