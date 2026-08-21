@@ -1,9 +1,22 @@
 {
   "sessionId": "qt1tq7fc",
   "createdAt": "2026-08-21T13:40:55.758Z",
-  "lastActivity": "2026-08-21T13:40:55.758Z",
-  "history": [],
+  "lastActivity": "2026-08-21T13:40:57.213Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "text on",
+      "image": null,
+      "timestamp": "2026-08-21T13:40:57.213Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa membaca teks pada gambar yang Anda unggah. Silakan unggah gambarnya.",
+      "timestamp": "2026-08-21T13:40:57.213Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
