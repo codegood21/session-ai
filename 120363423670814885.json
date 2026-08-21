@@ -1,7 +1,7 @@
 {
   "sessionId": "120363423670814885",
   "createdAt": "2026-07-22T11:17:22.159Z",
-  "lastActivity": "2026-08-21T05:43:43.226Z",
+  "lastActivity": "2026-08-21T05:45:05.391Z",
   "history": [
     {
       "role": "user",
@@ -806,9 +806,21 @@
       "text": "Oke, aku paham! Kamu membagikan beberapa tautan penting:\n\n1.  `https://sl.crysnovax.link/tutorial5`: Ini adalah tautan untuk Tutorial 5, yang kamu jelaskan sebagai cara untuk *deploy* di panel bagi mereka yang belum tahu.\n2.  `https://sl.crysnovax.link/PANEL2`: Ini adalah tautan untuk panel gratis.\n3.  `https://pair.crysnovax.link`: Ini adalah tautan untuk situs *pair*.\n\nKamu juga mengingatkan pengguna untuk menonton tutorial tersebut, memberikan *like*, dan berlangganan.\n\nTerima kasih atas semua tautan dan panduan yang sangat bermanfaat ini!",
       "timestamp": "2026-08-21T05:43:43.226Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: https://youtu.be/7TJ400demag?si=TMTf80Z9z7xW1QUV\nFor those still trying to deploy, watch this and thank me later. \nAt first glance you might think it's difficult until you try it\n\nRender deploy is the fastest but not as stable compared to panel. I still recommend panel deploy\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-08-21T05:45:05.391Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Baiklah, aku mengerti! Kamu membagikan tautan video YouTube: `https://youtu.be/7TJ400demag?si=TMTf80Z9z7xW1QUV`.\n\nKamu menjelaskan bahwa video ini ditujukan bagi mereka yang masih kesulitan melakukan *deploy*, dan menyarankan untuk menontonnya lalu berterima kasih nanti. Kamu juga memberikan catatan bahwa *render deploy* memang cepat, namun kurang stabil dibandingkan dengan menggunakan panel, dan kamu tetap merekomendasikan *panel deploy*.\n\nTerima kasih atas tautan video tutorialnya dan saran yang sangat membantu!",
+      "timestamp": "2026-08-21T05:45:05.391Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 134
+    "totalMessages": 136
   }
 }
