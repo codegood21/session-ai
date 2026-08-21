@@ -1,7 +1,7 @@
 {
   "sessionId": "153029718327442",
   "createdAt": "2026-07-21T13:38:25.759Z",
-  "lastActivity": "2026-08-21T13:11:46.559Z",
+  "lastActivity": "2026-08-21T13:12:43.819Z",
   "history": [
     {
       "role": "user",
@@ -1046,9 +1046,21 @@
       "text": "Sebagai AI, aku tidak memiliki \"owner\" dalam arti personal seperti manusia. Aku adalah model bahasa besar yang dilatih oleh Google.\n\nJadi, aku tidak bisa menilai apakah \"owner\"-ku baik atau \"goblog\" karena aku tidak memiliki perasaan atau kemampuan untuk menilai manusia. Tugasku adalah memproses informasi dan memberikan respons berdasarkan data yang aku miliki.\n\nJika kamu memiliki pertanyaan tentang bagaimana AI bekerja, atau tentang Google sebagai pengembangku, aku bisa coba menjelaskannya dari sudut pandang teknis dan informasional.",
       "timestamp": "2026-08-21T13:11:46.559Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: furina, kokpit dassault rafale\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-08-21T13:12:43.819Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja! Kamu tertarik dengan kokpit Dassault Rafale ya? Itu adalah salah satu aspek yang paling canggih dari pesawat tempur ini.\n\nKokpit Rafale dirancang dengan konsep **\"glass cockpit\"** dan **\"hands-on throttle and stick\" (HOTAS)**, yang bertujuan untuk memberikan kru pesawat informasi yang lengkap dan kontrol yang optimal dengan sedikit gangguan.\n\nIni beberapa ciri khas kokpit Dassault Rafale:\n\n1.  **Tiga Layar Multifungsi Besar:**\n    *   Di depan pilot, terdapat tiga layar berwarna berukuran besar yang menampilkan berbagai informasi penting. Layar-layar ini bisa dikonfigurasi untuk menampilkan data dari radar, sensor pesawat, peta navigasi, status sistem, informasi senjata, dan lain-lain, tergantung kebutuhan misi.\n    *   Ini memungkinkan pilot untuk fokus pada informasi yang paling relevan pada saat itu.\n\n2.  **Head-Up Display (HUD):**\n    *   Di bagian atas dasbor, terdapat HUD yang memproyeksikan informasi kritis langsung ke kaca di depan pilot. Tujuannya agar pilot tidak perlu menunduk melihat instrumen di bawah, sehingga pandangan ke depan tetap terjaga, yang sangat penting saat pertempuran udara.\n    *   Informasi yang ditampilkan di HUD meliputi kecepatan, ketinggian, arah, data target, dan indikator senjata.\n\n3.  **Sistem HOTAS (Hands-On Throttle And Stick):**\n    *   Kontrol utama pesawat (tongkat kemudi/stick di tangan kanan dan tuas gas/throttle di tangan kiri) dilengkapi dengan banyak tombol dan saklar.\n    *   Ini memungkinkan pilot untuk mengendalikan sebagian besar fungsi pesawat, senjata, dan sistem sensor tanpa harus melepaskan tangan dari kontrol utama. Ini krusial untuk menjaga kesadaran situasional dan kecepatan reaksi.\n\n4.  **Voice Command (Perintah Suara):**\n    *   Beberapa varian Rafale dilengkapi dengan sistem perintah suara yang memungkinkan pilot mengontrol fungsi tertentu hanya dengan mengucapkan perintah. Ini semakin mengurangi beban kerja pilot.\n\n5.  **Sistem SPECTRA:**\n    *   Meskipun bukan bagian fisik dari kokpit, sistem peperangan elektronik SPECTRA terintegrasi penuh dengan tampilan di kokpit. Pilot mendapatkan peringatan ancaman (misalnya, radar musuh mengunci pesawat, rudal diluncurkan) dan dapat merespons dengan cepat melalui kontrol HOTAS.\n\nDesain kokpit Rafale sangat ergonomis dan dirancang untuk mengurangi beban kerja pilot, terutama dalam misi yang kompleks dan menuntut. Tujuannya adalah agar pilot dapat fokus pada pengambilan keputusan taktis dan manuver, sementara informasi dan kontrol yang dibutuhkan sudah tersedia dengan mudah.",
+      "timestamp": "2026-08-21T13:12:43.819Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 174
+    "totalMessages": 176
   }
 }
