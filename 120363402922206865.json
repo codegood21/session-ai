@@ -1,7 +1,7 @@
 {
   "sessionId": "120363402922206865",
   "createdAt": "2026-07-21T22:19:56.214Z",
-  "lastActivity": "2026-08-21T06:55:00.481Z",
+  "lastActivity": "2026-08-21T08:22:22.289Z",
   "history": [
     {
       "role": "user",
@@ -770,9 +770,21 @@
       "text": "Halo! Aku lihat kamu hanya mengirimkan centang (✓). Sepertinya ini adalah konfirmasi singkat bahwa sesuatu telah selesai, diterima, atau disetujui.\n\nAda yang bisa kubantu terkait konfirmasi ini, atau mungkin ada hal lain yang ingin kamu diskusikan?",
       "timestamp": "2026-08-21T06:55:00.481Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Will be released soon. \nNote like I said explicitly, it is an AI not a professional. You may not rely 100% during very serious situations. \n\nEmotional support/Counseling bot.\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-08-21T08:22:22.289Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Aku lihat kamu mengumumkan bahwa sesuatu akan segera dirilis, dan kamu ingin memberikan catatan penting. Kamu menekankan bahwa ini adalah sebuah AI, bukan seorang profesional, sehingga pengguna tidak bisa 100% mengandalkannya dalam situasi yang sangat serius. Kamu juga menjelaskan bahwa ini adalah \"Emotional support/Counseling bot\".\n\nIni adalah klarifikasi yang sangat penting untuk mengelola ekspektasi pengguna.\n\nAda yang bisa kubantu terkait bot dukungan emosional/konseling ini, atau mungkin ada hal lain yang ingin kamu diskusikan?",
+      "timestamp": "2026-08-21T08:22:22.289Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 128
+    "totalMessages": 130
   }
 }
