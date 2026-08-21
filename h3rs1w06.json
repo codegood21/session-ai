@@ -1,9 +1,22 @@
 {
   "sessionId": "h3rs1w06",
   "createdAt": "2026-08-21T10:30:40.807Z",
-  "lastActivity": "2026-08-21T10:30:40.807Z",
-  "history": [],
+  "lastActivity": "2026-08-21T10:30:42.840Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "tulis ulang code ini",
+      "image": null,
+      "timestamp": "2026-08-21T10:30:42.840Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa membantu menulis ulang kode tersebut. Namun, saya memerlukan kode yang ingin Anda tulis ulang terlebih dahulu.\n\nMohon **tempelkan atau unggah kode yang ingin Anda ubah** di sini, dan beri tahu saya apa yang Anda inginkan dari penulisan ulang tersebut. Misalnya, apakah Anda ingin:\n\n*   Menyederhanakan kode?\n*   Menambah fungsionalitas baru?\n*   Mengubah gaya penulisan (misalnya, menggunakan gaya yang berbeda, menambahkan komentar)?\n*   Memperbaiki bug?\n*   Mengoptimalkan kinerja?\n\nSetelah saya mendapatkan kodenya dan memahami tujuan Anda, saya akan dengan senang hati membantu menuliskannya kembali.",
+      "timestamp": "2026-08-21T10:30:42.840Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
