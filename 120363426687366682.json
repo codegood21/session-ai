@@ -1,7 +1,7 @@
 {
   "sessionId": "120363426687366682",
   "createdAt": "2026-07-22T04:47:29.634Z",
-  "lastActivity": "2026-08-20T23:38:33.536Z",
+  "lastActivity": "2026-08-21T04:22:29.832Z",
   "history": [
     {
       "role": "user",
@@ -1262,9 +1262,21 @@
       "text": "Halo! Aku Furina, siap membantumu.\n\nTerima kasih sudah membagikan informasi ini. Aku melihat ada beberapa detail yang kamu berikan:\n*   **Layanan yang Disebut**: \"sc epandstream\" - Kemungkinan ini merujuk pada sebuah *script* (sc) atau layanan yang terkait dengan \"epandstream\".\n*   **Kondisi/Fitur**: \"no db\" - Ini mungkin berarti \"no database\" atau tanpa menggunakan database.\n*   **Harga**: \"15k\" - Ini kemungkinan adalah harga dalam ribuan, jadi Rp 15.000.\n*   **Tautan Telegram**: `t.me/itsepand` - Ini adalah tautan ke channel atau grup Telegram bernama \"itsepand\", yang mungkin menyediakan informasi lebih lanjut tentang layanan ini.\n\nJadi, kamu sedang menginformasikan tentang sebuah *script* atau layanan bernama \"epandstream\" yang tidak menggunakan database, dengan harga Rp 15.000, dan tautan Telegram untuk informasi lebih lanjut.\n\nApakah ada yang bisa kubantu lebih lanjut terkait informasi ini?",
       "timestamp": "2026-08-20T23:38:33.536Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: // params : ?q=antek\n// apikey = true\n\nconst axios = require('axios');\nconst cheerio = require('cheerio');\n\nmodule.exports = {\n    category: 'Search',\n    params: ['q'],\n    desc: 'Myinstants Sound Search',\n\n    async run(req, res) {\n        const q = String(req.query.q || req.body.q || '').trim();\n\n        if (!q) {\n            return res.status(400).json({ creator: 'Nanzz', status: false, message: 'Parameter q diperlukan' });\n        }\n\n        try {\n            const response = await axios.get(`https://www.myinstants.com/en/search/`, {\n                params: { name: q },\n                headers: {\n                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36',\n                    'Accept': 'text/html'\n                }\n            });\n\n            const $ = cheerio.load(response.data);\n            const sounds = [];\n\n            $('.instant').each((_, el) => {\n                const button = $(el).find('button.small-button');\n                const onclick = button.attr('onclick') || '';\n                const title = $(el).find('.instant-link').text().trim();\n                const url = $(el).find('.instant-link').attr('href');\n\n                const mp3Match = onclick.match(/play\\('([^']+\\.mp3)'/);\n                if (mp3Match) {\n                    sounds.push({\n                        title,\n                        audio: `https://www.myinstants.com${mp3Match[1]}`,\n                        url: url ? `https://www.myinstants.com${url}` : null\n                    });\n                }\n            });\n\n            return res.json({\n                creator: 'Nanzz',\n                status: true,\n                result: {\n                    query: q,\n                    total: sounds.length,\n                    sounds\n                }\n            });\n\n        } catch (err) {\n            return res.status(500).json({ creator: 'Nanzz', status: false, message: err.message });\n        }\n    }\n};\n\nif (require.main === module) {\n    const q = process.argv[2];\n    if (!q) { console.log('Usage: node myinstants.js <query>'); process.exit(1); }\n    module.exports.run(\n        { query: { q }, body: {} },\n        { status: () => ({ json: d => console.log('\\n' + JSON.stringify(d, null, 2)) }), json: d => console.log('\\n' + JSON.stringify(d, null, 2)) }\n    );\n}\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-08-21T04:22:29.832Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Aku Furina, siap membantumu.\n\nAku melihat ini adalah sebuah kode JavaScript yang tampaknya merupakan bagian dari sebuah API atau *service* yang dibuat oleh \"Nanzz\". Kode ini berfungsi untuk melakukan pencarian suara dari situs `www.myinstants.com`.\n\nBerikut adalah rincian dari kode tersebut:\n*   **Fungsi Utama**: Kode ini bertujuan untuk mencari suara (audio) berdasarkan *query* yang diberikan.\n*   **Kategori**: `Search`.\n*   **Parameter**: Membutuhkan parameter `q` (query pencarian).\n*   **Deskripsi**: `Myinstants Sound Search`.\n*   **Cara Kerja**:\n    *   Mengambil parameter `q` dari *request* (query atau body).\n    *   Jika `q` tidak ada, akan mengembalikan respons error 400.\n    *   Menggunakan `axios` untuk melakukan GET request ke `https://www.myinstants.com/en/search/` dengan parameter `name` sesuai dengan `q`.\n    *   Menggunakan `cheerio` untuk mem-parsing data HTML dari respons.\n    *   Mencari elemen-elemen yang berisi informasi suara (title, URL, dan audio MP3) di dalam halaman HTML.\n    *   Ekstraksi informasi suara, termasuk URL MP3 yang lengkap.\n    *   Mengembalikan hasil pencarian dalam format JSON, yang berisi informasi tentang query, jumlah hasil, dan daftar suara yang ditemukan.\n    *   Jika terjadi error saat proses, akan mengembalikan respons error 500.\n*   **Creator**: Nanzz.\n*   **Bagian Eksekusi Langsung (if module)**: Terdapat blok kode yang memungkinkan script ini dijalankan langsung dari terminal dengan memberikan query sebagai argumen.\n\nSecara keseluruhan, kode ini adalah sebuah *endpoint* API yang mengambil kata kunci pencarian, mencarinya di situs Myinstants, dan mengembalikan daftar suara yang cocok beserta detailnya dalam format JSON.\n\nApakah ada yang bisa kubantu lebih lanjut terkait kode ini? Mungkin kamu ingin tahu cara menggunakannya, atau ada bagian tertentu yang ingin kamu diskusikan?",
+      "timestamp": "2026-08-21T04:22:29.832Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 210
+    "totalMessages": 212
   }
 }
