@@ -1,9 +1,22 @@
 {
   "sessionId": "2e6y0guj",
   "createdAt": "2026-08-22T12:47:23.706Z",
-  "lastActivity": "2026-08-22T12:47:23.706Z",
-  "history": [],
+  "lastActivity": "2026-08-22T12:47:27.331Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "http://database.yonzofficial.cloud/img2prompt/temp/efd123890bd257c8e8e88378cd544253.jpg",
+      "timestamp": "2026-08-22T12:47:27.331Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young East Asian woman with long, dark hair is engrossed in reading a book in a library. She is wearing a light brown collared shirt. The book she holds is open, and its cover features a stylized eye design in a lighter shade. She is positioned in the foreground, slightly to the right of the frame, and her gaze is directed downwards at the book.\n\nBehind her, bookshelves are filled with books, their spines visible and suggesting a well-stocked library. The background is softly blurred, with warm, golden-toned lighting creating a gentle, almost ethereal atmosphere. The lighting appears to be coming from the side and possibly from above, casting a warm glow on the woman and the books. The overall color palette is dominated by warm browns, oranges, and yellows, with muted tones from the books. The mood is contemplative, serene, and studious, evoking a sense of quiet immersion in knowledge. The image has a cinematic quality, with shallow depth of field focusing attention on the woman and her book, while the background elements are softly rendered.",
+      "timestamp": "2026-08-22T12:47:27.331Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
