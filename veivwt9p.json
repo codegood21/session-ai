@@ -1,9 +1,22 @@
 {
   "sessionId": "veivwt9p",
   "createdAt": "2026-08-22T08:51:29.755Z",
-  "lastActivity": "2026-08-22T08:51:29.755Z",
-  "history": [],
+  "lastActivity": "2026-08-22T08:51:33.310Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mt452p4n.bin",
+      "timestamp": "2026-08-22T08:51:33.310Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar ini menampilkan karakter kartun kucing putih yang lucu. Kucing tersebut mengenakan bando berwarna ungu dengan pita di atasnya dan gaun berwarna ungu muda dengan motif kupu-kupu. Kucing ini memiliki mata biru besar yang ekspresif, bulu halus, dan rona merah muda di pipinya. Latar belakang gambar tampak seperti interior rumah. Karakter ini terlihat ramah dan menggemaskan, tidak ada konten yang tidak pantas dalam gambar ini.",
+      "timestamp": "2026-08-22T08:51:33.310Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
