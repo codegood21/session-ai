@@ -1,9 +1,22 @@
 {
   "sessionId": "j81upmh7",
   "createdAt": "2026-08-22T06:08:24.271Z",
-  "lastActivity": "2026-08-22T06:08:24.271Z",
-  "history": [],
+  "lastActivity": "2026-08-22T06:08:25.796Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "edit",
+      "image": null,
+      "timestamp": "2026-08-22T06:08:25.796Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, apa yang ingin Anda edit? Mohon berikan detail lebih lanjut tentang apa yang perlu diubah.",
+      "timestamp": "2026-08-22T06:08:25.796Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
