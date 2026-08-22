@@ -1,9 +1,22 @@
 {
   "sessionId": "zlm878rj",
   "createdAt": "2026-08-22T12:46:44.351Z",
-  "lastActivity": "2026-08-22T12:46:44.351Z",
-  "history": [],
+  "lastActivity": "2026-08-22T12:46:47.292Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "http://database.yonzofficial.cloud/img2prompt/temp/523eb28ffdd1eb6dac83203bd14d65ba.jpg",
+      "timestamp": "2026-08-22T12:46:47.292Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A close-up, moody, low-light portrait of a young woman with long, dark, slightly messy hair covering part of her face. She has bangs that fall over her eyes. Her right hand is raised to her face, holding a cigarette between her index and middle fingers. Her fingernails are painted a deep, glossy red. A faint wisp of smoke is rising from the cigarette towards her face. The lighting is dramatic and atmospheric, with a strong, soft light source coming from the left, casting subtle shadows and highlighting her features. The background is dark and out of focus, suggesting an interior space, possibly a car or a dimly lit room, with a blurred circular light source visible in the upper left corner. The overall color palette is muted and desaturated, with a focus on dark tones, skin tones, and the vibrant red of the nails and cigarette tip. The mood is introspective, melancholic, and perhaps a little edgy. The style is reminiscent of candid, artistic photography with a cinematic quality.",
+      "timestamp": "2026-08-22T12:46:47.292Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
