@@ -1,9 +1,22 @@
 {
   "sessionId": "c7qvbhzt",
   "createdAt": "2026-08-22T16:07:29.560Z",
-  "lastActivity": "2026-08-22T16:07:29.560Z",
-  "history": [],
+  "lastActivity": "2026-08-22T16:07:33.653Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mt4kncgd.jpg",
+      "timestamp": "2026-08-22T16:07:33.653Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar tersebut menampilkan hasil pertandingan Clash Squad di game Free Fire, dengan tim \"HOWLERS\" menang melawan tim \"WARBRINGERS\" dengan skor 7-6. Di layar terlihat daftar pemain dari kedua tim beserta statistik mereka seperti K/D/A (Kill/Death/Assist) dan DMG (Damage). Terdapat juga indikator kemenangan dan logo-logo dalam game. Tidak ada konten NSFW, pornografi, atau unsur sugestif dalam gambar ini.",
+      "timestamp": "2026-08-22T16:07:33.653Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
