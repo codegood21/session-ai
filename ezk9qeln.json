@@ -1,9 +1,22 @@
 {
   "sessionId": "ezk9qeln",
   "createdAt": "2026-08-23T17:48:34.347Z",
-  "lastActivity": "2026-08-23T17:48:34.347Z",
-  "history": [],
+  "lastActivity": "2026-08-23T17:48:35.734Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apakah kamu bisa generate gambar?",
+      "image": null,
+      "timestamp": "2026-08-23T17:48:35.734Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa membuat gambar. Apa yang ingin kamu buat? Berikan saya deskripsi detailnya, dan saya akan berusaha mewujudkannya.",
+      "timestamp": "2026-08-23T17:48:35.734Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
