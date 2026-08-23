@@ -1,9 +1,22 @@
 {
   "sessionId": "dsud80a6",
   "createdAt": "2026-08-23T13:24:32.809Z",
-  "lastActivity": "2026-08-23T13:24:32.809Z",
-  "history": [],
+  "lastActivity": "2026-08-23T13:24:39.002Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "judul lagunya apa",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mt5u9og1.mp3",
+      "timestamp": "2026-08-23T13:24:39.002Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Dari informasi yang tersedia dalam metadata file, saya tidak dapat menemukan judul lagu tersebut. File tersebut tampaknya hanya berisi informasi teknis mengenai format video dan pembuatannya, bukan detail mengenai lagu yang mungkin disertakan.",
+      "timestamp": "2026-08-23T13:24:39.002Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
