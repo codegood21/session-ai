@@ -1,9 +1,22 @@
 {
   "sessionId": "11z598r0",
   "createdAt": "2026-08-23T13:27:18.894Z",
-  "lastActivity": "2026-08-23T13:27:18.894Z",
-  "history": [],
+  "lastActivity": "2026-08-23T13:27:20.269Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "bisakah anda mengerjakan tugas matematika",
+      "image": null,
+      "timestamp": "2026-08-23T13:27:20.269Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja! Saya bisa membantu Anda mengerjakan tugas matematika. Silakan berikan soal-soalnya. Saya akan berusaha sebaik mungkin untuk memberikan penjelasan dan solusi yang tepat.\n\nApakah Anda memiliki soal yang ingin Anda tanyakan sekarang?",
+      "timestamp": "2026-08-23T13:27:20.269Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
