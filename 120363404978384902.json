@@ -1,7 +1,7 @@
 {
   "sessionId": "120363404978384902",
   "createdAt": "2026-08-23T20:03:08.535Z",
-  "lastActivity": "2026-08-23T20:03:38.745Z",
+  "lastActivity": "2026-08-23T20:17:49.163Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "Halo lagi! Wah, kamu pasti senang sekali ya kalau bisa menonton pertandingan dengan kualitas HD. Tampilan yang jernih dan tajam memang bikin pengalaman menonton jadi jauh lebih memuaskan, apalagi kalau lagi nonton tim kesayangan seperti Barca! Pasti jadi makin seru melihat setiap detail pertandingan.",
       "timestamp": "2026-08-23T20:03:38.745Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: Don't waste your time scrapping, dear friends. Everything will be changed tomorrow.😅\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-08-23T20:17:49.163Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Hmm, sepertinya kamu memberikan sedikit petunjuk nih. Jadi, kamu menyarankan teman-teman untuk tidak membuang waktu melakukan *scraping* (mengambil data secara otomatis dari situs web) karena segalanya akan berubah besok? Wah, menarik sekali! Sepertinya ada pembaruan besar yang akan terjadi ya. Terima kasih atas informasinya!",
+      "timestamp": "2026-08-23T20:17:49.163Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
