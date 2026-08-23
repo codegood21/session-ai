@@ -1,7 +1,7 @@
 {
   "sessionId": "1880670451@telegram_1880670451@telegram_1",
   "createdAt": "2026-08-23T01:46:45.018Z",
-  "lastActivity": "2026-08-23T02:48:01.982Z",
+  "lastActivity": "2026-08-23T03:12:21.554Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "¡Hola! ¿En qué puedo ayudarte hoy?",
       "timestamp": "2026-08-23T02:48:01.982Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "hola\n\nResponde en español",
+      "image": null,
+      "timestamp": "2026-08-23T03:12:21.554Z"
+    },
+    {
+      "role": "assistant",
+      "text": "¡Hola! ¿En qué puedo ayudarte hoy?",
+      "timestamp": "2026-08-23T03:12:21.554Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
