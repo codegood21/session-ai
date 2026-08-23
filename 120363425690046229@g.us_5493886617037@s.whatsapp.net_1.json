@@ -1,9 +1,22 @@
 {
   "sessionId": "120363425690046229@g.us_5493886617037@s.whatsapp.net_1",
   "createdAt": "2026-08-23T22:27:26.304Z",
-  "lastActivity": "2026-08-23T22:27:26.304Z",
-  "history": [],
+  "lastActivity": "2026-08-23T22:27:28.008Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "cuál es el límite de tamaño de un documento en WhatsApp\n\nResponde en español",
+      "image": null,
+      "timestamp": "2026-08-23T22:27:28.008Z"
+    },
+    {
+      "role": "assistant",
+      "text": "WhatsApp tiene límites de tamaño para los documentos que puedes enviar, y estos varían según el tipo de archivo:\n\n*   **Documentos generales (PDF, DOC, PPT, TXT, etc.):** El límite es de **100 MB** en WhatsApp Web y Escritorio, y **16 MB** en la aplicación móvil.\n*   **Fotos y videos:** El límite es de **16 MB**.\n\nEs importante tener en cuenta que estos límites se refieren al tamaño del archivo en sí, no a la duración del video o a la cantidad de páginas del documento. Si un archivo supera estos límites, no podrás enviarlo a través de WhatsApp.",
+      "timestamp": "2026-08-23T22:27:28.008Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
