@@ -1,9 +1,22 @@
 {
   "sessionId": "5c8j0qs9",
   "createdAt": "2026-08-23T05:10:15.892Z",
-  "lastActivity": "2026-08-23T05:10:15.892Z",
-  "history": [],
+  "lastActivity": "2026-08-23T05:10:17.471Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "azan batam 23 agustus",
+      "image": null,
+      "timestamp": "2026-08-23T05:10:17.471Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, berikut adalah jadwal azan untuk Kota Batam pada tanggal 23 Agustus:\n\n**23 Agustus 2024**\n\n*   **Subuh:** 04:49\n*   **Dzuhur:** 12:11\n*   **Ashar:** 15:33\n*   **Maghrib:** 18:15\n*   **Isya:** 19:25\n\nSemoga jadwal ini bermanfaat.",
+      "timestamp": "2026-08-23T05:10:17.471Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
