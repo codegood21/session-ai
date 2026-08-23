@@ -1,9 +1,22 @@
 {
   "sessionId": "ufi6am5y",
   "createdAt": "2026-08-23T04:34:25.545Z",
-  "lastActivity": "2026-08-23T04:34:25.545Z",
-  "history": [],
+  "lastActivity": "2026-08-23T04:34:34.508Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "http://database.yonzofficial.cloud/img2prompt/temp/6b2bbbfcbb37f1e78ba68080a38cb6fb.jpg",
+      "timestamp": "2026-08-23T04:34:34.508Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young boy with short, dark, curly hair and a fresh fade haircut sits on a concrete ground, looking intently at a black smartphone he holds in his hands. He is wearing a white, long-sleeved shirt with black and white patterned trim around the collar and down the front zipper, and a dark sarong with intricate white and blue geometric patterns. Behind him, a motorcycle is parked, with its front wheel and part of the body visible. The motorcycle is white and black with blue accents on the body and a silver rim on the wheel. A silver helmet rests on the motorcycle's seat. The background shows a somewhat rustic outdoor setting with a brick wall, some foliage, and fallen leaves scattered on the ground. The lighting is bright and natural, casting distinct shadows, suggesting it's daytime. The overall color palette is a mix of muted tones from the concrete and foliage, contrasted with the crisp white of the boy's shirt and the vibrant colors of the sarong and motorcycle. The mood is casual and focused, with the boy engrossed in his device. The image has a watermark \"INFINIX GT 30\" in the bottom left corner. The style is realistic, like a candid photograph.",
+      "timestamp": "2026-08-23T04:34:34.508Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
