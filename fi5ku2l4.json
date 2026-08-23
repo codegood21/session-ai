@@ -1,9 +1,22 @@
 {
   "sessionId": "fi5ku2l4",
   "createdAt": "2026-08-23T17:27:39.885Z",
-  "lastActivity": "2026-08-23T17:27:39.885Z",
-  "history": [],
+  "lastActivity": "2026-08-23T17:27:41.198Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "tes",
+      "image": null,
+      "timestamp": "2026-08-23T17:27:41.198Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Ada yang bisa saya bantu?",
+      "timestamp": "2026-08-23T17:27:41.198Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
