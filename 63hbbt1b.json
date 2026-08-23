@@ -1,9 +1,22 @@
 {
   "sessionId": "63hbbt1b",
   "createdAt": "2026-08-23T07:37:01.874Z",
-  "lastActivity": "2026-08-23T07:37:01.874Z",
-  "history": [],
+  "lastActivity": "2026-08-23T07:37:03.353Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apakah kamu bisa buatkan saya 10 nama indo random",
+      "image": null,
+      "timestamp": "2026-08-23T07:37:03.353Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja, ini dia 10 nama Indonesia acak untukmu:\n\n1.  Bima Nugraha\n2.  Siti Aminah\n3.  Rizky Pratama\n4.  Dewi Lestari\n5.  Agus Setiawan\n6.  Putri Handayani\n7.  Ahmad Fauzi\n8.  Nurul Huda\n9.  Joko Susilo\n10. Kartika Sari",
+      "timestamp": "2026-08-23T07:37:03.353Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
