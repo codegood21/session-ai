@@ -1,9 +1,22 @@
 {
   "sessionId": "rdn1zpfx",
   "createdAt": "2026-08-23T15:28:41.623Z",
-  "lastActivity": "2026-08-23T15:28:41.623Z",
-  "history": [],
+  "lastActivity": "2026-08-23T15:28:43.128Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "kapan manga erha rilis?",
+      "image": null,
+      "timestamp": "2026-08-23T15:28:43.128Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Saya tidak dapat menemukan informasi mengenai manga berjudul \"Erha\" yang dirilis. Kemungkinan judul tersebut salah ketik, atau mungkin itu adalah manga yang sangat baru atau kurang dikenal sehingga belum banyak informasinya tersedia secara publik.\n\nApakah Anda yakin dengan judulnya? Jika ada detail lain mengenai manga tersebut, seperti nama penulis, ilustrator, atau seri yang mempublikasikannya, mungkin saya bisa membantu mencarinya.",
+      "timestamp": "2026-08-23T15:28:43.128Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
