@@ -1,9 +1,22 @@
 {
   "sessionId": "h0eo9bdl",
   "createdAt": "2026-08-23T11:55:59.997Z",
-  "lastActivity": "2026-08-23T11:55:59.997Z",
-  "history": [],
+  "lastActivity": "2026-08-23T11:56:01.769Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu desil",
+      "image": null,
+      "timestamp": "2026-08-23T11:56:01.768Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Desil adalah ukuran statistik yang membagi kumpulan data yang telah diurutkan menjadi sepuluh bagian yang sama. Setiap desil mewakili persentil tertentu dari data.\n\nSecara lebih rinci:\n\n*   **Desil Pertama (D1)**: Mewakili 10% terendah dari data.\n*   **Desil Kedua (D2)**: Mewakili 20% terendah dari data.\n*   ...\n*   **Desil Kelima (D5)**: Mewakili 50% terendah dari data, yang sama dengan median.\n*   ...\n*   **Desil Kesembilan (D9)**: Mewakili 90% terendah dari data.\n\nDesil berguna untuk memahami distribusi data dan mengidentifikasi nilai-nilai yang berada di bagian bawah, tengah, atau atas dari kumpulan data. Misalnya, jika kita berbicara tentang pendapatan, desil kesembilan akan menunjukkan tingkat pendapatan di mana 90% populasi memiliki pendapatan di bawahnya.",
+      "timestamp": "2026-08-23T11:56:01.768Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
