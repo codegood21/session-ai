@@ -1,9 +1,22 @@
 {
   "sessionId": "qs8kuavv",
   "createdAt": "2026-08-23T04:44:59.447Z",
-  "lastActivity": "2026-08-23T04:44:59.447Z",
-  "history": [],
+  "lastActivity": "2026-08-23T04:45:04.982Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mt5bpjbs.webp",
+      "timestamp": "2026-08-23T04:45:04.982Z"
+    },
+    {
+      "role": "assistant",
+      "text": "The image shows a cute puppy wearing a watermelon rind as a hat, sitting in front of a laptop. The puppy has its eyes closed and appears to be relaxed or perhaps trying to concentrate. The overall scene is lighthearted and humorous.\n\n```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```",
+      "timestamp": "2026-08-23T04:45:04.982Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
