@@ -1,9 +1,22 @@
 {
   "sessionId": "5pdfx26z",
   "createdAt": "2026-08-23T15:14:06.076Z",
-  "lastActivity": "2026-08-23T15:14:06.076Z",
-  "history": [],
+  "lastActivity": "2026-08-23T15:14:07.645Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "berapa tinggi orang Jerman?",
+      "image": null,
+      "timestamp": "2026-08-23T15:14:07.645Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tinggi rata-rata orang Jerman berbeda antara pria dan wanita.\n\nBerdasarkan data terbaru, **tinggi rata-rata pria Jerman adalah sekitar 179,9 cm**, sedangkan **tinggi rata-rata wanita Jerman adalah sekitar 166,7 cm**.\n\nPerlu diingat bahwa ini adalah angka rata-rata, dan tentu saja ada variasi individu yang signifikan. Faktor-faktor seperti genetika, nutrisi, dan gaya hidup dapat memengaruhi tinggi badan seseorang.",
+      "timestamp": "2026-08-23T15:14:07.645Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
