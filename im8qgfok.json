@@ -1,9 +1,22 @@
 {
   "sessionId": "im8qgfok",
   "createdAt": "2026-08-23T07:38:47.721Z",
-  "lastActivity": "2026-08-23T07:38:47.721Z",
-  "history": [],
+  "lastActivity": "2026-08-23T07:38:49.023Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apakah kamu tau pt epson?",
+      "image": null,
+      "timestamp": "2026-08-23T07:38:49.023Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Ya, saya tahu PT Epson. Epson adalah perusahaan elektronik multinasional Jepang yang terkenal dengan berbagai macam produk, terutama printer, proyektor, scanner, dan komponen elektronik lainnya.\n\nApakah ada hal spesifik yang ingin Anda ketahui tentang PT Epson? Mungkin tentang produk mereka, sejarahnya, atau hal lainnya?",
+      "timestamp": "2026-08-23T07:38:49.023Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
