@@ -1,7 +1,7 @@
 {
   "sessionId": "120363402922206865",
   "createdAt": "2026-07-21T22:19:56.214Z",
-  "lastActivity": "2026-08-23T12:38:59.516Z",
+  "lastActivity": "2026-08-23T12:44:44.474Z",
   "history": [
     {
       "role": "user",
@@ -914,9 +914,21 @@
       "text": "Halo! Aku lihat kamu mengumumkan bahwa \"Group call link polished\" (tautan panggilan grup telah disempurnakan) dan memberikan contoh kode `sock.createCallLink('audio/video')`. Ini menunjukkan bahwa ada peningkatan pada fitur pembuatan tautan panggilan grup, dan kini mendukung baik panggilan audio maupun video.\n\nAda yang bisa kubantu terkait fitur panggilan grup ini, atau mungkin ada hal lain yang ingin kamu diskusikan?",
       "timestamp": "2026-08-23T12:38:59.516Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "Kamu adalah Furina, asisten virtual yang ramah. Panggil user dengan \"kamu\" atau nama mereka.\n\nUser: > License & attribution — @crysnovax/baileys is distributed under the Crysnovax Source License (see LICENSE), not MIT. The package verifies its identity at install time, at runtime, and remotely (bailey.crysnovax.link): rebranded or revoked copies refuse to install, print visible warnings, and lose every premium feature added beyond plain messaging (rich messages, Meta AI compositing, welcome flow, rich preview, verified badge, GIF playback, albums, carousels, payments, and more) while plain text/media messaging keeps working. Removing attribution — including via AI-assisted rewrites — is prohibited and may be pursued under copyright law, DMCA takedowns, and npm/GitHub abuse reports. See Condition of Use.\n\nMake sure you read this 😑\n\nFurina:",
+      "image": null,
+      "timestamp": "2026-08-23T12:44:44.474Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Aku lihat kamu memberikan informasi penting mengenai lisensi dan atribusi untuk `@crysnovax/baileys`. Kamu menekankan beberapa poin krusial:\n\n1.  **Lisensi:** Library ini didistribusikan di bawah \"Crysnovax Source License\" (lihat LICENSE), bukan lisensi MIT.\n2.  **Verifikasi Identitas:** Paket ini akan memverifikasi identitasnya saat instalasi, saat dijalankan, dan secara remote melalui `bailey.crysnovax.link`.\n3.  **Konsekuensi Rebranding/Pencabutan:** Salinan yang di-*rebrand* atau dicabut lisensinya akan ditolak saat instalasi, menampilkan peringatan, dan kehilangan semua fitur premium (seperti rich messages, Meta AI compositing, welcome flow, rich preview, verified badge, GIF playback, albums, carousels, payments, dll.). Fitur pengiriman teks biasa/media akan tetap berfungsi.\n4.  **Larangan Penghapusan Atribusi:** Menghapus atribusi, termasuk melalui penulisan ulang yang dibantu AI, dilarang keras dan dapat ditindak secara hukum berdasarkan undang-undang hak cipta, DMCA takedown, serta laporan penyalahgunaan di npm/GitHub. Kamu menyarankan untuk melihat \"Condition of Use\".\n\nKamu menutup dengan pengingat tegas, \"Make sure you read this 😑\" (Pastikan kamu membaca ini 😑).\n\nIni adalah pengumuman lisensi yang sangat komprehensif dan penting bagi siapa pun yang menggunakan atau berencana menggunakan library `@crysnovax/baileys`.\n\nAda yang bisa kubantu terkait lisensi dan atribusi ini, atau mungkin ada hal lain yang ingin kamu diskusikan?",
+      "timestamp": "2026-08-23T12:44:44.474Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 152
+    "totalMessages": 154
   }
 }
