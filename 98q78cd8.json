@@ -1,9 +1,22 @@
 {
   "sessionId": "98q78cd8",
   "createdAt": "2026-08-24T17:50:25.921Z",
-  "lastActivity": "2026-08-24T17:50:25.921Z",
-  "history": [],
+  "lastActivity": "2026-08-24T17:50:27.833Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "akun orkut itu apa?",
+      "image": null,
+      "timestamp": "2026-08-24T17:50:27.833Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Orkut adalah sebuah situs jejaring sosial yang diluncurkan oleh Google pada tanggal 22 Januari 2004. Situs ini memungkinkan pengguna untuk membuat profil pribadi, mencari dan terhubung dengan teman, serta bergabung dengan berbagai komunitas berdasarkan minat yang sama. Orkut sangat populer di beberapa negara, terutama di Brazil dan India, sebelum akhirnya ditutup pada tanggal 30 September 2014.\n\nJadi, secara singkat, akun Orkut adalah akun yang Anda miliki untuk menggunakan layanan jejaring sosial Orkut.",
+      "timestamp": "2026-08-24T17:50:27.833Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
