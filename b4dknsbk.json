@@ -1,9 +1,22 @@
 {
   "sessionId": "b4dknsbk",
   "createdAt": "2026-08-24T16:10:21.450Z",
-  "lastActivity": "2026-08-24T16:10:21.450Z",
-  "history": [],
+  "lastActivity": "2026-08-24T16:10:23.180Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa kode adm4 Pontianak timur?",
+      "image": null,
+      "timestamp": "2026-08-24T16:10:23.180Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu. Berdasarkan informasi yang saya miliki, kode pos untuk Pontianak Timur adalah **78121**.",
+      "timestamp": "2026-08-24T16:10:23.180Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
