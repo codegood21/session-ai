@@ -1,7 +1,7 @@
 {
   "sessionId": "d54680f571d71202",
   "createdAt": "2026-08-24T01:57:27.051Z",
-  "lastActivity": "2026-08-24T01:57:56.687Z",
+  "lastActivity": "2026-08-24T01:58:14.583Z",
   "history": [
     {
       "role": "user",
@@ -26,9 +26,21 @@
       "text": "¡Perfecto! Ya tenemos un personaje masculino. Ahora, para darle vida a este chico anime, ¿qué te gustaría que tuviera? Pensemos en algunos detalles:\n\n*   **Su cabello:** ¿De qué color y estilo? ¿Largo, corto, despeinado, liso?\n*   **Sus ojos:** ¿De qué color y forma? ¿Expresivos, serios, alegres?\n*   **Su vestimenta:** ¿Qué tipo de ropa lleva? ¿Uniforme escolar, ropa casual, armadura, algo más fantasioso?\n*   **Su personalidad (reflejada en su apariencia):** ¿Parece tímido, aventurero, inteligente, misterioso?\n\nCon estos detalles, podremos empezar a perfilar a nuestro personaje. ¡Espero tus sugerencias!",
       "timestamp": "2026-08-24T01:57:56.687Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "ya generalo\n\n(Regla estricta: Responde única y exclusivamente en idioma Español).",
+      "image": null,
+      "timestamp": "2026-08-24T01:58:14.583Z"
+    },
+    {
+      "role": "assistant",
+      "text": "¡Entendido! Como aún no me has dado detalles específicos sobre el personaje chico (como color de pelo, ojos, vestimenta, ambiente, etc.), generaré una imagen de un chico anime genérico con un estilo clásico, para que tengas una base.\n\nAquí tienes la imagen:\n\n",
+      "timestamp": "2026-08-24T01:58:14.583Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 4
+    "totalMessages": 6
   }
 }
