@@ -1,9 +1,22 @@
 {
   "sessionId": "c3ene3hy",
   "createdAt": "2026-08-24T03:11:21.764Z",
-  "lastActivity": "2026-08-24T03:11:21.764Z",
-  "history": [],
+  "lastActivity": "2026-08-24T03:11:24.736Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img3.pixhost.to/images/5184/762134635_nsfw-1787541080791.png",
+      "timestamp": "2026-08-24T03:11:24.736Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Dalam gambar ini terdapat sebuah ilustrasi anime seorang gadis muda dengan rambut pirang dan mata hijau yang memakai seragam sekolah. Dia sedang memegang konsol game dan terlihat sedikit tersipu. Ada beberapa logo Facebook yang ditempelkan di berbagai bagian gambar, serta teks dalam bahasa Indonesia. Teks tersebut tampaknya merupakan kutipan atau meme yang berisi perbandingan antara \"cinta\" dan \"gorengan\", dengan kesimpulan bahwa memilih \"gorengan\" lebih baik karena berakhir menyenangkan dan membuat penasaran, sementara cinta berakhir dengan kesedihan.\n\n{\n\"nsfw\": false,\n\"confidence\": 10,\n\"label\": \"safe\"\n}",
+      "timestamp": "2026-08-24T03:11:24.736Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
