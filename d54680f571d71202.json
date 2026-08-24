@@ -1,7 +1,7 @@
 {
   "sessionId": "d54680f571d71202",
   "createdAt": "2026-08-24T01:57:27.051Z",
-  "lastActivity": "2026-08-24T01:57:28.831Z",
+  "lastActivity": "2026-08-24T01:57:56.687Z",
   "history": [
     {
       "role": "user",
@@ -14,9 +14,21 @@
       "text": "¡Claro! Me encantaría crear una imagen estilo anime para ti. Para poder hacerlo de la mejor manera posible, ¿podrías darme algunos detalles? Por ejemplo:\n\n*   **¿Qué tipo de personaje te gustaría?** (chico, chica, criatura, etc.)\n*   **¿Alguna característica física en particular?** (color de pelo, ojos, vestimenta, etc.)\n*   **¿Cuál sería el ambiente o la escena?** (un paisaje, un interior, acción, algo tranquilo, etc.)\n*   **¿Alguna pose o emoción específica?**\n\nCuanta más información me des, mejor podré imaginar y generar la imagen que tienes en mente. ¡Espero tus ideas!",
       "timestamp": "2026-08-24T01:57:28.831Z",
       "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "role": "user",
+      "text": "un personaje chico\n\n(Regla estricta: Responde única y exclusivamente en idioma Español).",
+      "image": null,
+      "timestamp": "2026-08-24T01:57:56.687Z"
+    },
+    {
+      "role": "assistant",
+      "text": "¡Perfecto! Ya tenemos un personaje masculino. Ahora, para darle vida a este chico anime, ¿qué te gustaría que tuviera? Pensemos en algunos detalles:\n\n*   **Su cabello:** ¿De qué color y estilo? ¿Largo, corto, despeinado, liso?\n*   **Sus ojos:** ¿De qué color y forma? ¿Expresivos, serios, alegres?\n*   **Su vestimenta:** ¿Qué tipo de ropa lleva? ¿Uniforme escolar, ropa casual, armadura, algo más fantasioso?\n*   **Su personalidad (reflejada en su apariencia):** ¿Parece tímido, aventurero, inteligente, misterioso?\n\nCon estos detalles, podremos empezar a perfilar a nuestro personaje. ¡Espero tus sugerencias!",
+      "timestamp": "2026-08-24T01:57:56.687Z",
+      "model": "gemini-2.5-flash-lite"
     }
   ],
   "metadata": {
-    "totalMessages": 2
+    "totalMessages": 4
   }
 }
