@@ -1,9 +1,22 @@
 {
   "sessionId": "kqlj88r9",
   "createdAt": "2026-08-25T01:25:48.150Z",
-  "lastActivity": "2026-08-25T01:25:48.150Z",
-  "history": [],
+  "lastActivity": "2026-08-25T01:25:51.891Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://yonzofficial.web.id/upload/1510acb89dmt7zgjyc.jpeg",
+      "timestamp": "2026-08-25T01:25:51.891Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A close-up, low-angle shot of a young woman with long, dark, slightly messy hair and bangs partially obscuring her face. She is holding a lit cigarette between her fingers, bringing it to her lips, with smoke subtly rising. Her fingernails are painted a deep red. The lighting is dramatic and moody, with a strong, diffused light source coming from the upper left, creating soft highlights on her hair and face, and casting shadows that obscure details. The background is dark and indistinct, suggesting an indoor setting, possibly a car interior or a dimly lit room. The overall color palette is desaturated, with muted tones of grey, black, and a hint of warm light. The mood is introspective, melancholic, and slightly mysterious. The image has a grainy, lo-fi aesthetic, resembling a photograph taken with a vintage camera or a low-resolution digital camera. The focus is sharp on the woman's face and hand, with a shallow depth of field blurring the background.",
+      "timestamp": "2026-08-25T01:25:51.891Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
