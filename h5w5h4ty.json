@@ -1,9 +1,22 @@
 {
   "sessionId": "h5w5h4ty",
   "createdAt": "2026-08-25T16:12:51.409Z",
-  "lastActivity": "2026-08-25T16:12:51.409Z",
-  "history": [],
+  "lastActivity": "2026-08-25T16:12:53.378Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "1+1 brp",
+      "image": null,
+      "timestamp": "2026-08-25T16:12:53.378Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini berisi tulisan tangan soal matematika sederhana, yaitu \"1+1 brp\".\n\nSoal tersebut menanyakan hasil dari penjumlahan 1 ditambah 1.\n\nJawaban dari 1+1 adalah 2.",
+      "timestamp": "2026-08-25T16:12:53.378Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
