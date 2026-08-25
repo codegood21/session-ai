@@ -1,9 +1,22 @@
 {
   "sessionId": "0240kd62",
   "createdAt": "2026-08-25T15:02:29.432Z",
-  "lastActivity": "2026-08-25T15:02:29.432Z",
-  "history": [],
+  "lastActivity": "2026-08-25T15:02:33.394Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "sebutkan linux yang untuk cracker dan tidak pasaran",
+      "image": null,
+      "timestamp": "2026-08-25T15:02:33.394Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan sebutkan beberapa distribusi Linux yang sering diasosiasikan dengan dunia *penetration testing* dan keamanan siber, yang mungkin tidak sepopuler distribusi umum seperti Ubuntu atau Fedora. Distribusi-distribusi ini biasanya sudah dilengkapi dengan berbagai *tool* keamanan yang siap pakai, sehingga sangat memudahkan para *ethical hacker* atau peneliti keamanan.\n\nBeberapa di antaranya adalah:\n\n1.  **Kali Linux**: Ini mungkin yang paling terkenal di kalangan *cracker* (atau lebih tepatnya *penetration tester* dan *security researcher*). Meskipun cukup populer, Kali tetaplah distribusi yang sangat spesifik untuk tujuan keamanan. Ia dikembangkan oleh Offensive Security dan menyediakan ratusan *tool* untuk *forensics*, *penetration testing*, *reverse engineering*, dan *vulnerability assessment*.\n\n2.  **Parrot Security OS**: Mirip dengan Kali, Parrot OS juga menawarkan lingkungan yang kaya akan *tool* keamanan. Kelebihannya, Parrot juga dirancang untuk menjadi sistem operasi yang ringan dan cepat, serta memiliki fokus pada privasi dan anonimitas. Ia cocok untuk *penetration testing*, *digital forensics*, *reverse engineering*, dan *cloud penetration testing*.\n\n3.  **BlackArch Linux**: Ini adalah distribusi berbasis Arch Linux yang ditujukan untuk para profesional keamanan dan peneliti. BlackArch memiliki repositori yang sangat besar, berisi ribuan *tool* keamanan yang bisa diinstal sesuai kebutuhan. Karena berbasis Arch, ia menawarkan fleksibilitas dan kemudahan kustomisasi yang tinggi.\n\n4.  **Cyborg Hawk Linux**: Distribusi ini juga berfokus pada pengujian penetrasi dan analisis keamanan digital. Cyborg Hawk hadir dengan antarmuka yang ramah pengguna dan dilengkapi dengan berbagai alat canggih.\n\n5.  **Pentoo**: Ini adalah live CD/USB yang berbasis Gentoo Linux. Pentoo dirancang khusus untuk pengujian penetrasi dan audit keamanan. Keunggulannya adalah ia berbasis Gentoo, yang berarti pengguna bisa mengompilasi semuanya dari sumbernya, memberikan kontrol penuh atas sistem.\n\nDistribusi-distribusi di atas seringkali tidak digunakan sebagai sistem operasi utama sehari-hari oleh kebanyakan orang, melainkan lebih sebagai alat kerja spesifik untuk tugas-tugas yang berkaitan dengan keamanan siber. Pilihan mana yang \"tidak pasaran\" akan sangat bergantung pada siapa Anda bertanya, karena di komunitas keamanan siber, distribusi seperti Kali dan Parrot sudah cukup dikenal. Namun, dibandingkan dengan distribusi desktop umum, mereka jelas lebih spesifik dan tidak umum digunakan.",
+      "timestamp": "2026-08-25T15:02:33.394Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
