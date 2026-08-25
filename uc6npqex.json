@@ -1,9 +1,22 @@
 {
   "sessionId": "uc6npqex",
   "createdAt": "2026-08-25T13:50:11.118Z",
-  "lastActivity": "2026-08-25T13:50:11.118Z",
-  "history": [],
+  "lastActivity": "2026-08-25T13:50:16.507Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img3.pixhost.to/images/5218/762579640_nsfw-1787665810138.png",
+      "timestamp": "2026-08-25T13:50:16.507Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar tersebut menampilkan sebuah sketsa kucing yang digambar di atas kertas bergaris kotak-kotak. Sketsa ini menggunakan tinta biru dan hitam serta sedikit arsiran pensil. Kucing tersebut digambarkan dengan mata oval, hidung kecil, dan kumis. Ada garis-garis biru yang meliuk-liuk di sekitar kepala kucing, mungkin dimaksudkan untuk merepresentasikan sesuatu seperti kilat atau energi. Tidak ada konten NSFW atau sugestif dalam gambar ini.",
+      "timestamp": "2026-08-25T13:50:16.507Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
