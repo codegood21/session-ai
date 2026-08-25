@@ -1,9 +1,22 @@
 {
   "sessionId": "243903089369309",
   "createdAt": "2026-08-25T00:54:07.550Z",
-  "lastActivity": "2026-08-25T00:54:07.550Z",
-  "history": [],
+  "lastActivity": "2026-08-25T00:54:09.015Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Ha em pe ha",
+      "image": null,
+      "timestamp": "2026-08-25T00:54:09.015Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar yang Anda berikan adalah sebuah logo, yaitu logo dari \"H&M\". H&M adalah sebuah perusahaan ritel pakaian multinasional asal Swedia yang terkenal dengan pakaian bergaya, berkualitas baik, dan dengan harga terjangkau. Logo ini terdiri dari huruf \"H\" dan \"M\" yang digabungkan dengan gaya yang khas dan modern.",
+      "timestamp": "2026-08-25T00:54:09.015Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
