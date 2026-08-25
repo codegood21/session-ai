@@ -1,9 +1,22 @@
 {
   "sessionId": "jj7isdki",
   "createdAt": "2026-08-25T01:26:32.364Z",
-  "lastActivity": "2026-08-25T01:26:32.364Z",
-  "history": [],
+  "lastActivity": "2026-08-25T01:26:35.153Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://yonzofficial.web.id/upload/1510acb89dmt7zgjyc.jpeg",
+      "timestamp": "2026-08-25T01:26:35.153Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A close-up, profile shot of a young woman with long, dark hair and bangs, smoking a cigarette. Her eyes are closed, and her face is partially obscured by her hair and the smoke. Her hand, with bright red nail polish, is bringing the cigarette to her lips. The lighting is dim and moody, with a strong, soft light source illuminating the left side of her face and creating a halo effect around her head. The background is dark and out of focus, suggesting an indoor setting, possibly a car at night or a dimly lit room. The overall color palette is muted and desaturated, with shades of gray, black, and a hint of warm light. The mood is introspective, melancholic, and slightly edgy. The image has a grainy, lo-fi aesthetic, reminiscent of film photography.",
+      "timestamp": "2026-08-25T01:26:35.153Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
