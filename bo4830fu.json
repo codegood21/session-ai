@@ -1,9 +1,22 @@
 {
   "sessionId": "bo4830fu",
   "createdAt": "2026-08-25T01:18:39.671Z",
-  "lastActivity": "2026-08-25T01:18:39.671Z",
-  "history": [],
+  "lastActivity": "2026-08-25T01:18:42.991Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mt7z7vu6.webp",
+      "timestamp": "2026-08-25T01:18:42.991Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar tersebut menampilkan dua orang yang sedang berbaring atau bersandar di latar belakang yang agak buram. Keduanya terlihat santai. Di bagian depan gambar, terdapat teks besar berwarna putih yang bertuliskan \"Besok aja\". Gambar ini tampaknya merupakan meme atau stiker yang populer di media sosial, yang seringkali digunakan untuk mengekspresikan sikap menunda-nunda atau santai. Tidak ada konten NSFW atau pornografi dalam gambar ini.",
+      "timestamp": "2026-08-25T01:18:42.991Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
