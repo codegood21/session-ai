@@ -1,9 +1,22 @@
 {
   "sessionId": "69200731222078",
   "createdAt": "2026-08-25T11:04:59.674Z",
-  "lastActivity": "2026-08-25T11:04:59.674Z",
-  "history": [],
+  "lastActivity": "2026-08-25T11:05:01.580Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "artinya?",
+      "image": null,
+      "timestamp": "2026-08-25T11:05:01.580Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu jelaskan artinya. Namun, saya memerlukan teks atau gambar yang ingin Anda tanyakan artinya.\n\nMohon berikan teksnya atau unggah gambarnya agar saya bisa memahaminya dan memberikan penjelasan yang tepat.",
+      "timestamp": "2026-08-25T11:05:01.580Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
