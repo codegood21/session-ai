@@ -1,9 +1,22 @@
 {
   "sessionId": "7cw4zbnb",
   "createdAt": "2026-08-25T14:35:39.394Z",
-  "lastActivity": "2026-08-25T14:35:39.394Z",
-  "history": [],
+  "lastActivity": "2026-08-25T14:35:43.803Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "https://yonzofficial.web.id/upload/5079635405mt8rougx.jpg",
+      "timestamp": "2026-08-25T14:35:43.803Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young East Asian woman with long, dark, straight hair and bangs is posing against a textured, light-colored stone wall. She is wearing an oversized dark gray blazer with padded shoulders, a dark blue scarf with a floral pattern and red and white stripes tied around her neck, and a fluffy white flower pinned to the lapel of her blazer. Her pants are a light cream or off-white color. Her hands are casually tucked into her pockets. The lighting is dramatic, with strong shadows cast by sunlight filtering through an unseen source, creating a dappled effect on the wall and the woman's face and body. The overall mood is chic, slightly avant-garde, and sophisticated, with a hint of artistic flair. The color palette is muted, dominated by grays, creams, and the dark blue of the scarf, contrasted by the white flower and the warm tones of the sunlight. The style is reminiscent of high fashion photography, with a focus on the interplay of light, shadow, and texture.",
+      "timestamp": "2026-08-25T14:35:43.803Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
