@@ -1,9 +1,22 @@
 {
   "sessionId": "m49o8rsk",
   "createdAt": "2026-08-25T13:30:59.430Z",
-  "lastActivity": "2026-08-25T13:30:59.430Z",
-  "history": [],
+  "lastActivity": "2026-08-25T13:31:02.456Z",
+  "history": [
+    {
+      "role": "user",
+      "text": ".ai ini artinya apa bob",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mt8pdod0.jpg",
+      "timestamp": "2026-08-25T13:31:02.456Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar tersebut menampilkan definisi kata \"Agnostic\".\n\nTampilannya adalah sebagai berikut:\n*   Kata \"Agnostic\" tertulis besar di bagian atas.\n*   Di bawahnya, tertulis lafalnya dalam fonetik: \"/ag 'nästik/\" diikuti dengan keterangan jenis katanya, yaitu \"noun\" (kata benda).\n*   Kemudian, tertulis definisi dari kata tersebut: \"a person who has come to the realization that they don't know shit\".\n\nJadi, dalam bahasa Indonesia, gambar ini menjelaskan bahwa \"Agnostic\" adalah kata benda yang merujuk pada seseorang yang telah sampai pada kesadaran bahwa mereka tidak tahu apa-apa.",
+      "timestamp": "2026-08-25T13:31:02.456Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
