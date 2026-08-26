@@ -1,9 +1,22 @@
 {
   "sessionId": "5qloexhk",
   "createdAt": "2026-08-26T14:20:56.439Z",
-  "lastActivity": "2026-08-26T14:20:56.439Z",
-  "history": [],
+  "lastActivity": "2026-08-26T14:20:58.405Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Carikan jawaban ini dong",
+      "image": null,
+      "timestamp": "2026-08-26T14:20:58.405Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan bantu mencarikan jawaban untuk Anda.\n\nSebelumnya, bisakah Anda berikan teks atau pertanyaan yang ingin Anda cari jawabannya? Jika ada gambar yang relevan, silakan unggah juga agar saya bisa menganalisisnya terlebih dahulu.",
+      "timestamp": "2026-08-26T14:20:58.405Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
