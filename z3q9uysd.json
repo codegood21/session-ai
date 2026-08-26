@@ -1,9 +1,22 @@
 {
   "sessionId": "z3q9uysd",
   "createdAt": "2026-08-26T16:24:47.132Z",
-  "lastActivity": "2026-08-26T16:24:47.132Z",
-  "history": [],
+  "lastActivity": "2026-08-26T16:24:48.842Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apakah bisa mencari gambar?",
+      "image": null,
+      "timestamp": "2026-08-26T16:24:48.842Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja bisa! Saya bisa mencari gambar berdasarkan deskripsi yang kamu berikan.\n\nApa yang ingin kamu cari? Beri tahu saya kata kunci atau deskripsi yang lebih spesifik agar saya bisa menemukan gambar yang paling sesuai.",
+      "timestamp": "2026-08-26T16:24:48.842Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
