@@ -1,9 +1,22 @@
 {
   "sessionId": "khs3madp",
   "createdAt": "2026-08-26T01:11:23.897Z",
-  "lastActivity": "2026-08-26T01:11:23.897Z",
-  "history": [],
+  "lastActivity": "2026-08-26T01:11:28.359Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "http://database.yonzofficial.cloud/img2prompt/temp/3039af8896ede0c2fed5b4c6f57c708b.jpg",
+      "timestamp": "2026-08-26T01:11:28.359Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young Muslim woman wearing a light beige hijab and a yellow cardigan over a striped shirt is sitting at a wooden table in a cafe. She has sunglasses perched on top of her head and is holding a pink drink with a straw in her left hand. In front of her, on a black plate, is a slice of layered white cake with white frosting. To her left, there's a black coffee cup with a white rim. To her right, a black handbag with a silver buckle and the name \"ELIZABETH\" embossed on it sits on the table, along with a smartphone in a clear case and a pair of sunglasses. The background features warm, orange-toned wooden shelves filled with various items, illuminated by soft, ambient lighting from above, creating a cozy and inviting atmosphere. The overall mood is relaxed and leisurely.",
+      "timestamp": "2026-08-26T01:11:28.359Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
