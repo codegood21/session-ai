@@ -1,9 +1,22 @@
 {
   "sessionId": "rec2l5rb",
   "createdAt": "2026-08-26T16:27:27.213Z",
-  "lastActivity": "2026-08-26T16:27:27.213Z",
-  "history": [],
+  "lastActivity": "2026-08-26T16:27:31.078Z",
+  "history": [
+    {
+      "role": "user",
+      "text": ".ai jelaskan gambar ini",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mtab4gaq.jpg",
+      "timestamp": "2026-08-26T16:27:31.078Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar ini menampilkan sebuah mesin pembuat kopi espresso profesional. Mesin ini memiliki desain yang modern dengan kombinasi warna putih dan baja tahan karat yang mengkilap.\n\nBeberapa detail penting yang terlihat pada mesin ini antara lain:\n\n*   **Bagian atas:** Terdapat logo \"SIMONELLI\" di sisi kiri dan tulisan \"APPIA II\" di sisi kanan, yang kemungkinan adalah merek dan model mesin. Di bawahnya terdapat barisan tombol-tombol dengan lampu biru yang menyala, yang kemungkinan berfungsi untuk memilih jenis kopi atau pengaturan lainnya.\n*   **Bagian tengah:** Terlihat bagian chrome yang mengkilap dengan dua tuas di sisi kiri dan kanan, yang kemungkinan adalah steam wand untuk membuat busa susu. Terdapat juga sebuah pengukur tekanan analog (gauge) di sisi kiri tengah, yang menunjukkan tekanan air atau uap dalam mesin.\n*   **Bagian bawah:** Terdapat area tempat cangkir diletakkan, serta bagian dasar mesin yang berwarna putih. Terlihat juga beberapa kabel di bagian bawah.\n\nSecara keseluruhan, gambar ini adalah foto close-up dari sebuah mesin espresso komersial yang tampak bersih dan terawat.",
+      "timestamp": "2026-08-26T16:27:31.078Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
