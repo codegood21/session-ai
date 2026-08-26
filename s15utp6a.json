@@ -1,9 +1,22 @@
 {
   "sessionId": "s15utp6a",
   "createdAt": "2026-08-26T09:36:57.013Z",
-  "lastActivity": "2026-08-26T09:36:57.013Z",
-  "history": [],
+  "lastActivity": "2026-08-26T09:37:01.267Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu fungsi spoilerMessage dalam bot WhatsApp/javascript?",
+      "image": null,
+      "timestamp": "2026-08-26T09:37:01.267Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita bahas tentang fungsi `spoilerMessage` dalam konteks bot WhatsApp atau JavaScript.\n\nSecara umum, dalam bot WhatsApp, terutama yang menggunakan platform seperti WhatsApp Business API atau library pihak ketiga yang berinteraksi dengannya, **`spoilerMessage` merujuk pada sebuah fitur atau metode yang memungkinkan pengirim untuk menandai sebagian atau seluruh pesan sebagai \"spoiler\"**.\n\n**Apa maksudnya \"spoiler\"?**\n\nDalam konteks percakapan, spoiler adalah informasi yang \"membocorkan\" detail penting tentang suatu cerita, film, acara TV, atau kejadian lainnya sebelum seseorang menyaksikannya sendiri. Tujuannya adalah untuk menghindari merusak pengalaman orang lain yang belum mengetahuinya.\n\n**Bagaimana `spoilerMessage` bekerja?**\n\nMekanisme kerjanya bisa bervariasi tergantung pada implementasinya, tetapi prinsip dasarnya adalah:\n\n1.  **Penandaan Khusus:** Pesan yang ditandai sebagai spoiler akan memiliki format khusus yang dikenali oleh aplikasi WhatsApp. Biasanya, ini dilakukan dengan membungkus teks spoiler dalam karakter tertentu, seperti `|` (garis vertikal) di awal dan akhir teks yang ingin dispoiler. Contoh: `|Ini adalah spoiler tentang film baru!|`\n\n2.  **Tampilan Tersembunyi:** Di aplikasi WhatsApp penerima, teks yang ditandai sebagai spoiler tidak akan langsung terlihat. Sebaliknya, pengguna akan melihat sebuah tombol atau tautan yang bertuliskan \"spoiler\" atau \"pesan tersembunyi\".\n\n3.  **Aksi Pengguna:** Pengguna harus mengklik tombol tersebut untuk menampilkan teks spoiler yang sebenarnya. Ini memberikan kontrol kepada penerima untuk memutuskan kapan mereka ingin melihat informasi tersebut.\n\n**Mengapa `spoilerMessage` digunakan dalam bot WhatsApp?**\n\n*   **Menghindari \"spoiler\" yang tidak diinginkan:** Bot yang mengirimkan informasi terkait film, game, atau acara TV mungkin perlu mengirimkan detail penting. Dengan fitur spoiler, bot bisa mengirimkan informasi tersebut tanpa merusak pengalaman pengguna lain.\n*   **Menjaga kejelasan percakapan:** Terkadang, bot perlu memberikan informasi yang cukup detail, namun tidak semua pengguna mungkin tertarik atau siap menerimanya. Spoiler bisa membantu memilah informasi.\n*   **Interaksi yang lebih dinamis:** Fitur ini bisa membuat interaksi dengan bot menjadi lebih menarik, di mana pengguna bisa memilih untuk \"membuka\" informasi lebih lanjut.\n\n**Dalam konteks JavaScript (jika Anda mengembangkan bot sendiri atau menggunakan library):**\n\nJika Anda sedang membangun bot WhatsApp menggunakan JavaScript (misalnya dengan Node.js dan library seperti `whatsapp-web.js` atau berinteraksi dengan API), Anda mungkin akan menemukan fungsi atau metode yang memungkinkan Anda mengirim pesan dengan format spoiler.\n\n*   **Mengirim Spoiler:** Anda perlu memformat string pesan Anda dengan benar sebelum mengirimkannya. Misalnya, jika library Anda mendukungnya, Anda mungkin melakukan sesuatu seperti:\n\n    ```javascript\n    const messageText = \"|Ini adalah detail penting yang ingin saya sembunyikan.|\";\n    client.sendMessage(chatId, messageText); // Contoh pemanggilan fungsi kirim pesan\n    ```\n\n*   **Menerima Spoiler:** Jika bot Anda perlu memproses pesan yang diterima, Anda mungkin perlu mendeteksi pola `|teks spoiler|` untuk mengidentifikasi dan menangani pesan spoiler.\n\nJadi, secara ringkas, `spoilerMessage` adalah cara untuk mengirimkan konten dalam pesan WhatsApp yang disembunyikan secara default dan hanya dapat dilihat oleh penerima ketika mereka memilih untuk membukanya, dan ini sangat berguna untuk bot yang berinteraksi dengan informasi yang berpotensi \"merusak\" pengalaman.",
+      "timestamp": "2026-08-26T09:37:01.267Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
