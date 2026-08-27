@@ -1,9 +1,22 @@
 {
   "sessionId": "tf52anvb",
   "createdAt": "2026-08-27T10:56:05.802Z",
-  "lastActivity": "2026-08-27T10:56:05.802Z",
-  "history": [],
+  "lastActivity": "2026-08-27T10:56:07.682Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "tau lagu itu ga",
+      "image": null,
+      "timestamp": "2026-08-27T10:56:07.682Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu saja! Saya bisa mengenali lagu dari deskripsi, lirik, atau bahkan cuplikan melodi jika Anda memberikannya.\n\nUntuk membantu saya mengenali lagu yang Anda maksud, bisakah Anda memberikan sedikit informasi? Misalnya:\n\n*   **Judul lagu atau nama penyanyinya?**\n*   **Beberapa lirik yang Anda ingat?**\n*   **Genre musiknya?**\n*   **Kapan kira-kira lagu itu populer?**\n*   **Ada ciri khas lain dari lagu itu (misalnya, suara instrumen tertentu, suasana lagu, dll.)?**\n\nSemakin banyak detail yang Anda berikan, semakin besar kemungkinan saya bisa menebak lagu yang Anda maksud!",
+      "timestamp": "2026-08-27T10:56:07.682Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
