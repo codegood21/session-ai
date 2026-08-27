@@ -1,9 +1,22 @@
 {
   "sessionId": "va1oq0wc",
   "createdAt": "2026-08-27T15:51:14.593Z",
-  "lastActivity": "2026-08-27T15:51:14.593Z",
-  "history": [],
+  "lastActivity": "2026-08-27T15:51:16.106Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "187558 + 19191",
+      "image": null,
+      "timestamp": "2026-08-27T15:51:16.106Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, mari kita hitung:\n\n187558 + 19191 = 206749",
+      "timestamp": "2026-08-27T15:51:16.106Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
