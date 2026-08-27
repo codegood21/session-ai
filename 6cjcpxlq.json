@@ -1,9 +1,22 @@
 {
   "sessionId": "6cjcpxlq",
   "createdAt": "2026-08-27T02:56:51.507Z",
-  "lastActivity": "2026-08-27T02:56:51.507Z",
-  "history": [],
+  "lastActivity": "2026-08-27T02:56:57.072Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Write a highly detailed, descriptive prompt of this image in English for an AI text-to-image generator (such as Midjourney, DALL-E, or Stable Diffusion). Describe the objects, background, style, lighting, color palette, and mood in detail. Do NOT include any introductory or concluding conversational text. Do not say 'Here is the prompt' or similar. Output ONLY the raw description of the image.",
+      "image": "http://database.yonzofficial.cloud/img2prompt/temp/5e76d758f7d074f7bffded2e5fc7e5a2.jpg",
+      "timestamp": "2026-08-27T02:56:57.072Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A young East Asian woman with long, dark brown hair and bangs is taking a selfie at night on a beach. She is wearing a bright pink t-shirt with a black, intricate, almost gothic design on the front, featuring a cross at the top and what appears to be ornate scrollwork and possibly a creature's head within the crest. Her left hand is raised, playfully running through her hair. The woman has soft makeup with pink blush and lip tint, and her eyes are looking directly at the camera. The background is dark, suggesting it's nighttime, with a faint glow on the horizon indicating the sea. In the blurred background, there are a few empty lounge chairs on the sand. The lighting is dim and atmospheric, casting a soft glow on the woman's face and highlighting the pink of her shirt. The overall mood is casual, serene, and slightly mysterious due to the nighttime setting. The color palette is dominated by the vibrant pink of the shirt against the dark blues and grays of the night sky and beach.",
+      "timestamp": "2026-08-27T02:56:57.072Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
