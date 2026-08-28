@@ -1,9 +1,22 @@
 {
   "sessionId": "clnudkoy",
   "createdAt": "2026-08-28T07:58:36.631Z",
-  "lastActivity": "2026-08-28T07:58:36.631Z",
-  "history": [],
+  "lastActivity": "2026-08-28T07:58:38.236Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Agustus itu bulan keberapa",
+      "image": null,
+      "timestamp": "2026-08-28T07:58:38.236Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Agustus adalah bulan kedelapan dalam kalender Gregorian.",
+      "timestamp": "2026-08-28T07:58:38.236Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
