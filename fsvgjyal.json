@@ -1,9 +1,22 @@
 {
   "sessionId": "fsvgjyal",
   "createdAt": "2026-08-28T08:47:07.321Z",
-  "lastActivity": "2026-08-28T08:47:07.321Z",
-  "history": [],
+  "lastActivity": "2026-08-28T08:47:11.034Z",
+  "history": [
+    {
+      "role": "user",
+      "text": ".ai tolong salinin",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mtcpk5wx.jpg",
+      "timestamp": "2026-08-28T08:47:11.034Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan menyalin teks yang ada di gambar tersebut.\n\nGambar tersebut menampilkan sebuah tautan yang tertulis:\n\n`https://chat.whatsapp.com/Kf4ES9rjpz3F5YyDSM8xSZ`",
+      "timestamp": "2026-08-28T08:47:11.034Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
