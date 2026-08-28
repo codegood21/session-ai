@@ -1,9 +1,22 @@
 {
   "sessionId": "rcegbail",
   "createdAt": "2026-08-28T15:40:43.866Z",
-  "lastActivity": "2026-08-28T15:40:43.866Z",
-  "history": [],
+  "lastActivity": "2026-08-28T15:40:45.368Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "tes",
+      "image": null,
+      "timestamp": "2026-08-28T15:40:45.368Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, silakan ajukan pertanyaan Anda. Saya siap membantu!",
+      "timestamp": "2026-08-28T15:40:45.368Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
