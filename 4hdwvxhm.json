@@ -1,9 +1,22 @@
 {
   "sessionId": "4hdwvxhm",
   "createdAt": "2026-08-28T10:46:16.178Z",
-  "lastActivity": "2026-08-28T10:46:16.178Z",
-  "history": [],
+  "lastActivity": "2026-08-28T10:46:18.531Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu javascript?",
+      "image": null,
+      "timestamp": "2026-08-28T10:46:18.531Z"
+    },
+    {
+      "role": "assistant",
+      "text": "JavaScript adalah bahasa pemrograman *scripting* yang populer dan serbaguna, yang digunakan terutama untuk membuat halaman web menjadi interaktif dan dinamis.\n\nBayangkan sebuah situs web seperti sebuah rumah. HTML adalah kerangka bangunannya (dinding, atap), dan CSS adalah dekorasinya (warna cat, perabotan). Nah, JavaScript ini adalah \"listrik\" dan \"peralatan\" yang membuat rumah itu berfungsi dan bisa berinteraksi.\n\nJadi, dengan JavaScript, Anda bisa membuat:\n\n*   **Elemen interaktif:** Tombol yang bisa diklik, formulir yang bisa divalidasi, galeri foto yang bisa digeser, animasi, dan banyak lagi.\n*   **Konten dinamis:** Mengubah konten halaman web tanpa perlu memuat ulang seluruh halaman, seperti menampilkan notifikasi atau memperbarui data secara otomatis.\n*   **Aplikasi web:** JavaScript tidak hanya terbatas pada peramban web. Dengan teknologi seperti Node.js, JavaScript juga bisa digunakan untuk membangun aplikasi sisi server, aplikasi mobile, bahkan game.\n\nSingkatnya, JavaScript adalah kunci untuk membuat pengalaman pengguna yang kaya dan menarik di internet.",
+      "timestamp": "2026-08-28T10:46:18.531Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
