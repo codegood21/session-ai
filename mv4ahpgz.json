@@ -1,9 +1,22 @@
 {
   "sessionId": "mv4ahpgz",
   "createdAt": "2026-08-29T15:26:27.513Z",
-  "lastActivity": "2026-08-29T15:26:27.513Z",
-  "history": [],
+  "lastActivity": "2026-08-29T15:26:30.165Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Apa Itu Status Kode 500?",
+      "image": null,
+      "timestamp": "2026-08-29T15:26:30.165Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa jelaskan apa itu status kode 500.\n\nStatus kode 500, yang juga dikenal sebagai \"Internal Server Error\", adalah kode status HTTP yang menunjukkan bahwa ada sesuatu yang salah di sisi server. Ini adalah kode kesalahan generik yang digunakan ketika server menghadapi kondisi tak terduga yang mencegahnya memenuhi permintaan.\n\nSecara sederhana, ketika Anda melihat kode status 500, itu berarti server web yang Anda coba akses mengalami masalah internal dan tidak dapat memproses permintaan Anda. Ini bukan masalah dari sisi Anda sebagai pengguna (misalnya, koneksi internet atau kesalahan pengetikan URL), melainkan masalah pada perangkat lunak atau konfigurasi server itu sendiri.\n\nBeberapa penyebab umum dari status kode 500 antara lain:\n\n*   **Kesalahan Skrip:** Ada bug atau kesalahan dalam kode yang dijalankan oleh server (misalnya, skrip PHP, Python, atau lainnya).\n*   **Masalah Basis Data:** Server tidak dapat terhubung ke basis data atau ada kesalahan dalam kueri basis data.\n*   **Konfigurasi Server yang Salah:** Pengaturan pada server web (seperti Apache atau Nginx) atau pada pengaturan aplikasi mungkin tidak benar.\n*   **Batasan Sumber Daya:** Server mungkin kehabisan memori atau sumber daya komputasi lainnya.\n*   **Izin File/Direktori yang Salah:** Server tidak memiliki izin yang diperlukan untuk mengakses file atau direktori tertentu.\n\nKetika Anda mengalami kode status 500, biasanya tidak banyak yang bisa Anda lakukan sebagai pengguna selain mencoba lagi nanti atau menghubungi administrator situs web jika masalah berlanjut. Bagi pengembang web, kode ini adalah sinyal untuk segera memeriksa log server dan kode aplikasi untuk menemukan akar masalahnya.",
+      "timestamp": "2026-08-29T15:26:30.165Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
