@@ -1,9 +1,22 @@
 {
   "sessionId": "7wi1dvth",
   "createdAt": "2026-08-29T13:29:50.746Z",
-  "lastActivity": "2026-08-29T13:29:50.746Z",
-  "history": [],
+  "lastActivity": "2026-08-29T13:29:52.695Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ikan ikan apa yang kecil",
+      "image": null,
+      "timestamp": "2026-08-29T13:29:52.695Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Ikan-ikan yang kecil itu banyak sekali jenisnya, tapi kalau yang paling umum dan sering kita dengar adalah **ikan teri**.\n\nSelain itu, ada juga **ikan cere**, **ikan guppy** (yang sering dijadikan ikan hias), dan masih banyak lagi jenis ikan air tawar maupun air laut yang ukurannya kecil. Tergantung konteksnya, bisa jadi yang dimaksud adalah ikan-ikan kecil untuk konsumsi, ikan hias, atau ikan-ikan kecil yang hidup di alam liar.",
+      "timestamp": "2026-08-29T13:29:52.695Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
