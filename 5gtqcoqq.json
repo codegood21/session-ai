@@ -1,9 +1,22 @@
 {
   "sessionId": "5gtqcoqq",
   "createdAt": "2026-08-30T11:11:52.553Z",
-  "lastActivity": "2026-08-30T11:11:52.553Z",
-  "history": [],
+  "lastActivity": "2026-08-30T11:11:54.302Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "fungsi bot fitur .notifprivatechat itu apaa?",
+      "image": null,
+      "timestamp": "2026-08-30T11:11:54.302Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar yang kamu kirimkan menampilkan daftar fitur bot yang tersedia di Telegram. Salah satu fitur yang disebutkan adalah `.notifprivatechat`.\n\nFungsi dari fitur `.notifprivatechat` pada bot Telegram ini adalah untuk **mengaktifkan atau menonaktifkan notifikasi pesan pribadi dari bot tersebut**.\n\nBiasanya, bot akan mengirimkan notifikasi secara otomatis ke obrolan pribadi Anda ketika ada pembaruan, informasi penting, atau ketika bot perlu berinteraksi langsung dengan Anda. Dengan menggunakan perintah `.notifprivatechat`, pengguna dapat mengontrol apakah mereka ingin menerima notifikasi-notifikasi tersebut atau tidak. Ini berguna jika Anda merasa terganggu dengan banyaknya notifikasi atau jika Anda hanya ingin menerima notifikasi untuk hal-hal yang benar-benar penting.",
+      "timestamp": "2026-08-30T11:11:54.302Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
