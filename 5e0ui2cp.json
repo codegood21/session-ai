@@ -1,9 +1,22 @@
 {
   "sessionId": "5e0ui2cp",
   "createdAt": "2026-08-30T12:09:30.327Z",
-  "lastActivity": "2026-08-30T12:09:30.327Z",
-  "history": [],
+  "lastActivity": "2026-08-30T12:09:33.343Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "ini termasuk jenis buku non fiksi/fiksi",
+      "image": "https://cdn-alip.clutch.web.id/api/u/mtfro55c.jpg",
+      "timestamp": "2026-08-30T12:09:33.343Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Gambar tersebut menunjukkan sampul depan sebuah buku. Buku ini memiliki desain sampul yang unik dengan nuansa oranye dan kuning. Terlihat ada gambar sosok berjubah di bagian atas, sebuah kendaraan terbang bergaya retro, serta elemen arsitektur yang futuristik. Terdapat tulisan \"BIBI GILL\" di bagian tengah sampul, dan di bagian bawah terbaca tulisan \"TERE LIYE\".\n\nBerdasarkan informasi yang tertera pada sampul buku, khususnya nama \"TERE LIYE\", buku ini termasuk dalam **jenis fiksi**. Tere Liye adalah seorang penulis novel fiksi populer di Indonesia.",
+      "timestamp": "2026-08-30T12:09:33.343Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
