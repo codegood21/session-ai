@@ -1,9 +1,22 @@
 {
   "sessionId": "f6a0427w",
   "createdAt": "2026-08-30T07:03:21.228Z",
-  "lastActivity": "2026-08-30T07:03:21.228Z",
-  "history": [],
+  "lastActivity": "2026-08-30T07:03:24.195Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "apa itu mpi?",
+      "image": null,
+      "timestamp": "2026-08-30T07:03:24.195Z"
+    },
+    {
+      "role": "assistant",
+      "text": "MPI adalah singkatan dari **Message Passing Interface**.\n\nSecara umum, MPI adalah sebuah **standar untuk komunikasi antar proses paralel**. Bayangkan Anda punya banyak komputer yang bekerja sama untuk menyelesaikan satu tugas besar. Nah, MPI ini adalah \"bahasa\" yang mereka gunakan untuk saling bertukar informasi agar tugas tersebut bisa selesai dengan efisien.\n\nBeberapa poin penting tentang MPI:\n\n*   **Paralelisme:** MPI dirancang untuk komputasi paralel, di mana sebuah masalah dipecah menjadi bagian-bagian kecil yang dikerjakan secara bersamaan oleh banyak prosesor atau node komputasi.\n*   **Komunikasi:** Inti dari MPI adalah mekanisme untuk mengirim dan menerima pesan antar proses. Ini memungkinkan proses-proses tersebut untuk berbagi data, menyinkronkan pekerjaan, dan berkoordinasi.\n*   **Standar:** MPI adalah standar yang diadopsi secara luas, artinya ada banyak implementasi MPI yang berbeda (seperti Open MPI, MPICH) yang mengikuti spesifikasi yang sama. Ini membuat kode MPI Anda portabel antar sistem yang berbeda.\n*   **Digunakan dalam Superkomputer:** MPI banyak digunakan dalam dunia komputasi performa tinggi (HPC) dan superkomputer untuk menjalankan simulasi ilmiah yang kompleks, analisis data besar, dan tugas-tugas komputasi intensif lainnya.\n\nJadi, singkatnya, MPI adalah seperangkat aturan dan pustaka yang memungkinkan program yang berjalan di banyak tempat (misalnya, di banyak komputer dalam sebuah klaster) untuk berkomunikasi satu sama lain.",
+      "timestamp": "2026-08-30T07:03:24.195Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
