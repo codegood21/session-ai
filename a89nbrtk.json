@@ -1,9 +1,22 @@
 {
   "sessionId": "a89nbrtk",
   "createdAt": "2026-08-30T09:44:32.838Z",
-  "lastActivity": "2026-08-30T09:44:32.838Z",
-  "history": [],
+  "lastActivity": "2026-08-30T09:44:36.576Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "Analyze this image for NSFW (Not Safe For Work) / pornographic content / nudity. Reply strictly in JSON format with three fields: 'nsfw' (boolean: true if it contains nudity, porn, suggestive, or nsfw content, false if it is safe/sfw), 'confidence' (number: from 0 to 100 representing the likelihood of nsfw/nudity/suggestive content), and 'label' (string: 'porn', 'nsfw', 'suggestive', or 'safe' depending on the content). Do not include markdown formatting or backticks, just raw JSON.",
+      "image": "https://img3.pixhost.to/images/5334/764125914_nsfw-1788083071986.png",
+      "timestamp": "2026-08-30T09:44:36.576Z"
+    },
+    {
+      "role": "assistant",
+      "text": "```json\n{\n  \"nsfw\": false,\n  \"confidence\": 0,\n  \"label\": \"safe\"\n}\n```\nGambar tersebut menampilkan sebuah ilustrasi karakter anime bergaya chibi dengan rambut panjang berwarna abu-abu. Karakter ini memiliki mata biru besar, hidung dan mulut kecil yang lucu, serta mengenakan pakaian bernuansa putih dan cokelat dengan detail garis-garis hitam. Terdapat juga telinga kucing dan pita hitam di rambutnya. Keseluruhan gambar terlihat ceria dan tidak mengandung unsur NSFW.",
+      "timestamp": "2026-08-30T09:44:36.576Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
