@@ -1,9 +1,22 @@
 {
   "sessionId": "mx83vheo",
   "createdAt": "2026-08-30T13:12:53.205Z",
-  "lastActivity": "2026-08-30T13:12:53.205Z",
-  "history": [],
+  "lastActivity": "2026-08-30T13:12:54.566Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "hai bebob",
+      "image": null,
+      "timestamp": "2026-08-30T13:12:54.566Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Halo! Ada yang bisa saya bantu hari ini?",
+      "timestamp": "2026-08-30T13:12:54.566Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
