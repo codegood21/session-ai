@@ -1,9 +1,22 @@
 {
   "sessionId": "9kw59r2k",
   "createdAt": "2026-08-30T14:19:55.437Z",
-  "lastActivity": "2026-08-30T14:19:55.437Z",
-  "history": [],
+  "lastActivity": "2026-08-30T14:19:57.334Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "kode 301 artinya apa",
+      "image": null,
+      "timestamp": "2026-08-30T14:19:57.334Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya akan jelaskan.\n\nKode 301 adalah kode status HTTP yang berarti \"Moved Permanently\". Ini adalah respons dari server web yang memberi tahu browser atau *search engine* bahwa halaman atau sumber daya yang diminta telah dipindahkan secara permanen ke lokasi URL yang baru.\n\nArtinya, jika Anda melihat kode 301, itu menandakan bahwa URL lama tidak akan digunakan lagi dan semua lalu lintas serta tautan yang mengarah ke URL lama seharusnya diarahkan ke URL baru. Ini penting untuk SEO (Search Engine Optimization) karena membantu mempertahankan peringkat pencarian halaman meskipun URL-nya berubah.",
+      "timestamp": "2026-08-30T14:19:57.334Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
