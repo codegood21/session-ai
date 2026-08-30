@@ -1,9 +1,22 @@
 {
   "sessionId": "21krggh9",
   "createdAt": "2026-08-30T12:07:42.008Z",
-  "lastActivity": "2026-08-30T12:07:42.008Z",
-  "history": [],
+  "lastActivity": "2026-08-30T12:07:43.432Z",
+  "history": [
+    {
+      "role": "user",
+      "text": "tolong cari ringkasan bukunya",
+      "image": null,
+      "timestamp": "2026-08-30T12:07:43.431Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Tentu, saya bisa bantu mencarikan ringkasan buku. Namun, saya perlu tahu buku apa yang Anda maksud terlebih dahulu.\n\nBisa tolong berikan judul bukunya, atau jika memungkinkan, penulisnya? Dengan informasi tersebut, saya akan berusaha mencari ringkasan yang Anda butuhkan.",
+      "timestamp": "2026-08-30T12:07:43.432Z",
+      "model": "gemini-2.5-flash-lite"
+    }
+  ],
   "metadata": {
-    "totalMessages": 0
+    "totalMessages": 2
   }
 }
